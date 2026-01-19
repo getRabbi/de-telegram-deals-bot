@@ -145,3 +145,32 @@ export async function pinMessage({ messageId, disableNotification = true }) {
   await postJson("pinChatMessage", payload);
   return true;
 }
+
+// ===============================
+// Compatibility export for hourly runner
+// ===============================
+export async function sendTelegramMessage(deal) {
+  // Prefer photo post if image exists
+  if (deal?.image || deal?.imageUrl) {
+    try {
+      return await sendPhotoPost({
+        imageUrl: deal.image || deal.imageUrl,
+        caption: deal.caption || deal.text || deal.title || "",
+        buttons: deal.buttons || [],
+        disablePreview: true,
+      });
+    } catch (e) {
+      // fallback to text if image is low-res or fails
+      return sendTextPost({
+        text: deal.text || deal.title || "",
+        disablePreview: false,
+      });
+    }
+  }
+
+  // Default: text post
+  return sendTextPost({
+    text: deal.text || deal.title || "",
+    disablePreview: false,
+  });
+}
