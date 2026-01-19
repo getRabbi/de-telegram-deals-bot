@@ -1,0 +1,12 @@
+{
+  "name": "de-telegram-deals-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run:hourly": "node src/run_hourly.js",
+    "setup:menu": "node src/run_setup_menu.js",
+    "test:post": "node src/run_test_post.js"
+  },
+  "dependencies": {}
+}
