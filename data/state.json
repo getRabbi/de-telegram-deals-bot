@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "posted": [
     {
       "key": "aldi|https://www.mydealz.de/deals/milsana-junger-gouda-kase-400gr-448eurkg-aldi-sud-2717911",
@@ -222,3 +223,10 @@
     "lastHourKey": "2026-01-19T09"
   }
 }
+=======
+  "dealPointer": 0,
+  "storePointer": 0,
+  "dailyCount": 0,
+  "lastDate": ""
+}
+>>>>>>> 97e7202 (resolve conflic88t)

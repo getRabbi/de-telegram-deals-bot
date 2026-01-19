@@ -147,3 +147,16 @@ export function ensureHighResImageUrl(u, target = 1200) {
 
   return out;
 }
+
+export function getTimeSlotDE() {
+  const now = new Date(
+    new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" })
+  );
+  const hour = now.getHours();
+
+  if (hour >= 8 && hour < 11) return "morning";
+  if (hour >= 13 && hour < 16) return "afternoon";
+  if (hour >= 19 && hour < 22) return "night";
+
+  return "off";
+}

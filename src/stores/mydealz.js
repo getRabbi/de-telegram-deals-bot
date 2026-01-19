@@ -131,6 +131,22 @@ export async function fetchMyDealz({ mode = "hot", limit = 80 } = {}) {
   return out;
 }
 
+export const STORES = [
+  "amazon",
+  "mediamarkt",
+  "saturn",
+  "otto",
+  "ebay",
+  "zalando",
+  "lidl",
+  "aldi",
+  "rewe",
+  "dm",
+  "rossmann",
+  "mydealz"
+];
+
+
 export function allStoreTags() {
   return [
     "AMAZONDE",
