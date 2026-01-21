@@ -154,9 +154,9 @@ export function getTimeSlotDE() {
   );
   const hour = now.getHours();
 
-  if (hour >= 8 && hour < 11) return "morning";
-  if (hour >= 13 && hour < 16) return "afternoon";
-  if (hour >= 19 && hour < 22) return "night";
+  if (hour >= 7 && hour < 12) return "morning";
+  if (hour >= 12 && hour < 17) return "afternoon";
+  if (hour >= 17 && hour < 23) return "night";
 
   return "off";
 }
