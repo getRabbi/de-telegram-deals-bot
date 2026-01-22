@@ -1,4 +1,5 @@
-import { normalizeSpace, stripQuery, extractPricesFromText, calcDiscountPct, sanitizePrices } from "../utils.js";
+import { normalizeSpace, stripQuery, extractPricesFromText, calcDiscountPct, sanitizePrices, normalizePriceText } from "../utils.js";
+
 
 // RSS endpoints known to work historically; we try multiple.
 const FEEDS = {
@@ -178,3 +179,82 @@ export const STORE_META = {
   ROSSMANN: { hashtag: "#Rossmann", label: "Rossmann" },
   MYDEALZ: { hashtag: "#MyDealz", label: "MyDealz" },
 };
+
+// ------------------------------
+// Deal-page enrichment (MANDATORY FIELDS)
+// ------------------------------
+
+function extractOgImage(html) {
+  const m = String(html || "").match(/property=["']og:image["']\s+content=["']([^"']+)["']/i);
+  return m ? m[1] : "";
+}
+
+function extractOgTitle(html) {
+  const m = String(html || "").match(/property=["']og:title["']\s+content=["']([^"']+)["']/i);
+  return m ? m[1] : "";
+}
+
+function extractJsonNumber(html, key) {
+  const re = new RegExp(`"${key}"\\s*:\\s*"?([0-9]+(?:[\\.,][0-9]{2})?)"?`, "i");
+  const m = String(html || "").match(re);
+  return m ? m[1] : "";
+}
+
+function asEurText(numOrText) {
+  const s = String(numOrText || "").trim();
+  if (!s) return "";
+  if (s.includes("€")) return s;
+  return `${s.replace(",", ".")} €`;
+}
+
+export async function enrichMyDealzMandatory(deal) {
+  const out = { ...deal };
+
+  if (out.title && out.imageUrl && out.now && out.was && typeof out.discountPct === "number") {
+    return out;
+  }
+
+  try {
+    const res = await fetch(out.url, { headers: { "User-Agent": "Mozilla/5.0" }, redirect: "follow" });
+    if (!res.ok) return null;
+    const html = await res.text();
+
+    if (!out.title) {
+      const t = extractOgTitle(html);
+      if (t) out.title = t.replace(/\s*\|\s*mydealz.*/i, "").slice(0, 160);
+    }
+
+    if (!out.imageUrl) {
+      const og = extractOgImage(html);
+      if (og) out.imageUrl = og;
+    }
+
+    const p1 = extractJsonNumber(html, "price");
+    const p2 = extractJsonNumber(html, "currentPrice");
+    const old1 = extractJsonNumber(html, "oldPrice");
+    const old2 = extractJsonNumber(html, "originalPrice");
+
+    let nowText = out.now;
+    let wasText = out.was;
+
+    if (!nowText || !wasText) {
+      const prices = extractPricesFromText(html);
+      const cleaned = sanitizePrices(prices);
+      if (!nowText) nowText = cleaned.now;
+      if (!wasText) wasText = cleaned.was;
+    }
+
+    if (!nowText) nowText = asEurText(p1 || p2);
+    if (!wasText) wasText = asEurText(old1 || old2);
+
+    if (nowText) out.now = normalizePriceText(nowText);
+    if (wasText) out.was = normalizePriceText(wasText);
+
+    const pct = calcDiscountPct(out.now, out.was);
+    if (Number.isFinite(pct)) out.discountPct = pct;
+
+    return out;
+  } catch {
+    return null;
+  }
+}

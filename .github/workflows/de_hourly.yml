@@ -3,7 +3,7 @@ name: DE Deals Bot (Hourly)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "10 * * * *" # every hour (UTC)
+    - cron: "0 * * * *" # every hour (UTC)
 
 concurrency:
   group: de-deals-bot
@@ -34,9 +34,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-
-          # Posting knobs
-          MAX_POSTS_TOTAL: 15      # unique deals/day
           DAYS_TTL: 7
           RATE_LIMIT_MS: 3500
 
@@ -46,6 +43,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main || true
-          git add data/state.json
+          git add data/state.json data/queue.json
           git commit -m "Update state" || echo "No changes to commit"
           git push

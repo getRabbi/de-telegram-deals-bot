@@ -3,36 +3,84 @@ import path from "node:path";
 
 export const STATE_PATH = path.join(process.cwd(), "data", "state.json");
 
+export function berlinNow() {
+  return new Date(
+    new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" })
+  );
+}
+
+export function berlinDateStr() {
+  return berlinNow().toISOString().slice(0, 10);
+}
+
+export function defaultState(date = berlinDateStr()) {
+  return {
+    date,
+    slots: { morning: false, noon: false, evening: false },
+    postedKeys: [],
+    postedHistory: [],
+  };
+}
+
 export function loadState(fp = STATE_PATH) {
   try {
-    const raw = fs.readFileSync(fp, "utf-8");
-    const parsed = JSON.parse(raw);
-    if (!parsed.posted) parsed.posted = [];
-    if (!parsed.daily) parsed.daily = { date: "", deals: [], idx: 0, lastHourKey: "" };
-    return parsed;
+    const raw = fs.readFileSync(fp, "utf8");
+    const st = JSON.parse(raw);
+
+    const date = st.date || st.lastDate || (st.daily && st.daily.date) || berlinDateStr();
+
+    const oldSlots = st.slots || st.posted || {};
+    const slots = {
+      morning: Boolean(oldSlots.morning),
+      noon: Boolean(oldSlots.noon),
+      evening: Boolean(oldSlots.evening),
+    };
+
+    const postedKeys = Array.isArray(st.postedKeys) ? st.postedKeys : [];
+    const postedHistory = Array.isArray(st.postedHistory) ? st.postedHistory : [];
+
+    return { date, slots, postedKeys, postedHistory };
   } catch {
-    return { posted: [], daily: { date: "", deals: [], idx: 0, lastHourKey: "" } };
+    return defaultState();
   }
 }
 
-export function saveState(data, fp = STATE_PATH) {
+export function saveState(state, fp = STATE_PATH) {
   fs.mkdirSync(path.dirname(fp), { recursive: true });
-  fs.writeFileSync(fp, JSON.stringify(data, null, 2));
+  fs.writeFileSync(fp, JSON.stringify(state, null, 2));
 }
 
-export function pruneOldPosted(state, daysTtl) {
-  const now = Date.now();
-  const ttlMs = daysTtl * 24 * 60 * 60 * 1000;
-  state.posted = (state.posted || []).filter((p) => now - p.ts < ttlMs);
+export function resetIfNewDay(state, today = berlinDateStr()) {
+  if (state.date === today) return;
+
+  const keepDays = Number(process.env.DAYS_TTL || 7);
+  const cutoff = Date.now() - keepDays * 24 * 60 * 60 * 1000;
+
+  state.postedHistory = (state.postedHistory || []).filter(
+    (p) => p && p.ts && p.ts >= cutoff
+  );
+
+  for (const k of state.postedKeys || []) {
+    state.postedHistory.push({ key: k, ts: Date.now() });
+  }
+
+  state.date = today;
+  state.slots = { morning: false, noon: false, evening: false };
+  state.postedKeys = [];
 }
 
-export function dealKey(d) {
-  const store = String(d.storeTag || "").toLowerCase();
-  const id = String(d.id || d.url || "").toLowerCase();
-  return `${store}|${id}`.slice(0, 240);
+export function dealKey(deal) {
+  const store = String(deal.store || deal.storeTag || "").toLowerCase();
+  const url = String(deal.url || deal.link || deal.id || "").toLowerCase();
+  return `${store}|${url}`.slice(0, 240);
 }
 
-export function rememberPosted(state, deal) {
-  state.posted = state.posted || [];
-  state.posted.push({ key: dealKey(deal), ts: Date.now() });
+export function wasPostedRecently(state, key) {
+  if ((state.postedKeys || []).includes(key)) return true;
+  return (state.postedHistory || []).some((p) => p.key === key);
+}
+
+export function rememberPosted(state, key) {
+  state.postedKeys = state.postedKeys || [];
+  state.postedKeys.push(key);
 }

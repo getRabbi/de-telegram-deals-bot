@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "posted": [],
   "daily": {
     "date": "",
@@ -9,3 +10,10 @@
   "dailyCount": 4,
   "lastDate": "2026-01-21"
 }
+=======
+  "date": "",
+  "slots": { "morning": false, "noon": false, "evening": false },
+  "postedKeys": [],
+  "postedHistory": []
+}
+>>>>>>> Stashed changes
