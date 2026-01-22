@@ -1,6 +1,10 @@
 {
-  "date": "",
-  "slots": { "morning": false, "noon": false, "evening": false },
+  "date": "2026-01-22",
+  "slots": {
+    "morning": false,
+    "noon": false,
+    "evening": false
+  },
   "postedKeys": [],
   "postedHistory": []
 }
