@@ -2,191 +2,6 @@
   "date": "2026-01-22",
   "items": [
     {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683",
-      "store": "MyDealz",
-      "title": "2 für 99€ +keine VSK",
-      "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/1338_1/re/352x352/qt/60/1338_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>2 für 99€ +keine VSK</b>\n🏪 MyDealz\n💶 Was: 99€ → <b>Now: 2 €</b>\n🔻 Save: 98%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "2 für 99€ +keine VSK",
-        "now": "2 €",
-        "was": "99€",
-        "discountPct": 98,
-        "isTop": false,
-        "url": "https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683",
-        "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/1338_1/re/352x352/qt/60/1338_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660",
-      "store": "MyDealz",
-      "title": "126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S & PC im Xbox Store oder für Playstation 5 im PSN Store",
-      "imageUrl": "https://static.mydealz.de/threads/raw/mVYrs/2719660_1/re/150x150/qt/55/2719660_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S &amp; PC im Xbox Store oder für Playstation 5 im PSN Store</b>\n🏪 MyDealz\n💶 Was: 126 € → <b>Now: 1,99€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S & PC im Xbox Store oder für Playstation 5 im PSN Store",
-        "now": "1,99€",
-        "was": "126 €",
-        "discountPct": 98,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660",
-        "imageUrl": "https://static.mydealz.de/threads/raw/mVYrs/2719660_1/re/150x150/qt/55/2719660_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614",
-      "store": "MyDealz",
-      "title": "116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€",
-      "imageUrl": "https://static.mydealz.de/threads/raw/TwYP9/2719614_1/re/150x150/qt/55/2719614_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€</b>\n🏪 MyDealz\n💶 Was: 116 € → <b>Now: 1,99€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€",
-        "now": "1,99€",
-        "was": "116 €",
-        "discountPct": 98,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614",
-        "imageUrl": "https://static.mydealz.de/threads/raw/TwYP9/2719614_1/re/150x150/qt/55/2719614_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641",
-      "store": "MyDealz",
-      "title": "310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein",
-      "imageUrl": "https://static.mydealz.de/threads/raw/Ac4hp/2719641_1/re/150x150/qt/55/2719641_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein</b>\n🏪 MyDealz\n💶 Was: 310 € → <b>Now: 10 €</b>\n🔻 Save: 97%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein",
-        "now": "10 €",
-        "was": "310 €",
-        "discountPct": 97,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641",
-        "imageUrl": "https://static.mydealz.de/threads/raw/Ac4hp/2719641_1/re/150x150/qt/55/2719641_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587",
-      "store": "MyDealz",
-      "title": "127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl",
-      "imageUrl": "https://static.mydealz.de/threads/raw/TGTbC/2719587_1/re/150x150/qt/55/2719587_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl</b>\n🏪 MyDealz\n💶 Was: 127 € → <b>Now: 3,45 €</b>\n🔻 Save: 97%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl",
-        "now": "3,45 €",
-        "was": "127 €",
-        "discountPct": 97,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587",
-        "imageUrl": "https://static.mydealz.de/threads/raw/TGTbC/2719587_1/re/150x150/qt/55/2719587_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
       "key": "mydealz|https://www.mydealz.de/deals/anker-solix-solarbank-3-e2700-pro-2719426",
       "store": "MyDealz",
       "title": "109° - Anker SOLIX Solarbank 3 E2700 PRO",
@@ -2220,7 +2035,192 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683",
+      "store": "MyDealz",
+      "title": "2 für 99€ +keine VSK",
+      "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/1338_1/re/352x352/qt/60/1338_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>2 für 99€ +keine VSK</b>\n🏪 MyDealz\n💶 Was: 99€ → <b>Now: 2 €</b>\n🔻 Save: 98%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "2 für 99€ +keine VSK",
+        "now": "2 €",
+        "was": "99€",
+        "discountPct": 98,
+        "isTop": false,
+        "url": "https://www.mydealz.de/gutscheine/2-fur-99keine-vsk-2719683",
+        "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/1338_1/re/352x352/qt/60/1338_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660",
+      "store": "MyDealz",
+      "title": "126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S & PC im Xbox Store oder für Playstation 5 im PSN Store",
+      "imageUrl": "https://static.mydealz.de/threads/raw/mVYrs/2719660_1/re/150x150/qt/55/2719660_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S &amp; PC im Xbox Store oder für Playstation 5 im PSN Store</b>\n🏪 MyDealz\n💶 Was: 126 € → <b>Now: 1,99€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "126° - This War of Mine: Final Cut ►1,99€ [DE] / XBox ►1,26€ [IS] | Xbox Series X|S & PC im Xbox Store oder für Playstation 5 im PSN Store",
+        "now": "1,99€",
+        "was": "126 €",
+        "discountPct": 98,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/this-war-of-mine-final-cut-199eur-de-xbox-126eur-is-xbox-series-xs-pc-im-xbox-store-oder-playstation-5-im-psn-store-2719660",
+        "imageUrl": "https://static.mydealz.de/threads/raw/mVYrs/2719660_1/re/150x150/qt/55/2719660_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614",
+      "store": "MyDealz",
+      "title": "116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€",
+      "imageUrl": "https://static.mydealz.de/threads/raw/TwYP9/2719614_1/re/150x150/qt/55/2719614_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€</b>\n🏪 MyDealz\n💶 Was: 116 € → <b>Now: 1,99€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "116° - [Nintendo eShop] Scar of the Doll – Psycho‑Horror Visual Novel für Switch zum Bestpreis von 1,99€",
+        "now": "1,99€",
+        "was": "116 €",
+        "discountPct": 98,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/nintendo-eshop-scar-of-the-doll-psychohorror-visual-novel-fur-switch-zum-bestpreis-von-199eur-2719614",
+        "imageUrl": "https://static.mydealz.de/threads/raw/TwYP9/2719614_1/re/150x150/qt/55/2719614_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641",
+      "store": "MyDealz",
+      "title": "310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein",
+      "imageUrl": "https://static.mydealz.de/threads/raw/Ac4hp/2719641_1/re/150x150/qt/55/2719641_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein</b>\n🏪 MyDealz\n💶 Was: 310 € → <b>Now: 10 €</b>\n🔻 Save: 97%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "310° - [Payback Gutscheine] 10-fach Punkte auf Wunschgutschein",
+        "now": "10 €",
+        "was": "310 €",
+        "discountPct": 97,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/payback-gutscheine-10-fach-punkte-auf-wunschgutschein-2719641",
+        "imageUrl": "https://static.mydealz.de/threads/raw/Ac4hp/2719641_1/re/150x150/qt/55/2719641_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587",
+      "store": "MyDealz",
+      "title": "127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl",
+      "imageUrl": "https://static.mydealz.de/threads/raw/TGTbC/2719587_1/re/150x150/qt/55/2719587_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl</b>\n🏪 MyDealz\n💶 Was: 127 € → <b>Now: 3,45 €</b>\n🔻 Save: 97%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "127° - [DM] eff. 3,45 statt 9,05€ für 2x Dove Deo Spray und 1x Dove Pflegedusche deiner Wahl",
+        "now": "3,45 €",
+        "was": "127 €",
+        "discountPct": 97,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/dm-eff-345-statt-905eur-fur-2x-deo-spray-und-1x-deo-pflegedusche-deiner-wahl-2719587",
+        "imageUrl": "https://static.mydealz.de/threads/raw/TGTbC/2719587_1/re/150x150/qt/55/2719587_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-22T10:43:59.784Z"
+  "updatedAt": "2026-01-22T11:32:50.350Z"
 }
