@@ -1,19 +1,6 @@
 {
-<<<<<<< Updated upstream
-  "posted": [],
-  "daily": {
-    "date": "",
-    "count": 0
-  },
-  "storePointer": 2,
-  "dealPointer": 6,
-  "dailyCount": 4,
-  "lastDate": "2026-01-21"
-}
-=======
   "date": "",
   "slots": { "morning": false, "noon": false, "evening": false },
   "postedKeys": [],
   "postedHistory": []
 }
->>>>>>> Stashed changes
