@@ -2,7 +2,7 @@
   "date": "2026-01-23",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [],
