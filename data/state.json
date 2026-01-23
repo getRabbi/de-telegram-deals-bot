@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "date": "",
+=======
+  "date": "2026-01-23",
+>>>>>>> 07149908233a3d429f129b39dc3bcd1d1f022812
   "slots": {
     "morning": false,
     "noon": false,
