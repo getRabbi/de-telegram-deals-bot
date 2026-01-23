@@ -1,25 +1,8 @@
 import { fetchMyDealz, enrichMyDealzMandatory } from "./stores/mydealz.js";
 import { sendPhotoPost } from "./telegram.js";
 import { formatDealCard } from "./formatPost.js";
-import {
-  loadState,
-  saveState,
-  resetIfNewDay,
-  berlinNow,
-  berlinDateStr,
-  dealKey,
-  wasPostedRecently,
-  rememberPosted,
-} from "./state.js";
-import {
-  loadQueue,
-  saveQueue,
-  resetQueueIfNewDay,
-  dedupeQueue,
-  capQueue,
-  enqueue,
-  dequeue,
-} from "./queue.js";
+import { loadState, saveState, resetIfNewDay, berlinNow, berlinDateStr, dealKey, wasPostedRecently, rememberPosted } from "./state.js";
+import { loadQueue, saveQueue, resetQueueIfNewDay, dedupeQueue, capQueue, enqueue, dequeue } from "./queue.js";
 import { sleep, scoreDeal } from "./utils.js";
 
 const RATE_LIMIT_MS = Number(process.env.RATE_LIMIT_MS || 3500);
@@ -35,6 +18,7 @@ function slotForBerlinHour(h) {
 
 function pickHashtags(deal) {
   const tags = [];
+  // category tags for menu search
   if (deal.isTop) tags.push("#TopDeals");
   else tags.push("#NeueDeals");
   if (deal._hashtag) tags.push(deal._hashtag);
@@ -52,10 +36,24 @@ async function buildPostPayload(deal) {
   const enriched = await enrichMyDealzMandatory(deal);
   if (!enriched) return null;
 
-  // MUST fields
+  // Mandatory fields
   if (!enriched.imageUrl) return null;
-  if (!enriched.now || !enriched.was) return null;
-  if (typeof enriched.discountPct !== "number") return null;
+  if (!enriched.now) return null;
+
+  // If source doesn't provide "regular/was" price, fall back to now.
+  if (!enriched.was) enriched.was = enriched.now;
+
+  // Ensure discount is always present (0 if unknown or no discount)
+  if (typeof enriched.discountPct !== "number" || Number.isNaN(enriched.discountPct)) {
+    enriched.discountPct = 0;
+    try {
+      const nowN = Number(String(enriched.now).replace(/[^0-9.,]/g, "").replace(",", "."));
+      const wasN = Number(String(enriched.was).replace(/[^0-9.,]/g, "").replace(",", "."));
+      if (nowN > 0 && wasN > 0 && wasN >= nowN) {
+        enriched.discountPct = Math.round(((wasN - nowN) / wasN) * 100);
+      }
+    } catch {}
+  }
 
   enriched.hashtags = pickHashtags(enriched);
 
@@ -93,7 +91,65 @@ function amazonBoost(deal) {
   return 0;
 }
 
+function takeRoundRobin(queue, count) {
+  const items = Array.isArray(queue.items) ? queue.items : [];
+  if (!items.length) return [];
+
+  const storeOrder = [
+    "AMAZONDE",
+    "MEDIAMARKT",
+    "SATURN",
+    "OTTO",
+    "EBAYDE",
+    "ZALANDO",
+    "LIDL",
+    "ALDI",
+    "REWE",
+    "DM",
+    "ROSSMANN",
+    "MYDEALZ",
+  ];
+
+  const buckets = new Map();
+  for (const it of items) {
+    const tag = it.storeTag || "MYDEALZ";
+    if (!buckets.has(tag)) buckets.set(tag, []);
+    buckets.get(tag).push(it);
+  }
+
+  const picked = [];
+  while (picked.length < count) {
+    let progressed = false;
+    for (const tag of storeOrder) {
+      const b = buckets.get(tag);
+      if (b && b.length) {
+        picked.push(b.shift());
+        progressed = true;
+        if (picked.length >= count) break;
+      }
+    }
+    if (!progressed) break;
+  }
+
+  // rebuild queue.items with remaining items, preserving order per bucket then leftovers
+  const remaining = [];
+  for (const tag of storeOrder) {
+    const b = buckets.get(tag);
+    if (b && b.length) remaining.push(...b);
+  }
+  // any tags not in storeOrder
+  for (const [tag, b] of buckets.entries()) {
+    if (storeOrder.includes(tag)) continue;
+    if (b && b.length) remaining.push(...b);
+  }
+
+  queue.items = remaining;
+  return picked;
+}
+
+
 async function fillQueue({ state, queue, minToHave }) {
+  // Fetch multiple times to grow a buffer.
   for (let round = 0; round < MAX_FETCH_ROUNDS; round++) {
     if ((queue.items?.length || 0) >= minToHave) break;
 
@@ -104,10 +160,8 @@ async function fillQueue({ state, queue, minToHave }) {
 
     const merged = [...hot, ...neu];
 
-    // Amazon priority + deal score
-    merged.sort(
-      (a, b) => amazonBoost(b) + scoreDeal(b) - (amazonBoost(a) + scoreDeal(a))
-    );
+    // Sort: Amazon weighted + deal score
+    merged.sort((a, b) => (amazonBoost(b) + scoreDeal(b)) - (amazonBoost(a) + scoreDeal(a)));
 
     const prepared = [];
 
@@ -121,6 +175,7 @@ async function fillQueue({ state, queue, minToHave }) {
       const payload = await buildPostPayload(d);
       if (!payload) continue;
 
+      // Ensure key in payload matches
       payload.key = k;
       prepared.push(payload);
     }
@@ -131,22 +186,22 @@ async function fillQueue({ state, queue, minToHave }) {
       capQueue(queue, 120);
     }
 
+    // Small pause to be kind to sources
     if (round < MAX_FETCH_ROUNDS - 1) await sleep(800);
   }
 }
 
 async function postBurst({ state, queue, slot, count }) {
-  await fillQueue({
-    state,
-    queue,
-    minToHave: Math.max(count, TARGET_QUEUE_SIZE),
-  });
+  // Ensure enough items in queue
+  await fillQueue({ state, queue, minToHave: Math.max(count, TARGET_QUEUE_SIZE) });
 
+  // If still not enough, try again focusing on just count
   if ((queue.items?.length || 0) < count) {
     await fillQueue({ state, queue, minToHave: count });
   }
 
-  const items = dequeue(queue, count);
+  // Pick with store rotation (Amazon first if available)
+  const items = takeRoundRobin(queue, count);
 
   if (!items.length) {
     console.log("⚠️ Queue empty. Nothing to post.");
@@ -167,7 +222,7 @@ async function postBurst({ state, queue, slot, count }) {
       await sleep(RATE_LIMIT_MS);
     } catch (e) {
       console.log(`❌ Post failed for ${it.key}: ${String(e)}`);
-      // Don’t lose it—retry later
+      // If a post fails, do NOT lose the item—push back to end for retry later
       enqueue(queue, [it]);
       await sleep(900);
     }
@@ -195,11 +250,10 @@ async function run() {
   await fillQueue({ state, queue, minToHave: TARGET_QUEUE_SIZE });
 
   if (!slot) {
+    // Outside release hour: just save queue/state and exit
     saveQueue(queue);
     saveState(state);
-    console.log(
-      `🧺 Warmed queue: ${queue.items.length} items | No posting this hour (Berlin ${hour}:00)`
-    );
+    console.log(`🧺 Warmed queue: ${queue.items.length} items | No posting this hour (Berlin ${hour}:00)`);
     return;
   }
 

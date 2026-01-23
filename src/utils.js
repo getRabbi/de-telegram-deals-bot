@@ -117,6 +117,8 @@ export function scoreDeal(d) {
 export function isLowResImageUrl(u) {
   const s = String(u || "");
   if (!s) return true;
+  // MyDealz image CDN commonly: .../re/150x150/qt/55/...
+  if (/\/re\/(?:\d{2,3})x(?:\d{2,3})\//i.test(s)) return true;
   if (/\bwidth=(?:\d{1,2}|1\d{2})\b/i.test(s)) return true;
   if (/\b(?:w|h)=(?:\d{1,2}|1\d{2})\b/i.test(s)) return true;
   if (/(?:_|-)(?:\d{2}|\d{2,3})x(?:\d{2}|\d{2,3})(?=\.)/i.test(s)) return true;
@@ -127,6 +129,13 @@ export function isLowResImageUrl(u) {
 export function ensureHighResImageUrl(u, target = 1200) {
   const s = String(u || "");
   if (!s) return "";
+
+  // MyDealz image CDN: .../re/150x150/qt/55/... -> .../re/1200x1200/qt/80/...
+  if (/static\.mydealz\.de/i.test(s) && /\/re\/(?:\d{2,3})x(?:\d{2,3})\//i.test(s)) {
+    return s
+      .replace(/\/re\/(?:\d{2,3})x(?:\d{2,3})\//i, `/re/${target}x${target}/`)
+      .replace(/\/qt\/(?:\d{1,2})\//i, `/qt/80/`);
+  }
 
   // Shopify-like: ..._32x32.jpg -> ..._1200x1200.jpg
   let out = s.replace(/([_-])(\d{2,3})x(\d{2,3})(?=\.)/i, `$1${target}x${target}`);
@@ -154,9 +163,9 @@ export function getTimeSlotDE() {
   );
   const hour = now.getHours();
 
-  if (hour >= 7 && hour < 12) return "morning";
-  if (hour >= 12 && hour < 17) return "afternoon";
-  if (hour >= 17 && hour < 23) return "night";
-
+  // Exact post times (Berlin local time): 08:00, 12:00, 18:00
+  if (hour === 8) return "morning";
+  if (hour === 12) return "afternoon";
+  if (hour === 18) return "evening";
   return "off";
 }

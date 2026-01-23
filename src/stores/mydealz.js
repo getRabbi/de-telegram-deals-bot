@@ -1,5 +1,21 @@
-import { normalizeSpace, stripQuery, extractPricesFromText, calcDiscountPct, sanitizePrices, normalizePriceText } from "../utils.js";
+import {
+  normalizeSpace,
+  stripQuery,
+  extractPricesFromText,
+  calcDiscountPct,
+  sanitizePrices,
+  normalizePriceText,
+  ensureHighResImageUrl,
+} from "../utils.js";
 
+function tryFindWasPriceFromText(text) {
+  const t = String(text || "");
+  // Common patterns:
+  //  - "statt 99,99€"  - "UVP 99,99€"  - "vorher 99,99€"
+  const m = t.match(/\b(?:statt|uvp|vorher)\s*([0-9]{1,4}(?:[\.,][0-9]{1,2})?)\s*€?/i);
+  if (!m) return null;
+  return normalizePriceText(m[1]);
+}
 
 // RSS endpoints known to work historically; we try multiple.
 const FEEDS = {
@@ -181,6 +197,8 @@ export const STORE_META = {
 };
 
 // ------------------------------
+
+// ------------------------------
 // Deal-page enrichment (MANDATORY FIELDS)
 // ------------------------------
 
@@ -203,17 +221,21 @@ function extractJsonNumber(html, key) {
 function asEurText(numOrText) {
   const s = String(numOrText || "").trim();
   if (!s) return "";
+  // if already has €
   if (s.includes("€")) return s;
   return `${s.replace(",", ".")} €`;
 }
 
 export async function enrichMyDealzMandatory(deal) {
+  // Make sure we have a full set: title, imageUrl, now, was, discountPct
   const out = { ...deal };
 
+  // If RSS already has all mandatory fields, keep it.
   if (out.title && out.imageUrl && out.now && out.was && typeof out.discountPct === "number") {
     return out;
   }
 
+  // Fetch deal page
   try {
     const res = await fetch(out.url, { headers: { "User-Agent": "Mozilla/5.0" }, redirect: "follow" });
     if (!res.ok) return null;
@@ -229,11 +251,16 @@ export async function enrichMyDealzMandatory(deal) {
       if (og) out.imageUrl = og;
     }
 
+    // Upgrade tiny thumbnails to a larger rendition (helps Telegram photo posting).
+    if (out.imageUrl) out.imageUrl = ensureHighResImageUrl(out.imageUrl, 1200);
+
+    // Try JSON-ish keys seen on many product/deal pages
     const p1 = extractJsonNumber(html, "price");
     const p2 = extractJsonNumber(html, "currentPrice");
     const old1 = extractJsonNumber(html, "oldPrice");
     const old2 = extractJsonNumber(html, "originalPrice");
 
+    // Fallback: scan visible text for prices
     let nowText = out.now;
     let wasText = out.was;
 
@@ -244,14 +271,27 @@ export async function enrichMyDealzMandatory(deal) {
       if (!wasText) wasText = cleaned.was;
     }
 
+    // Extra fallback: sometimes the meta description contains "statt ...€".
+    if (!wasText) {
+      const metaDesc = (html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i) || [])[1];
+      const fromMeta = tryFindWasPriceFromText(metaDesc);
+      if (fromMeta) wasText = fromMeta;
+    }
+
+    // Prefer explicit JSON values
     if (!nowText) nowText = asEurText(p1 || p2);
     if (!wasText) wasText = asEurText(old1 || old2);
 
     if (nowText) out.now = normalizePriceText(nowText);
     if (wasText) out.was = normalizePriceText(wasText);
 
+    // If we still don't have a regular price, treat it as "no discount" (still post).
+    if (out.now && !out.was) out.was = out.now;
+
+    // Compute discount
     const pct = calcDiscountPct(out.now, out.was);
     if (Number.isFinite(pct)) out.discountPct = pct;
+    if (typeof out.discountPct !== "number") out.discountPct = 0;
 
     return out;
   } catch {
