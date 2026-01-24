@@ -1,10 +1,16 @@
 {
   "date": "2026-01-24",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
+    "mydealz|https://www.mydealz.de/deals/marktguru-050-eur-cashback-auf-erdbeere-2720243",
+    "mydealz|https://www.mydealz.de/deals/micom-cb-mijia-cross-door-kuhl-gefrierkombination-502l-app-sprach-steuerung-frischezone-2fach-inverter-mit-10-jahren-garantie-e-2720787",
+    "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-pro-16tb-nas-interne-festplatte-hdd-35-zoll-7200-umin-cmr-256-mb-cache-amazon-2720774",
+    "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-retro-telefon-31174-prime-2720729"
+  ],
   "postedHistory": []
 }
