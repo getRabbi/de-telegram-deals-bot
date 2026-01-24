@@ -1,20 +1,47 @@
 {
-  "date": "2026-01-24",
+  "date": "2026-01-25",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
-    "mydealz|https://www.mydealz.de/deals/marktguru-050-eur-cashback-auf-erdbeere-2720243",
-    "mydealz|https://www.mydealz.de/deals/micom-cb-mijia-cross-door-kuhl-gefrierkombination-502l-app-sprach-steuerung-frischezone-2fach-inverter-mit-10-jahren-garantie-e-2720787",
-    "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-pro-16tb-nas-interne-festplatte-hdd-35-zoll-7200-umin-cmr-256-mb-cache-amazon-2720774",
-    "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-retro-telefon-31174-prime-2720729",
-    "mydealz|https://www.mydealz.de/deals/annke-c300-ip-kamera-bulletdome-mit-onvif-3mp-28-mm-weitwinkel-ir-20m-h265-blcdwdr3d-dnr-poedc12v-ip67-2719183",
-    "mydealz|https://www.mydealz.de/deals/forza-horizon-6-vorbestellung-mit-vpn-2720730",
-    "mydealz|https://www.mydealz.de/deals/prime-6x-freche-freunde-bio-quetschie-joghurt-banane-erdbeere-apfel-himbeere-2720805",
-    "mydealz|https://www.mydealz.de/deals/asterix-maxi-collection-nintendo-switch-6-spiele-nintendo-switch-amazon-france-pegi-inkl-xxl-2-3-ua-2720534"
-  ],
-  "postedHistory": []
+  "postedKeys": [],
+  "postedHistory": [
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marktguru-050-eur-cashback-auf-erdbeere-2720243",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/micom-cb-mijia-cross-door-kuhl-gefrierkombination-502l-app-sprach-steuerung-frischezone-2fach-inverter-mit-10-jahren-garantie-e-2720787",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-pro-16tb-nas-interne-festplatte-hdd-35-zoll-7200-umin-cmr-256-mb-cache-amazon-2720774",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-retro-telefon-31174-prime-2720729",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/annke-c300-ip-kamera-bulletdome-mit-onvif-3mp-28-mm-weitwinkel-ir-20m-h265-blcdwdr3d-dnr-poedc12v-ip67-2719183",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/forza-horizon-6-vorbestellung-mit-vpn-2720730",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-6x-freche-freunde-bio-quetschie-joghurt-banane-erdbeere-apfel-himbeere-2720805",
+      "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asterix-maxi-collection-nintendo-switch-6-spiele-nintendo-switch-amazon-france-pegi-inkl-xxl-2-3-ua-2720534",
+      "ts": 1769297350130
+    }
+  ]
 }
