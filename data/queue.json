@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ford-focus-titaniumautomatikdieseleu-tz4-j-garantieallwetterrfkwinternaviled28-vorhanden-46-uvp-2717730",
+      "store": "MyDealz",
+      "title": "990° - Ford Focus Titanium|Automatik|Diesel|EU TZ|4 J. Garantie|Allwetter|RFK|Winter|Navi|LED|28× vorhanden",
+      "imageUrl": "https://static.mydealz.de/threads/raw/F9Tol/2717730_1/re/150x150/qt/55/2717730_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>990° - Ford Focus Titanium|Automatik|Diesel|EU TZ|4 J. Garantie|Allwetter|RFK|Winter|Navi|LED|28× vorhanden</b>\n🏪 MyDealz\n💶 Was: 990 € → <b>Now: 4 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/ford-focus-titaniumautomatikdieseleu-tz4-j-garantieallwetterrfkwinternaviled28-vorhanden-46-uvp-2717730"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "990° - Ford Focus Titanium|Automatik|Diesel|EU TZ|4 J. Garantie|Allwetter|RFK|Winter|Navi|LED|28× vorhanden",
+        "now": "4 €",
+        "was": "990 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/ford-focus-titaniumautomatikdieseleu-tz4-j-garantieallwetterrfkwinternaviled28-vorhanden-46-uvp-2717730",
+        "imageUrl": "https://static.mydealz.de/threads/raw/F9Tol/2717730_1/re/150x150/qt/55/2717730_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
+      "store": "MyDealz",
+      "title": "120° - [ EDEKA Nordbayern ] : Arla Finello Reibekäse verschiedene Sorten je 150g (Mit APP und Coupon 0,24 Euro)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/4pnA0/2719369_1/re/150x150/qt/55/2719369_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>120° - [ EDEKA Nordbayern ] : Arla Finello Reibekäse verschiedene Sorten je 150g (Mit APP und Coupon 0,24 Euro)</b>\n🏪 MyDealz\n💶 Was: 120 € → <b>Now: 0,24 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "120° - [ EDEKA Nordbayern ] : Arla Finello Reibekäse verschiedene Sorten je 150g (Mit APP und Coupon 0,24 Euro)",
+        "now": "0,24 €",
+        "was": "120 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
+        "imageUrl": "https://static.mydealz.de/threads/raw/4pnA0/2719369_1/re/150x150/qt/55/2719369_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-24T11:26:53.698Z"
+  "updatedAt": "2026-01-24T12:59:32.873Z"
 }
