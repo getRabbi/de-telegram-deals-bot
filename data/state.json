@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
@@ -13,7 +13,11 @@
     "mydealz|https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
     "mydealz|https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
     "lidl|https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
-    "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423"
+    "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
+    "mydealz|https://www.mydealz.de/deals/eichhorn-nachzieh-grashupfer-mit-beweglichen-beinen-und-gerauschlosen-silikonradern-16-cm-lang-aus-100-fsc-prime-2720531",
+    "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77257-mclaren-w1-2720756",
+    "mydealz|https://www.mydealz.de/deals/doom-3-playstation-ps4-usk-18-digitaler-download-bethesda-incl-resurrection-of-evil-the-lost-missions-at-ps-store-2720785",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f7-12gb-512gb-alle-farben-2720799"
   ],
   "postedHistory": [
     {
