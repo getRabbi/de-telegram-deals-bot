@@ -2,191 +2,6 @@
   "date": "2026-01-25",
   "items": [
     {
-      "key": "mydealz|https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
-      "store": "MyDealz",
-      "title": "105° - PS Store | Two Point Hospital and Two Point Campus Double Pack PS4 & PS5",
-      "imageUrl": "https://static.mydealz.de/threads/raw/zWo6e/2720773_1/re/150x150/qt/55/2720773_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>105° - PS Store | Two Point Hospital and Two Point Campus Double Pack PS4 &amp; PS5</b>\n🏪 MyDealz\n💶 Was: 105 € → <b>Now: 8,99€</b>\n🔻 Save: 91%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "105° - PS Store | Two Point Hospital and Two Point Campus Double Pack PS4 & PS5",
-        "now": "8,99€",
-        "was": "105 €",
-        "discountPct": 91,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
-        "imageUrl": "https://static.mydealz.de/threads/raw/zWo6e/2720773_1/re/150x150/qt/55/2720773_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
-      "store": "MyDealz",
-      "title": "Dominos Speyer - 5 € Rabatt lokales Angebot",
-      "imageUrl": "https://static.mydealz.de/threads/raw/aLdCR/2720816_1/re/150x150/qt/55/2720816_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Dominos Speyer - 5 € Rabatt lokales Angebot</b>\n🏪 MyDealz\n💶 Was: 55 € → <b>Now: 5 €</b>\n🔻 Save: 91%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "Dominos Speyer - 5 € Rabatt lokales Angebot",
-        "now": "5 €",
-        "was": "55 €",
-        "discountPct": 91,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
-        "imageUrl": "https://static.mydealz.de/threads/raw/aLdCR/2720816_1/re/150x150/qt/55/2720816_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
-      "store": "Lidl",
-      "title": "[LIDL] lupilu Spieltunnel, inkl. Tasche mit Tragegriffen",
-      "imageUrl": "https://static.mydealz.de/threads/raw/R8N1z/2720789_1/re/150x150/qt/55/2720789_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[LIDL] lupilu Spieltunnel, inkl. Tasche mit Tragegriffen</b>\n🏪 Lidl\n💶 Was: 55 € → <b>Now: 4,99€</b>\n🔻 Save: 91%\n\n#NeueDeals #Lidl #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "Lidl",
-        "storeTag": "LIDL",
-        "title": "[LIDL] lupilu Spieltunnel, inkl. Tasche mit Tragegriffen",
-        "now": "4,99€",
-        "was": "55 €",
-        "discountPct": 91,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
-        "imageUrl": "https://static.mydealz.de/threads/raw/R8N1z/2720789_1/re/150x150/qt/55/2720789_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#Lidl",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
-      "store": "MyDealz",
-      "title": "Android: Business Card Maker: Logo Card – Visitenkarten erstellen & als JPG/PDF exportieren – gratis (statt 5,99€)",
-      "imageUrl": "https://static.mydealz.de/threads/raw/pPk1x/2720806_1/re/150x150/qt/55/2720806_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Android: Business Card Maker: Logo Card – Visitenkarten erstellen &amp; als JPG/PDF exportieren – gratis (statt 5,99€)</b>\n🏪 MyDealz\n💶 Was: 55 € → <b>Now: 5,99€</b>\n🔻 Save: 89%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "Android: Business Card Maker: Logo Card – Visitenkarten erstellen & als JPG/PDF exportieren – gratis (statt 5,99€)",
-        "now": "5,99€",
-        "was": "55 €",
-        "discountPct": 89,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
-        "imageUrl": "https://static.mydealz.de/threads/raw/pPk1x/2720806_1/re/150x150/qt/55/2720806_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
-      "store": "MyDealz",
-      "title": "126° - Only & Sons Herren Onsceres Crew Neck Noos Sweatshirt in Silver Lining oder Rosin XS bis XXL (Prime)",
-      "imageUrl": "https://static.mydealz.de/threads/raw/Wu341/2720423_1/re/150x150/qt/55/2720423_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>126° - Only &amp; Sons Herren Onsceres Crew Neck Noos Sweatshirt in Silver Lining oder Rosin XS bis XXL (Prime)</b>\n🏪 MyDealz\n💶 Was: 126 € → <b>Now: 15,99€</b>\n🔻 Save: 87%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "126° - Only & Sons Herren Onsceres Crew Neck Noos Sweatshirt in Silver Lining oder Rosin XS bis XXL (Prime)",
-        "now": "15,99€",
-        "was": "126 €",
-        "discountPct": 87,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
-        "imageUrl": "https://static.mydealz.de/threads/raw/Wu341/2720423_1/re/150x150/qt/55/2720423_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
       "key": "mydealz|https://www.mydealz.de/deals/eichhorn-nachzieh-grashupfer-mit-beweglichen-beinen-und-gerauschlosen-silikonradern-16-cm-lang-aus-100-fsc-prime-2720531",
       "store": "MyDealz",
       "title": "113° - Eichhorn – Nachzieh-Grashüpfer mit beweglichen Beinen und geräuschlosen Silikonrädern, 16 cm lang, aus 100% FSC (Prime)",
@@ -2220,7 +2035,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
+      "store": "MyDealz",
+      "title": "Android: Business Card Maker: Logo Card – Visitenkarten erstellen & als JPG/PDF exportieren – gratis (statt 5,99€)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/pPk1x/2720806_1/re/150x150/qt/55/2720806_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Android: Business Card Maker: Logo Card – Visitenkarten erstellen &amp; als JPG/PDF exportieren – gratis (statt 5,99€)</b>\n🏪 MyDealz\n💶 Was: 55 € → <b>Now: 5,99€</b>\n🔻 Save: 89%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Android: Business Card Maker: Logo Card – Visitenkarten erstellen & als JPG/PDF exportieren – gratis (statt 5,99€)",
+        "now": "5,99€",
+        "was": "55 €",
+        "discountPct": 89,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
+        "imageUrl": "https://static.mydealz.de/threads/raw/pPk1x/2720806_1/re/150x150/qt/55/2720806_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-25T10:34:52.054Z"
+  "updatedAt": "2026-01-25T11:27:04.490Z"
 }
