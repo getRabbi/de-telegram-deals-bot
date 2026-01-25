@@ -1,11 +1,16 @@
 {
   "date": "2026-01-25",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-verlangerungskabel-5m-mit-flachstecker-doppeldose-fur-995eur-statt-14eur-2720677",
+    "mydealz|https://www.mydealz.de/deals/gog-anno-bundle-909eur-inhalt-anno-1404-gold-edition-anno-1503-anno-1602-anno-1701-pc-2720665",
+    "mydealz|https://www.mydealz.de/deals/vaude-coreway-rolltop-20l-rucksack-4-farben-2720793"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
