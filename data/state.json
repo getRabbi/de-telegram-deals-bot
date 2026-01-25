@@ -1,24 +1,11 @@
 {
-  "date": "2026-01-25",
+  "date": "2026-01-26",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
-    "mydealz|https://www.mydealz.de/deals/brennenstuhl-verlangerungskabel-5m-mit-flachstecker-doppeldose-fur-995eur-statt-14eur-2720677",
-    "mydealz|https://www.mydealz.de/deals/gog-anno-bundle-909eur-inhalt-anno-1404-gold-edition-anno-1503-anno-1602-anno-1701-pc-2720665",
-    "mydealz|https://www.mydealz.de/deals/vaude-coreway-rolltop-20l-rucksack-4-farben-2720793",
-    "mydealz|https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
-    "mydealz|https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
-    "lidl|https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
-    "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
-    "mydealz|https://www.mydealz.de/deals/eichhorn-nachzieh-grashupfer-mit-beweglichen-beinen-und-gerauschlosen-silikonradern-16-cm-lang-aus-100-fsc-prime-2720531",
-    "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77257-mclaren-w1-2720756",
-    "mydealz|https://www.mydealz.de/deals/doom-3-playstation-ps4-usk-18-digitaler-download-bethesda-incl-resurrection-of-evil-the-lost-missions-at-ps-store-2720785",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f7-12gb-512gb-alle-farben-2720799"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
@@ -55,6 +42,54 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/asterix-maxi-collection-nintendo-switch-6-spiele-nintendo-switch-amazon-france-pegi-inkl-xxl-2-3-ua-2720534",
       "ts": 1769297350130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-verlangerungskabel-5m-mit-flachstecker-doppeldose-fur-995eur-statt-14eur-2720677",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-anno-bundle-909eur-inhalt-anno-1404-gold-edition-anno-1503-anno-1602-anno-1701-pc-2720665",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vaude-coreway-rolltop-20l-rucksack-4-farben-2720793",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
+      "ts": 1769383807165
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eichhorn-nachzieh-grashupfer-mit-beweglichen-beinen-und-gerauschlosen-silikonradern-16-cm-lang-aus-100-fsc-prime-2720531",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77257-mclaren-w1-2720756",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/doom-3-playstation-ps4-usk-18-digitaler-download-bethesda-incl-resurrection-of-evil-the-lost-missions-at-ps-store-2720785",
+      "ts": 1769383807165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f7-12gb-512gb-alle-farben-2720799",
+      "ts": 1769383807165
     }
   ]
 }
