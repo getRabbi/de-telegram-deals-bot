@@ -1,11 +1,16 @@
 {
   "date": "2026-01-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/adidas-damen-essentials-small-logo-french-terry-cargo-shorts-grossen-xs-xl-prime-2720814",
+    "mydealz|https://www.mydealz.de/deals/adidas-terrex-soulstride-trailrunning-schuhe-gr-39-bis-47-amazon-2720668",
+    "mydealz|https://www.mydealz.de/deals/lian-li-uni-fan-p28-weiss-120mm-2720808",
+    "mydealz|https://www.mydealz.de/deals/sommerschnapper-pool-set-steel-pro-mit-filterpumpe-o-366-x-h-76-cm-2720540"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
