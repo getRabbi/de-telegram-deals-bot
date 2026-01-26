@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/adidas-damen-essentials-small-logo-french-terry-cargo-shorts-grossen-xs-xl-prime-2720814",
@@ -14,7 +14,8 @@
     "mydealz|https://www.mydealz.de/deals/dishonored-death-of-the-outsider-standard-edition-ps4-playstation-digitaler-download-usk-18-bethesda-at-ps-store-2720813",
     "mydealz|https://www.mydealz.de/deals/songmics-kleiderbugel-holz-30er-set-holzbugel-schlank-bugel-platzsparend-hosenbugel-360-drehbarer-haken-birkenholz-amazon-mp-2720724",
     "mydealz|https://www.mydealz.de/deals/bershka-plateau-stiefel-mit-fellfutter-2720815",
-    "mydealz|https://www.mydealz.de/deals/dyson-airwrap-complete-long-multi-haar-styler-refurb-fur-29880eur-statt-neu-592eur-2720764"
+    "mydealz|https://www.mydealz.de/deals/dyson-airwrap-complete-long-multi-haar-styler-refurb-fur-29880eur-statt-neu-592eur-2720764",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-torx-bitsatz-13-teilig-t4-t5-t6-t7-t8-t9-t10-t15-t20-t25-t27-t30-t40-2720811"
   ],
   "postedHistory": [
     {
