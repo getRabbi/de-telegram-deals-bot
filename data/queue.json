@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227",
+      "store": "MyDealz",
+      "title": "279° - 12GB Sparkle Arc B580 TITAN OC, GDDR6, HDMI, 3x DP, Grafikkarte + 1 von 4 Spielen gratis",
+      "imageUrl": "https://static.mydealz.de/threads/raw/QjOMi/2722227_1/re/150x150/qt/55/2722227_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>279° - 12GB Sparkle Arc B580 TITAN OC, GDDR6, HDMI, 3x DP, Grafikkarte + 1 von 4 Spielen gratis</b>\n🏪 MyDealz\n💶 Was: 279 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "279° - 12GB Sparkle Arc B580 TITAN OC, GDDR6, HDMI, 3x DP, Grafikkarte + 1 von 4 Spielen gratis",
+        "now": "1 €",
+        "was": "279 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227",
+        "imageUrl": "https://static.mydealz.de/threads/raw/QjOMi/2722227_1/re/150x150/qt/55/2722227_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-26T17:22:40.477Z"
+  "updatedAt": "2026-01-26T18:22:22.586Z"
 }
