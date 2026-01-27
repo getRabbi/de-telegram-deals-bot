@@ -1,11 +1,16 @@
 {
   "date": "2026-01-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-garant-v2-ip44-kabeltrommel-50m-outdoor-2720747",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-milka-10x-100g-1-kg-box-mit-5-sorten-oreo-alpenmilch-karamell-gehackte-haselnusse-cremige-milchfullung-2720788",
+    "mydealz|https://www.mydealz.de/deals/orbea-ordu-m30iltd-2025-disc-105-di2-24-s-tttriathlon-carbonrahmen-carbon-lrs-gr-s-m-2720710",
+    "mydealz|https://www.mydealz.de/deals/winter-sale-uber-150-reduzierte-titel-bei-red-art-games-playstation-5-playstation-4-nintendo-switch-2720401"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
