@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-garant-v2-ip44-kabeltrommel-50m-outdoor-2720747",
@@ -14,7 +14,11 @@
     "mydealz|https://www.mydealz.de/deals/jura-rum-cask-finish-single-malt-scotch-whisky-07l-40-1935eur-moglich-prime-spar-abo-2720404",
     "mydealz|https://www.mydealz.de/deals/flaconipieper-paco-rabanne-phantom-elixir-parfum-intense-100ml-o-150ml-7750eur-200ml-refill-7729eur-o-pieper-669979507929eur-2720790",
     "mydealz|https://www.mydealz.de/deals/railway-empire-ps4-playstation-digitaler-download-usk-0-kalypso-media-at-ps-store-2720791",
-    "mydealz|https://www.mydealz.de/deals/travelite-crosslite-50-rollenreisetasche-l-79-cm-2720803"
+    "mydealz|https://www.mydealz.de/deals/travelite-crosslite-50-rollenreisetasche-l-79-cm-2720803",
+    "mydealz|https://www.mydealz.de/deals/philips-airfryer-2000-series-heissluftfritteuse-42l-1500w-na22900-2720812",
+    "aldi|https://www.mydealz.de/deals/aldi-sud-farmer-pistazien-gesalzen-250g-fur-269-eur-2720795",
+    "mydealz|https://www.mydealz.de/deals/10-kwp-photovoltaik-komplettanlage-inkl-speicher-montage-anmeldung-aiko-460-watt-module-sungrow-96-kwh-speicher-sh10rt-wr-2720755",
+    "mydealz|https://www.mydealz.de/deals/tuc-mini-sour-cream-onion-14x120g-2720783"
   ],
   "postedHistory": [
     {
