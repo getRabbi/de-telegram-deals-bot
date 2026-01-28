@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165",
+      "store": "MyDealz",
+      "title": "[Amazon | Burnhard] Gasgrill 4-Brenner inkl. BACKBURNER, 900°C Infrarot-Keramikbrenner, Seitenkochfeld, Gusseisenrost, Abdeckhaube – Deluxe",
+      "imageUrl": "https://static.mydealz.de/threads/raw/D2tE9/2723165_1/re/150x150/qt/55/2723165_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>[Amazon | Burnhard] Gasgrill 4-Brenner inkl. BACKBURNER, 900°C Infrarot-Keramikbrenner, Seitenkochfeld, Gusseisenrost, Abdeckhaube – Deluxe</b>\n🏪 MyDealz\n💶 Was: 900 € → <b>Now: 4 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[Amazon | Burnhard] Gasgrill 4-Brenner inkl. BACKBURNER, 900°C Infrarot-Keramikbrenner, Seitenkochfeld, Gusseisenrost, Abdeckhaube – Deluxe",
+        "now": "4 €",
+        "was": "900 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165",
+        "imageUrl": "https://static.mydealz.de/threads/raw/D2tE9/2723165_1/re/150x150/qt/55/2723165_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-28T11:16:58.289Z"
+  "updatedAt": "2026-01-28T12:29:35.966Z"
 }
