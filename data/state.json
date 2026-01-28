@@ -1,11 +1,17 @@
 {
   "date": "2026-01-28",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-figment-1-und-figment-2-creed-valley-bundle-zum-neuen-bestpreis-fur-nintendo-switch-2682877",
+    "mydealz|https://www.mydealz.de/deals/kaufland-cocktail-heinz-sause-fur-0-eur-2720704",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-x-lego-games-ps4-hobbitcity-undercoversuper-heroes-2-delmarvels-avengers-luxus-digital-at-ps-store-2688972",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-switch-2-dynasty-warriors-origins-soundtracksammlung-early-works-dlc-gratis-bis-04022026-191-tracks-2720819",
+    "mydealz|https://www.mydealz.de/deals/hummel-sport-schuhe-aerocharge-fusion-stz-fur-949eur-495eur-vsk-grossen-425-465-47-48-495-2713982"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
