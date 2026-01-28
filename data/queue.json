@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
+      "store": "MyDealz",
+      "title": "125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g",
+      "imageUrl": "https://static.mydealz.de/threads/raw/9dSlS/2723325_1/re/150x150/qt/55/2723325_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g</b>\n🏪 MyDealz\n💶 Was: 125 € → <b>Now: 0,03€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g",
+        "now": "0,03€",
+        "was": "125 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
+        "imageUrl": "https://static.mydealz.de/threads/raw/9dSlS/2723325_1/re/150x150/qt/55/2723325_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
+      "store": "MyDealz",
+      "title": "2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650",
+      "imageUrl": "https://static.mydealz.de/threads/raw/ocx4Q/2713567_1/re/150x150/qt/55/2713567_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650</b>\n🏪 MyDealz\n💶 Was: 650 € → <b>Now: 6 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650",
+        "now": "6 €",
+        "was": "650 €",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
+        "imageUrl": "https://static.mydealz.de/threads/raw/ocx4Q/2713567_1/re/150x150/qt/55/2713567_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-28T17:25:55.215Z"
+  "updatedAt": "2026-01-28T18:26:10.658Z"
 }
