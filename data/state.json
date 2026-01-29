@@ -2,14 +2,18 @@
   "date": "2026-01-29",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0526-2721326",
     "mydealz|https://www.mydealz.de/deals/sammeldeal-new-balance-574-4-farben-kleinere-grossen-bis-40-5181eur-63eur-2717665",
     "mydealz|https://www.mydealz.de/deals/mould-king-20011-mammoth-tank-panzer-3296-teile-klemmbausteine-set-mit-6-motoren-2700003",
-    "rewe|https://www.mydealz.de/deals/rewe-eff-106-statt-269-eur-fur-2-x-grunlander-mild-nussig-scheiben-und-1-x-naturfreunde-tilsiter-scheiben-2720680"
+    "rewe|https://www.mydealz.de/deals/rewe-eff-106-statt-269-eur-fur-2-x-grunlander-mild-nussig-scheiben-und-1-x-naturfreunde-tilsiter-scheiben-2720680",
+    "rewe|https://www.mydealz.de/deals/rewe-app-oatly-haferdrink-barista-edition-versch-sorten-je-1l-010eur-bonus-guthaben-2721461",
+    "mydealz|https://www.mydealz.de/deals/herkules-by-einhell-hse-iw-1100-e5-benzin-stromerzeuger-11-kw-fur-10999eur-statt-180eur-2721432",
+    "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-magnesium-kaliumchlorid-cholin-b-vitamine-15-beutel-prime-sparabo-2712580",
+    "mydealz|https://www.mydealz.de/deals/pampers-maxi-economy-pack-baby-dry-pants-premium-protection-kaufland-mit-kaufland-card-gr-3-8-ab-014-eur-stuck-2721438"
   ],
   "postedHistory": [
     {
