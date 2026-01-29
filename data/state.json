@@ -1,11 +1,16 @@
 {
   "date": "2026-01-29",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0526-2721326",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-new-balance-574-4-farben-kleinere-grossen-bis-40-5181eur-63eur-2717665",
+    "mydealz|https://www.mydealz.de/deals/mould-king-20011-mammoth-tank-panzer-3296-teile-klemmbausteine-set-mit-6-motoren-2700003",
+    "rewe|https://www.mydealz.de/deals/rewe-eff-106-statt-269-eur-fur-2-x-grunlander-mild-nussig-scheiben-und-1-x-naturfreunde-tilsiter-scheiben-2720680"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
