@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300",
+      "store": "MyDealz",
+      "title": "Knoppers KokosRiegel – 1 x 200 g (5 Riegel) – Schokoriegel mit Milch-Kokoscreme, Haselnüssen, Kokosraspeln, Karamell und Schokolade (Prime)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/9Gudr/2724300_1/re/150x150/qt/55/2724300_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Knoppers KokosRiegel – 1 x 200 g (5 Riegel) – Schokoriegel mit Milch-Kokoscreme, Haselnüssen, Kokosraspeln, Karamell und Schokolade (Prime)</b>\n🏪 MyDealz\n💶 Was: 200 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Knoppers KokosRiegel – 1 x 200 g (5 Riegel) – Schokoriegel mit Milch-Kokoscreme, Haselnüssen, Kokosraspeln, Karamell und Schokolade (Prime)",
+        "now": "1 €",
+        "was": "200 €",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300",
+        "imageUrl": "https://static.mydealz.de/threads/raw/9Gudr/2724300_1/re/150x150/qt/55/2724300_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-30T11:21:33.534Z"
+  "updatedAt": "2026-01-30T12:33:17.334Z"
 }
