@@ -1,11 +1,15 @@
 {
   "date": "2026-01-30",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
+    "mydealz|https://www.mydealz.de/deals/eintritt-technikmuseum-sinsheim-inkl-3d-kino-1-un-ggf-fruhstuck-ab-59eur-pp-2721885",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-kao-the-kangaroo-zum-neuen-bestpreis-fur-nintendo-switch-zaf-265eur-nor-303eur-2721846"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
