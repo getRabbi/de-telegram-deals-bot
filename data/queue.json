@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-kneipp-aroma-pflegeschaumbad-goodbye-stress-badezusatz-mit-atherischen-olen-aus-rosmarin-wasserminze-400ml-2712549",
+      "store": "MyDealz",
+      "title": "628° - [Amazon Prime Sparabo] Kneipp Aroma-Pflegeschaumbad Goodbye Stress - Badezusatz mit ätherischen Ölen aus Rosmarin & Wasserminze 400ml",
+      "imageUrl": "https://static.mydealz.de/threads/raw/i75FG/2712549_1/re/150x150/qt/55/2712549_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>628° - [Amazon Prime Sparabo] Kneipp Aroma-Pflegeschaumbad Goodbye Stress - Badezusatz mit ätherischen Ölen aus Rosmarin &amp; Wasserminze 400ml</b>\n🏪 MyDealz\n💶 Was: 628 € → <b>Now: 2,33€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/amazon-prime-sparabo-kneipp-aroma-pflegeschaumbad-goodbye-stress-badezusatz-mit-atherischen-olen-aus-rosmarin-wasserminze-400ml-2712549"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "628° - [Amazon Prime Sparabo] Kneipp Aroma-Pflegeschaumbad Goodbye Stress - Badezusatz mit ätherischen Ölen aus Rosmarin & Wasserminze 400ml",
+        "now": "2,33€",
+        "was": "628 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/amazon-prime-sparabo-kneipp-aroma-pflegeschaumbad-goodbye-stress-badezusatz-mit-atherischen-olen-aus-rosmarin-wasserminze-400ml-2712549",
+        "imageUrl": "https://static.mydealz.de/threads/raw/i75FG/2712549_1/re/150x150/qt/55/2712549_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-30T17:26:32.645Z"
+  "updatedAt": "2026-01-30T18:29:42.207Z"
 }
