@@ -1,17 +1,11 @@
 {
-  "date": "2026-01-30",
+  "date": "2026-01-31",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
-    "mydealz|https://www.mydealz.de/deals/eintritt-technikmuseum-sinsheim-inkl-3d-kino-1-un-ggf-fruhstuck-ab-59eur-pp-2721885",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-kao-the-kangaroo-zum-neuen-bestpreis-fur-nintendo-switch-zaf-265eur-nor-303eur-2721846",
-    "mydealz|https://www.mydealz.de/deals/dji-neo-2-nur-drohne-2722089",
-    "mydealz|https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
@@ -268,6 +262,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/union-glashutte-belisar-herren-automatikchronograph-mondphase-fur-3132eur-rm-time-2721599",
       "ts": 1769728661430
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
+      "ts": 1769815043789
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eintritt-technikmuseum-sinsheim-inkl-3d-kino-1-un-ggf-fruhstuck-ab-59eur-pp-2721885",
+      "ts": 1769815043789
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-kao-the-kangaroo-zum-neuen-bestpreis-fur-nintendo-switch-zaf-265eur-nor-303eur-2721846",
+      "ts": 1769815043789
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-neo-2-nur-drohne-2722089",
+      "ts": 1769815043789
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227",
+      "ts": 1769815043789
     }
   ]
 }
