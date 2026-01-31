@@ -2,228 +2,6 @@
   "date": "2026-01-31",
   "items": [
     {
-      "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
-      "store": "MyDealz",
-      "title": "137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide",
-      "imageUrl": "https://static.mydealz.de/threads/raw/dyd7W/2720720_1/re/150x150/qt/55/2720720_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide</b>\n🏪 MyDealz\n💶 Was: 137 € → <b>Now: 78,11€</b>\n🔻 Save: 43%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide",
-        "now": "78,11€",
-        "was": "137 €",
-        "discountPct": 43,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
-        "imageUrl": "https://static.mydealz.de/threads/raw/dyd7W/2720720_1/re/150x150/qt/55/2720720_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
-      "store": "MyDealz",
-      "title": "Adidas Court Super Schuh",
-      "imageUrl": "https://static.mydealz.de/threads/raw/q2w5q/2720809_1/re/150x150/qt/55/2720809_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Adidas Court Super Schuh</b>\n🏪 MyDealz\n💶 Was: 55 € → <b>Now: 45€</b>\n🔻 Save: 18%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/adidas-court-super-schuh-2720809"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "Adidas Court Super Schuh",
-        "now": "45€",
-        "was": "55 €",
-        "discountPct": 18,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
-        "imageUrl": "https://static.mydealz.de/threads/raw/q2w5q/2720809_1/re/150x150/qt/55/2720809_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
-      "store": "MyDealz",
-      "title": "Diamant Mandara Gen 3 545 Wh E-Bike Herren 27,5\" M/L",
-      "imageUrl": "https://static.mydealz.de/threads/raw/t4BPq/2722476_1/re/150x150/qt/55/2722476_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Diamant Mandara Gen 3 545 Wh E-Bike Herren 27,5\" M/L</b>\n🏪 MyDealz\n💶 Was: 3 545 € → <b>Now: 27 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "Diamant Mandara Gen 3 545 Wh E-Bike Herren 27,5\" M/L",
-        "now": "27 €",
-        "was": "3 545 €",
-        "discountPct": 99,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
-        "imageUrl": "https://static.mydealz.de/threads/raw/t4BPq/2722476_1/re/150x150/qt/55/2722476_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
-      "store": "MyDealz",
-      "title": "220° - [Kaufland] Frosta Fertiggericht in versch. Sorten, je 375g Beutel für 2€",
-      "imageUrl": "https://static.mydealz.de/threads/raw/QyFa2/2722422_1/re/150x150/qt/55/2722422_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>220° - [Kaufland] Frosta Fertiggericht in versch. Sorten, je 375g Beutel für 2€</b>\n🏪 MyDealz\n💶 Was: 220 € → <b>Now: 2€</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "220° - [Kaufland] Frosta Fertiggericht in versch. Sorten, je 375g Beutel für 2€",
-        "now": "2€",
-        "was": "220 €",
-        "discountPct": 99,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
-        "imageUrl": "https://static.mydealz.de/threads/raw/QyFa2/2722422_1/re/150x150/qt/55/2722422_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
-      "store": "MyDealz",
-      "title": "141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€",
-      "imageUrl": "https://static.mydealz.de/threads/raw/TmmvG/2722338_1/re/150x150/qt/55/2722338_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€</b>\n🏪 MyDealz\n💶 Was: 141 € → <b>Now: 3,17€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€",
-        "now": "3,17€",
-        "was": "141 €",
-        "discountPct": 98,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
-        "imageUrl": "https://static.mydealz.de/threads/raw/TmmvG/2722338_1/re/150x150/qt/55/2722338_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426",
-      "store": "MyDealz",
-      "title": "180° - Märklin 29430 - Märklin my world - Startpackung ICE 3 - Filiallieferung",
-      "imageUrl": "https://static.mydealz.de/threads/raw/NWrSs/2722426_1/re/150x150/qt/55/2722426_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>180° - Märklin 29430 - Märklin my world - Startpackung ICE 3 - Filiallieferung</b>\n🏪 MyDealz\n💶 Was: 180 € → <b>Now: 3 €</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "180° - Märklin 29430 - Märklin my world - Startpackung ICE 3 - Filiallieferung",
-        "now": "3 €",
-        "was": "180 €",
-        "discountPct": 98,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426",
-        "imageUrl": "https://static.mydealz.de/threads/raw/NWrSs/2722426_1/re/150x150/qt/55/2722426_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
       "key": "mydealz|https://www.mydealz.de/deals/gregor-kartsios-das-nerd-abc-das-abc-der-videospiele-teil-12-die-grosse-bucket-list-des-gaming-gebundene-ausgabe-mangelexemplar-2722566",
       "store": "MyDealz",
       "title": "215° - [Gregor Kartsios] Das Nerd-ABC: Das ABC der Videospiele Teil 1&2, Die große Bucket List des Gaming (gebundene Ausgabe / Mängelexemplar)",
@@ -2220,7 +1998,118 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
+      "store": "MyDealz",
+      "title": "137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide",
+      "imageUrl": "https://static.mydealz.de/threads/raw/dyd7W/2720720_1/re/150x150/qt/55/2720720_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide</b>\n🏪 MyDealz\n💶 Was: 137 € → <b>Now: 78,11€</b>\n🔻 Save: 43%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "137° - Nischendeal: Nordforest Alu-Handsappie mit Schneide",
+        "now": "78,11€",
+        "was": "137 €",
+        "discountPct": 43,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
+        "imageUrl": "https://static.mydealz.de/threads/raw/dyd7W/2720720_1/re/150x150/qt/55/2720720_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
+      "store": "MyDealz",
+      "title": "Adidas Court Super Schuh",
+      "imageUrl": "https://static.mydealz.de/threads/raw/q2w5q/2720809_1/re/150x150/qt/55/2720809_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Adidas Court Super Schuh</b>\n🏪 MyDealz\n💶 Was: 55 € → <b>Now: 45€</b>\n🔻 Save: 18%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/adidas-court-super-schuh-2720809"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Adidas Court Super Schuh",
+        "now": "45€",
+        "was": "55 €",
+        "discountPct": 18,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
+        "imageUrl": "https://static.mydealz.de/threads/raw/q2w5q/2720809_1/re/150x150/qt/55/2720809_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
+      "store": "MyDealz",
+      "title": "141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€",
+      "imageUrl": "https://static.mydealz.de/threads/raw/TmmvG/2722338_1/re/150x150/qt/55/2722338_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€</b>\n🏪 MyDealz\n💶 Was: 141 € → <b>Now: 3,17€</b>\n🔻 Save: 98%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "141° - [Steam Gift] Tabletop Simulator Key/Gift bei 3,17€ bei K4G oder offiziell 9,75€ bei Steam (Windows/mac/Linux/SteamOS) + DLCs ab 3,99€",
+        "now": "3,17€",
+        "was": "141 €",
+        "discountPct": 98,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
+        "imageUrl": "https://static.mydealz.de/threads/raw/TmmvG/2722338_1/re/150x150/qt/55/2722338_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-01-31T06:26:27.993Z"
+  "updatedAt": "2026-01-31T07:22:20.342Z"
 }

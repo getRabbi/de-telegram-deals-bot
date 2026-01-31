@@ -1,11 +1,15 @@
 {
   "date": "2026-01-31",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
+    "mydealz|https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
+    "mydealz|https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
