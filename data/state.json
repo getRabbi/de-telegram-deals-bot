@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
@@ -13,7 +13,10 @@
     "mydealz|https://www.mydealz.de/deals/dremel-3000-multifunktionswerkzeug-130w-set-mit-1-aufsatz-25-zubehorteilen-koffer-variable-drehzahl-10000-33000-umin-2722388",
     "mydealz|https://www.mydealz.de/deals/zotac-geforce-rtx-5090-solid-oc-grafikkarte-2722627",
     "mydealz|https://www.mydealz.de/deals/metroid-prime-4-beyond-nintendo-switch-2-fur-4699eur-inkl-versand-ebay-2722541",
-    "mydealz|https://www.mydealz.de/deals/lenovo-legion-r27qe-gen-2-27-qhd-wled-gaming-monitor-2560x1440-169-200-hz-ips-panel-05ms-reaktionszeit-2720862"
+    "mydealz|https://www.mydealz.de/deals/lenovo-legion-r27qe-gen-2-27-qhd-wled-gaming-monitor-2560x1440-169-200-hz-ips-panel-05ms-reaktionszeit-2720862",
+    "mydealz|https://www.mydealz.de/deals/hyundai-i30-smart-16150-psautomatikgetriebeeu-bestellfahrzeugnavigationwinterpaketruckfahrkameraprivacy-verglasung-uvm-2722723",
+    "mydealz|https://www.mydealz.de/deals/dazn-nfl-gamepass-super-bowl-lx-2722751",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-speedo-unisex-biofuse-20-schwimmbrille-2713733"
   ],
   "postedHistory": [
     {
