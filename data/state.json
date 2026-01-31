@@ -1,23 +1,11 @@
 {
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
-    "mydealz|https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
-    "mydealz|https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426",
-    "mydealz|https://www.mydealz.de/deals/gregor-kartsios-das-nerd-abc-das-abc-der-videospiele-teil-12-die-grosse-bucket-list-des-gaming-gebundene-ausgabe-mangelexemplar-2722566",
-    "mydealz|https://www.mydealz.de/deals/dremel-3000-multifunktionswerkzeug-130w-set-mit-1-aufsatz-25-zubehorteilen-koffer-variable-drehzahl-10000-33000-umin-2722388",
-    "mydealz|https://www.mydealz.de/deals/zotac-geforce-rtx-5090-solid-oc-grafikkarte-2722627",
-    "mydealz|https://www.mydealz.de/deals/metroid-prime-4-beyond-nintendo-switch-2-fur-4699eur-inkl-versand-ebay-2722541",
-    "mydealz|https://www.mydealz.de/deals/lenovo-legion-r27qe-gen-2-27-qhd-wled-gaming-monitor-2560x1440-169-200-hz-ips-panel-05ms-reaktionszeit-2720862",
-    "mydealz|https://www.mydealz.de/deals/hyundai-i30-smart-16150-psautomatikgetriebeeu-bestellfahrzeugnavigationwinterpaketruckfahrkameraprivacy-verglasung-uvm-2722723",
-    "mydealz|https://www.mydealz.de/deals/dazn-nfl-gamepass-super-bowl-lx-2722751",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-speedo-unisex-biofuse-20-schwimmbrille-2713733"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
@@ -294,6 +282,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227",
       "ts": 1769815043789
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gregor-kartsios-das-nerd-abc-das-abc-der-videospiele-teil-12-die-grosse-bucket-list-des-gaming-gebundene-ausgabe-mangelexemplar-2722566",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dremel-3000-multifunktionswerkzeug-130w-set-mit-1-aufsatz-25-zubehorteilen-koffer-variable-drehzahl-10000-33000-umin-2722388",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zotac-geforce-rtx-5090-solid-oc-grafikkarte-2722627",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/metroid-prime-4-beyond-nintendo-switch-2-fur-4699eur-inkl-versand-ebay-2722541",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lenovo-legion-r27qe-gen-2-27-qhd-wled-gaming-monitor-2560x1440-169-200-hz-ips-panel-05ms-reaktionszeit-2720862",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-smart-16150-psautomatikgetriebeeu-bestellfahrzeugnavigationwinterpaketruckfahrkameraprivacy-verglasung-uvm-2722723",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dazn-nfl-gamepass-super-bowl-lx-2722751",
+      "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-speedo-unisex-biofuse-20-schwimmbrille-2713733",
+      "ts": 1769901208386
     }
   ]
 }
