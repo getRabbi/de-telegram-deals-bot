@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-adventure-sammeldeal-preise-ab-079eur-zb-mit-gabriel-knight-jack-keane-monkey-island-phantasmagoria-maniac-mansion-the-dig-uvm-2725417",
+      "store": "MyDealz",
+      "title": "204° - GOG Adventure Sammeldeal Preise ab 0,79€ z.B. mit Gabriel Knight, Jack Keane, Monkey Island, Phantasmagoria, Maniac Mansion, The Dig uvm.",
+      "imageUrl": "https://static.mydealz.de/threads/raw/xxfDZ/2725417_1/re/150x150/qt/55/2725417_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>204° - GOG Adventure Sammeldeal Preise ab 0,79€ z.B. mit Gabriel Knight, Jack Keane, Monkey Island, Phantasmagoria, Maniac Mansion, The Dig uvm.</b>\n🏪 MyDealz\n💶 Was: 204 € → <b>Now: 0,79€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/gog-adventure-sammeldeal-preise-ab-079eur-zb-mit-gabriel-knight-jack-keane-monkey-island-phantasmagoria-maniac-mansion-the-dig-uvm-2725417"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "204° - GOG Adventure Sammeldeal Preise ab 0,79€ z.B. mit Gabriel Knight, Jack Keane, Monkey Island, Phantasmagoria, Maniac Mansion, The Dig uvm.",
+        "now": "0,79€",
+        "was": "204 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/gog-adventure-sammeldeal-preise-ab-079eur-zb-mit-gabriel-knight-jack-keane-monkey-island-phantasmagoria-maniac-mansion-the-dig-uvm-2725417",
+        "imageUrl": "https://static.mydealz.de/threads/raw/xxfDZ/2725417_1/re/150x150/qt/55/2725417_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423",
+      "store": "MyDealz",
+      "title": "153° - [CB] Nuki Smart Lock Pro + Keypad 2",
+      "imageUrl": "https://static.mydealz.de/threads/raw/fI8Pa/2725423_1/re/150x150/qt/55/2725423_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>153° - [CB] Nuki Smart Lock Pro + Keypad 2</b>\n🏪 MyDealz\n💶 Was: 153 € → <b>Now: 2 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "153° - [CB] Nuki Smart Lock Pro + Keypad 2",
+        "now": "2 €",
+        "was": "153 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423",
+        "imageUrl": "https://static.mydealz.de/threads/raw/fI8Pa/2725423_1/re/150x150/qt/55/2725423_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-01T17:17:21.186Z"
+  "updatedAt": "2026-02-01T18:21:05.299Z"
 }
