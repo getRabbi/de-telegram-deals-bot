@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293",
+      "store": "MyDealz",
+      "title": "Juice Technology Juice Booster 2 EU Traveller Set Plus",
+      "imageUrl": "https://static.mydealz.de/threads/raw/k9CHY/2725293_1/re/150x150/qt/55/2725293_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Juice Technology Juice Booster 2 EU Traveller Set Plus</b>\n🏪 MyDealz\n💶 Was: 789€ → <b>Now: 2 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Juice Technology Juice Booster 2 EU Traveller Set Plus",
+        "now": "2 €",
+        "was": "789€",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293",
+        "imageUrl": "https://static.mydealz.de/threads/raw/k9CHY/2725293_1/re/150x150/qt/55/2725293_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-01T11:14:57.546Z"
+  "updatedAt": "2026-02-01T12:28:14.444Z"
 }
