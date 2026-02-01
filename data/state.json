@@ -1,56 +1,12 @@
 {
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
-    "mydealz|https://www.mydealz.de/deals/veepee-merrell-stiefel-moab-speed-2-thermo-mid-wp-wanderstiefel-veloursleder-bis-gr-50-2722896",
-    "mydealz|https://www.mydealz.de/deals/nbb-smart-home-week-zb-govee-uplighter-floor-lamp-mit-1000-lm-matter-ready-govee-aqara-shelly-homepilot-trust-mehr-2722746",
-    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-smartwatch-165-music-43mm-schwarz-12-amoled-laufuhr-mit-gps-2714333",
-    "mydealz|https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165",
-    "mydealz|https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
-    "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marktguru-050-eur-cashback-auf-erdbeere-2720243",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/micom-cb-mijia-cross-door-kuhl-gefrierkombination-502l-app-sprach-steuerung-frischezone-2fach-inverter-mit-10-jahren-garantie-e-2720787",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-pro-16tb-nas-interne-festplatte-hdd-35-zoll-7200-umin-cmr-256-mb-cache-amazon-2720774",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-retro-telefon-31174-prime-2720729",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/annke-c300-ip-kamera-bulletdome-mit-onvif-3mp-28-mm-weitwinkel-ir-20m-h265-blcdwdr3d-dnr-poedc12v-ip67-2719183",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/forza-horizon-6-vorbestellung-mit-vpn-2720730",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-6x-freche-freunde-bio-quetschie-joghurt-banane-erdbeere-apfel-himbeere-2720805",
-      "ts": 1769297350130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asterix-maxi-collection-nintendo-switch-6-spiele-nintendo-switch-amazon-france-pegi-inkl-xxl-2-3-ua-2720534",
-      "ts": 1769297350130
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
       "ts": 1769383807165
@@ -334,6 +290,34 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-speedo-unisex-biofuse-20-schwimmbrille-2713733",
       "ts": 1769901208386
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/veepee-merrell-stiefel-moab-speed-2-thermo-mid-wp-wanderstiefel-veloursleder-bis-gr-50-2722896",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nbb-smart-home-week-zb-govee-uplighter-floor-lamp-mit-1000-lm-matter-ready-govee-aqara-shelly-homepilot-trust-mehr-2722746",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-smartwatch-165-music-43mm-schwarz-12-amoled-laufuhr-mit-gps-2714333",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
+      "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
+      "ts": 1769987758737
     }
   ]
 }
