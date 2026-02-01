@@ -1,11 +1,16 @@
 {
   "date": "2026-02-01",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
+    "mydealz|https://www.mydealz.de/deals/veepee-merrell-stiefel-moab-speed-2-thermo-mid-wp-wanderstiefel-veloursleder-bis-gr-50-2722896",
+    "mydealz|https://www.mydealz.de/deals/nbb-smart-home-week-zb-govee-uplighter-floor-lamp-mit-1000-lm-matter-ready-govee-aqara-shelly-homepilot-trust-mehr-2722746",
+    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-smartwatch-165-music-43mm-schwarz-12-amoled-laufuhr-mit-gps-2714333"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cupra-leon-edition-15150pseu-bestellfahrzeug-mit-tzsportstourer-fur-25999eur5-jahre-garantie18accfull-link3-zonen-klima-uvm-2720779",
