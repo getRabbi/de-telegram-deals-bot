@@ -2,154 +2,6 @@
   "date": "2026-02-01",
   "items": [
     {
-      "key": "mydealz|https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
-      "store": "MyDealz",
-      "title": "Titan Upgrade 4-Rad Trolley L 75 cm",
-      "imageUrl": "https://static.mydealz.de/threads/raw/ixs1D/2720802_1/re/150x150/qt/55/2720802_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Titan Upgrade 4-Rad Trolley L 75 cm</b>\n🏪 MyDealz\n💶 Was: 75 € → <b>Now: 4 €</b>\n🔻 Save: 95%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "Titan Upgrade 4-Rad Trolley L 75 cm",
-        "now": "4 €",
-        "was": "75 €",
-        "discountPct": 95,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
-        "imageUrl": "https://static.mydealz.de/threads/raw/ixs1D/2720802_1/re/150x150/qt/55/2720802_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
-      "store": "MyDealz",
-      "title": "104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)",
-      "imageUrl": "https://static.mydealz.de/threads/raw/gQGO0/2720305_1/re/150x150/qt/55/2720305_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)</b>\n🏪 MyDealz\n💶 Was: 104 € → <b>Now: 6 €</b>\n🔻 Save: 94%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)",
-        "now": "6 €",
-        "was": "104 €",
-        "discountPct": 94,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
-        "imageUrl": "https://static.mydealz.de/threads/raw/gQGO0/2720305_1/re/150x150/qt/55/2720305_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
-      "store": "MyDealz",
-      "title": "125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g",
-      "imageUrl": "https://static.mydealz.de/threads/raw/9dSlS/2723325_1/re/150x150/qt/55/2723325_1.jpg",
-      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g</b>\n🏪 MyDealz\n💶 Was: 125 € → <b>Now: 0,03€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "125° - [Lokal] Müller Bahlsen Akora Lebkuchen für 3ct je 150g",
-        "now": "0,03€",
-        "was": "125 €",
-        "discountPct": 100,
-        "isTop": true,
-        "url": "https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
-        "imageUrl": "https://static.mydealz.de/threads/raw/9dSlS/2723325_1/re/150x150/qt/55/2723325_1.jpg",
-        "hashtags": [
-          "#TopDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
-      "store": "MyDealz",
-      "title": "2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650",
-      "imageUrl": "https://static.mydealz.de/threads/raw/ocx4Q/2713567_1/re/150x150/qt/55/2713567_1.jpg",
-      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650</b>\n🏪 MyDealz\n💶 Was: 650 € → <b>Now: 6 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
-      "buttons": [
-        [
-          {
-            "text": "🔗 Open Deal | Deal öffnen",
-            "url": "https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567"
-          }
-        ],
-        [
-          {
-            "text": "📣 Channel",
-            "url": "https://t.me/ofryade"
-          }
-        ]
-      ],
-      "raw": {
-        "store": "MyDealz",
-        "storeTag": "MYDEALZ",
-        "title": "2x Zigbee 6 Achsen Sensor für Automationen bzw Szenen Controller (evtl alternative zum Aqara Cube) tuya Smartlife Münzdeal 650",
-        "now": "6 €",
-        "was": "650 €",
-        "discountPct": 99,
-        "isTop": false,
-        "url": "https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
-        "imageUrl": "https://static.mydealz.de/threads/raw/ocx4Q/2713567_1/re/150x150/qt/55/2713567_1.jpg",
-        "hashtags": [
-          "#NeueDeals",
-          "#MyDealz",
-          "#DeutschlandDeals"
-        ]
-      }
-    },
-    {
       "key": "mydealz|https://www.mydealz.de/deals/paradise-by-check-in-kingston-4-rollen-trolley-67-cm-2720798",
       "store": "MyDealz",
       "title": "Paradise by Check In Kingston 4-Rollen Trolley 67 cm",
@@ -2220,7 +2072,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
+      "store": "MyDealz",
+      "title": "Titan Upgrade 4-Rad Trolley L 75 cm",
+      "imageUrl": "https://static.mydealz.de/threads/raw/ixs1D/2720802_1/re/150x150/qt/55/2720802_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Titan Upgrade 4-Rad Trolley L 75 cm</b>\n🏪 MyDealz\n💶 Was: 75 € → <b>Now: 4 €</b>\n🔻 Save: 95%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Titan Upgrade 4-Rad Trolley L 75 cm",
+        "now": "4 €",
+        "was": "75 €",
+        "discountPct": 95,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
+        "imageUrl": "https://static.mydealz.de/threads/raw/ixs1D/2720802_1/re/150x150/qt/55/2720802_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
+      "store": "MyDealz",
+      "title": "104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/gQGO0/2720305_1/re/150x150/qt/55/2720305_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)</b>\n🏪 MyDealz\n💶 Was: 104 € → <b>Now: 6 €</b>\n🔻 Save: 94%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "104° - Linksys Velop Micro 6 Mesh-WLAN-System (3-Pack)",
+        "now": "6 €",
+        "was": "104 €",
+        "discountPct": 94,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
+        "imageUrl": "https://static.mydealz.de/threads/raw/gQGO0/2720305_1/re/150x150/qt/55/2720305_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-01T16:17:36.157Z"
+  "updatedAt": "2026-02-01T17:17:21.186Z"
 }
