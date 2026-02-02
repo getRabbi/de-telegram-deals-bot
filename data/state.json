@@ -1,11 +1,16 @@
 {
   "date": "2026-02-02",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
+    "mydealz|https://www.mydealz.de/deals/playstation-5-disk-edition-2723565",
+    "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-vollversion-gratis-1-jahr-updates-aktivierung-bis-ende-januar-2026-2723454",
+    "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
