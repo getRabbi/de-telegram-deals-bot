@@ -2,14 +2,17 @@
   "date": "2026-02-02",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
     "mydealz|https://www.mydealz.de/deals/playstation-5-disk-edition-2723565",
     "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-vollversion-gratis-1-jahr-updates-aktivierung-bis-ende-januar-2026-2723454",
-    "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559"
+    "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-joy-con-2-aufladehalterung-fur-1999eur-zzgl-vsk-ebay-euronics-2723698",
+    "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
+    "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730"
   ],
   "postedHistory": [
     {
