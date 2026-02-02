@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
@@ -12,7 +12,10 @@
     "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559",
     "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-joy-con-2-aufladehalterung-fur-1999eur-zzgl-vsk-ebay-euronics-2723698",
     "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
-    "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730"
+    "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730",
+    "mydealz|https://www.mydealz.de/deals/wltoys-124017-v8-112-24g-racing-rc-autos-4wd-burstenlosen-motor-75-kmh-neues-modell-brushless-2723619",
+    "mydealz|https://www.mydealz.de/deals/e-bike-wintersale-giant-stormguard-e-2-i-v1-800-wh-bis-zu-250km-reichweite-s-xl-2723628",
+    "mydealz|https://www.mydealz.de/deals/lumibricks-funwhole-eisdiele-f9078-1948-gobricks-klemmbausteine-mit-integrierter-led-beleuchtung-2723745"
   ],
   "postedHistory": [
     {
