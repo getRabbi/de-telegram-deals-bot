@@ -1,111 +1,12 @@
 {
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
-    "mydealz|https://www.mydealz.de/deals/playstation-5-disk-edition-2723565",
-    "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-vollversion-gratis-1-jahr-updates-aktivierung-bis-ende-januar-2026-2723454",
-    "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559",
-    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-joy-con-2-aufladehalterung-fur-1999eur-zzgl-vsk-ebay-euronics-2723698",
-    "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
-    "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730",
-    "mydealz|https://www.mydealz.de/deals/wltoys-124017-v8-112-24g-racing-rc-autos-4wd-burstenlosen-motor-75-kmh-neues-modell-brushless-2723619",
-    "mydealz|https://www.mydealz.de/deals/e-bike-wintersale-giant-stormguard-e-2-i-v1-800-wh-bis-zu-250km-reichweite-s-xl-2723628",
-    "mydealz|https://www.mydealz.de/deals/lumibricks-funwhole-eisdiele-f9078-1948-gobricks-klemmbausteine-mit-integrierter-led-beleuchtung-2723745"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mymediamarkt-apple-zubehor-sale-zb-magic-keyboard-fur-ipad-pro-11-m4-magic-keyboards-smart-folios-fine-woven-cases-wallets-uvm-2720525",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-verlangerungskabel-5m-mit-flachstecker-doppeldose-fur-995eur-statt-14eur-2720677",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-anno-bundle-909eur-inhalt-anno-1404-gold-edition-anno-1503-anno-1602-anno-1701-pc-2720665",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-coreway-rolltop-20l-rucksack-4-farben-2720793",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ps-store-two-point-hospital-and-two-point-campus-double-pack-ps4-ps5-2720773",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dominos-speyer-5-eur-rabatt-lokales-angebot-2720816",
-      "ts": 1769383807165
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-lupilu-spieltunnel-inkl-tasche-mit-tragegriffen-2720789",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/only-sons-herren-onsceres-crew-neck-noos-sweatshirt-in-silver-lining-oder-rosin-xs-bis-xxl-prime-2720423",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eichhorn-nachzieh-grashupfer-mit-beweglichen-beinen-und-gerauschlosen-silikonradern-16-cm-lang-aus-100-fsc-prime-2720531",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77257-mclaren-w1-2720756",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/doom-3-playstation-ps4-usk-18-digitaler-download-bethesda-incl-resurrection-of-evil-the-lost-missions-at-ps-store-2720785",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f7-12gb-512gb-alle-farben-2720799",
-      "ts": 1769383807165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-damen-essentials-small-logo-french-terry-cargo-shorts-grossen-xs-xl-prime-2720814",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-terrex-soulstride-trailrunning-schuhe-gr-39-bis-47-amazon-2720668",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lian-li-uni-fan-p28-weiss-120mm-2720808",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sommerschnapper-pool-set-steel-pro-mit-filterpumpe-o-366-x-h-76-cm-2720540",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/milka-tender-milch-21-x-35g-amazon-abo-preis-2720796",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dishonored-death-of-the-outsider-standard-edition-ps4-playstation-digitaler-download-usk-18-bethesda-at-ps-store-2720813",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-kleiderbugel-holz-30er-set-holzbugel-schlank-bugel-platzsparend-hosenbugel-360-drehbarer-haken-birkenholz-amazon-mp-2720724",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bershka-plateau-stiefel-mit-fellfutter-2720815",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dyson-airwrap-complete-long-multi-haar-styler-refurb-fur-29880eur-statt-neu-592eur-2720764",
-      "ts": 1769469225469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-torx-bitsatz-13-teilig-t4-t5-t6-t7-t8-t9-t10-t15-t20-t25-t27-t30-t40-2720811",
-      "ts": 1769469225469
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-garant-v2-ip44-kabeltrommel-50m-outdoor-2720747",
       "ts": 1769555619378
@@ -329,6 +230,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
       "ts": 1769987758737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-disk-edition-2723565",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-vollversion-gratis-1-jahr-updates-aktivierung-bis-ende-januar-2026-2723454",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-joy-con-2-aufladehalterung-fur-1999eur-zzgl-vsk-ebay-euronics-2723698",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wltoys-124017-v8-112-24g-racing-rc-autos-4wd-burstenlosen-motor-75-kmh-neues-modell-brushless-2723619",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/e-bike-wintersale-giant-stormguard-e-2-i-v1-800-wh-bis-zu-250km-reichweite-s-xl-2723628",
+      "ts": 1770074355176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lumibricks-funwhole-eisdiele-f9078-1948-gobricks-klemmbausteine-mit-integrierter-led-beleuchtung-2723745",
+      "ts": 1770074355176
     }
   ]
 }
