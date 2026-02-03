@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/siwitec-flusterkompressor-sk-550-8-bar-6-liter-550w-olfrei-inkl-manometer-50-lmin-liefermenge-2726505",
+      "store": "MyDealz",
+      "title": "siwitec Flüsterkompressor SK-550 | 8 bar | 6 Liter | 550W | Ölfrei | inkl. Manometer | 50 L/min Liefermenge",
+      "imageUrl": "https://static.mydealz.de/threads/raw/eS7nn/2726505_1/re/150x150/qt/55/2726505_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>siwitec Flüsterkompressor SK-550 | 8 bar | 6 Liter | 550W | Ölfrei | inkl. Manometer | 50 L/min Liefermenge</b>\n🏪 MyDealz\n💶 Was: 550 € → <b>Now: 8 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/siwitec-flusterkompressor-sk-550-8-bar-6-liter-550w-olfrei-inkl-manometer-50-lmin-liefermenge-2726505"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "siwitec Flüsterkompressor SK-550 | 8 bar | 6 Liter | 550W | Ölfrei | inkl. Manometer | 50 L/min Liefermenge",
+        "now": "8 €",
+        "was": "550 €",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/siwitec-flusterkompressor-sk-550-8-bar-6-liter-550w-olfrei-inkl-manometer-50-lmin-liefermenge-2726505",
+        "imageUrl": "https://static.mydealz.de/threads/raw/eS7nn/2726505_1/re/150x150/qt/55/2726505_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-03T11:27:34.227Z"
+  "updatedAt": "2026-02-03T12:36:53.227Z"
 }
