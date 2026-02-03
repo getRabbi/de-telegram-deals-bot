@@ -3,13 +3,14 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-der-susse-hamster-und-die-blume-31376-fur-679-euro-thalia-kultclub-2723316",
     "mydealz|https://www.mydealz.de/deals/gozney-dome-xl-gen-2-multi-fuel-pizzaofen-platz-fur-bis-zu-3-pizzen-mit-gas-holz-undoder-holzkohle-befeuerbar-bis-zu-500-c-moglich-2724082",
     "mydealz|https://www.mydealz.de/deals/aok-bayern-1-paar-gratis-laufsocken-grosse-35-50-neuer-deal-2724057",
-    "mydealz|https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300"
+    "mydealz|https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-kneipp-aroma-pflegeschaumbad-goodbye-stress-badezusatz-mit-atherischen-olen-aus-rosmarin-wasserminze-400ml-2712549"
   ],
   "postedHistory": [
     {
