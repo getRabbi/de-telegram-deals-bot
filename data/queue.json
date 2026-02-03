@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662",
+      "store": "MyDealz",
+      "title": "205° - (CB Deal) WD Red Plus-NAS-Festplatte 3,5 Zoll - 6 TB",
+      "imageUrl": "https://static.mydealz.de/threads/raw/tO6Sz/2726662_1/re/150x150/qt/55/2726662_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>205° - (CB Deal) WD Red Plus-NAS-Festplatte 3,5 Zoll - 6 TB</b>\n🏪 MyDealz\n💶 Was: 205 € → <b>Now: 3 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "205° - (CB Deal) WD Red Plus-NAS-Festplatte 3,5 Zoll - 6 TB",
+        "now": "3 €",
+        "was": "205 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662",
+        "imageUrl": "https://static.mydealz.de/threads/raw/tO6Sz/2726662_1/re/150x150/qt/55/2726662_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-03T17:44:24.987Z"
+  "updatedAt": "2026-02-03T18:42:46.518Z"
 }
