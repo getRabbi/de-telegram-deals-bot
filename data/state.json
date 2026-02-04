@@ -1,11 +1,14 @@
 {
   "date": "2026-02-04",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lenovo-v15-g4-amn-business-black-ryzen-5-7520u-16gb-ram-512gb-ssd-de-2724657",
+    "mydealz|https://www.mydealz.de/deals/ikea-family-business-coupon-bis-1000-euro-beim-kuchenkauf-erhalten-ab-2500-euro-warenwert-gultig-bis-28032026-2724618"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-figment-1-und-figment-2-creed-valley-bundle-zum-neuen-bestpreis-fur-nintendo-switch-2682877",
