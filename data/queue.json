@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230",
+      "store": "MyDealz",
+      "title": "160° - [Müller] Haribo Fruchtgummi Love Edition 160g (Online 0,59€)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/qHWFu/2727230_1/re/150x150/qt/55/2727230_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>160° - [Müller] Haribo Fruchtgummi Love Edition 160g (Online 0,59€)</b>\n🏪 MyDealz\n💶 Was: 160 € → <b>Now: 0,59€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "160° - [Müller] Haribo Fruchtgummi Love Edition 160g (Online 0,59€)",
+        "now": "0,59€",
+        "was": "160 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230",
+        "imageUrl": "https://static.mydealz.de/threads/raw/qHWFu/2727230_1/re/150x150/qt/55/2727230_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315",
+      "store": "MyDealz",
+      "title": "151° - Netzentgelte reduzieren nach EnWG 14a mit einer steuerbaren Verbrauchseinrichtung",
+      "imageUrl": "https://static.mydealz.de/threads/raw/uKe8F/2727315_1/re/150x150/qt/55/2727315_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>151° - Netzentgelte reduzieren nach EnWG 14a mit einer steuerbaren Verbrauchseinrichtung</b>\n🏪 MyDealz\n💶 Was: 151 € → <b>Now: 0,03€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "151° - Netzentgelte reduzieren nach EnWG 14a mit einer steuerbaren Verbrauchseinrichtung",
+        "now": "0,03€",
+        "was": "151 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315",
+        "imageUrl": "https://static.mydealz.de/threads/raw/uKe8F/2727315_1/re/150x150/qt/55/2727315_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-04T17:38:46.880Z"
+  "updatedAt": "2026-02-04T18:36:01.885Z"
 }
