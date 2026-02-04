@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lenovo-v15-g4-amn-business-black-ryzen-5-7520u-16gb-ram-512gb-ssd-de-2724657",
@@ -11,7 +11,9 @@
     "mydealz|https://www.mydealz.de/deals/topcashback-3-geforce-rtx-5070-ti-gamingpro-s-16gb-grafikkarte-2724772",
     "mydealz|https://www.mydealz.de/deals/venom-tragetasche-panzerglas-fur-nintendo-switch-2-venom-switch-2-case-inkl-displayschutzfolie-amazon-prime-2718252",
     "mydealz|https://www.mydealz.de/deals/strellson-rucksack-stockwell-20-eddie-in-khaki-laptopfach-mit-klettverschluss-2724444",
-    "mydealz|https://www.mydealz.de/deals/karcher-akku-nasstrockensauger-wd-1-compact-inkl-akkuladegerat-2724698"
+    "mydealz|https://www.mydealz.de/deals/karcher-akku-nasstrockensauger-wd-1-compact-inkl-akkuladegerat-2724698",
+    "mydealz|https://www.mydealz.de/deals/bmw-ce-04-roller-42ps-130km-reichweite-headlight-pro-heizgriffe-sitzheizung-dynamik-paket-fahrmodi-pro-tageszulassung-2714757",
+    "mydealz|https://www.mydealz.de/deals/byd-seal-6-dm-i-touring-comfort-hybrid-212ps-beluftetebeheizte-vordersitze-parkradar-360-kamera-konfigurierbares-neufahrzeug-2711215"
   ],
   "postedHistory": [
     {
