@@ -3,12 +3,14 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/prime-philips-ledclassic-lampe-50w-gu10-2-er-pack-neutralweiss-4000-kelvin-390-lumen-reflektor-cool-white-2725087",
     "mydealz|https://www.mydealz.de/deals/rennrad-giant-liv-langma-advanced-1-carbon-rahmenlrsss105-di2-2024-l-2725139",
-    "mydealz|https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293"
+    "mydealz|https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293",
+    "mydealz|https://www.mydealz.de/deals/gog-adventure-sammeldeal-preise-ab-079eur-zb-mit-gabriel-knight-jack-keane-monkey-island-phantasmagoria-maniac-mansion-the-dig-uvm-2725417",
+    "mydealz|https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423"
   ],
   "postedHistory": [
     {
