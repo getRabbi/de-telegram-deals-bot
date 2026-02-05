@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
+      "store": "MyDealz",
+      "title": "Google Pixel 9 Pro XL 128GB Obsidian",
+      "imageUrl": "https://static.mydealz.de/threads/raw/7efc1/2727795_1/re/150x150/qt/55/2727795_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Google Pixel 9 Pro XL 128GB Obsidian</b>\n🏪 MyDealz\n💶 Was: 619,83€ → <b>Now: 9 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Google Pixel 9 Pro XL 128GB Obsidian",
+        "now": "9 €",
+        "was": "619,83€",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
+        "imageUrl": "https://static.mydealz.de/threads/raw/7efc1/2727795_1/re/150x150/qt/55/2727795_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-05T11:29:10.395Z"
+  "updatedAt": "2026-02-05T12:38:41.201Z"
 }
