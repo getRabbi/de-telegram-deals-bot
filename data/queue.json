@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967",
+      "store": "MyDealz",
+      "title": "115° - eSIM.io: eSIM mit 500MB für 1 Tag kostenlos - EU, US, UK, Türkei, Schweiz (Neukunden)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/oWe2a/2727967_1/re/150x150/qt/55/2727967_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>115° - eSIM.io: eSIM mit 500MB für 1 Tag kostenlos - EU, US, UK, Türkei, Schweiz (Neukunden)</b>\n🏪 MyDealz\n💶 Was: 115 € → <b>Now: 1 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "115° - eSIM.io: eSIM mit 500MB für 1 Tag kostenlos - EU, US, UK, Türkei, Schweiz (Neukunden)",
+        "now": "1 €",
+        "was": "115 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967",
+        "imageUrl": "https://static.mydealz.de/threads/raw/oWe2a/2727967_1/re/150x150/qt/55/2727967_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076",
+      "store": "MyDealz",
+      "title": "CAPTIVA G19A 25V1 R92-465 - AMD Ryzen 7 7800X3D - 32 GB - 1 TB - NVIDIA GeForce RTX 5070 Ti - Windows 11 Home",
+      "imageUrl": "https://static.mydealz.de/threads/raw/3mxHd/2728076_1/re/150x150/qt/55/2728076_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>CAPTIVA G19A 25V1 R92-465 - AMD Ryzen 7 7800X3D - 32 GB - 1 TB - NVIDIA GeForce RTX 5070 Ti - Windows 11 Home</b>\n🏪 MyDealz\n💶 Was: 465 € → <b>Now: 7 €</b>\n🔻 Save: 98%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "CAPTIVA G19A 25V1 R92-465 - AMD Ryzen 7 7800X3D - 32 GB - 1 TB - NVIDIA GeForce RTX 5070 Ti - Windows 11 Home",
+        "now": "7 €",
+        "was": "465 €",
+        "discountPct": 98,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076",
+        "imageUrl": "https://static.mydealz.de/threads/raw/3mxHd/2728076_1/re/150x150/qt/55/2728076_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-05T17:40:51.150Z"
+  "updatedAt": "2026-02-05T18:37:01.783Z"
 }
