@@ -1,11 +1,16 @@
 {
   "date": "2026-02-06",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
+    "mydealz|https://www.mydealz.de/deals/gothic-classic-khorinis-saga-gothic-12-nintendo-switch-amazon-prime-2725591",
+    "mydealz|https://www.mydealz.de/deals/heide-park-soltau-1-ubernachtung-buchen-jahreskarte-geschenkt-2725680",
+    "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0526-2721326",
