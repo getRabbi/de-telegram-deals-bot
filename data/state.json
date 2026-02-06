@@ -2,14 +2,17 @@
   "date": "2026-02-06",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
     "mydealz|https://www.mydealz.de/deals/gothic-classic-khorinis-saga-gothic-12-nintendo-switch-amazon-prime-2725591",
     "mydealz|https://www.mydealz.de/deals/heide-park-soltau-1-ubernachtung-buchen-jahreskarte-geschenkt-2725680",
-    "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605"
+    "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605",
+    "mydealz|https://www.mydealz.de/deals/kaufland-66333-volklingen-ravensburger-puzzle-sowie-rollgo-fur-1-cent-preis-sollte-bundesweit-hinterlegt-sein-kassenfehler-2725842",
+    "mydealz|https://www.mydealz.de/deals/hori-horipad-turbo-controller-pokemon-gengar-mimikyu-fur-nintendo-switch-12-mit-turbo-rucktasten-funktion-offiziell-lizenziert-2725802",
+    "mydealz|https://www.mydealz.de/deals/gewerbeleasing-hyundai-tucson16-t-gdi-dct-n-line-fur-99eur-mtl-1190eur-uf-lf-027-gf-040-24-monate-10000-km-eff-14858-eur-2725773"
   ],
   "postedHistory": [
     {
