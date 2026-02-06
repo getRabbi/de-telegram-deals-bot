@@ -1,70 +1,12 @@
 {
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
-    "mydealz|https://www.mydealz.de/deals/gothic-classic-khorinis-saga-gothic-12-nintendo-switch-amazon-prime-2725591",
-    "mydealz|https://www.mydealz.de/deals/heide-park-soltau-1-ubernachtung-buchen-jahreskarte-geschenkt-2725680",
-    "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605",
-    "mydealz|https://www.mydealz.de/deals/kaufland-66333-volklingen-ravensburger-puzzle-sowie-rollgo-fur-1-cent-preis-sollte-bundesweit-hinterlegt-sein-kassenfehler-2725842",
-    "mydealz|https://www.mydealz.de/deals/hori-horipad-turbo-controller-pokemon-gengar-mimikyu-fur-nintendo-switch-12-mit-turbo-rucktasten-funktion-offiziell-lizenziert-2725802",
-    "mydealz|https://www.mydealz.de/deals/gewerbeleasing-hyundai-tucson16-t-gdi-dct-n-line-fur-99eur-mtl-1190eur-uf-lf-027-gf-040-24-monate-10000-km-eff-14858-eur-2725773",
-    "mydealz|https://www.mydealz.de/deals/mg-4-mg4-elektro-170ps-51-kwh-350km-reichweite-led-acc-pdc-navi-carplay-klimaautomatik-etc-versch-farben-eu-tageszul-2694158",
-    "mydealz|https://www.mydealz.de/deals/tonnissteiner-go-fresh-limo-orange-zitrone-exotic-2726091"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0526-2721326",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-new-balance-574-4-farben-kleinere-grossen-bis-40-5181eur-63eur-2717665",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mould-king-20011-mammoth-tank-panzer-3296-teile-klemmbausteine-set-mit-6-motoren-2700003",
-      "ts": 1769728661430
-    },
-    {
-      "key": "rewe|https://www.mydealz.de/deals/rewe-eff-106-statt-269-eur-fur-2-x-grunlander-mild-nussig-scheiben-und-1-x-naturfreunde-tilsiter-scheiben-2720680",
-      "ts": 1769728661430
-    },
-    {
-      "key": "rewe|https://www.mydealz.de/deals/rewe-app-oatly-haferdrink-barista-edition-versch-sorten-je-1l-010eur-bonus-guthaben-2721461",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/herkules-by-einhell-hse-iw-1100-e5-benzin-stromerzeuger-11-kw-fur-10999eur-statt-180eur-2721432",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-magnesium-kaliumchlorid-cholin-b-vitamine-15-beutel-prime-sparabo-2712580",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pampers-maxi-economy-pack-baby-dry-pants-premium-protection-kaufland-mit-kaufland-card-gr-3-8-ab-014-eur-stuck-2721438",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rennrad-bmc-roadmachine-01-x-one-carbon-rahmenlrs35ssvorbau-dampfer-20mmforce-axs-2024-56cm-2721640",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ryzen-9-5900x-rtx4070-12gb-32gb-ddr4-2721628",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thomas-philipps-duschdas-xxl-duschgel-450ml-verschiedene-sorten-zb-for-men-limette-minze-magnolie-2721589",
-      "ts": 1769728661430
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/union-glashutte-belisar-herren-automatikchronograph-mondphase-fur-3132eur-rm-time-2721599",
-      "ts": 1769728661430
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
       "ts": 1769815043789
@@ -268,6 +210,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423",
       "ts": 1770333374165
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gothic-classic-khorinis-saga-gothic-12-nintendo-switch-amazon-prime-2725591",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/heide-park-soltau-1-ubernachtung-buchen-jahreskarte-geschenkt-2725680",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-66333-volklingen-ravensburger-puzzle-sowie-rollgo-fur-1-cent-preis-sollte-bundesweit-hinterlegt-sein-kassenfehler-2725842",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hori-horipad-turbo-controller-pokemon-gengar-mimikyu-fur-nintendo-switch-12-mit-turbo-rucktasten-funktion-offiziell-lizenziert-2725802",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gewerbeleasing-hyundai-tucson16-t-gdi-dct-n-line-fur-99eur-mtl-1190eur-uf-lf-027-gf-040-24-monate-10000-km-eff-14858-eur-2725773",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mg-4-mg4-elektro-170ps-51-kwh-350km-reichweite-led-acc-pdc-navi-carplay-klimaautomatik-etc-versch-farben-eu-tageszul-2694158",
+      "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tonnissteiner-go-fresh-limo-orange-zitrone-exotic-2726091",
+      "ts": 1770419831947
     }
   ]
 }
