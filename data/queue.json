@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
+      "store": "MyDealz",
+      "title": "649° - Vaude Aqua Back Fahrradtasche (Paar, 2*24l), blau, rot",
+      "imageUrl": "https://static.mydealz.de/threads/raw/TTwwV/2717947_1/re/150x150/qt/55/2717947_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>649° - Vaude Aqua Back Fahrradtasche (Paar, 2*24l), blau, rot</b>\n🏪 MyDealz\n💶 Was: 649 € → <b>Now: 2 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "649° - Vaude Aqua Back Fahrradtasche (Paar, 2*24l), blau, rot",
+        "now": "2 €",
+        "was": "649 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
+        "imageUrl": "https://static.mydealz.de/threads/raw/TTwwV/2717947_1/re/150x150/qt/55/2717947_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-07T11:15:16.514Z"
+  "updatedAt": "2026-02-07T12:27:21.932Z"
 }
