@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194",
+      "store": "MyDealz",
+      "title": "218° - Hyundai i30 1.6 Family|150PS|Automatik|5 J. Garantie|EU Bestellfahrzeug|Navi|Rückfahrkamera|LED|Sitzheizung|Lenkradheizung|Privacy uvm.",
+      "imageUrl": "https://static.mydealz.de/threads/raw/Um7zm/2729194_1/re/150x150/qt/55/2729194_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>218° - Hyundai i30 1.6 Family|150PS|Automatik|5 J. Garantie|EU Bestellfahrzeug|Navi|Rückfahrkamera|LED|Sitzheizung|Lenkradheizung|Privacy uvm.</b>\n🏪 MyDealz\n💶 Was: 218 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "218° - Hyundai i30 1.6 Family|150PS|Automatik|5 J. Garantie|EU Bestellfahrzeug|Navi|Rückfahrkamera|LED|Sitzheizung|Lenkradheizung|Privacy uvm.",
+        "now": "1 €",
+        "was": "218 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194",
+        "imageUrl": "https://static.mydealz.de/threads/raw/Um7zm/2729194_1/re/150x150/qt/55/2729194_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-07T17:19:08.251Z"
+  "updatedAt": "2026-02-07T18:21:33.429Z"
 }
