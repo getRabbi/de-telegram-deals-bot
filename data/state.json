@@ -1,82 +1,12 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77241-2-fast-2-furious-honda-s2000-muller-exklusiv-set-abholung-2726278",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-luftbefeuchter-2-lite-4-l-tank-300-mlh-999-antibakteriell-silberionen-top-fill-38-dba-360-nebelauslass-2726321",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-nivea-duschgel-250ml-zb-nivea-men-alpine-breeze-artist-edition-3in1-prime-spar-abo-2726259",
-    "mydealz|https://www.mydealz.de/deals/siwitec-flusterkompressor-sk-550-8-bar-6-liter-550w-olfrei-inkl-manometer-50-lmin-liefermenge-2726505",
-    "mydealz|https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
-      "ts": 1769815043789
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eintritt-technikmuseum-sinsheim-inkl-3d-kino-1-un-ggf-fruhstuck-ab-59eur-pp-2721885",
-      "ts": 1769815043789
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-kao-the-kangaroo-zum-neuen-bestpreis-fur-nintendo-switch-zaf-265eur-nor-303eur-2721846",
-      "ts": 1769815043789
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-neo-2-nur-drohne-2722089",
-      "ts": 1769815043789
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/12gb-sparkle-arc-b580-titan-oc-sb580t-12goc-gddr6-hdmi-3x-dp-grafikkarte-1-von-4-spielen-gratis-2722227",
-      "ts": 1769815043789
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/diamant-mandara-gen-3-545-wh-e-bike-herren-275-ml-2722476",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-frosta-fertiggericht-in-versch-sorten-je-375g-beutel-fur-2eur-2722422",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marklin-29430-marklin-my-world-startpackung-ice-3-filiallieferung-2722426",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gregor-kartsios-das-nerd-abc-das-abc-der-videospiele-teil-12-die-grosse-bucket-list-des-gaming-gebundene-ausgabe-mangelexemplar-2722566",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dremel-3000-multifunktionswerkzeug-130w-set-mit-1-aufsatz-25-zubehorteilen-koffer-variable-drehzahl-10000-33000-umin-2722388",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zotac-geforce-rtx-5090-solid-oc-grafikkarte-2722627",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/metroid-prime-4-beyond-nintendo-switch-2-fur-4699eur-inkl-versand-ebay-2722541",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lenovo-legion-r27qe-gen-2-27-qhd-wled-gaming-monitor-2560x1440-169-200-hz-ips-panel-05ms-reaktionszeit-2720862",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-smart-16150-psautomatikgetriebeeu-bestellfahrzeugnavigationwinterpaketruckfahrkameraprivacy-verglasung-uvm-2722723",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dazn-nfl-gamepass-super-bowl-lx-2722751",
-      "ts": 1769901208386
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-speedo-unisex-biofuse-20-schwimmbrille-2713733",
-      "ts": 1769901208386
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
       "ts": 1769987758737
@@ -252,6 +182,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/tonnissteiner-go-fresh-limo-orange-zitrone-exotic-2726091",
       "ts": 1770419831947
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77241-2-fast-2-furious-honda-s2000-muller-exklusiv-set-abholung-2726278",
+      "ts": 1770506398645
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-luftbefeuchter-2-lite-4-l-tank-300-mlh-999-antibakteriell-silberionen-top-fill-38-dba-360-nebelauslass-2726321",
+      "ts": 1770506398645
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-nivea-duschgel-250ml-zb-nivea-men-alpine-breeze-artist-edition-3in1-prime-spar-abo-2726259",
+      "ts": 1770506398645
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/siwitec-flusterkompressor-sk-550-8-bar-6-liter-550w-olfrei-inkl-manometer-50-lmin-liefermenge-2726505",
+      "ts": 1770506398645
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662",
+      "ts": 1770506398645
     }
   ]
 }
