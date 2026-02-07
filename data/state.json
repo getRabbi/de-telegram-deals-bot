@@ -1,11 +1,15 @@
 {
   "date": "2026-02-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77241-2-fast-2-furious-honda-s2000-muller-exklusiv-set-abholung-2726278",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-luftbefeuchter-2-lite-4-l-tank-300-mlh-999-antibakteriell-silberionen-top-fill-38-dba-360-nebelauslass-2726321",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-nivea-duschgel-250ml-zb-nivea-men-alpine-breeze-artist-edition-3in1-prime-spar-abo-2726259"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kaufland-126-eur-statt-249-eur-fur-knoppers-8er-pack-200-g-durch-1-eur-coupon-beim-kauf-von-3-artikeln-2721442",
