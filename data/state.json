@@ -1,48 +1,12 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681",
-    "lidl|https://www.mydealz.de/deals/kase-laugenstange-fur-024eur-ab-3-stuck-lidl-2726678",
-    "mydealz|https://www.mydealz.de/deals/kirby-air-riders-switch-2-kirby-air-riders-merch-paket-ein-notizbuch-aufkleber-und-ein-lesezeichen-lieferung-an-paketshop-alza-2721941",
-    "mydealz|https://www.mydealz.de/deals/valentinstag-holiday-on-ice-cinema-of-dreams-preisklasse-1-ticket-in-6-stadten-0703-2604-2727035",
-    "mydealz|https://www.mydealz.de/deals/oneaware-bekleidung-jeden-tag-ein-code-mit-1-bis-100-rabatt-2727097",
-    "mydealz|https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230",
-    "mydealz|https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/veepee-merrell-stiefel-moab-speed-2-thermo-mid-wp-wanderstiefel-veloursleder-bis-gr-50-2722896",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nbb-smart-home-week-zb-govee-uplighter-floor-lamp-mit-1000-lm-matter-ready-govee-aqara-shelly-homepilot-trust-mehr-2722746",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-smartwatch-165-music-43mm-schwarz-12-amoled-laufuhr-mit-gps-2714333",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-burnhard-gasgrill-4-brenner-inkl-backburner-900c-infrarot-keramikbrenner-seitenkochfeld-gusseisenrost-abdeckhaube-deluxe-2723165",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/muller-bahlsen-akora-lebkuchen-fur-3ct-je-150g-2723325",
-      "ts": 1769987758737
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-zigbee-6-achsen-sensor-fur-automationen-bzw-szenen-controller-evtl-alternative-zum-aqara-cube-tuya-smartlife-2713567",
-      "ts": 1769987758737
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
       "ts": 1770074355176
@@ -210,6 +174,34 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/cb-deal-wd-red-plus-nas-festplatte-35-zoll-6-tb-2726662",
       "ts": 1770506398645
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681",
+      "ts": 1770592890503
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/kase-laugenstange-fur-024eur-ab-3-stuck-lidl-2726678",
+      "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kirby-air-riders-switch-2-kirby-air-riders-merch-paket-ein-notizbuch-aufkleber-und-ein-lesezeichen-lieferung-an-paketshop-alza-2721941",
+      "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/valentinstag-holiday-on-ice-cinema-of-dreams-preisklasse-1-ticket-in-6-stadten-0703-2604-2727035",
+      "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oneaware-bekleidung-jeden-tag-ein-code-mit-1-bis-100-rabatt-2727097",
+      "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230",
+      "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315",
+      "ts": 1770592890503
     }
   ]
 }
