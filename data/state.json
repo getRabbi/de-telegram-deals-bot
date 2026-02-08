@@ -1,11 +1,13 @@
 {
   "date": "2026-02-08",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/mould-king-porsche-935-sports-car-10167-mit-originalverpackung-1717-klemmbausteine-aliexpress-2710488",
