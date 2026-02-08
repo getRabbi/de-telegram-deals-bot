@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
+      "store": "MyDealz",
+      "title": "130° - GHOST Riot EN AL Full Party (L, XL)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/JgV8G/2729613_1/re/150x150/qt/55/2729613_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>130° - GHOST Riot EN AL Full Party (L, XL)</b>\n🏪 MyDealz\n💶 Was: 130 € → <b>Now: 1.948€</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "130° - GHOST Riot EN AL Full Party (L, XL)",
+        "now": "1.948€",
+        "was": "130 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
+        "imageUrl": "https://static.mydealz.de/threads/raw/JgV8G/2729613_1/re/150x150/qt/55/2729613_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537",
+      "store": "MyDealz",
+      "title": "162° - Eddy Merckx Strasbourg Aluminium Gravelbike Shimano GRX400 2x10",
+      "imageUrl": "https://static.mydealz.de/threads/raw/YrJdq/2729537_1/re/150x150/qt/55/2729537_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>162° - Eddy Merckx Strasbourg Aluminium Gravelbike Shimano GRX400 2x10</b>\n🏪 MyDealz\n💶 Was: 162 € → <b>Now: 1.098€</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "162° - Eddy Merckx Strasbourg Aluminium Gravelbike Shimano GRX400 2x10",
+        "now": "1.098€",
+        "was": "162 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537",
+        "imageUrl": "https://static.mydealz.de/threads/raw/YrJdq/2729537_1/re/150x150/qt/55/2729537_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-08T17:19:03.055Z"
+  "updatedAt": "2026-02-08T18:22:42.180Z"
 }
