@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
+      "store": "MyDealz",
+      "title": "[Edeka Nord] Buko Frischkäse 200 g für 0,88 €",
+      "imageUrl": "https://static.mydealz.de/threads/raw/5A1t0/2729378_1/re/150x150/qt/55/2729378_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[Edeka Nord] Buko Frischkäse 200 g für 0,88 €</b>\n🏪 MyDealz\n💶 Was: 200 € → <b>Now: 0,88 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[Edeka Nord] Buko Frischkäse 200 g für 0,88 €",
+        "now": "0,88 €",
+        "was": "200 €",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
+        "imageUrl": "https://static.mydealz.de/threads/raw/5A1t0/2729378_1/re/150x150/qt/55/2729378_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-08T07:32:47.461Z"
+  "updatedAt": "2026-02-08T08:21:41.268Z"
 }
