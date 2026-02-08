@@ -2,11 +2,15 @@
   "date": "2026-02-08",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681"
+    "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681",
+    "lidl|https://www.mydealz.de/deals/kase-laugenstange-fur-024eur-ab-3-stuck-lidl-2726678",
+    "mydealz|https://www.mydealz.de/deals/kirby-air-riders-switch-2-kirby-air-riders-merch-paket-ein-notizbuch-aufkleber-und-ein-lesezeichen-lieferung-an-paketshop-alza-2721941",
+    "mydealz|https://www.mydealz.de/deals/valentinstag-holiday-on-ice-cinema-of-dreams-preisklasse-1-ticket-in-6-stadten-0703-2604-2727035",
+    "mydealz|https://www.mydealz.de/deals/oneaware-bekleidung-jeden-tag-ein-code-mit-1-bis-100-rabatt-2727097"
   ],
   "postedHistory": [
     {
