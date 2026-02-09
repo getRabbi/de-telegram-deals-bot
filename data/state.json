@@ -1,56 +1,12 @@
 {
-  "date": "2026-02-09",
+  "date": "2026-02-10",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
-    "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-disk-edition-2723565",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-vollversion-gratis-1-jahr-updates-aktivierung-bis-ende-januar-2026-2723454",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/decathlon-fouganza-winter-reitjacke-580-damen-2000-mm-wassersaule-grossen-s-xl-xxl-2723559",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-joy-con-2-aufladehalterung-fur-1999eur-zzgl-vsk-ebay-euronics-2723698",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/huiquibao-bausteine-808-teile-motorrad-zu-nem-top-preis-2723730",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wltoys-124017-v8-112-24g-racing-rc-autos-4wd-burstenlosen-motor-75-kmh-neues-modell-brushless-2723619",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/e-bike-wintersale-giant-stormguard-e-2-i-v1-800-wh-bis-zu-250km-reichweite-s-xl-2723628",
-      "ts": 1770074355176
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lumibricks-funwhole-eisdiele-f9078-1948-gobricks-klemmbausteine-mit-integrierter-led-beleuchtung-2723745",
-      "ts": 1770074355176
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-der-susse-hamster-und-die-blume-31376-fur-679-euro-thalia-kultclub-2723316",
       "ts": 1770160812908
@@ -206,6 +162,18 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315",
       "ts": 1770592890503
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
+      "ts": 1770679724598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
+      "ts": 1770679724598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076",
+      "ts": 1770679724598
     }
   ]
 }
