@@ -3,11 +3,12 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795"
+    "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
+    "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076"
   ],
   "postedHistory": [
     {
