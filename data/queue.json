@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196",
+      "store": "MyDealz",
+      "title": "981° - LEGO Creator 3-in-1-Set 31378 Weltraumteleskop, Müller Exklusiv Set (Abholung)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/HCQ2k/2721196_1/re/150x150/qt/55/2721196_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>981° - LEGO Creator 3-in-1-Set 31378 Weltraumteleskop, Müller Exklusiv Set (Abholung)</b>\n🏪 MyDealz\n💶 Was: 981 € → <b>Now: 3 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "981° - LEGO Creator 3-in-1-Set 31378 Weltraumteleskop, Müller Exklusiv Set (Abholung)",
+        "now": "3 €",
+        "was": "981 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196",
+        "imageUrl": "https://static.mydealz.de/threads/raw/HCQ2k/2721196_1/re/150x150/qt/55/2721196_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-09T17:42:59.859Z"
+  "updatedAt": "2026-02-09T18:44:34.956Z"
 }
