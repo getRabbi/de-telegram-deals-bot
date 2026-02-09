@@ -2,11 +2,12 @@
   "date": "2026-02-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716"
+    "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795"
   ],
   "postedHistory": [
     {
