@@ -1,11 +1,13 @@
 {
   "date": "2026-02-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/siemens-eq6-plus-s700-te657313rw-2723570",
