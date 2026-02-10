@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-7-7l800x3d-32gb-ddr5-6000mhz-ram-asus-radeon-rx9070-xt-16gb-2730827",
+      "store": "MyDealz",
+      "title": "Gaming PC konfigurierbar - Ryzen 7 7800X3D, 32GB DDR5 6000Mhz RAM, ASUS Radeon RX9070 XT 16GB",
+      "imageUrl": "https://static.mydealz.de/threads/raw/jGk32/2730827_1/re/150x150/qt/55/2730827_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Gaming PC konfigurierbar - Ryzen 7 7800X3D, 32GB DDR5 6000Mhz RAM, ASUS Radeon RX9070 XT 16GB</b>\n🏪 MyDealz\n💶 Was: 1.808,85€ → <b>Now: 7 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-7-7l800x3d-32gb-ddr5-6000mhz-ram-asus-radeon-rx9070-xt-16gb-2730827"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Gaming PC konfigurierbar - Ryzen 7 7800X3D, 32GB DDR5 6000Mhz RAM, ASUS Radeon RX9070 XT 16GB",
+        "now": "7 €",
+        "was": "1.808,85€",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-7-7l800x3d-32gb-ddr5-6000mhz-ram-asus-radeon-rx9070-xt-16gb-2730827",
+        "imageUrl": "https://static.mydealz.de/threads/raw/jGk32/2730827_1/re/150x150/qt/55/2730827_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/canyon-neuronon-6-grosse-xl-2730820",
+      "store": "MyDealz",
+      "title": "Canyon Neuron:ON 6 - Größe XL",
+      "imageUrl": "https://static.mydealz.de/threads/raw/UvkgS/2730820_1/re/150x150/qt/55/2730820_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Canyon Neuron:ON 6 - Größe XL</b>\n🏪 MyDealz\n💶 Was: 2.068,90€ → <b>Now: 6 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/canyon-neuronon-6-grosse-xl-2730820"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Canyon Neuron:ON 6 - Größe XL",
+        "now": "6 €",
+        "was": "2.068,90€",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/canyon-neuronon-6-grosse-xl-2730820",
+        "imageUrl": "https://static.mydealz.de/threads/raw/UvkgS/2730820_1/re/150x150/qt/55/2730820_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-10T17:00:50.800Z"
+  "updatedAt": "2026-02-10T18:53:50.037Z"
 }
