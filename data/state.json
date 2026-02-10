@@ -1,11 +1,14 @@
 {
   "date": "2026-02-10",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
+    "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-der-susse-hamster-und-die-blume-31376-fur-679-euro-thalia-kultclub-2723316",
