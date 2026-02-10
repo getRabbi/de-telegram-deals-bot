@@ -2,12 +2,15 @@
   "date": "2026-02-10",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
-    "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320"
+    "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320",
+    "mydealz|https://www.mydealz.de/deals/privatleasing-volkswagen-t-roc-dsg-r-line-hybrid-150ps-199eurm-uf-1390eur-10tkmj-24m-lf-047-eff-25692eur-2728504",
+    "mydealz|https://www.mydealz.de/deals/gmktec-evo-t1-ai-mini-pc-96gb-ram-2tb-ssd-intel-core-ultra-9-285h-2728519",
+    "mydealz|https://www.mydealz.de/deals/honor-magic-8-pro-mit-extra-gratisgeschenken-2728525"
   ],
   "postedHistory": [
     {
