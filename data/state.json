@@ -1,40 +1,12 @@
 {
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
-    "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320",
-    "mydealz|https://www.mydealz.de/deals/privatleasing-volkswagen-t-roc-dsg-r-line-hybrid-150ps-199eurm-uf-1390eur-10tkmj-24m-lf-047-eff-25692eur-2728504",
-    "mydealz|https://www.mydealz.de/deals/gmktec-evo-t1-ai-mini-pc-96gb-ram-2tb-ssd-intel-core-ultra-9-285h-2728519",
-    "mydealz|https://www.mydealz.de/deals/honor-magic-8-pro-mit-extra-gratisgeschenken-2728525",
-    "mydealz|https://www.mydealz.de/deals/prime-levis-2-pack-crewneck-graphic-tee-t-shirt-schwarzweiss-gr-l-weitere-grossenfarben-im-dealtext-2712542",
-    "aldi|https://www.mydealz.de/deals/aldi-sud-ayran-250-ml-fur-029-eur-2728723"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-der-susse-hamster-und-die-blume-31376-fur-679-euro-thalia-kultclub-2723316",
-      "ts": 1770160812908
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gozney-dome-xl-gen-2-multi-fuel-pizzaofen-platz-fur-bis-zu-3-pizzen-mit-gas-holz-undoder-holzkohle-befeuerbar-bis-zu-500-c-moglich-2724082",
-      "ts": 1770160812908
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aok-bayern-1-paar-gratis-laufsocken-grosse-35-50-neuer-deal-2724057",
-      "ts": 1770160812908
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/knoppers-kokosriegel-1-x-200-g-5-riegel-schokoriegel-mit-milch-kokoscreme-haselnussen-kokosraspeln-karamell-und-schokolade-prime-2724300",
-      "ts": 1770160812908
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-kneipp-aroma-pflegeschaumbad-goodbye-stress-badezusatz-mit-atherischen-olen-aus-rosmarin-wasserminze-400ml-2712549",
-      "ts": 1770160812908
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lenovo-v15-g4-amn-business-black-ryzen-5-7520u-16gb-ram-512gb-ssd-de-2724657",
       "ts": 1770247098705
@@ -182,6 +154,34 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076",
       "ts": 1770679724598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
+      "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320",
+      "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-volkswagen-t-roc-dsg-r-line-hybrid-150ps-199eurm-uf-1390eur-10tkmj-24m-lf-047-eff-25692eur-2728504",
+      "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gmktec-evo-t1-ai-mini-pc-96gb-ram-2tb-ssd-intel-core-ultra-9-285h-2728519",
+      "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/honor-magic-8-pro-mit-extra-gratisgeschenken-2728525",
+      "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-levis-2-pack-crewneck-graphic-tee-t-shirt-schwarzweiss-gr-l-weitere-grossenfarben-im-dealtext-2712542",
+      "ts": 1770766240938
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-ayran-250-ml-fur-029-eur-2728723",
+      "ts": 1770766240938
     }
   ]
 }
