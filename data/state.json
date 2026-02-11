@@ -1,11 +1,15 @@
 {
   "date": "2026-02-11",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-nigrin-bike-care-fahrrad-kettenreiniger-300-ml-spruhdose-fahrradkette-reinigen-2725407",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-amazon-prime-2728862"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lenovo-v15-g4-amn-business-black-ryzen-5-7520u-16gb-ram-512gb-ssd-de-2724657",
