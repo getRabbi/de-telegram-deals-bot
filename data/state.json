@@ -3,13 +3,14 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
     "mydealz|https://www.mydealz.de/deals/amazon-prime-nigrin-bike-care-fahrrad-kettenreiniger-300-ml-spruhdose-fahrradkette-reinigen-2725407",
     "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-amazon-prime-2728862",
-    "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947"
+    "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
+    "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194"
   ],
   "postedHistory": [
     {
