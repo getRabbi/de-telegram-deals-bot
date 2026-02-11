@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ugreen-24g-funkmaus-in-schwarz-4000-dpi-ergonomisch-leise-klicks-18-monate-batterielaufzeit-usbempfanger-amazon-prime-2716132",
+      "store": "MyDealz",
+      "title": "984° - UGREEN 2.4G Funkmaus in Schwarz (4000 DPI, ergonomisch, leise Klicks, 18 Monate Batterielaufzeit, USB‑Empfänger) Amazon Prime",
+      "imageUrl": "https://static.mydealz.de/threads/raw/N1bcy/2716132_1/re/150x150/qt/55/2716132_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>984° - UGREEN 2.4G Funkmaus in Schwarz (4000 DPI, ergonomisch, leise Klicks, 18 Monate Batterielaufzeit, USB‑Empfänger) Amazon Prime</b>\n🏪 MyDealz\n💶 Was: 984 € → <b>Now: 2 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/ugreen-24g-funkmaus-in-schwarz-4000-dpi-ergonomisch-leise-klicks-18-monate-batterielaufzeit-usbempfanger-amazon-prime-2716132"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "984° - UGREEN 2.4G Funkmaus in Schwarz (4000 DPI, ergonomisch, leise Klicks, 18 Monate Batterielaufzeit, USB‑Empfänger) Amazon Prime",
+        "now": "2 €",
+        "was": "984 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/ugreen-24g-funkmaus-in-schwarz-4000-dpi-ergonomisch-leise-klicks-18-monate-batterielaufzeit-usbempfanger-amazon-prime-2716132",
+        "imageUrl": "https://static.mydealz.de/threads/raw/N1bcy/2716132_1/re/150x150/qt/55/2716132_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-11T11:37:51.643Z"
+  "updatedAt": "2026-02-11T12:44:43.903Z"
 }
