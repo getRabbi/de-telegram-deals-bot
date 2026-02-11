@@ -1,50 +1,12 @@
 {
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-nigrin-bike-care-fahrrad-kettenreiniger-300-ml-spruhdose-fahrradkette-reinigen-2725407",
-    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-amazon-prime-2728862",
-    "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
-    "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lenovo-v15-g4-amn-business-black-ryzen-5-7520u-16gb-ram-512gb-ssd-de-2724657",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-family-business-coupon-bis-1000-euro-beim-kuchenkauf-erhalten-ab-2500-euro-warenwert-gultig-bis-28032026-2724618",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/topcashback-3-geforce-rtx-5070-ti-gamingpro-s-16gb-grafikkarte-2724772",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/venom-tragetasche-panzerglas-fur-nintendo-switch-2-venom-switch-2-case-inkl-displayschutzfolie-amazon-prime-2718252",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/strellson-rucksack-stockwell-20-eddie-in-khaki-laptopfach-mit-klettverschluss-2724444",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/karcher-akku-nasstrockensauger-wd-1-compact-inkl-akkuladegerat-2724698",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmw-ce-04-roller-42ps-130km-reichweite-headlight-pro-heizgriffe-sitzheizung-dynamik-paket-fahrmodi-pro-tageszulassung-2714757",
-      "ts": 1770247098705
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/byd-seal-6-dm-i-touring-comfort-hybrid-212ps-beluftetebeheizte-vordersitze-parkradar-360-kamera-konfigurierbares-neufahrzeug-2711215",
-      "ts": 1770247098705
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-philips-ledclassic-lampe-50w-gu10-2-er-pack-neutralweiss-4000-kelvin-390-lumen-reflektor-cool-white-2725087",
       "ts": 1770333374165
@@ -188,6 +150,26 @@
     {
       "key": "aldi|https://www.mydealz.de/deals/aldi-sud-ayran-250-ml-fur-029-eur-2728723",
       "ts": 1770766240938
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
+      "ts": 1770852182086
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-nigrin-bike-care-fahrrad-kettenreiniger-300-ml-spruhdose-fahrradkette-reinigen-2725407",
+      "ts": 1770852182086
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-amazon-prime-2728862",
+      "ts": 1770852182086
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
+      "ts": 1770852182086
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194",
+      "ts": 1770852182086
     }
   ]
 }
