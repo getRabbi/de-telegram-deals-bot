@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lotus-biscoff-karamellisierter-keks-1-kg-spar-abo-2731405",
+      "store": "MyDealz",
+      "title": "202° - Lotus Biscoff Karamellisierter Keks | 1 kg (Spar Abo)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/hrsoi/2731405_1/re/150x150/qt/55/2731405_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>202° - Lotus Biscoff Karamellisierter Keks | 1 kg (Spar Abo)</b>\n🏪 MyDealz\n💶 Was: 202 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/lotus-biscoff-karamellisierter-keks-1-kg-spar-abo-2731405"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "202° - Lotus Biscoff Karamellisierter Keks | 1 kg (Spar Abo)",
+        "now": "1 €",
+        "was": "202 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/lotus-biscoff-karamellisierter-keks-1-kg-spar-abo-2731405",
+        "imageUrl": "https://static.mydealz.de/threads/raw/hrsoi/2731405_1/re/150x150/qt/55/2731405_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-11T17:51:47.140Z"
+  "updatedAt": "2026-02-11T18:51:04.304Z"
 }
