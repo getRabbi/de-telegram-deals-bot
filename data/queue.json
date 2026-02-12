@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016",
+      "store": "MyDealz",
+      "title": "MOC Feuerwehrfahrzeug bzw. Fire Pump Truck (156284) / 422 Klemmbausteine [AliExpress App Münzshop]",
+      "imageUrl": "https://static.mydealz.de/threads/raw/JVtCP/2732016_1/re/150x150/qt/55/2732016_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>MOC Feuerwehrfahrzeug bzw. Fire Pump Truck (156284) / 422 Klemmbausteine [AliExpress App Münzshop]</b>\n🏪 MyDealz\n💶 Was: 422 € → <b>Now: 6,09€</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "MOC Feuerwehrfahrzeug bzw. Fire Pump Truck (156284) / 422 Klemmbausteine [AliExpress App Münzshop]",
+        "now": "6,09€",
+        "was": "422 €",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016",
+        "imageUrl": "https://static.mydealz.de/threads/raw/JVtCP/2732016_1/re/150x150/qt/55/2732016_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995",
+      "store": "MyDealz",
+      "title": "407° - Ghost of Yotei Playstation 5 (PS5) USK ab 18",
+      "imageUrl": "https://static.mydealz.de/threads/raw/VyK6K/2707995_1/re/150x150/qt/55/2707995_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>407° - Ghost of Yotei Playstation 5 (PS5) USK ab 18</b>\n🏪 MyDealz\n💶 Was: 407 € → <b>Now: 5 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "407° - Ghost of Yotei Playstation 5 (PS5) USK ab 18",
+        "now": "5 €",
+        "was": "407 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995",
+        "imageUrl": "https://static.mydealz.de/threads/raw/VyK6K/2707995_1/re/150x150/qt/55/2707995_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-12T17:51:33.288Z"
+  "updatedAt": "2026-02-12T18:49:12.805Z"
 }
