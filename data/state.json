@@ -3,14 +3,16 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
     "mydealz|https://www.mydealz.de/deals/microsoft-365-family-1-jahr-bis-zu-6-personen-office-apps-mit-ki-bis-zu-6-tb-cloudspeicher-amazon-abo-mit-autom-verlangerung-2729495",
     "mydealz|https://www.mydealz.de/deals/gog-deponia-fur-099eur-deponia-2-fur-199eur-deponia-3-4-jeweils-auch-fur-199eur-sammeldealz-pc-mac-linux-2722047",
     "mydealz|https://www.mydealz.de/deals/kaufland-berliner-pfannkuchen-gepudert-mit-marmelade-029-eur-zb-mit-eierlikor-und-glasur-069-eur-2729393",
-    "mydealz|https://www.mydealz.de/deals/roborock-saros-10-mit-wasseranschluss-2729484"
+    "mydealz|https://www.mydealz.de/deals/roborock-saros-10-mit-wasseranschluss-2729484",
+    "mydealz|https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
+    "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537"
   ],
   "postedHistory": [
     {
