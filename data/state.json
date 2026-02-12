@@ -1,11 +1,13 @@
 {
   "date": "2026-02-12",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-philips-ledclassic-lampe-50w-gu10-2-er-pack-neutralweiss-4000-kelvin-390-lumen-reflektor-cool-white-2725087",
