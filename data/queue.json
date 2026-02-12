@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
+      "store": "MyDealz",
+      "title": "Osram LED-Lampe E27 – 3,8W klar mit Filament – 806 Lumen – Energieeffizienzklasse A – Klassische Kolbenform [Prime]",
+      "imageUrl": "https://static.mydealz.de/threads/raw/zwa4G/2731605_1/re/150x150/qt/55/2731605_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Osram LED-Lampe E27 – 3,8W klar mit Filament – 806 Lumen – Energieeffizienzklasse A – Klassische Kolbenform [Prime]</b>\n🏪 MyDealz\n💶 Was: 806 € → <b>Now: 3 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Osram LED-Lampe E27 – 3,8W klar mit Filament – 806 Lumen – Energieeffizienzklasse A – Klassische Kolbenform [Prime]",
+        "now": "3 €",
+        "was": "806 €",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
+        "imageUrl": "https://static.mydealz.de/threads/raw/zwa4G/2731605_1/re/150x150/qt/55/2731605_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-12T07:02:17.999Z"
+  "updatedAt": "2026-02-12T08:34:52.419Z"
 }
