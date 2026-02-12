@@ -1,40 +1,12 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
-    "mydealz|https://www.mydealz.de/deals/microsoft-365-family-1-jahr-bis-zu-6-personen-office-apps-mit-ki-bis-zu-6-tb-cloudspeicher-amazon-abo-mit-autom-verlangerung-2729495",
-    "mydealz|https://www.mydealz.de/deals/gog-deponia-fur-099eur-deponia-2-fur-199eur-deponia-3-4-jeweils-auch-fur-199eur-sammeldealz-pc-mac-linux-2722047",
-    "mydealz|https://www.mydealz.de/deals/kaufland-berliner-pfannkuchen-gepudert-mit-marmelade-029-eur-zb-mit-eierlikor-und-glasur-069-eur-2729393",
-    "mydealz|https://www.mydealz.de/deals/roborock-saros-10-mit-wasseranschluss-2729484",
-    "mydealz|https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
-    "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-philips-ledclassic-lampe-50w-gu10-2-er-pack-neutralweiss-4000-kelvin-390-lumen-reflektor-cool-white-2725087",
-      "ts": 1770333374165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rennrad-giant-liv-langma-advanced-1-carbon-rahmenlrsss105-di2-2024-l-2725139",
-      "ts": 1770333374165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/juice-technology-juice-booster-2-eu-traveller-set-plus-2725293",
-      "ts": 1770333374165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-adventure-sammeldeal-preise-ab-079eur-zb-mit-gabriel-knight-jack-keane-monkey-island-phantasmagoria-maniac-mansion-the-dig-uvm-2725417",
-      "ts": 1770333374165
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-nuki-smart-lock-pro-keypad-2-2725423",
-      "ts": 1770333374165
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
       "ts": 1770419831947
@@ -178,6 +150,34 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194",
       "ts": 1770852182086
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/microsoft-365-family-1-jahr-bis-zu-6-personen-office-apps-mit-ki-bis-zu-6-tb-cloudspeicher-amazon-abo-mit-autom-verlangerung-2729495",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-deponia-fur-099eur-deponia-2-fur-199eur-deponia-3-4-jeweils-auch-fur-199eur-sammeldealz-pc-mac-linux-2722047",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-berliner-pfannkuchen-gepudert-mit-marmelade-029-eur-zb-mit-eierlikor-und-glasur-069-eur-2729393",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/roborock-saros-10-mit-wasseranschluss-2729484",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
+      "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537",
+      "ts": 1770938419879
     }
   ]
 }
