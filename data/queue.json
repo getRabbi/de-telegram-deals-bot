@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
+      "store": "MyDealz",
+      "title": "171° - VW Volkswagen Passat 2.0 TDI R-Line|Allrad|193PS|Diesel|Massagesitze|Winterpaket|18\"|HUD|ACC|RFK|eHK|Kessy|Navi|Matrix|EU Bestellfahrzeug",
+      "imageUrl": "https://static.mydealz.de/threads/raw/M4GXa/2732430_1/re/150x150/qt/55/2732430_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>171° - VW Volkswagen Passat 2.0 TDI R-Line|Allrad|193PS|Diesel|Massagesitze|Winterpaket|18\"|HUD|ACC|RFK|eHK|Kessy|Navi|Matrix|EU Bestellfahrzeug</b>\n🏪 MyDealz\n💶 Was: 171 € → <b>Now: 2 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "171° - VW Volkswagen Passat 2.0 TDI R-Line|Allrad|193PS|Diesel|Massagesitze|Winterpaket|18\"|HUD|ACC|RFK|eHK|Kessy|Navi|Matrix|EU Bestellfahrzeug",
+        "now": "2 €",
+        "was": "171 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
+        "imageUrl": "https://static.mydealz.de/threads/raw/M4GXa/2732430_1/re/150x150/qt/55/2732430_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-13T11:24:46.010Z"
+  "updatedAt": "2026-02-13T12:36:12.100Z"
 }
