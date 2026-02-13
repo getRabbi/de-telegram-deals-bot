@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-10-pro-256gb-porcelain-weiss-2732263",
+      "store": "MyDealz",
+      "title": "Google Pixel 10 Pro 256GB Porcelain weiß",
+      "imageUrl": "https://static.mydealz.de/threads/raw/BS0h4/2732263_1/re/150x150/qt/55/2732263_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Google Pixel 10 Pro 256GB Porcelain weiß</b>\n🏪 MyDealz\n💶 Was: 801,95€ → <b>Now: 10 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/google-pixel-10-pro-256gb-porcelain-weiss-2732263"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Google Pixel 10 Pro 256GB Porcelain weiß",
+        "now": "10 €",
+        "was": "801,95€",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/google-pixel-10-pro-256gb-porcelain-weiss-2732263",
+        "imageUrl": "https://static.mydealz.de/threads/raw/BS0h4/2732263_1/re/150x150/qt/55/2732263_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-13T07:43:37.288Z"
+  "updatedAt": "2026-02-13T08:32:10.563Z"
 }
