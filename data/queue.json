@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700",
+      "store": "MyDealz",
+      "title": "Captiva PC Highend Gaming I99-806 (i7-14700/RX9060 XT 16GB GDDR6/SSD 1TB/RAM 32GB/WLAN/Windows 11 Home)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/CYZNY/2732700_1/re/150x150/qt/55/2732700_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Captiva PC Highend Gaming I99-806 (i7-14700/RX9060 XT 16GB GDDR6/SSD 1TB/RAM 32GB/WLAN/Windows 11 Home)</b>\n🏪 MyDealz\n💶 Was: 806 € → <b>Now: 11 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Captiva PC Highend Gaming I99-806 (i7-14700/RX9060 XT 16GB GDDR6/SSD 1TB/RAM 32GB/WLAN/Windows 11 Home)",
+        "now": "11 €",
+        "was": "806 €",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700",
+        "imageUrl": "https://static.mydealz.de/threads/raw/CYZNY/2732700_1/re/150x150/qt/55/2732700_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-13T17:34:21.584Z"
+  "updatedAt": "2026-02-13T18:33:44.400Z"
 }
