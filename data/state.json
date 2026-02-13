@@ -2,11 +2,12 @@
   "date": "2026-02-13",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059"
+    "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
+    "mydealz|https://www.mydealz.de/deals/privatleasing-hyundai-i20-10-trend-100-ps-fur-99eur-mtl-automatik-1390eur-uf-24-monate-10000-km-lf-038-gf-060-eff-15692eur-2730020"
   ],
   "postedHistory": [
     {
