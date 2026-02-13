@@ -1,52 +1,12 @@
 {
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
-    "mydealz|https://www.mydealz.de/deals/privatleasing-hyundai-i20-10-trend-100-ps-fur-99eur-mtl-automatik-1390eur-uf-24-monate-10000-km-lf-038-gf-060-eff-15692eur-2730020",
-    "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/1-jahr-gymondo-plus-fur-399-eurmonat-yoga-krafttraining-pilates-mediation-ruckenkurse-uvm-2704106",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gothic-classic-khorinis-saga-gothic-12-nintendo-switch-amazon-prime-2725591",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/heide-park-soltau-1-ubernachtung-buchen-jahreskarte-geschenkt-2725680",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/es-2-film-collection-in-4k-dolby-vision-auf-itunes-apple-tv-2725605",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-66333-volklingen-ravensburger-puzzle-sowie-rollgo-fur-1-cent-preis-sollte-bundesweit-hinterlegt-sein-kassenfehler-2725842",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hori-horipad-turbo-controller-pokemon-gengar-mimikyu-fur-nintendo-switch-12-mit-turbo-rucktasten-funktion-offiziell-lizenziert-2725802",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gewerbeleasing-hyundai-tucson16-t-gdi-dct-n-line-fur-99eur-mtl-1190eur-uf-lf-027-gf-040-24-monate-10000-km-eff-14858-eur-2725773",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mg-4-mg4-elektro-170ps-51-kwh-350km-reichweite-led-acc-pdc-navi-carplay-klimaautomatik-etc-versch-farben-eu-tageszul-2694158",
-      "ts": 1770419831947
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tonnissteiner-go-fresh-limo-orange-zitrone-exotic-2726091",
-      "ts": 1770419831947
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77241-2-fast-2-furious-honda-s2000-muller-exklusiv-set-abholung-2726278",
       "ts": 1770506398645
@@ -182,6 +142,18 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537",
       "ts": 1770938419879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
+      "ts": 1771024903407
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-hyundai-i20-10-trend-100-ps-fur-99eur-mtl-automatik-1390eur-uf-24-monate-10000-km-lf-038-gf-060-eff-15692eur-2730020",
+      "ts": 1771024903407
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196",
+      "ts": 1771024903407
     }
   ]
 }
