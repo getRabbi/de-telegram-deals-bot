@@ -3,13 +3,15 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/decathlon-forclaz-mt100-daunenjacke-dunkelblau-800-cuin-bis-5c-s-bis-3xl-2730478",
     "mydealz|https://www.mydealz.de/deals/ultimative-abenteuer-festung-fur-den-garten-2730553",
     "mydealz|https://www.mydealz.de/deals/groupon-airpods-pro-3-2730625",
-    "mydealz|https://www.mydealz.de/deals/oneplus-pad-2-121-3k-snapdragon-8-gen-3-16gb-512gb-9510-mah-67w-nur-29748eur-mit-codes-2682645"
+    "mydealz|https://www.mydealz.de/deals/oneplus-pad-2-121-3k-snapdragon-8-gen-3-16gb-512gb-9510-mah-67w-nur-29748eur-mit-codes-2682645",
+    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-7-7l800x3d-32gb-ddr5-6000mhz-ram-asus-radeon-rx9070-xt-16gb-2730827",
+    "mydealz|https://www.mydealz.de/deals/canyon-neuronon-6-grosse-xl-2730820"
   ],
   "postedHistory": [
     {
