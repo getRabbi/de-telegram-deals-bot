@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195",
+      "store": "MyDealz",
+      "title": "[eff. 706€] HP OmniBook 7 Aero • Ryzen AI 7 350 • 32GB RAM • Radeon 860M • 13,3 WQXGA 2560x1600 100%sRGB IPS 400 Nits (Newsletter/Labdoo/CB)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/aQpIz/2733195_1/re/150x150/qt/55/2733195_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[eff. 706€] HP OmniBook 7 Aero • Ryzen AI 7 350 • 32GB RAM • Radeon 860M • 13,3 WQXGA 2560x1600 100%sRGB IPS 400 Nits (Newsletter/Labdoo/CB)</b>\n🏪 MyDealz\n💶 Was: 706€ → <b>Now: 7 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[eff. 706€] HP OmniBook 7 Aero • Ryzen AI 7 350 • 32GB RAM • Radeon 860M • 13,3 WQXGA 2560x1600 100%sRGB IPS 400 Nits (Newsletter/Labdoo/CB)",
+        "now": "7 €",
+        "was": "706€",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195",
+        "imageUrl": "https://static.mydealz.de/threads/raw/aQpIz/2733195_1/re/150x150/qt/55/2733195_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158",
+      "store": "MyDealz",
+      "title": "207° - SMLIGHT SLZB-06MU Zigbee 3.0 Coordinator, EFR32MG21, Ethernet/WiFi/USB, PoE 802.3af, ESP32, Zigbee2MQTT, Home Assistant ZHA",
+      "imageUrl": "https://static.mydealz.de/threads/raw/dzW7o/2733158_1/re/150x150/qt/55/2733158_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>207° - SMLIGHT SLZB-06MU Zigbee 3.0 Coordinator, EFR32MG21, Ethernet/WiFi/USB, PoE 802.3af, ESP32, Zigbee2MQTT, Home Assistant ZHA</b>\n🏪 MyDealz\n💶 Was: 207 € → <b>Now: 3 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "207° - SMLIGHT SLZB-06MU Zigbee 3.0 Coordinator, EFR32MG21, Ethernet/WiFi/USB, PoE 802.3af, ESP32, Zigbee2MQTT, Home Assistant ZHA",
+        "now": "3 €",
+        "was": "207 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158",
+        "imageUrl": "https://static.mydealz.de/threads/raw/dzW7o/2733158_1/re/150x150/qt/55/2733158_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-14T17:18:49.980Z"
+  "updatedAt": "2026-02-14T18:20:58.456Z"
 }
