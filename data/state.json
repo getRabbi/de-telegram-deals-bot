@@ -1,11 +1,13 @@
 {
   "date": "2026-02-14",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/decathlon-forclaz-mt100-daunenjacke-dunkelblau-800-cuin-bis-5c-s-bis-3xl-2730478"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-77241-2-fast-2-furious-honda-s2000-muller-exklusiv-set-abholung-2726278",
