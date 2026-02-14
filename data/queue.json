@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
+      "store": "MyDealz",
+      "title": "BMW i5 eDrive40 / 81kWh / 340PS / 626km RW / 205kw DC / auch xDrive40 und M60 / konfigurierbares und förderfähiges dt. Neufahrzeug",
+      "imageUrl": "https://static.mydealz.de/threads/raw/ucspX/2732894_1/re/150x150/qt/55/2732894_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>BMW i5 eDrive40 / 81kWh / 340PS / 626km RW / 205kw DC / auch xDrive40 und M60 / konfigurierbares und förderfähiges dt. Neufahrzeug</b>\n🏪 MyDealz\n💶 Was: 51.298,50€ → <b>Now: 55 €</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "BMW i5 eDrive40 / 81kWh / 340PS / 626km RW / 205kw DC / auch xDrive40 und M60 / konfigurierbares und förderfähiges dt. Neufahrzeug",
+        "now": "55 €",
+        "was": "51.298,50€",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
+        "imageUrl": "https://static.mydealz.de/threads/raw/ucspX/2732894_1/re/150x150/qt/55/2732894_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-14T07:28:11.943Z"
+  "updatedAt": "2026-02-14T08:20:25.618Z"
 }
