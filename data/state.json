@@ -2,13 +2,14 @@
   "date": "2026-02-15",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
     "mydealz|https://www.mydealz.de/deals/ecowitt-gw3001-wittboy-7-in-1-iot-wlan-wetterstation-mit-sd-speicher-2709682",
-    "mydealz|https://www.mydealz.de/deals/dji-mini-3-rc-n1-drohne-2731035"
+    "mydealz|https://www.mydealz.de/deals/dji-mini-3-rc-n1-drohne-2731035",
+    "mydealz|https://www.mydealz.de/deals/ugreen-24g-funkmaus-in-schwarz-4000-dpi-ergonomisch-leise-klicks-18-monate-batterielaufzeit-usbempfanger-amazon-prime-2716132"
   ],
   "postedHistory": [
     {
