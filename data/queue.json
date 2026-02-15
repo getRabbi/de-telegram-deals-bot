@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605",
+      "store": "MyDealz",
+      "title": "120° - [ GLOBUS ] : Conditorei Coppenrath & Wiese Strudel Verschiedene Sorten, tiefgefroren, mit Coupon nur 0,50 € (Nicht bei allen Märkten!)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/4Bh8S/2733605_1/re/150x150/qt/55/2733605_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>120° - [ GLOBUS ] : Conditorei Coppenrath &amp; Wiese Strudel Verschiedene Sorten, tiefgefroren, mit Coupon nur 0,50 € (Nicht bei allen Märkten!)</b>\n🏪 MyDealz\n💶 Was: 120 € → <b>Now: 0,50 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "120° - [ GLOBUS ] : Conditorei Coppenrath & Wiese Strudel Verschiedene Sorten, tiefgefroren, mit Coupon nur 0,50 € (Nicht bei allen Märkten!)",
+        "now": "0,50 €",
+        "was": "120 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605",
+        "imageUrl": "https://static.mydealz.de/threads/raw/4Bh8S/2733605_1/re/150x150/qt/55/2733605_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-15T17:17:46.129Z"
+  "updatedAt": "2026-02-15T18:22:15.409Z"
 }
