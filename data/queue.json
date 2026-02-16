@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rapsol-1-liter-111-2733754",
+      "store": "MyDealz",
+      "title": "102° - Rapsöl 1 Liter 1,11",
+      "imageUrl": "https://static.mydealz.de/threads/raw/ha8Yy/2733754_1/re/150x150/qt/55/2733754_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>102° - Rapsöl 1 Liter 1,11</b>\n🏪 MyDealz\n💶 Was: 102 € → <b>Now: 1 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/rapsol-1-liter-111-2733754"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "102° - Rapsöl 1 Liter 1,11",
+        "now": "1 €",
+        "was": "102 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/rapsol-1-liter-111-2733754",
+        "imageUrl": "https://static.mydealz.de/threads/raw/ha8Yy/2733754_1/re/150x150/qt/55/2733754_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-16T07:45:46.160Z"
+  "updatedAt": "2026-02-16T08:36:07.767Z"
 }
