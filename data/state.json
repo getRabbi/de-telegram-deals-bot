@@ -2,11 +2,15 @@
   "date": "2026-02-16",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605"
+    "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-7-hdmi-mini-monitor-1024600-raspberry-piwindows-optional-touch-1379eur-neukunden-pvg-1989eur-2722854",
+    "mydealz|https://www.mydealz.de/deals/tint-smarte-outdoor-4-fach-steckdose-smart-socket-tower-2-permanente-2-schaltbare-steckdosen-alexa-tint-app-zigbee-kompatibel-ip44-2731749",
+    "mydealz|https://www.mydealz.de/deals/2-stuck-koorui-e2411f-238-office-monitore-fhd-ips-100-hz-99-srgb-amd-freesync-vesa-hdmivga-2731769",
+    "mydealz|https://www.mydealz.de/deals/oberfranken-ab-2-nachte-inkl-fruhstuck-sauna-pool-parkplatz-wagners-hotel-im-frankenwald-9998eur-zu-zweit-gutschein-2731694"
   ],
   "postedHistory": [
     {
