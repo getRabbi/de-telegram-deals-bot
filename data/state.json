@@ -1,11 +1,13 @@
 {
   "date": "2026-02-16",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681",
