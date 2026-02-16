@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
+      "store": "MyDealz",
+      "title": "[Mindstar] Endorfy ARX 500 Air Midi Tower schwarz, Seitenfenster, hoher Airflow, 5x 140mm Lüfter verbaut, UBS-C 3.1 + 2x USB 3.0",
+      "imageUrl": "https://static.mydealz.de/threads/raw/V7LSY/2732795_1/re/150x150/qt/55/2732795_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[Mindstar] Endorfy ARX 500 Air Midi Tower schwarz, Seitenfenster, hoher Airflow, 5x 140mm Lüfter verbaut, UBS-C 3.1 + 2x USB 3.0</b>\n🏪 MyDealz\n💶 Was: 500 € → <b>Now: 3 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[Mindstar] Endorfy ARX 500 Air Midi Tower schwarz, Seitenfenster, hoher Airflow, 5x 140mm Lüfter verbaut, UBS-C 3.1 + 2x USB 3.0",
+        "now": "3 €",
+        "was": "500 €",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
+        "imageUrl": "https://static.mydealz.de/threads/raw/V7LSY/2732795_1/re/150x150/qt/55/2732795_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174",
+      "store": "MyDealz",
+      "title": "156° - [DM | Payback] 15FACH °P auf den Einkauf vor Ort ab 2 Euro bis 22.03.2026 gültig",
+      "imageUrl": "https://static.mydealz.de/threads/raw/QEgni/2734174_1/re/150x150/qt/55/2734174_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>156° - [DM | Payback] 15FACH °P auf den Einkauf vor Ort ab 2 Euro bis 22.03.2026 gültig</b>\n🏪 MyDealz\n💶 Was: 156 € → <b>Now: 2 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "156° - [DM | Payback] 15FACH °P auf den Einkauf vor Ort ab 2 Euro bis 22.03.2026 gültig",
+        "now": "2 €",
+        "was": "156 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174",
+        "imageUrl": "https://static.mydealz.de/threads/raw/QEgni/2734174_1/re/150x150/qt/55/2734174_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-16T17:31:44.832Z"
+  "updatedAt": "2026-02-16T18:30:19.871Z"
 }
