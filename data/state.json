@@ -1,48 +1,12 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-7-hdmi-mini-monitor-1024600-raspberry-piwindows-optional-touch-1379eur-neukunden-pvg-1989eur-2722854",
-    "mydealz|https://www.mydealz.de/deals/tint-smarte-outdoor-4-fach-steckdose-smart-socket-tower-2-permanente-2-schaltbare-steckdosen-alexa-tint-app-zigbee-kompatibel-ip44-2731749",
-    "mydealz|https://www.mydealz.de/deals/2-stuck-koorui-e2411f-238-office-monitore-fhd-ips-100-hz-99-srgb-amd-freesync-vesa-hdmivga-2731769",
-    "mydealz|https://www.mydealz.de/deals/oberfranken-ab-2-nachte-inkl-fruhstuck-sauna-pool-parkplatz-wagners-hotel-im-frankenwald-9998eur-zu-zweit-gutschein-2731694",
-    "mydealz|https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016",
-    "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rotring-600-gelschreiber-055-mm-schwarze-tinte-silberfarbenes-schreibgerat-mit-metallschaft-nachfullbar-prime-2692681",
-      "ts": 1770592890503
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/kase-laugenstange-fur-024eur-ab-3-stuck-lidl-2726678",
-      "ts": 1770592890503
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kirby-air-riders-switch-2-kirby-air-riders-merch-paket-ein-notizbuch-aufkleber-und-ein-lesezeichen-lieferung-an-paketshop-alza-2721941",
-      "ts": 1770592890503
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/valentinstag-holiday-on-ice-cinema-of-dreams-preisklasse-1-ticket-in-6-stadten-0703-2604-2727035",
-      "ts": 1770592890503
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oneaware-bekleidung-jeden-tag-ein-code-mit-1-bis-100-rabatt-2727097",
-      "ts": 1770592890503
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/muller-haribo-fruchtgummi-love-edition-160g-online-059eur-2727230",
-      "ts": 1770592890503
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netzentgelte-reduzieren-nach-enwg-14a-mit-einer-steuerbaren-verbrauchseinrichtung-2727315",
-      "ts": 1770592890503
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
       "ts": 1770679724598
@@ -186,6 +150,34 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lotus-biscoff-karamellisierter-keks-1-kg-spar-abo-2731405",
       "ts": 1771197420480
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-7-hdmi-mini-monitor-1024600-raspberry-piwindows-optional-touch-1379eur-neukunden-pvg-1989eur-2722854",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tint-smarte-outdoor-4-fach-steckdose-smart-socket-tower-2-permanente-2-schaltbare-steckdosen-alexa-tint-app-zigbee-kompatibel-ip44-2731749",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2-stuck-koorui-e2411f-238-office-monitore-fhd-ips-100-hz-99-srgb-amd-freesync-vesa-hdmivga-2731769",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oberfranken-ab-2-nachte-inkl-fruhstuck-sauna-pool-parkplatz-wagners-hotel-im-frankenwald-9998eur-zu-zweit-gutschein-2731694",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016",
+      "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995",
+      "ts": 1771284005507
     }
   ]
 }
