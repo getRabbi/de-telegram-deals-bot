@@ -2,10 +2,12 @@
   "date": "2026-02-17",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
