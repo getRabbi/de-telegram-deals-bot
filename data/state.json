@@ -1,27 +1,12 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
-    "mydealz|https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-batman-3-jenseits-von-gotham-premium-edition-ps4-playstation-digitaler-dl-usk-6-warner-bros-at-ps-store-2664716",
-      "ts": 1770679724598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-9-pro-xl-128gb-obsidian-2727795",
-      "ts": 1770679724598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/captiva-g19a-25v1-r92-465-amd-ryzen-7-7800x3d-32-gb-1-tb-nvidia-geforce-rtx-5070-ti-windows-11-home-2728076",
-      "ts": 1770679724598
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
       "ts": 1770766240938
@@ -181,6 +166,14 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995",
       "ts": 1771284005507
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
+      "ts": 1771370410963
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700",
+      "ts": 1771370410963
     }
   ]
 }
