@@ -2,11 +2,14 @@
   "date": "2026-02-18",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894"
+    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
+    "mydealz|https://www.mydealz.de/deals/philips-65oled81012-164-cm-65-oled-ambilight-tv-metall-inkl-tab820010-21-soundbar-mit-subwoofer-2732910",
+    "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-ganzjahresreifen-fur-7951eur-ebay-2733007",
+    "mydealz|https://www.mydealz.de/deals/nubia-flip-2-5g-256gb-lilac-purple-smartphone-2733020"
   ],
   "postedHistory": [
     {
