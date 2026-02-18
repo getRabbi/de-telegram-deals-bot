@@ -1,11 +1,13 @@
 {
   "date": "2026-02-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
