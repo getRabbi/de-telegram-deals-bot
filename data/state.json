@@ -1,47 +1,12 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
-    "mydealz|https://www.mydealz.de/deals/philips-65oled81012-164-cm-65-oled-ambilight-tv-metall-inkl-tab820010-21-soundbar-mit-subwoofer-2732910",
-    "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-ganzjahresreifen-fur-7951eur-ebay-2733007",
-    "mydealz|https://www.mydealz.de/deals/nubia-flip-2-5g-256gb-lilac-purple-smartphone-2733020",
-    "mydealz|https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195",
-    "mydealz|https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-tv-1-monat-kostenlos-neukunden-qualifizierte-wiederkehrer-appletv-plus-2728346",
-      "ts": 1770766240938
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/4-musikmagazin-abos-z-b-rolling-stone-fur-12160-eur-75-eur-bestchoice-gutschein-metal-hammer-fur-11460-eur-65-eur-amazon-gutschein-2728320",
-      "ts": 1770766240938
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-volkswagen-t-roc-dsg-r-line-hybrid-150ps-199eurm-uf-1390eur-10tkmj-24m-lf-047-eff-25692eur-2728504",
-      "ts": 1770766240938
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gmktec-evo-t1-ai-mini-pc-96gb-ram-2tb-ssd-intel-core-ultra-9-285h-2728519",
-      "ts": 1770766240938
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/honor-magic-8-pro-mit-extra-gratisgeschenken-2728525",
-      "ts": 1770766240938
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-levis-2-pack-crewneck-graphic-tee-t-shirt-schwarzweiss-gr-l-weitere-grossenfarben-im-dealtext-2712542",
-      "ts": 1770766240938
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-ayran-250-ml-fur-029-eur-2728723",
-      "ts": 1770766240938
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
       "ts": 1770852182086
@@ -181,6 +146,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700",
       "ts": 1771370410963
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
+      "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/philips-65oled81012-164-cm-65-oled-ambilight-tv-metall-inkl-tab820010-21-soundbar-mit-subwoofer-2732910",
+      "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-ganzjahresreifen-fur-7951eur-ebay-2733007",
+      "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nubia-flip-2-5g-256gb-lilac-purple-smartphone-2733020",
+      "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195",
+      "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158",
+      "ts": 1771456833570
     }
   ]
 }
