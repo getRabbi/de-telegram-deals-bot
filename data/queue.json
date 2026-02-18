@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
+      "store": "MyDealz",
+      "title": "149° - Donkey Kong Bananza: DK-Insel & Smaragdrausch für die Nintendo Switch 2 - DLC [loaded]",
+      "imageUrl": "https://static.mydealz.de/threads/raw/XE7Z7/2734831_1/re/150x150/qt/55/2734831_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>149° - Donkey Kong Bananza: DK-Insel &amp; Smaragdrausch für die Nintendo Switch 2 - DLC [loaded]</b>\n🏪 MyDealz\n💶 Was: 149 € → <b>Now: 2 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "149° - Donkey Kong Bananza: DK-Insel & Smaragdrausch für die Nintendo Switch 2 - DLC [loaded]",
+        "now": "2 €",
+        "was": "149 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
+        "imageUrl": "https://static.mydealz.de/threads/raw/XE7Z7/2734831_1/re/150x150/qt/55/2734831_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-18T07:44:06.338Z"
+  "updatedAt": "2026-02-18T08:34:29.595Z"
 }
