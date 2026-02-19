@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292",
+      "store": "MyDealz",
+      "title": "923° - Xiaomi POCO F8 Pro 6.59\" AMOLED, 120Hz, 3500Nits, Snapdragon 8 Elite, 6210mAh, 100W, eSIM, 12/256GB 383,95€, 12/512GB 433,95€ (Aliexpress)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/Dzrc5/2715292_1/re/150x150/qt/55/2715292_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>923° - Xiaomi POCO F8 Pro 6.59\" AMOLED, 120Hz, 3500Nits, Snapdragon 8 Elite, 6210mAh, 100W, eSIM, 12/256GB 383,95€, 12/512GB 433,95€ (Aliexpress)</b>\n🏪 MyDealz\n💶 Was: 923 € → <b>Now: 6.59 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "923° - Xiaomi POCO F8 Pro 6.59\" AMOLED, 120Hz, 3500Nits, Snapdragon 8 Elite, 6210mAh, 100W, eSIM, 12/256GB 383,95€, 12/512GB 433,95€ (Aliexpress)",
+        "now": "6.59 €",
+        "was": "923 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292",
+        "imageUrl": "https://static.mydealz.de/threads/raw/Dzrc5/2715292_1/re/150x150/qt/55/2715292_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-19T11:31:46.306Z"
+  "updatedAt": "2026-02-19T12:39:54.352Z"
 }
