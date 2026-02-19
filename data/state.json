@@ -1,65 +1,12 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
-    "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0826-2733337",
-    "mydealz|https://www.mydealz.de/deals/royal-orient-sambal-oelek-chilipaste-multipack-6-x-720-gr-spar-abo-11371017eur-prime-2733409",
-    "mydealz|https://www.mydealz.de/deals/lemorele-p50-4k-hdmi-5ghz24ghz-funkubertragung-sender-empfanger-4k-30hz-50m-reichweite-bis-zu-8-sender-verbinden-2733327"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mould-king-10160-motorisierte-mechanische-uhr-mit-zahnrad-3675-klemmbausteine-2707371",
-      "ts": 1770852182086
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-nigrin-bike-care-fahrrad-kettenreiniger-300-ml-spruhdose-fahrradkette-reinigen-2725407",
-      "ts": 1770852182086
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-amazon-prime-2728862",
-      "ts": 1770852182086
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-aqua-back-fahrradtasche-paar-224l-2717947",
-      "ts": 1770852182086
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hyundai-i30-16-family150psautomatik5-j-garantieeu-bestellfahrzeugnaviruckfahrkameraledsitzheizunglenkradheizungprivacy-uvm-2729194",
-      "ts": 1770852182086
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-nord-buko-frischkase-200-g-fur-088-eur-2729378",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/microsoft-365-family-1-jahr-bis-zu-6-personen-office-apps-mit-ki-bis-zu-6-tb-cloudspeicher-amazon-abo-mit-autom-verlangerung-2729495",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-deponia-fur-099eur-deponia-2-fur-199eur-deponia-3-4-jeweils-auch-fur-199eur-sammeldealz-pc-mac-linux-2722047",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-berliner-pfannkuchen-gepudert-mit-marmelade-029-eur-zb-mit-eierlikor-und-glasur-069-eur-2729393",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/roborock-saros-10-mit-wasseranschluss-2729484",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ghost-riot-en-al-full-party-l-xl-2729613",
-      "ts": 1770938419879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eddy-merckx-strasbourg-aluminium-gravel-shimano-grx400-2x10-2729537",
-      "ts": 1770938419879
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
       "ts": 1771024903407
@@ -175,6 +122,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158",
       "ts": 1771456833570
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
+      "ts": 1771543294423
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0826-2733337",
+      "ts": 1771543294423
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/royal-orient-sambal-oelek-chilipaste-multipack-6-x-720-gr-spar-abo-11371017eur-prime-2733409",
+      "ts": 1771543294423
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lemorele-p50-4k-hdmi-5ghz24ghz-funkubertragung-sender-empfanger-4k-30hz-50m-reichweite-bis-zu-8-sender-verbinden-2733327",
+      "ts": 1771543294423
     }
   ]
 }
