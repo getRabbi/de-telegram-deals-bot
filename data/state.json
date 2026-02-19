@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
