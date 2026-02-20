@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
+      "store": "MyDealz",
+      "title": "875° - Mercedes-Benz Vito Tourer CDI 9G-Tronic Select lang 9-Sitzer / 163 PS / Automatik / Matrix-LED, Navi, RFK, dunkle Scheiben (AHK) (EU mit Tz)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/CSD2w/2684127_1/re/150x150/qt/55/2684127_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>875° - Mercedes-Benz Vito Tourer CDI 9G-Tronic Select lang 9-Sitzer / 163 PS / Automatik / Matrix-LED, Navi, RFK, dunkle Scheiben (AHK) (EU mit Tz)</b>\n🏪 MyDealz\n💶 Was: 875 € → <b>Now: 9 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "875° - Mercedes-Benz Vito Tourer CDI 9G-Tronic Select lang 9-Sitzer / 163 PS / Automatik / Matrix-LED, Navi, RFK, dunkle Scheiben (AHK) (EU mit Tz)",
+        "now": "9 €",
+        "was": "875 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
+        "imageUrl": "https://static.mydealz.de/threads/raw/CSD2w/2684127_1/re/150x150/qt/55/2684127_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-20T11:24:36.079Z"
+  "updatedAt": "2026-02-20T12:36:02.524Z"
 }
