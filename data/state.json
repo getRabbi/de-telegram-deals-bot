@@ -3,10 +3,12 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959"
+    "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
+    "mydealz|https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
+    "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174"
   ],
   "postedHistory": [
     {
