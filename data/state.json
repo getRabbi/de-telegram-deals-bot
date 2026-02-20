@@ -1,15 +1,11 @@
 {
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
-    "mydealz|https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
-    "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
@@ -142,6 +138,18 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lemorele-p50-4k-hdmi-5ghz24ghz-funkubertragung-sender-empfanger-4k-30hz-50m-reichweite-bis-zu-8-sender-verbinden-2733327",
       "ts": 1771543294423
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
+      "ts": 1771629599459
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
+      "ts": 1771629599459
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174",
+      "ts": 1771629599459
     }
   ]
 }
