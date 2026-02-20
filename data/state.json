@@ -2,10 +2,12 @@
   "date": "2026-02-20",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
