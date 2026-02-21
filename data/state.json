@@ -3,10 +3,11 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512"
+    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512",
+    "mydealz|https://www.mydealz.de/deals/rennrad-giant-contend-ar-1-shimano-105-999eur-bei-abholung-2734635"
   ],
   "postedHistory": [
     {
