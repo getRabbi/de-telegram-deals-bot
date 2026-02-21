@@ -1,51 +1,12 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512",
-    "mydealz|https://www.mydealz.de/deals/rennrad-giant-contend-ar-1-shimano-105-999eur-bei-abholung-2734635"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmax-b8-a-pro-amd-ryzen-7-8745hs-prozessor-amd-radeon-780m-16-gb-512-gb-ssd-windows-11-wifi-bluetooth-usb-hdmi-2715059",
-      "ts": 1771024903407
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-hyundai-i20-10-trend-100-ps-fur-99eur-mtl-automatik-1390eur-uf-24-monate-10000-km-lf-038-gf-060-eff-15692eur-2730020",
-      "ts": 1771024903407
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-set-31378-weltraumteleskop-muller-exklusiv-set-abholung-2721196",
-      "ts": 1771024903407
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/decathlon-forclaz-mt100-daunenjacke-dunkelblau-800-cuin-bis-5c-s-bis-3xl-2730478",
-      "ts": 1771110892504
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ultimative-abenteuer-festung-fur-den-garten-2730553",
-      "ts": 1771110892504
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/groupon-airpods-pro-3-2730625",
-      "ts": 1771110892504
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oneplus-pad-2-121-3k-snapdragon-8-gen-3-16gb-512gb-9510-mah-67w-nur-29748eur-mit-codes-2682645",
-      "ts": 1771110892504
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-7-7l800x3d-32gb-ddr5-6000mhz-ram-asus-radeon-rx9070-xt-16gb-2730827",
-      "ts": 1771110892504
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/canyon-neuronon-6-grosse-xl-2730820",
-      "ts": 1771110892504
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
       "ts": 1771197420480
@@ -153,6 +114,14 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174",
       "ts": 1771629599459
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512",
+      "ts": 1771715753296
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rennrad-giant-contend-ar-1-shimano-105-999eur-bei-abholung-2734635",
+      "ts": 1771715753296
     }
   ]
 }
