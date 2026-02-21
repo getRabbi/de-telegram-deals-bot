@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836",
+      "store": "MyDealz",
+      "title": "877° - Skoda Kamiq 1.5 DSG Selection|150PS|Automatik|EU Bestellfahrzeug|5 Jahre Garantie|2 Zonen Klima|SHZ|Smartlink|Schalter für 22.230€",
+      "imageUrl": "https://static.mydealz.de/threads/raw/SZ1EZ/2707836_1/re/150x150/qt/55/2707836_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>877° - Skoda Kamiq 1.5 DSG Selection|150PS|Automatik|EU Bestellfahrzeug|5 Jahre Garantie|2 Zonen Klima|SHZ|Smartlink|Schalter für 22.230€</b>\n🏪 MyDealz\n💶 Was: 877 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "877° - Skoda Kamiq 1.5 DSG Selection|150PS|Automatik|EU Bestellfahrzeug|5 Jahre Garantie|2 Zonen Klima|SHZ|Smartlink|Schalter für 22.230€",
+        "now": "1 €",
+        "was": "877 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836",
+        "imageUrl": "https://static.mydealz.de/threads/raw/SZ1EZ/2707836_1/re/150x150/qt/55/2707836_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-21T17:17:36.341Z"
+  "updatedAt": "2026-02-21T18:21:36.829Z"
 }
