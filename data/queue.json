@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495",
+      "store": "MyDealz",
+      "title": "233° - Faxe Strong Bier 0,13€ 568ml Spotdiscount Süderlügum",
+      "imageUrl": "https://static.mydealz.de/threads/raw/wPePG/2736495_1/re/150x150/qt/55/2736495_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>233° - Faxe Strong Bier 0,13€ 568ml Spotdiscount Süderlügum</b>\n🏪 MyDealz\n💶 Was: 233 € → <b>Now: 0,13€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/faxe-strong-2736495"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "233° - Faxe Strong Bier 0,13€ 568ml Spotdiscount Süderlügum",
+        "now": "0,13€",
+        "was": "233 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/faxe-strong-2736495",
+        "imageUrl": "https://static.mydealz.de/threads/raw/wPePG/2736495_1/re/150x150/qt/55/2736495_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-21T11:14:59.271Z"
+  "updatedAt": "2026-02-21T12:27:05.449Z"
 }
