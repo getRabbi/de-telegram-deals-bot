@@ -2146,7 +2146,81 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/7x-mobil-1-fs-0w-40-1l-7x-1l-motorol-versand-kostenlos-2730939",
+      "store": "MyDealz",
+      "title": "412° - 7x Mobil 1 FS 0W -40, 1L (7x 1L) Motoröl / Versand kostenlos",
+      "imageUrl": "https://static.mydealz.de/threads/raw/hlItV/2730939_1/re/150x150/qt/55/2730939_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>412° - 7x Mobil 1 FS 0W -40, 1L (7x 1L) Motoröl / Versand kostenlos</b>\n🏪 MyDealz\n💶 Was: 412 € → <b>Now: 1 €</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/7x-mobil-1-fs-0w-40-1l-7x-1l-motorol-versand-kostenlos-2730939"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "412° - 7x Mobil 1 FS 0W -40, 1L (7x 1L) Motoröl / Versand kostenlos",
+        "now": "1 €",
+        "was": "412 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/7x-mobil-1-fs-0w-40-1l-7x-1l-motorol-versand-kostenlos-2730939",
+        "imageUrl": "https://static.mydealz.de/threads/raw/hlItV/2730939_1/re/150x150/qt/55/2730939_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049",
+      "store": "MyDealz",
+      "title": "129° - [EDEKA MH] Möhren 2kg - 0,50€ eff / kg",
+      "imageUrl": "https://static.mydealz.de/threads/raw/HB7GP/2737049_1/re/150x150/qt/55/2737049_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>129° - [EDEKA MH] Möhren 2kg - 0,50€ eff / kg</b>\n🏪 MyDealz\n💶 Was: 129 € → <b>Now: 0,50€</b>\n🔻 Save: 100%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "129° - [EDEKA MH] Möhren 2kg - 0,50€ eff / kg",
+        "now": "0,50€",
+        "was": "129 €",
+        "discountPct": 100,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049",
+        "imageUrl": "https://static.mydealz.de/threads/raw/HB7GP/2737049_1/re/150x150/qt/55/2737049_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-22T17:18:53.066Z"
+  "updatedAt": "2026-02-22T18:21:43.907Z"
 }
