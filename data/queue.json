@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865",
+      "store": "MyDealz",
+      "title": "Gouda Käse -- 400 Gramm Packung",
+      "imageUrl": "https://static.mydealz.de/threads/raw/dspjj/2736865_1/re/150x150/qt/55/2736865_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Gouda Käse -- 400 Gramm Packung</b>\n🏪 MyDealz\n💶 Was: 400 € → <b>Now: 1,79€</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Gouda Käse -- 400 Gramm Packung",
+        "now": "1,79€",
+        "was": "400 €",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865",
+        "imageUrl": "https://static.mydealz.de/threads/raw/dspjj/2736865_1/re/150x150/qt/55/2736865_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-22T07:30:06.568Z"
+  "updatedAt": "2026-02-22T08:21:03.668Z"
 }
