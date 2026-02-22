@@ -2109,7 +2109,118 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010",
+      "store": "MyDealz",
+      "title": "Lokal Oelde: döner 1cent am 02.03",
+      "imageUrl": "https://static.mydealz.de/threads/raw/g2Yc6/2737010_1/re/150x150/qt/55/2737010_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Lokal Oelde: döner 1cent am 02.03</b>\n🏪 MyDealz\n💶 Was: 02.03 € → <b>Now: 0,01€</b>\n🔻 Save: 100%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Lokal Oelde: döner 1cent am 02.03",
+        "now": "0,01€",
+        "was": "02.03 €",
+        "discountPct": 100,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010",
+        "imageUrl": "https://static.mydealz.de/threads/raw/g2Yc6/2737010_1/re/150x150/qt/55/2737010_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171",
+      "store": "MyDealz",
+      "title": "290° - The Outer Worlds 2 Premium Edition mit Season Pass (2 Story-DLCs), Artbook, Soundtrack & Moon Man Bonuspaket | Xbox 54,85€",
+      "imageUrl": "https://static.mydealz.de/threads/raw/fJES6/2702171_1/re/150x150/qt/55/2702171_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>290° - The Outer Worlds 2 Premium Edition mit Season Pass (2 Story-DLCs), Artbook, Soundtrack &amp; Moon Man Bonuspaket | Xbox 54,85€</b>\n🏪 MyDealz\n💶 Was: 290 € → <b>Now: 2 €</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "290° - The Outer Worlds 2 Premium Edition mit Season Pass (2 Story-DLCs), Artbook, Soundtrack & Moon Man Bonuspaket | Xbox 54,85€",
+        "now": "2 €",
+        "was": "290 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171",
+        "imageUrl": "https://static.mydealz.de/threads/raw/fJES6/2702171_1/re/150x150/qt/55/2702171_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913",
+      "store": "MyDealz",
+      "title": "106° - [Penny] Rügenwalder Mühle Veganer Aufschnitt (80g)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/ekNy8/2736913_1/re/150x150/qt/55/2736913_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>106° - [Penny] Rügenwalder Mühle Veganer Aufschnitt (80g)</b>\n🏪 MyDealz\n💶 Was: 106 € → <b>Now: 1,11€</b>\n🔻 Save: 99%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "106° - [Penny] Rügenwalder Mühle Veganer Aufschnitt (80g)",
+        "now": "1,11€",
+        "was": "106 €",
+        "discountPct": 99,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913",
+        "imageUrl": "https://static.mydealz.de/threads/raw/ekNy8/2736913_1/re/150x150/qt/55/2736913_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-22T11:14:00.765Z"
+  "updatedAt": "2026-02-22T12:28:05.639Z"
 }
