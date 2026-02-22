@@ -1,18 +1,11 @@
 {
-  "date": "2026-02-22",
+  "date": "2026-02-23",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
-    "mydealz|https://www.mydealz.de/deals/x2-gillette-labs-nassrasierer-herren-inkl-10-rasierklingen-rasierer-mit-reinigungs-element-reise-etui-zur-aufbewahrung-fur-unterwegs-2720613",
-    "mydealz|https://www.mydealz.de/deals/evga-geforce-rtx-2060-12gb-xc-gaming-12g-p4-2263-kr-12gb-gddr6-dual-fans-metal-backplate-black-2-slots-2734983",
-    "mydealz|https://www.mydealz.de/deals/kaufland-132-beim-kauf-ab-5eur-statt-379-fur-pick-up-keksriegel-versch-sorten-keine-verwendung-kaufland-card-2729323",
-    "mydealz|https://www.mydealz.de/deals/apple-airtags-4er-pack-1-generation-6299eur-mit-ebay-plus-ebay-2735157",
-    "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-inch-silber-m2-series-wifi-128gb-speicher-zustand-premium-12m-garantie-2733486"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
@@ -129,6 +122,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/rennrad-giant-contend-ar-1-shimano-105-999eur-bei-abholung-2734635",
       "ts": 1771715753296
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
+      "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/x2-gillette-labs-nassrasierer-herren-inkl-10-rasierklingen-rasierer-mit-reinigungs-element-reise-etui-zur-aufbewahrung-fur-unterwegs-2720613",
+      "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/evga-geforce-rtx-2060-12gb-xc-gaming-12g-p4-2263-kr-12gb-gddr6-dual-fans-metal-backplate-black-2-slots-2734983",
+      "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-132-beim-kauf-ab-5eur-statt-379-fur-pick-up-keksriegel-versch-sorten-keine-verwendung-kaufland-card-2729323",
+      "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-airtags-4er-pack-1-generation-6299eur-mit-ebay-plus-ebay-2735157",
+      "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-inch-silber-m2-series-wifi-128gb-speicher-zustand-premium-12m-garantie-2733486",
+      "ts": 1771802186104
     }
   ]
 }
