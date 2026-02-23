@@ -1,65 +1,12 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
-    "mydealz|https://www.mydealz.de/deals/divinity-original-sin-2-definitive-edition-1205eur-is-1499eur-deneuer-bestpreis-xbox-one-xbox-series-xs-xbox-store-2735303",
-    "rewe|https://www.mydealz.de/deals/rewe-bonus-mccain-chef-frites-1013g-mit-140-eur-5-bonus-am-1902-entspricht-144eurkg-2735352",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
-      "ts": 1771197420480
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ecowitt-gw3001-wittboy-7-in-1-iot-wlan-wetterstation-mit-sd-speicher-2709682",
-      "ts": 1771197420480
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-mini-3-rc-n1-drohne-2731035",
-      "ts": 1771197420480
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ugreen-24g-funkmaus-in-schwarz-4000-dpi-ergonomisch-leise-klicks-18-monate-batterielaufzeit-usbempfanger-amazon-prime-2716132",
-      "ts": 1771197420480
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lotus-biscoff-karamellisierter-keks-1-kg-spar-abo-2731405",
-      "ts": 1771197420480
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/osram-led-lampe-e27-38w-klar-mit-filament-806-lumen-energieeffizienzklasse-a-klassische-kolbenform-prime-2731605",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-7-hdmi-mini-monitor-1024600-raspberry-piwindows-optional-touch-1379eur-neukunden-pvg-1989eur-2722854",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tint-smarte-outdoor-4-fach-steckdose-smart-socket-tower-2-permanente-2-schaltbare-steckdosen-alexa-tint-app-zigbee-kompatibel-ip44-2731749",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2-stuck-koorui-e2411f-238-office-monitore-fhd-ips-100-hz-99-srgb-amd-freesync-vesa-hdmivga-2731769",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oberfranken-ab-2-nachte-inkl-fruhstuck-sauna-pool-parkplatz-wagners-hotel-im-frankenwald-9998eur-zu-zweit-gutschein-2731694",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/moc-feuerwehrfahrzeug-bzw-fire-pump-truck-156284-422-klemmbausteine-aliexpress-app-munzshop-2732016",
-      "ts": 1771284005507
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-playstation-5-ps5-2707995",
-      "ts": 1771284005507
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
       "ts": 1771370410963
@@ -151,6 +98,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-inch-silber-m2-series-wifi-128gb-speicher-zustand-premium-12m-garantie-2733486",
       "ts": 1771802186104
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
+      "ts": 1771889222420
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/divinity-original-sin-2-definitive-edition-1205eur-is-1499eur-deneuer-bestpreis-xbox-one-xbox-series-xs-xbox-store-2735303",
+      "ts": 1771889222420
+    },
+    {
+      "key": "rewe|https://www.mydealz.de/deals/rewe-bonus-mccain-chef-frites-1013g-mit-140-eur-5-bonus-am-1902-entspricht-144eurkg-2735352",
+      "ts": 1771889222420
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292",
+      "ts": 1771889222420
     }
   ]
 }
