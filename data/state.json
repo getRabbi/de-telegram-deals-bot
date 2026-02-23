@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
