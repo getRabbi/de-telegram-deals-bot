@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556",
+      "store": "MyDealz",
+      "title": "Air Pods 3. Generation (differenzbesteuert)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/zQmzK/2737556_1/re/150x150/qt/55/2737556_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Air Pods 3. Generation (differenzbesteuert)</b>\n🏪 MyDealz\n💶 Was: 209,90€ → <b>Now: 3 €</b>\n🔻 Save: 99%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/air-pods-3-generation-2737556"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Air Pods 3. Generation (differenzbesteuert)",
+        "now": "3 €",
+        "was": "209,90€",
+        "discountPct": 99,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/air-pods-3-generation-2737556",
+        "imageUrl": "https://static.mydealz.de/threads/raw/zQmzK/2737556_1/re/150x150/qt/55/2737556_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-23T11:33:27.878Z"
+  "updatedAt": "2026-02-23T12:40:19.753Z"
 }
