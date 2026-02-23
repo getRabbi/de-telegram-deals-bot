@@ -1,11 +1,15 @@
 {
   "date": "2026-02-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
+    "mydealz|https://www.mydealz.de/deals/divinity-original-sin-2-definitive-edition-1205eur-is-1499eur-deneuer-bestpreis-xbox-one-xbox-series-xs-xbox-store-2735303",
+    "rewe|https://www.mydealz.de/deals/rewe-bonus-mccain-chef-frites-1013g-mit-140-eur-5-bonus-am-1902-entspricht-144eurkg-2735352"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/oneplus-watch-2r-143-amoled-bildschirm-snapdragon-w5-gen-1-100-stunden-akkulaufzeit-grau-2723168",
