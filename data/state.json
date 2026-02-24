@@ -2,10 +2,12 @@
   "date": "2026-02-24",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
