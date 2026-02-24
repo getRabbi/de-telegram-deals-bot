@@ -2183,7 +2183,44 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
+      "store": "MyDealz",
+      "title": "105° - [ Netto MD ] : PAYBACK div. Coupons (Barcodes) KW10/26 für NETTO Marken-Discount",
+      "imageUrl": "https://static.mydealz.de/threads/raw/3xKeB/2738070_1/re/1200x1200/qt/80/2738070_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>105° - [ Netto MD ] : PAYBACK div. Coupons (Barcodes) KW10/26 für NETTO Marken-Discount</b>\n🏪 MyDealz\n💶 Was: 0.81 € → <b>Now: 0.81 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "105° - [ Netto MD ] : PAYBACK div. Coupons (Barcodes) KW10/26 für NETTO Marken-Discount",
+        "now": "0.81 €",
+        "was": "0.81 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
+        "imageUrl": "https://static.mydealz.de/threads/raw/3xKeB/2738070_1/re/1200x1200/qt/80/2738070_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-02-24T11:34:07.226Z"
+  "updatedAt": "2026-02-24T12:41:04.514Z"
 }
