@@ -26,9 +26,17 @@ export function normalizeSpace(s) {
 }
 
 // ---------------- Price parsing (EUR-friendly) ----------------
+//
+// IMPORTANT:
+// We ONLY treat a token as a price if it explicitly includes € or EUR.
+// This avoids false hits like "923°" (heat) or '6.59"' (screen size).
 
 // Matches things like: "1.299,00 €", "1299€", "€ 12,99", "12.99 EUR"
-const PRICE_RE = /(?:€\s*)?\b\d{1,3}(?:[\.,\s]\d{3})*(?:[\.,]\d{2})?\b\s*(?:€|eur)?/gi;
+const PRICE_TOKEN_RE =
+  /(?:€\s*\d{1,3}(?:[\.\s]\d{3})*(?:[.,]\d{1,2})?|\b\d{1,3}(?:[\.\s]\d{3})*(?:[.,]\d{1,2})?\s*(?:€|eur)\b)/gi;
+
+// Matches numeric part only (used after we already know it's a price token)
+const NUMBER_RE = /\b\d{1,3}(?:[\.\s]\d{3})*(?:[.,]\d{1,2})?\b/;
 
 function normalizeDecimal(text) {
   // Convert "1.299,00" -> "1299.00" ; "12,99" -> "12.99"
@@ -44,30 +52,21 @@ function normalizeDecimal(text) {
 }
 
 export function normalizePriceText(s) {
-  const m = String(s || "").match(PRICE_RE);
+  const str = String(s || "");
+  const m = str.match(NUMBER_RE);
   if (!m || !m.length) return "";
-  // Keep first match, normalize spaces and trailing currency
-  let p = m[0]
-    .replace(/EUR/gi, "€")
-    .replace(/\s+/g, " ")
-    .trim();
 
-  // Ensure it ends with € (nice for DE)
-  if (!/€/.test(p)) p = `${p} €`;
-  return p;
+  // Keep only the number part, normalize spaces and enforce trailing €
+  const numPart = m[0].trim();
+  return `${numPart} €`.replace(/\s+/g, " ").trim();
 }
 
 export function priceToNumber(priceText) {
-  const s = String(priceText || "");
-  const m = s.match(PRICE_RE);
+  const str = String(priceText || "");
+  const m = str.match(NUMBER_RE);
   if (!m || !m.length) return 0;
 
-  // Extract the number part only
-  const raw = m[0]
-    .replace(/€/g, "")
-    .replace(/EUR/gi, "")
-    .trim();
-
+  const raw = m[0].trim();
   const normalized = normalizeDecimal(raw);
   const num = Number(normalized);
   return Number.isFinite(num) ? num : 0;
@@ -98,11 +97,20 @@ export function sanitizePrices({ now, was }) {
 
 export function extractPricesFromText(text) {
   const t = String(text || "");
-  const matches = t.match(PRICE_RE) || [];
-  const cleaned = matches.map((x) => normalizePriceText(x));
+
+  // Only pick tokens that include € / EUR
+  const matches = t.match(PRICE_TOKEN_RE) || [];
+  const cleaned = matches.map((x) => normalizePriceText(x)).filter(Boolean);
+
+  if (!cleaned.length) return { now: "", was: "" };
+
+  // If there is NO explicit "old price" marker, don't assume 2nd price = was.
+  // This prevents variant prices like "383,95€ / 433,95€" becoming Was/Now.
+  const hasOldPriceMarker = /(?:statt|uvp|vorher|was|previously|instead of)/i.test(t);
+
   return {
     now: cleaned[0] || "",
-    was: cleaned[1] || "",
+    was: hasOldPriceMarker ? (cleaned[1] || "") : "",
   };
 }
 
