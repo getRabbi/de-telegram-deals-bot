@@ -3,10 +3,12 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127"
+    "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
+    "mydealz|https://www.mydealz.de/deals/deleycon-verlangerungskabel-ip44-h07rn-f-3g15mm2-rot-z-b-15m-fur-1779-eur-2736191",
+    "mydealz|https://www.mydealz.de/deals/1299-eur-effektiv-1499-eur-zzgl-200-lg-cashback-oled65g58lw-berlet-online-lokal-2736020"
   ],
   "postedHistory": [
     {
