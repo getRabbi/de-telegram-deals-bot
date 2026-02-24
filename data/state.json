@@ -1,24 +1,12 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
-    "mydealz|https://www.mydealz.de/deals/deleycon-verlangerungskabel-ip44-h07rn-f-3g15mm2-rot-z-b-15m-fur-1779-eur-2736191",
-    "mydealz|https://www.mydealz.de/deals/1299-eur-effektiv-1499-eur-zzgl-200-lg-cashback-oled65g58lw-berlet-online-lokal-2736020"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-passat-20-tdi-r-lineallrad193psdieselmassagesitzewinterpaket18hudaccrfkehkkessynavimatrixeu-bestellfahrzeug-2732430",
-      "ts": 1771370410963
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/captiva-pc-highend-gaming-i99-806-i7-14700rx9060-xt-16gb-gddr6ssd-1tbram-32gbwlanwindows-11-home-2732700",
-      "ts": 1771370410963
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
       "ts": 1771456833570
@@ -118,6 +106,18 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292",
       "ts": 1771889222420
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
+      "ts": 1771975350061
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deleycon-verlangerungskabel-ip44-h07rn-f-3g15mm2-rot-z-b-15m-fur-1779-eur-2736191",
+      "ts": 1771975350061
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/1299-eur-effektiv-1499-eur-zzgl-200-lg-cashback-oled65g58lw-berlet-online-lokal-2736020",
+      "ts": 1771975350061
     }
   ]
 }
