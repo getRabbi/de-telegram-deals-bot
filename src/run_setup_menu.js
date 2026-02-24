@@ -1,10 +1,8 @@
 import { sendMessage, pinMessage } from "./telegram.js";
 
 function channelUsername() {
-  // If TELEGRAM_CHAT_ID is @YourChannel, we can build Telegram "?q=#hashtag" links.
   const chat = process.env.TELEGRAM_CHAT_ID || "";
   if (chat.startsWith("@")) return chat.slice(1);
-  // If it's a numeric chat id, we can't build "?q=..." links.
   return "";
 }
 
@@ -18,35 +16,48 @@ if (!username) {
   throw new Error("TELEGRAM_CHAT_ID must be in @YourChannel format to enable MENU hashtag search links.");
 }
 
+const menuTitle = "<b>DE Deals Menu 🇩🇪 | Angebote & Deals</b>";
 const menuText =
-  `📌 <b>DEALS MENU</b>\n` +
-  `Browse Top Deals and store-wise deals 👇\n\n` +
-  `🔥 <b>Top Deals Only</b>: best offers (#TopDeals)\n` +
-  `🛒 <b>All Posts</b>: full channel feed\n\n` +
-  `Tip: Use store buttons to jump to posts tagged for that store.`;
+  `${menuTitle}\n` +
+  `\nTip: Tap buttons to jump to hashtagged posts in this channel.`;
 
 const buttons = [
-  [{ text: "🔥 Top Deals Only", url: qLink(username, "TopDeals") }],
-  [{ text: "🛒 All Deals", url: `https://t.me/${username}` }],
+  // Row 1
+  [
+    { text: "🔥 Top Deals | Top-Angebote", url: qLink(username, "TopDeals") },
+    { text: "🆕 New Deals | Neue Deals", url: qLink(username, "NeueDeals") },
+  ],
 
-  [{ text: "🛒 Amazon", url: qLink(username, "Amazon") },
-   { text: "🏪 Walmart", url: qLink(username, "Walmart") }],
+  // Row 2
+  [
+    { text: "🛒 Amazon.de | Amazon", url: qLink(username, "AmazonDE") },
+    { text: "📺 MediaMarkt | Electronics", url: qLink(username, "MediaMarkt") },
+    { text: "🪐 Saturn | Electronics", url: qLink(username, "Saturn") },
+  ],
 
-  [{ text: "💻 Best Buy", url: qLink(username, "BestBuy") },
-   { text: "🎯 Target", url: qLink(username, "Target") }],
+  // Row 3
+  [
+    { text: "🏠 OTTO | Home & Fashion", url: qLink(username, "OTTO") },
+    { text: "💰 eBay.de | Refurb & Clearance", url: qLink(username, "eBayDE") },
+    { text: "👟 Zalando | Fashion", url: qLink(username, "Zalando") },
+  ],
 
-  [{ text: "🏠 Home Depot", url: qLink(username, "HomeDepot") },
-   { text: "📰 Slickdeals", url: qLink(username, "Slickdeals") }],
+  // Row 4
+  [
+    { text: "🥦 Lidl | Grocery", url: qLink(username, "Lidl") },
+    { text: "🧺 ALDI | Grocery", url: qLink(username, "ALDI") },
+    { text: "🛍️ REWE | Grocery", url: qLink(username, "REWE") },
+  ],
 
-  // External quick links (official deal pages)
-  [{ text: "Amazon Deals Page", url: "https://www.amazon.com/gp/goldbox" }],
-  [{ text: "Walmart Deals", url: "https://www.walmart.com/cp/deals/5438" }],
-  [{ text: "Best Buy Deals", url: "https://www.bestbuy.com/site/electronics/deals/abcat0500000.c?id=abcat0500000" }],
-  [{ text: "Target Deals", url: "https://www.target.com/c/deals/-/N-4xw74" }],
-  [{ text: "Home Depot Special Buy", url: "https://www.homedepot.com/SpecialBuy/SpecialBuyOfTheDay" }],
+  // Row 5
+  [
+    { text: "💄 dm | Beauty", url: qLink(username, "dm") },
+    { text: "🧴 Rossmann | Beauty", url: qLink(username, "Rossmann") },
+    { text: "🧯 MyDealz | Community Deals", url: qLink(username, "MyDealz") },
+  ],
 ];
 
-const msg = await sendMessage({ text: menuText, buttons });
+const msg = await sendMessage({ text: menuText, buttons, disablePreview: true });
 await pinMessage({ messageId: msg.message_id });
 
-console.log("✅ MENU posted & pinned.");
+console.log("✅ DE menu posted & pinned.");

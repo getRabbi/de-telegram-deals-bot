@@ -1,67 +1,300 @@
 import {
   normalizeSpace,
-  sanitizePrices,
-  calcDiscountPct,
   stripQuery,
-  extractPricesFromText
+  extractPricesFromText,
+  calcDiscountPct,
+  sanitizePrices,
+  normalizePriceText,
+  ensureHighResImageUrl,
 } from "../utils.js";
 
-/**
- * Mydealz RSS fallback (Germany): stable + no API keys.
- * Images in RSS can be inconsistent; we still try to capture one when present.
- */
-export async function fetchMydealz({ limit = 40 } = {}) {
-  const rss = "https://www.mydealz.de/rss";
-  const xml = await fetch(rss).then((r) => r.text());
+function tryFindWasPriceFromText(text) {
+  const t = String(text || "");
+  // Common patterns:
+  //  - "statt 99,99€"  - "UVP 99,99€"  - "vorher 99,99€"
+  const m = t.match(/\b(?:statt|uvp|vorher)\s*([0-9]{1,4}(?:[\.,][0-9]{1,2})?)\s*€?/i);
+  if (!m) return null;
+  return normalizePriceText(m[1]);
+}
 
+// RSS endpoints known to work historically; we try multiple.
+const FEEDS = {
+  hot: ["https://www.mydealz.de/rss/hot", "https://feeds.feedburner.com/mydealz"],
+  new: ["https://www.mydealz.de/rss/new", "https://www.mydealz.de/rss"],
+};
+
+function firstMatch(block, re) {
+  const m = block.match(re);
+  return m ? m[1] : "";
+}
+
+function decodeCdata(s) {
+  return normalizeSpace(String(s || "").replace(/<!\[CDATA\[|\]\]>/g, ""))
+    .replaceAll("&amp;", "&")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">")
+    .replaceAll("&quot;", '"');
+}
+
+function parseRss(xml) {
   const items = [];
   const itemRegex = /<item>([\s\S]*?)<\/item>/g;
   let m;
   while ((m = itemRegex.exec(xml))) {
     const block = m[1];
+    const title = decodeCdata(
+      firstMatch(block, /<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/) ||
+        firstMatch(block, /<title>([\s\S]*?)<\/title>/)
+    );
+    const link = stripQuery(firstMatch(block, /<link>([\s\S]*?)<\/link>/));
+    const description = decodeCdata(
+      firstMatch(block, /<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/) ||
+        firstMatch(block, /<description>([\s\S]*?)<\/description>/)
+    );
 
-    const title = getTag(block, "title");
-    const link = getTag(block, "link");
-    const desc = getTag(block, "description");
+    // Prefer media thumbnail if present
+    const thumb =
+      firstMatch(block, /<media:thumbnail[^>]*url="([^"]+)"/i) ||
+      firstMatch(block, /<media:content[^>]*url="([^"]+)"/i) ||
+      "";
 
-    const cleanTitle = normalizeSpace(title);
-    const url = stripQuery(link);
-
-    if (!cleanTitle || !url) continue;
-
-    // try image from description
-    let image = "";
-    const imgM = String(desc || "").match(/<img[^>]+src=["']([^"']+)["']/i);
-    if (imgM) image = imgM[1];
-
-    const prices = sanitizePrices(extractPricesFromText(`${cleanTitle} ${desc || ""}`));
-    const discountPct = calcDiscountPct(prices.now, prices.was);
-
-    items.push({
-      title: cleanTitle,
-      url,
-      image,
-      now: prices.now,
-      was: prices.was,
-      discountPct,
-      store: "Mydealz"
-    });
-
-    if (items.length >= limit) break;
+    if (!title || !link) continue;
+    items.push({ title, link, description, thumb });
   }
-
   return items;
 }
 
-function getTag(block, tag) {
-  const re = new RegExp(`<${tag}>([\\s\\S]*?)<\\/${tag}>`, "i");
-  const m = String(block || "").match(re);
-  const raw = m ? m[1] : "";
-  return normalizeSpace(decodeCdata(raw));
+function classifyStore(url) {
+  const u = String(url || "").toLowerCase();
+
+  const map = [
+    { tag: "AMAZONDE", store: "Amazon.de", hashtag: "#AmazonDE", test: (s) => s.includes("amazon.de") },
+    { tag: "MEDIAMARKT", store: "MediaMarkt", hashtag: "#MediaMarkt", test: (s) => s.includes("mediamarkt.de") },
+    { tag: "SATURN", store: "Saturn", hashtag: "#Saturn", test: (s) => s.includes("saturn.de") },
+    { tag: "OTTO", store: "OTTO", hashtag: "#OTTO", test: (s) => s.includes("otto.de") },
+    { tag: "EBAYDE", store: "eBay.de", hashtag: "#eBayDE", test: (s) => s.includes("ebay.de") },
+    { tag: "ZALANDO", store: "Zalando", hashtag: "#Zalando", test: (s) => s.includes("zalando") },
+    { tag: "LIDL", store: "Lidl", hashtag: "#Lidl", test: (s) => s.includes("lidl") },
+    { tag: "ALDI", store: "ALDI", hashtag: "#ALDI", test: (s) => s.includes("aldi") },
+    { tag: "REWE", store: "REWE", hashtag: "#REWE", test: (s) => s.includes("rewe") },
+    { tag: "DM", store: "dm", hashtag: "#dm", test: (s) => s.includes("dm.de") || s.includes("dm-drogeriemarkt") },
+    { tag: "ROSSMANN", store: "Rossmann", hashtag: "#Rossmann", test: (s) => s.includes("rossmann") },
+  ];
+
+  for (const it of map) {
+    if (it.test(u)) return it;
+  }
+
+  // If it links back to mydealz (internal) or unknown merchant
+  return { tag: "MYDEALZ", store: "MyDealz", hashtag: "#MyDealz" };
 }
 
-function decodeCdata(s) {
-  return String(s || "")
-    .replace(/^<!\[CDATA\[/i, "")
-    .replace(/\]\]>$/i, "");
+function parseHeat(title) {
+  // Common formats: "+123°" or "123°" in title
+  const m = String(title || "").match(/([+\-]?\d{1,4})\s*°/);
+  if (!m) return 0;
+  const n = Number(m[1]);
+  return Number.isFinite(n) ? n : 0;
+}
+
+export async function fetchMyDealz({ mode = "hot", limit = 80 } = {}) {
+  const urls = FEEDS[mode] || FEEDS.hot;
+  let xml = "";
+  let lastErr = "";
+
+  for (const u of urls) {
+    try {
+      const res = await fetch(u, { headers: { "User-Agent": "Mozilla/5.0" } });
+      if (!res.ok) throw new Error(`status=${res.status}`);
+      xml = await res.text();
+      if (xml && xml.includes("<item")) break;
+    } catch (e) {
+      lastErr = String(e);
+    }
+  }
+
+  if (!xml) throw new Error(`MyDealz RSS fetch failed: ${lastErr}`);
+
+  const parsed = parseRss(xml);
+  const out = [];
+
+  for (const it of parsed) {
+    if (out.length >= limit) break;
+
+    const cls = classifyStore(it.link);
+    const prices = extractPricesFromText(`${it.title} ${it.description}`);
+    const cleaned = sanitizePrices(prices);
+    const pct = calcDiscountPct(cleaned.now, cleaned.was);
+
+    const heat = parseHeat(it.title);
+    const isTop = mode === "hot" || heat >= 100;
+
+    out.push({
+      id: it.link,
+      store: cls.store,
+      storeTag: cls.tag,
+      title: it.title.replace(/\s*\|\s*mydealz.*/i, "").slice(0, 160),
+      now: cleaned.now,
+      was: cleaned.was,
+      discountPct: pct,
+      url: it.link,
+      imageUrl: it.thumb,
+      heat,
+      isTop,
+      _hashtag: cls.hashtag,
+    });
+  }
+
+  return out;
+}
+
+export const STORES = [
+  "amazon",
+  "mediamarkt",
+  "saturn",
+  "otto",
+  "ebay",
+  "zalando",
+  "lidl",
+  "aldi",
+  "rewe",
+  "dm",
+  "rossmann",
+  "mydealz"
+];
+
+
+export function allStoreTags() {
+  return [
+    "AMAZONDE",
+    "MEDIAMARKT",
+    "SATURN",
+    "OTTO",
+    "EBAYDE",
+    "ZALANDO",
+    "LIDL",
+    "ALDI",
+    "REWE",
+    "DM",
+    "ROSSMANN",
+    "MYDEALZ",
+  ];
+}
+
+export const STORE_META = {
+  AMAZONDE: { hashtag: "#AmazonDE", label: "Amazon.de" },
+  MEDIAMARKT: { hashtag: "#MediaMarkt", label: "MediaMarkt" },
+  SATURN: { hashtag: "#Saturn", label: "Saturn" },
+  OTTO: { hashtag: "#OTTO", label: "OTTO" },
+  EBAYDE: { hashtag: "#eBayDE", label: "eBay.de" },
+  ZALANDO: { hashtag: "#Zalando", label: "Zalando" },
+  LIDL: { hashtag: "#Lidl", label: "Lidl" },
+  ALDI: { hashtag: "#ALDI", label: "ALDI" },
+  REWE: { hashtag: "#REWE", label: "REWE" },
+  DM: { hashtag: "#dm", label: "dm" },
+  ROSSMANN: { hashtag: "#Rossmann", label: "Rossmann" },
+  MYDEALZ: { hashtag: "#MyDealz", label: "MyDealz" },
+};
+
+// ------------------------------
+
+// ------------------------------
+// Deal-page enrichment (MANDATORY FIELDS)
+// ------------------------------
+
+function extractOgImage(html) {
+  const m = String(html || "").match(/property=["']og:image["']\s+content=["']([^"']+)["']/i);
+  return m ? m[1] : "";
+}
+
+function extractOgTitle(html) {
+  const m = String(html || "").match(/property=["']og:title["']\s+content=["']([^"']+)["']/i);
+  return m ? m[1] : "";
+}
+
+function extractJsonNumber(html, key) {
+  const re = new RegExp(`"${key}"\\s*:\\s*"?([0-9]+(?:[\\.,][0-9]{2})?)"?`, "i");
+  const m = String(html || "").match(re);
+  return m ? m[1] : "";
+}
+
+function asEurText(numOrText) {
+  const s = String(numOrText || "").trim();
+  if (!s) return "";
+  // if already has €
+  if (s.includes("€")) return s;
+  return `${s.replace(",", ".")} €`;
+}
+
+export async function enrichMyDealzMandatory(deal) {
+  // Make sure we have a full set: title, imageUrl, now, was, discountPct
+  const out = { ...deal };
+
+  // If RSS already has all mandatory fields, keep it.
+  if (out.title && out.imageUrl && out.now && out.was && typeof out.discountPct === "number") {
+    return out;
+  }
+
+  // Fetch deal page
+  try {
+    const res = await fetch(out.url, { headers: { "User-Agent": "Mozilla/5.0" }, redirect: "follow" });
+    if (!res.ok) return null;
+    const html = await res.text();
+
+    if (!out.title) {
+      const t = extractOgTitle(html);
+      if (t) out.title = t.replace(/\s*\|\s*mydealz.*/i, "").slice(0, 160);
+    }
+
+    if (!out.imageUrl) {
+      const og = extractOgImage(html);
+      if (og) out.imageUrl = og;
+    }
+
+    // Upgrade tiny thumbnails to a larger rendition (helps Telegram photo posting).
+    if (out.imageUrl) out.imageUrl = ensureHighResImageUrl(out.imageUrl, 1200);
+
+    // Try JSON-ish keys seen on many product/deal pages
+    const p1 = extractJsonNumber(html, "price");
+    const p2 = extractJsonNumber(html, "currentPrice");
+    const old1 = extractJsonNumber(html, "oldPrice");
+    const old2 = extractJsonNumber(html, "originalPrice");
+
+    // Fallback: scan visible text for prices
+    let nowText = out.now;
+    let wasText = out.was;
+
+    if (!nowText || !wasText) {
+      const prices = extractPricesFromText(html);
+      const cleaned = sanitizePrices(prices);
+      if (!nowText) nowText = cleaned.now;
+      if (!wasText) wasText = cleaned.was;
+    }
+
+    // Extra fallback: sometimes the meta description contains "statt ...€".
+    if (!wasText) {
+      const metaDesc = (html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i) || [])[1];
+      const fromMeta = tryFindWasPriceFromText(metaDesc);
+      if (fromMeta) wasText = fromMeta;
+    }
+
+    // Prefer explicit JSON values
+    if (!nowText) nowText = asEurText(p1 || p2);
+    if (!wasText) wasText = asEurText(old1 || old2);
+
+    if (nowText) out.now = normalizePriceText(nowText);
+    if (wasText) out.was = normalizePriceText(wasText);
+
+    // If we still don't have a regular price, treat it as "no discount" (still post).
+    if (out.now && !out.was) out.was = out.now;
+
+    // Compute discount
+    const pct = calcDiscountPct(out.now, out.was);
+    if (Number.isFinite(pct)) out.discountPct = pct;
+    if (typeof out.discountPct !== "number") out.discountPct = 0;
+
+    return out;
+  } catch {
+    return null;
+  }
 }

@@ -1,66 +1,48 @@
-## Germany (DE) Telegram Deals Bot
+# DE Telegram Deals Bot (Germany)
 
-This build is adapted for Germany (Amazon.de + Mydealz RSS fallback).
+A lightweight Telegram channel bot for **Germany (.de)**.
 
-# DE Telegram Deals Bot (PRO)
+## What it does
+- Builds a **daily pool of 15 unique deals** (from MyDealz RSS: hot + new).
+- Posts **1 deal every hour** (UTC, via GitHub Actions).
+- After finishing the 15 deals, it **repeats** from the start (hourly repeat), so you get continuous posting.
+- Adds hashtags so your pinned menu can jump to stores/categories.
 
-Headless **Playwright + Node 20** bot that fetches deals from multiple **DE stores** and auto-posts them to a **Telegram channel**.
+## Supported stores (menu)
+- Amazon.de
+- MediaMarkt
+- Saturn
+- OTTO
+- eBay.de
+- Zalando
+- Lidl
+- ALDI
+- REWE
+- dm
+- Rossmann
+- MyDealz
 
-## Stores
+## Setup
+1) Create a Telegram bot with @BotFather and get the token.
+2) Create a Telegram channel and add the bot as admin.
+3) In GitHub repo settings, add secrets:
+   - `TELEGRAM_BOT_TOKEN`
+   - `TELEGRAM_CHAT_ID` (must be `@YourChannelUsername`)
+4) Run the workflow **Setup DE Deals Menu (Pin)** once to post & pin the menu.
 
-Primary (scraped with Playwright):
-- Amazon DE (Gold Box)
-- Walmart
-- Best Buy
-- Target
-- Home Depot
+## Posting schedule
+- Workflow: `.github/workflows/de_hourly.yml`
+- Cron: every hour (UTC) at minute 10
 
-Fallback (RSS):
-- Slickdeals (keeps daily posts flowing even if retailers block/slow)
-
-## How it works
-
-1) Fetch deals from each store
-2) Normalize prices, compute discount %, score deals
-3) De-duplicate using `data/posted.json` (TTL-based)
-4) Fairness: cap posts per store
-5) Post to Telegram (photo if available, otherwise text fallback)
-6) Commit updated `posted.json` back to the repo (GitHub Actions)
-
-## Required GitHub Secrets
-
-- `TELEGRAM_BOT_TOKEN`
-- `TELEGRAM_CHAT_ID`
-
-Optional:
-- `AMAZON_TAG` (Amazon Associates tag, e.g. `xxxx-20`)
-- `DEEPLINK_BASE_WALMART`, `DEEPLINK_BASE_BESTBUY`, `DEEPLINK_BASE_TARGET`, `DEEPLINK_BASE_HOMEDEPOT`
-  - Format: a prefix where we append `encodeURIComponent(targetUrl)`.
-  - Example: `https://network.example/deeplink?url=`
+## Config (optional)
+Environment variables (GitHub Actions already sets defaults):
+- `MAX_POSTS_TOTAL` (default 15) : daily unique deals
+- `DAYS_TTL` (default 7) : how long we keep history
+- `RATE_LIMIT_MS` (default 3500)
 
 ## Local run
-
 ```bash
 npm install
-npx playwright install --with-deps chromium
-
-export TELEGRAM_BOT_TOKEN=...
-export TELEGRAM_CHAT_ID=...
-
-npm run run:all
+TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=@yourchannel npm run run:hourly
 ```
 
-## Tuning (env)
-
-- `MAX_POSTS_TOTAL` (default: 15)
-- `MAX_POSTS_PER_STORE` (default: 4)
-- `MIN_POSTS_DAILY` (default: 10)
-- `DAYS_TTL` (default: 7)
-- `RATE_LIMIT_MS` (default: 4500)
-
-Strict preference (does not block posting):
-- `STRICT_MIN_DISCOUNT` (default: 20)
-- `STRICT_MIN_PRICE` (default: 120)
-
-Fallback:
-- `FALLBACK_MODE` (default: 1)

@@ -1,14 +1,12 @@
 {
-  "name": "de-telegram-deals-bot-pro",
+  "name": "de-telegram-deals-bot",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "test:post": "node src/run_test_post.js",
-    "run:all": "node src/run_all.js",
-    "setup:menu": "node src/run_setup_menu.js"
+    "run:hourly": "node src/run_hourly.js",
+    "setup:menu": "node src/run_setup_menu.js",
+    "test:post": "node src/run_test_post.js"
   },
-  "dependencies": {
-    "playwright": "^1.52.0"
-  }
+  "dependencies": {}
 }

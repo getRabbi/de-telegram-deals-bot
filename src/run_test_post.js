@@ -7,22 +7,23 @@ const channelLink =
     : "https://t.me/";
 
 const deal = {
-  title: "TEST – Demo Deal Card",
-  store: "Amazon US",
-  now: "$19.99",
-  was: "$39.99",
+  title: "TEST – Demo Deal Card (DE)",
+  store: "Amazon.de",
+  storeTag: "AMAZONDE",
+  now: "19,99 €",
+  was: "39,99 €",
   discountPct: 50,
-  endsText: "Test post",
-  hashtags: ["#TopDeals", "#Amazon", "#Today", "#DEDeals"]
+  isTop: true,
+  hashtags: ["#TopDeals", "#AmazonDE", "#DeutschlandDeals"],
 };
 
 await sendPhotoPost({
-  imageUrl: "https://picsum.photos/800/800.jpg",
+  imageUrl: "https://picsum.photos/900/900.jpg",
   caption: formatDealCard(deal),
   buttons: [
-    [{ text: "👉 Open", url: "https://www.amazon.com/" }],
-    [{ text: "🏪 Open Channel", url: channelLink }]
-  ]
+    [{ text: "🔗 Open Deal | Deal öffnen", url: "https://www.amazon.de/" }],
+    [{ text: "🏪 Open Channel", url: channelLink }],
+  ],
 });
 
 console.log("✅ Test post sent.");

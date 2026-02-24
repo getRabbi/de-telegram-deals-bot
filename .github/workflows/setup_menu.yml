@@ -1,4 +1,4 @@
-name: Setup MENU (Pin)
+name: Setup DE Deals Menu (Pin)
 
 on:
   workflow_dispatch:
@@ -9,21 +9,15 @@ permissions:
 jobs:
   menu:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Post & Pin MENU
+      - run: npm install
+      - name: Post & pin menu
         run: npm run setup:menu
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
