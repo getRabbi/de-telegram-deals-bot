@@ -2,10 +2,16 @@
   "date": "2026-02-25",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/audeze-maxwell-2-high-end-kopfhorergaming-headset-90mm-planar-magnetische-treiber-2720689",
+    "mydealz|https://www.mydealz.de/deals/de-buyer-mineral-b-wokpfanne-fur-3495eur-595eur-o-28-cm-wok-pfanne-2692235",
+    "mydealz|https://www.mydealz.de/deals/oral-b-series-9-black-onyx-geschenk-edition-2720804",
+    "mydealz|https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
+    "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
