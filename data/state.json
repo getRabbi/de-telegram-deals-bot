@@ -3,14 +3,18 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/audeze-maxwell-2-high-end-kopfhorergaming-headset-90mm-planar-magnetische-treiber-2720689",
     "mydealz|https://www.mydealz.de/deals/de-buyer-mineral-b-wokpfanne-fur-3495eur-595eur-o-28-cm-wok-pfanne-2692235",
     "mydealz|https://www.mydealz.de/deals/oral-b-series-9-black-onyx-geschenk-edition-2720804",
     "mydealz|https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
-    "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495"
+    "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495",
+    "mydealz|https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
+    "mydealz|https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
+    "mydealz|https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967",
+    "mydealz|https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836"
   ],
   "postedHistory": [
     {
