@@ -79,14 +79,30 @@ export async function sendPhotoPost({
 }) {
   const chatId = mustEnv("TELEGRAM_CHAT_ID");
 
-  // Upgrade thumbnails (e.g., Shopify 32x32) to a large size to avoid blur.
   const upgraded = ensureHighResImageUrl(safeString(imageUrl), 1200);
-  const { buf } = await fetchImageBytes(upgraded);
 
-  // If URL looks low-res OR file is tiny, it's usually a thumbnail => blur.
-  // Let caller fallback to text.
+  let buf;
+  try {
+    const out = await fetchImageBytes(upgraded);
+    buf = out.buf;
+  } catch (e) {
+    // ছবি fetch-ই না হলে → text fallback
+    return sendMessage({
+      text: safeString(caption),
+      buttons: buttons || [],
+      disablePreview: false,
+      messageThreadId,
+    });
+  }
+
+  // Low-res হলে আর throw না করে → text fallback
   if (isLowResImageUrl(upgraded) || !buf || buf.length < 35 * 1024) {
-    throw new Error(`Low-res image (too small). size=${buf?.length || 0} url=${upgraded}`);
+    return sendMessage({
+      text: safeString(caption),
+      buttons: buttons || [],
+      disablePreview: false, // link preview allow
+      messageThreadId,
+    });
   }
 
   const fd = new FormData();
@@ -97,11 +113,9 @@ export async function sendPhotoPost({
 
   if (messageThreadId) fd.append("message_thread_id", safeString(messageThreadId));
 
-  // buttons
   const replyMarkup = { inline_keyboard: buttons || [] };
   fd.append("reply_markup", JSON.stringify(replyMarkup));
 
-  // attach file
   const file = new Blob([buf], { type: "image/jpeg" });
   fd.append("photo", file, "deal.jpg");
 
@@ -150,27 +164,25 @@ export async function pinMessage({ messageId, disableNotification = true }) {
 // Compatibility export for hourly runner
 // ===============================
 export async function sendTelegramMessage(deal) {
-  // Prefer photo post if image exists
-  if (deal?.image || deal?.imageUrl) {
-    try {
-      return await sendPhotoPost({
-        imageUrl: deal.image || deal.imageUrl,
-        caption: deal.caption || deal.text || deal.title || "",
-        buttons: deal.buttons || [],
-        disablePreview: true,
-      });
-    } catch (e) {
-      // fallback to text if image is low-res or fails
-      return sendTextPost({
-        text: deal.text || deal.title || "",
-        disablePreview: false,
-      });
-    }
+  const caption = deal.caption || deal.text || deal.title || "";
+  const buttons = deal.buttons || [];
+  const imageUrl = deal?.image || deal?.imageUrl;
+
+  if (imageUrl) {
+    // sendPhotoPost এখন নিজেই low-res হলে text fallback করবে
+    return sendPhotoPost({
+      imageUrl,
+      caption,
+      buttons,
+      disablePreview: true,
+      messageThreadId: deal.messageThreadId,
+    });
   }
 
-  // Default: text post
-  return sendTextPost({
-    text: deal.text || deal.title || "",
+  return sendMessage({
+    text: caption,
+    buttons,
     disablePreview: false,
+    messageThreadId: deal.messageThreadId,
   });
 }
