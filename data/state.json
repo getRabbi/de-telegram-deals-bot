@@ -1,46 +1,12 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/audeze-maxwell-2-high-end-kopfhorergaming-headset-90mm-planar-magnetische-treiber-2720689",
-    "mydealz|https://www.mydealz.de/deals/de-buyer-mineral-b-wokpfanne-fur-3495eur-595eur-o-28-cm-wok-pfanne-2692235",
-    "mydealz|https://www.mydealz.de/deals/oral-b-series-9-black-onyx-geschenk-edition-2720804",
-    "mydealz|https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
-    "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495",
-    "mydealz|https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
-    "mydealz|https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
-    "mydealz|https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967",
-    "mydealz|https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-81kwh-340ps-626km-rw-205kw-dc-auch-xdrive40-und-m60-konfigurierbares-und-forderfahiges-dt-neufahrzeug-2732894",
-      "ts": 1771456833570
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-65oled81012-164-cm-65-oled-ambilight-tv-metall-inkl-tab820010-21-soundbar-mit-subwoofer-2732910",
-      "ts": 1771456833570
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-ganzjahresreifen-fur-7951eur-ebay-2733007",
-      "ts": 1771456833570
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nubia-flip-2-5g-256gb-lilac-purple-smartphone-2733020",
-      "ts": 1771456833570
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eff-706eur-hp-omnibook-7-aero-ryzen-ai-7-350-32gb-ram-radeon-860m-wqxga-2560x1600-100-srgb-ips-400-nits-newsletterlabdoocb-2733195",
-      "ts": 1771456833570
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/smlight-slzb-06mu-zigbee-30-coordinator-efr32mg21-ethernetwifiusb-poe-8023af-esp32-zigbee2mqtt-home-assistant-zha-2733158",
-      "ts": 1771456833570
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
       "ts": 1771543294423
@@ -128,6 +94,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/1299-eur-effektiv-1499-eur-zzgl-200-lg-cashback-oled65g58lw-berlet-online-lokal-2736020",
       "ts": 1771975350061
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/audeze-maxwell-2-high-end-kopfhorergaming-headset-90mm-planar-magnetische-treiber-2720689",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/de-buyer-mineral-b-wokpfanne-fur-3495eur-595eur-o-28-cm-wok-pfanne-2692235",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oral-b-series-9-black-onyx-geschenk-edition-2720804",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-nordbayern-arla-finello-reibekase-verschiedene-sorten-je-150g-mit-app-und-coupon-024-euro-2719369",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/faxe-strong-2736495",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/titan-upgrade-4-rad-trolley-l-75-cm-2720802",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/linksys-velop-micro-6-mesh-wlan-system-3-pack-2720305",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/esimio-esim-mit-500mb-fur-1-tag-kostenlos-eu-us-uk-turkei-schweiz-neukunden-2727967",
+      "ts": 1772061653865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/skoda-kamiq-15-dsg-selection150psautomatikeu-bestellfahrzeug5-jahre-garantie2-zonen-klimashzsmartlinkschalter-fur-22230eur-2707836",
+      "ts": 1772061653865
     }
   ]
 }
