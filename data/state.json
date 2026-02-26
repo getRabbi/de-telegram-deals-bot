@@ -1,11 +1,18 @@
 {
   "date": "2026-02-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/paradise-by-check-in-kingston-4-rollen-trolley-67-cm-2720798",
+    "mydealz|https://www.mydealz.de/deals/2x-ledvance-led-deckenleuchte-smart-wifi-planon-300-mm-20-w-1700-lm-wlan-einstellbare-farbtemperatur-alexa-google-assistant-2709529",
+    "mydealz|https://www.mydealz.de/deals/gardena-astschere-energycut-750-b-nur-heute-bei-netto-md-zum-bestpreis-fur-1499-eur-2728349",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-oris-divers-65-1590eur-35-breitling-chronomat-gmt-4090eur-grand-seiko-spring-drive-le-4300eur-ruschenbeck-2728348",
+    "mydealz|https://www.mydealz.de/deals/apple-pencil-2-generation-2730408",
+    "mydealz|https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
