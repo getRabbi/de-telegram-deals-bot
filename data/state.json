@@ -2,7 +2,7 @@
   "date": "2026-02-26",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gardena-astschere-energycut-750-b-nur-heute-bei-netto-md-zum-bestpreis-fur-1499-eur-2728349",
     "mydealz|https://www.mydealz.de/deals/sammeldeal-oris-divers-65-1590eur-35-breitling-chronomat-gmt-4090eur-grand-seiko-spring-drive-le-4300eur-ruschenbeck-2728348",
     "mydealz|https://www.mydealz.de/deals/apple-pencil-2-generation-2730408",
-    "mydealz|https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865"
+    "mydealz|https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865",
+    "mydealz|https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
+    "mydealz|https://www.mydealz.de/deals/globus-emsa-clip-close-plastik-ab-249eur-glas-ab-399eur-frischhaltedosen-ca-40-rabatt-ab-2226-2723552",
+    "mydealz|https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010",
+    "mydealz|https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171",
+    "mydealz|https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913"
   ],
   "postedHistory": [
     {
