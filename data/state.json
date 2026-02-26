@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/paradise-by-check-in-kingston-4-rollen-trolley-67-cm-2720798",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/globus-emsa-clip-close-plastik-ab-249eur-glas-ab-399eur-frischhaltedosen-ca-40-rabatt-ab-2226-2723552",
     "mydealz|https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010",
     "mydealz|https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171",
-    "mydealz|https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913"
+    "mydealz|https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913",
+    "mydealz|https://www.mydealz.de/deals/prime-anker-323-usb-c-ladegerat-33w-2-ports-usb-c-20w-usb-a-12w-activeshield-kompakt-2723901",
+    "mydealz|https://www.mydealz.de/deals/spotify-premium-2-monate-kostenlos-testen-fur-neukunden-musik-streaming-ohne-werbung-2726001",
+    "mydealz|https://www.mydealz.de/deals/7x-mobil-1-fs-0w-40-1l-7x-1l-motorol-versand-kostenlos-2730939",
+    "mydealz|https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049"
   ],
   "postedHistory": [
     {
