@@ -1,11 +1,18 @@
 {
   "date": "2026-02-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
+    "mydealz|https://www.mydealz.de/deals/bershka-kpop-demon-hunters-huntrx-2720810",
+    "mydealz|https://www.mydealz.de/deals/mtb-lenker-protaper-carbon-rise-12-318x810mm-black-stealth-2721607",
+    "mydealz|https://www.mydealz.de/deals/mazda-3-25l-nagisa-automatikeu-neuwagen18radervolllederelektrische-memory-sitzehudnaviruckfahrkameraledbose-soundsystem-etc-2690016",
+    "mydealz|https://www.mydealz.de/deals/e-mtb-scott-voltage-eride-920-carbontq-360whxttwinlock193kgsgw130kg-2025-mlxl-2737402",
+    "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
