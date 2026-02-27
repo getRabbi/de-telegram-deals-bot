@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/eurotronic-sparmatic-comet-heizkorperthermostat-programmierbar-8-heizzeiten-fenster-offen-erkennung-frostschutz-batteriebetrieben-2712886",
     "mydealz|https://www.mydealz.de/deals/5-zinsen-pa-auf-einlagen-alternative-zu-tagesgeld-2721903",
     "mydealz|https://www.mydealz.de/deals/apple-airpods-3-generation-mit-lightning-ladecase-fur-10495-eur-mit-versandkosten-2722121",
-    "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556"
+    "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-mi-cordless-screwdriver-2720786",
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-snapmaker-u1-und-zubehor-reduziert-3d-drucker-toolchanger-270270270-mm-2720697",
+    "mydealz|https://www.mydealz.de/deals/auswahl-kostenloser-online-kurse-azure-claude-ai-excel-trello-airtable-powerbi-java-revit-sap-etc-2720797",
+    "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605"
   ],
   "postedHistory": [
     {
