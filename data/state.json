@@ -2,7 +2,7 @@
   "date": "2026-02-27",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/mtb-lenker-protaper-carbon-rise-12-318x810mm-black-stealth-2721607",
     "mydealz|https://www.mydealz.de/deals/mazda-3-25l-nagisa-automatikeu-neuwagen18radervolllederelektrische-memory-sitzehudnaviruckfahrkameraledbose-soundsystem-etc-2690016",
     "mydealz|https://www.mydealz.de/deals/e-mtb-scott-voltage-eride-920-carbontq-360whxttwinlock193kgsgw130kg-2025-mlxl-2737402",
-    "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027"
+    "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027",
+    "mydealz|https://www.mydealz.de/deals/glorious-series-2-pro-wireless-gaming-maus-55-g-26000-dpi-8k-polling-80-h-akku-bamf-20-sensor-kabelloskabelgebunden-2722062",
+    "mydealz|https://www.mydealz.de/deals/eurotronic-sparmatic-comet-heizkorperthermostat-programmierbar-8-heizzeiten-fenster-offen-erkennung-frostschutz-batteriebetrieben-2712886",
+    "mydealz|https://www.mydealz.de/deals/5-zinsen-pa-auf-einlagen-alternative-zu-tagesgeld-2721903",
+    "mydealz|https://www.mydealz.de/deals/apple-airpods-3-generation-mit-lightning-ladecase-fur-10495-eur-mit-versandkosten-2722121",
+    "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556"
   ],
   "postedHistory": [
     {
