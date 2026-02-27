@@ -1,44 +1,12 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
-    "mydealz|https://www.mydealz.de/deals/bershka-kpop-demon-hunters-huntrx-2720810",
-    "mydealz|https://www.mydealz.de/deals/mtb-lenker-protaper-carbon-rise-12-318x810mm-black-stealth-2721607",
-    "mydealz|https://www.mydealz.de/deals/mazda-3-25l-nagisa-automatikeu-neuwagen18radervolllederelektrische-memory-sitzehudnaviruckfahrkameraledbose-soundsystem-etc-2690016",
-    "mydealz|https://www.mydealz.de/deals/e-mtb-scott-voltage-eride-920-carbontq-360whxttwinlock193kgsgw130kg-2025-mlxl-2737402",
-    "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027",
-    "mydealz|https://www.mydealz.de/deals/glorious-series-2-pro-wireless-gaming-maus-55-g-26000-dpi-8k-polling-80-h-akku-bamf-20-sensor-kabelloskabelgebunden-2722062",
-    "mydealz|https://www.mydealz.de/deals/eurotronic-sparmatic-comet-heizkorperthermostat-programmierbar-8-heizzeiten-fenster-offen-erkennung-frostschutz-batteriebetrieben-2712886",
-    "mydealz|https://www.mydealz.de/deals/5-zinsen-pa-auf-einlagen-alternative-zu-tagesgeld-2721903",
-    "mydealz|https://www.mydealz.de/deals/apple-airpods-3-generation-mit-lightning-ladecase-fur-10495-eur-mit-versandkosten-2722121",
-    "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-mi-cordless-screwdriver-2720786",
-    "mydealz|https://www.mydealz.de/deals/vorbestellung-snapmaker-u1-und-zubehor-reduziert-3d-drucker-toolchanger-270270270-mm-2720697",
-    "mydealz|https://www.mydealz.de/deals/auswahl-kostenloser-online-kurse-azure-claude-ai-excel-trello-airtable-powerbi-java-revit-sap-etc-2720797",
-    "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-harry-potter-collection-die-jahre-1-4-die-jahre-5-7-ps5-digital-download-ps-store-2702749",
-      "ts": 1771543294423
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pumpermarkt-x-muskelmarkt-0826-2733337",
-      "ts": 1771543294423
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/royal-orient-sambal-oelek-chilipaste-multipack-6-x-720-gr-spar-abo-11371017eur-prime-2733409",
-      "ts": 1771543294423
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lemorele-p50-4k-hdmi-5ghz24ghz-funkubertragung-sender-empfanger-4k-30hz-50m-reichweite-bis-zu-8-sender-verbinden-2733327",
-      "ts": 1771543294423
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
       "ts": 1771629599459
@@ -206,6 +174,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049",
       "ts": 1772148053042
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bershka-kpop-demon-hunters-huntrx-2720810",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mtb-lenker-protaper-carbon-rise-12-318x810mm-black-stealth-2721607",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mazda-3-25l-nagisa-automatikeu-neuwagen18radervolllederelektrische-memory-sitzehudnaviruckfahrkameraledbose-soundsystem-etc-2690016",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-scott-voltage-eride-920-carbontq-360whxttwinlock193kgsgw130kg-2025-mlxl-2737402",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/glorious-series-2-pro-wireless-gaming-maus-55-g-26000-dpi-8k-polling-80-h-akku-bamf-20-sensor-kabelloskabelgebunden-2722062",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eurotronic-sparmatic-comet-heizkorperthermostat-programmierbar-8-heizzeiten-fenster-offen-erkennung-frostschutz-batteriebetrieben-2712886",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/5-zinsen-pa-auf-einlagen-alternative-zu-tagesgeld-2721903",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-airpods-3-generation-mit-lightning-ladecase-fur-10495-eur-mit-versandkosten-2722121",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-mi-cordless-screwdriver-2720786",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-snapmaker-u1-und-zubehor-reduziert-3d-drucker-toolchanger-270270270-mm-2720697",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/auswahl-kostenloser-online-kurse-azure-claude-ai-excel-trello-airtable-powerbi-java-revit-sap-etc-2720797",
+      "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605",
+      "ts": 1772234166814
     }
   ]
 }
