@@ -1,11 +1,18 @@
 {
   "date": "2026-02-28",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
+    "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
+    "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
+    "mydealz|https://www.mydealz.de/deals/gog-syndicate-wars-1996-fur-139eur-pc-mac-2724514",
+    "mydealz|https://www.mydealz.de/deals/1x-pokemon-karmesin-purpur-paradoxrift-boosterpack-fur-001-eur-obsidian-flammen-fur-005-eur-reisegefahrten-fur-006-eur-personalisiert-2726937",
+    "mydealz|https://www.mydealz.de/deals/rapsol-1-liter-111-2733754"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
