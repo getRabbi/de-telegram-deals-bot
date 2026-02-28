@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/pulsar-x3-crazylight-wireless-gaming-maus-uyuni-weiss-43g-xs-1-sensor-32000-dpi-8000-hz-polling-optical-switches-2733897",
     "mydealz|https://www.mydealz.de/deals/from-dusk-till-dawn-4k-dolby-vision-itunes-hd-digital-amazon-video-teil-2-und-3-auch-jeweils-599eur-in-hd-sammeldeal-2733806",
     "mydealz|https://www.mydealz.de/deals/rodcraft-rh216-rangier-wagenheber-25t-hubkraft-75-500mm-2733883",
-    "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070"
+    "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
+    "mydealz|https://www.mydealz.de/deals/netto-mit-hund-250g-deutsche-markenbutter-frija-ab-222026-2722754",
+    "mydealz|https://www.mydealz.de/deals/thule-velospace-xt-3-2724920",
+    "mydealz|https://www.mydealz.de/deals/telekom-dsl-magenta-zu-hause-l-100mbit-fur-effektiv-2158-eur-monat-24-monate-laufzeit-2735990",
+    "mydealz|https://www.mydealz.de/deals/sangean-ddr-7x-dabukw-holzradio-in-drei-verschiedenen-farben-bluetooth-52-oled-display-akku-betrieb-tws-stereo-2738236"
   ],
   "postedHistory": [
     {
