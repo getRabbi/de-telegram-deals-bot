@@ -1,40 +1,12 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
-    "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
-    "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
-    "mydealz|https://www.mydealz.de/deals/gog-syndicate-wars-1996-fur-139eur-pc-mac-2724514",
-    "mydealz|https://www.mydealz.de/deals/1x-pokemon-karmesin-purpur-paradoxrift-boosterpack-fur-001-eur-obsidian-flammen-fur-005-eur-reisegefahrten-fur-006-eur-personalisiert-2726937",
-    "mydealz|https://www.mydealz.de/deals/rapsol-1-liter-111-2733754",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-bridge-constructor-portal-fur-nintendo-switch-zaf-103eur-2724714",
-    "mydealz|https://www.mydealz.de/deals/pulsar-x3-crazylight-wireless-gaming-maus-uyuni-weiss-43g-xs-1-sensor-32000-dpi-8000-hz-polling-optical-switches-2733897",
-    "mydealz|https://www.mydealz.de/deals/from-dusk-till-dawn-4k-dolby-vision-itunes-hd-digital-amazon-video-teil-2-und-3-auch-jeweils-599eur-in-hd-sammeldeal-2733806",
-    "mydealz|https://www.mydealz.de/deals/rodcraft-rh216-rangier-wagenheber-25t-hubkraft-75-500mm-2733883",
-    "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
-    "mydealz|https://www.mydealz.de/deals/netto-mit-hund-250g-deutsche-markenbutter-frija-ab-222026-2722754",
-    "mydealz|https://www.mydealz.de/deals/thule-velospace-xt-3-2724920",
-    "mydealz|https://www.mydealz.de/deals/telekom-dsl-magenta-zu-hause-l-100mbit-fur-effektiv-2158-eur-monat-24-monate-laufzeit-2735990",
-    "mydealz|https://www.mydealz.de/deals/sangean-ddr-7x-dabukw-holzradio-in-drei-verschiedenen-farben-bluetooth-52-oled-display-akku-betrieb-tws-stereo-2738236"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tronitechnik-tt-sk-03-sackkarre-80kg-aus-aluminium-fur-1999eur-inkl-versand-ebay-2733959",
-      "ts": 1771629599459
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mindstar-endorfy-arx-500-air-midi-tower-schwarz-seitenfenster-hoher-airflow-5x-140mm-lufter-verbaut-2732795",
-      "ts": 1771629599459
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dm-payback-15fach-p-auf-den-einkauf-vor-ort-ab-2-euro-bis-22032026-gultig-2734174",
-      "ts": 1771629599459
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512",
       "ts": 1771715753296
@@ -250,6 +222,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605",
       "ts": 1772234166814
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-syndicate-wars-1996-fur-139eur-pc-mac-2724514",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/1x-pokemon-karmesin-purpur-paradoxrift-boosterpack-fur-001-eur-obsidian-flammen-fur-005-eur-reisegefahrten-fur-006-eur-personalisiert-2726937",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rapsol-1-liter-111-2733754",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-bridge-constructor-portal-fur-nintendo-switch-zaf-103eur-2724714",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pulsar-x3-crazylight-wireless-gaming-maus-uyuni-weiss-43g-xs-1-sensor-32000-dpi-8000-hz-polling-optical-switches-2733897",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/from-dusk-till-dawn-4k-dolby-vision-itunes-hd-digital-amazon-video-teil-2-und-3-auch-jeweils-599eur-in-hd-sammeldeal-2733806",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rodcraft-rh216-rangier-wagenheber-25t-hubkraft-75-500mm-2733883",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-mit-hund-250g-deutsche-markenbutter-frija-ab-222026-2722754",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/thule-velospace-xt-3-2724920",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-dsl-magenta-zu-hause-l-100mbit-fur-effektiv-2158-eur-monat-24-monate-laufzeit-2735990",
+      "ts": 1772320393291
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sangean-ddr-7x-dabukw-holzradio-in-drei-verschiedenen-farben-bluetooth-52-oled-display-akku-betrieb-tws-stereo-2738236",
+      "ts": 1772320393291
     }
   ]
 }
