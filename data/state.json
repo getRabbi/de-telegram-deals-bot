@@ -1,11 +1,18 @@
 {
   "date": "2026-03-01",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-dortmund-recklinghausen-alpro-not-milk-vegane-hafermilch-mhd-2720657",
+    "mydealz|https://www.mydealz.de/gutscheine/docmorris-keine-zuzahlung-beim-1-rezept-2722064",
+    "mydealz|https://www.mydealz.de/deals/tonies-toniebox-2-rosa-starter-set-fur-88eur-bomb-busters-spiel-des-jahres-2015-fur-2239eur-thalia-kultclub-2725071",
+    "mydealz|https://www.mydealz.de/deals/k4g-split-fiction-nintendo-switch-2-downloadkey-2724929",
+    "mydealz|https://www.mydealz.de/deals/joybuy-apple-airpods-pro-3-fur-213-mit-9-cashback-bei-shopbuddies-bei-app-bestellungen-eff-19689eur-moglich-2725746",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-10-pro-256gb-porcelain-weiss-2732263"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-265-smartwatch-mit-gps-13-zoll-amoled-display-schwarz-46mm-2734512",
