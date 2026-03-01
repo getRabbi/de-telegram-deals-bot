@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lokal-dortmund-recklinghausen-alpro-not-milk-vegane-hafermilch-mhd-2720657",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/meine-bank-335-pa-4-monate-garantiert-bis-100000eur-neukunden-de-einlagensicherung-2738663",
     "mydealz|https://www.mydealz.de/deals/linksys-24-port-managed-gigabit-switch-mit-4x-10g-sfp-ports-ohne-poe-2738644",
     "mydealz|https://www.mydealz.de/deals/emsa-frischhaltedose-clipclose-n10317-9-teiliges-set-015-22-liter-transparent-luftdicht-2723040",
-    "mydealz|https://www.mydealz.de/deals/terminator-2-special-edition-fur-1027eur-blu-ray-3d2d-fur-1187eur-4k-ultra-hd-fur-2297eur-sammeldeal-via-prime-2738533"
+    "mydealz|https://www.mydealz.de/deals/terminator-2-special-edition-fur-1027eur-blu-ray-3d2d-fur-1187eur-4k-ultra-hd-fur-2297eur-sammeldeal-via-prime-2738533",
+    "mydealz|https://www.mydealz.de/deals/cb-samsung-galaxy-s26-512gb-364eur-vs-idealo-flat-o2-300gb-unlimited-vodafone-25gb-45gb-unlimited-telekom-30gb-50gb-2738850",
+    "mydealz|https://www.mydealz.de/deals/workstation-desktop-pc-ryzen-9950x-64gb-ddr5-2tb-nvme-ssd-b650m-wlan-450w-2738856",
+    "mydealz|https://www.mydealz.de/deals/lokal-hamburg-altona-preis-oase-clif-bar-mini-crunchy-peanut-butter-vegan-10x28g-2738852",
+    "mydealz|https://www.mydealz.de/deals/mens-health-abo-12-ausgaben-fur-7960-eur-mit-75-eur-bestchoice-gutschein-2738630"
   ],
   "postedHistory": [
     {
