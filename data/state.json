@@ -1,11 +1,18 @@
 {
   "date": "2026-03-02",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
+    "mydealz|https://www.mydealz.de/deals/worx-wg260e5-18v-akku-heckenscheren-mit-akku-2739048",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-budapest-ungarn-inkl-ruckflug-von-berlin-nurnberg-hahn-ab-55eur-ryanairmalta-airmai-2730726",
+    "mydealz|https://www.mydealz.de/deals/creality-tool-wrap-kit-pro-3d-drucker-toolkit-fur-3d-drucker-2739026",
+    "mydealz|https://www.mydealz.de/deals/geo-abo-12-ausgaben-fur-43-eur-2738704",
+    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
