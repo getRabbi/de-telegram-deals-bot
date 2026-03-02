@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/lenovo-legion-24-10-gaming-monitor-238-fhd-ips-240hz-05ms-freesync-premium-hohenverstellbar-hdmi-21-dp-2739255",
     "mydealz|https://www.mydealz.de/deals/parkside-performance-akku-heckenschere-ppahs-40-a1-2738409",
     "mydealz|https://www.mydealz.de/deals/gratis-wels-goodie-bag-mit-spielkarten-gartenset-und-sonnenblumensamen-freebie-2739272",
-    "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236"
+    "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236",
+    "mydealz|https://www.mydealz.de/deals/captiva-gaming-notebook-16-wqxga-180hz-i5-13500hx-rtx-5050-8gb-115w-16gb-ram-500gb-ssd-win11-8-cashback-2739448",
+    "mydealz|https://www.mydealz.de/deals/facom-rohrzange-200mm-stillson-modell-prime-2739447",
+    "mydealz|https://www.mydealz.de/deals/fnatic-bolt-wireless-gaming-maus-schwarzweiss-pixart-3370-19000-dpi-kailh-80-67-g-24-ghz-bluetooth-2739459",
+    "mydealz|https://www.mydealz.de/deals/ikea-family-business-network-spare-10eur-je-100-eur-warenwert-bei-pax-gilt-vom-01-31032026-2739377"
   ],
   "postedHistory": [
     {
