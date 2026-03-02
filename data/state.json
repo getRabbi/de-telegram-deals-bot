@@ -1,52 +1,12 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
-    "mydealz|https://www.mydealz.de/deals/worx-wg260e5-18v-akku-heckenscheren-mit-akku-2739048",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-budapest-ungarn-inkl-ruckflug-von-berlin-nurnberg-hahn-ab-55eur-ryanairmalta-airmai-2730726",
-    "mydealz|https://www.mydealz.de/deals/creality-tool-wrap-kit-pro-3d-drucker-toolkit-fur-3d-drucker-2739026",
-    "mydealz|https://www.mydealz.de/deals/geo-abo-12-ausgaben-fur-43-eur-2738704",
-    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041",
-    "mydealz|https://www.mydealz.de/deals/horzu-abo-52-ausgaben-mit-gratis-reisenthel-overnighter-reisetasche-wert-4219-eur-120-eur-bestchoice-gutschein-fur-zusammen-15880-eur-2737984",
-    "mydealz|https://www.mydealz.de/deals/lenovo-legion-24-10-gaming-monitor-238-fhd-ips-240hz-05ms-freesync-premium-hohenverstellbar-hdmi-21-dp-2739255",
-    "mydealz|https://www.mydealz.de/deals/parkside-performance-akku-heckenschere-ppahs-40-a1-2738409",
-    "mydealz|https://www.mydealz.de/deals/gratis-wels-goodie-bag-mit-spielkarten-gartenset-und-sonnenblumensamen-freebie-2739272",
-    "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236",
-    "mydealz|https://www.mydealz.de/deals/captiva-gaming-notebook-16-wqxga-180hz-i5-13500hx-rtx-5050-8gb-115w-16gb-ram-500gb-ssd-win11-8-cashback-2739448",
-    "mydealz|https://www.mydealz.de/deals/facom-rohrzange-200mm-stillson-modell-prime-2739447",
-    "mydealz|https://www.mydealz.de/deals/fnatic-bolt-wireless-gaming-maus-schwarzweiss-pixart-3370-19000-dpi-kailh-80-67-g-24-ghz-bluetooth-2739459",
-    "mydealz|https://www.mydealz.de/deals/ikea-family-business-network-spare-10eur-je-100-eur-warenwert-bei-pax-gilt-vom-01-31032026-2739377"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/donkey-kong-bananza-dk-island-emerald-rush-switch-2-dlc-loaded-2734831",
-      "ts": 1771802186104
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/x2-gillette-labs-nassrasierer-herren-inkl-10-rasierklingen-rasierer-mit-reinigungs-element-reise-etui-zur-aufbewahrung-fur-unterwegs-2720613",
-      "ts": 1771802186104
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/evga-geforce-rtx-2060-12gb-xc-gaming-12g-p4-2263-kr-12gb-gddr6-dual-fans-metal-backplate-black-2-slots-2734983",
-      "ts": 1771802186104
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-132-beim-kauf-ab-5eur-statt-379-fur-pick-up-keksriegel-versch-sorten-keine-verwendung-kaufland-card-2729323",
-      "ts": 1771802186104
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-airtags-4er-pack-1-generation-6299eur-mit-ebay-plus-ebay-2735157",
-      "ts": 1771802186104
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-inch-silber-m2-series-wifi-128gb-speicher-zustand-premium-12m-garantie-2733486",
-      "ts": 1771802186104
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
       "ts": 1771889222420
@@ -350,6 +310,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/mens-health-abo-12-ausgaben-fur-7960-eur-mit-75-eur-bestchoice-gutschein-2738630",
       "ts": 1772406870031
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/worx-wg260e5-18v-akku-heckenscheren-mit-akku-2739048",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-budapest-ungarn-inkl-ruckflug-von-berlin-nurnberg-hahn-ab-55eur-ryanairmalta-airmai-2730726",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/creality-tool-wrap-kit-pro-3d-drucker-toolkit-fur-3d-drucker-2739026",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/geo-abo-12-ausgaben-fur-43-eur-2738704",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/horzu-abo-52-ausgaben-mit-gratis-reisenthel-overnighter-reisetasche-wert-4219-eur-120-eur-bestchoice-gutschein-fur-zusammen-15880-eur-2737984",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lenovo-legion-24-10-gaming-monitor-238-fhd-ips-240hz-05ms-freesync-premium-hohenverstellbar-hdmi-21-dp-2739255",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-performance-akku-heckenschere-ppahs-40-a1-2738409",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-wels-goodie-bag-mit-spielkarten-gartenset-und-sonnenblumensamen-freebie-2739272",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/captiva-gaming-notebook-16-wqxga-180hz-i5-13500hx-rtx-5050-8gb-115w-16gb-ram-500gb-ssd-win11-8-cashback-2739448",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/facom-rohrzange-200mm-stillson-modell-prime-2739447",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fnatic-bolt-wireless-gaming-maus-schwarzweiss-pixart-3370-19000-dpi-kailh-80-67-g-24-ghz-bluetooth-2739459",
+      "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-family-business-network-spare-10eur-je-100-eur-warenwert-bei-pax-gilt-vom-01-31032026-2739377",
+      "ts": 1772493413945
     }
   ]
 }
