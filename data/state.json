@@ -2,7 +2,7 @@
   "date": "2026-03-02",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/direktfluge-nach-budapest-ungarn-inkl-ruckflug-von-berlin-nurnberg-hahn-ab-55eur-ryanairmalta-airmai-2730726",
     "mydealz|https://www.mydealz.de/deals/creality-tool-wrap-kit-pro-3d-drucker-toolkit-fur-3d-drucker-2739026",
     "mydealz|https://www.mydealz.de/deals/geo-abo-12-ausgaben-fur-43-eur-2738704",
-    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041"
+    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041",
+    "mydealz|https://www.mydealz.de/deals/horzu-abo-52-ausgaben-mit-gratis-reisenthel-overnighter-reisetasche-wert-4219-eur-120-eur-bestchoice-gutschein-fur-zusammen-15880-eur-2737984",
+    "mydealz|https://www.mydealz.de/deals/lenovo-legion-24-10-gaming-monitor-238-fhd-ips-240hz-05ms-freesync-premium-hohenverstellbar-hdmi-21-dp-2739255",
+    "mydealz|https://www.mydealz.de/deals/parkside-performance-akku-heckenschere-ppahs-40-a1-2738409",
+    "mydealz|https://www.mydealz.de/deals/gratis-wels-goodie-bag-mit-spielkarten-gartenset-und-sonnenblumensamen-freebie-2739272",
+    "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236"
   ],
   "postedHistory": [
     {
