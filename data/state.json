@@ -2,7 +2,7 @@
   "date": "2026-03-03",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/mobel-deko-fur-wohnzimmer-jugendzimmer-balkon-outdoor-oder-indoor-schaukel-sessel-kinder-erwachsene-belastbar-bis-160kg-2739444",
     "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2711964",
     "mydealz|https://www.mydealz.de/deals/leina-werke-kraftwagen-verbandkasten-standard-schwarz-2739688",
-    "mydealz|https://www.mydealz.de/deals/xtb-3000-paybackpunkte-fur-depoteroffnung-und-trade-mit-porsche-vz-aktien-deal-kombinierbar-2738151"
+    "mydealz|https://www.mydealz.de/deals/xtb-3000-paybackpunkte-fur-depoteroffnung-und-trade-mit-porsche-vz-aktien-deal-kombinierbar-2738151",
+    "mydealz|https://www.mydealz.de/deals/edeka-payback-7fach-p-auf-den-einkauf-ab-2-euro-bis-15032026-gultig-2739772",
+    "mydealz|https://www.mydealz.de/deals/stabila-kreuzlinienlaser-lax-600-selbstnivellierend-3x360-laserlinien-reichw-30m-inkl-cas-akku-ladegerat-wandhalterung-koffer-2739863",
+    "mydealz|https://www.mydealz.de/deals/vw-volkswagen-id7-tourer-pro286-ps77-kwh-auch-als-s-o-gtx-inkl-technologie-design-komfort-navi-assistenz-interieur-paket-uvmeu-2739824",
+    "mydealz|https://www.mydealz.de/deals/avm-fritzbox-5590-fiber-glasfaser-mediamarkt-rostock-brinkmannsdorf-13-von-13-18-uhr-lokal-2739817",
+    "mydealz|https://www.mydealz.de/deals/pokemon-legenden-z-a-nintendo-switch-1-version-amazon-spanien-2739802"
   ],
   "postedHistory": [
     {
