@@ -1,44 +1,12 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-03-04",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/carrera-digital-132-geldtransporter-money-transporter-2739600",
-    "mydealz|https://www.mydealz.de/deals/osprey-eja-48-treckingrucksack-ultraleichter-damen-rucksack-12kg-2-farben-purple-dusk-und-deep-teal-2-gr-wxss-und-wml-2739506",
-    "mydealz|https://www.mydealz.de/deals/mobel-deko-fur-wohnzimmer-jugendzimmer-balkon-outdoor-oder-indoor-schaukel-sessel-kinder-erwachsene-belastbar-bis-160kg-2739444",
-    "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2711964",
-    "mydealz|https://www.mydealz.de/deals/leina-werke-kraftwagen-verbandkasten-standard-schwarz-2739688",
-    "mydealz|https://www.mydealz.de/deals/xtb-3000-paybackpunkte-fur-depoteroffnung-und-trade-mit-porsche-vz-aktien-deal-kombinierbar-2738151",
-    "mydealz|https://www.mydealz.de/deals/edeka-payback-7fach-p-auf-den-einkauf-ab-2-euro-bis-15032026-gultig-2739772",
-    "mydealz|https://www.mydealz.de/deals/stabila-kreuzlinienlaser-lax-600-selbstnivellierend-3x360-laserlinien-reichw-30m-inkl-cas-akku-ladegerat-wandhalterung-koffer-2739863",
-    "mydealz|https://www.mydealz.de/deals/vw-volkswagen-id7-tourer-pro286-ps77-kwh-auch-als-s-o-gtx-inkl-technologie-design-komfort-navi-assistenz-interieur-paket-uvmeu-2739824",
-    "mydealz|https://www.mydealz.de/deals/avm-fritzbox-5590-fiber-glasfaser-mediamarkt-rostock-brinkmannsdorf-13-von-13-18-uhr-lokal-2739817",
-    "mydealz|https://www.mydealz.de/deals/pokemon-legenden-z-a-nintendo-switch-1-version-amazon-spanien-2739802",
-    "mydealz|https://www.mydealz.de/deals/brainfit-ios-lifetime-gratis-iap-000-statt-2999eur-2715825",
-    "mydealz|https://www.mydealz.de/deals/fire-emblem-engage-divine-edition-switch-fur-5540eur-inkl-versand-otto-2739946",
-    "mydealz|https://www.mydealz.de/deals/playstation-plus-discord-nitro-1-3-monate-gratis-je-nach-psn-abo-2739977",
-    "mydealz|https://www.mydealz.de/deals/kostenlos-obstbaume-pflanzen-und-straucher-2740060"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-2-14-laptop-touch-ir-cam-fpr-intel-i5-1145g7-16gb-ram-m2-ssd-2x-usb-c-tb-4-hdmi-20-refubished-sehr-gut-2735369",
-      "ts": 1771889222420
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/divinity-original-sin-2-definitive-edition-1205eur-is-1499eur-deneuer-bestpreis-xbox-one-xbox-series-xs-xbox-store-2735303",
-      "ts": 1771889222420
-    },
-    {
-      "key": "rewe|https://www.mydealz.de/deals/rewe-bonus-mccain-chef-frites-1013g-mit-140-eur-5-bonus-am-1902-entspricht-144eurkg-2735352",
-      "ts": 1771889222420
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-poco-f8-pro-1225gb-fur-435eur-oder-12512gb-fur-485eur-aliexpress-2715292",
-      "ts": 1771889222420
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
       "ts": 1771975350061
@@ -386,6 +354,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ikea-family-business-network-spare-10eur-je-100-eur-warenwert-bei-pax-gilt-vom-01-31032026-2739377",
       "ts": 1772493413945
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/carrera-digital-132-geldtransporter-money-transporter-2739600",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/osprey-eja-48-treckingrucksack-ultraleichter-damen-rucksack-12kg-2-farben-purple-dusk-und-deep-teal-2-gr-wxss-und-wml-2739506",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mobel-deko-fur-wohnzimmer-jugendzimmer-balkon-outdoor-oder-indoor-schaukel-sessel-kinder-erwachsene-belastbar-bis-160kg-2739444",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2711964",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/leina-werke-kraftwagen-verbandkasten-standard-schwarz-2739688",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xtb-3000-paybackpunkte-fur-depoteroffnung-und-trade-mit-porsche-vz-aktien-deal-kombinierbar-2738151",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-payback-7fach-p-auf-den-einkauf-ab-2-euro-bis-15032026-gultig-2739772",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stabila-kreuzlinienlaser-lax-600-selbstnivellierend-3x360-laserlinien-reichw-30m-inkl-cas-akku-ladegerat-wandhalterung-koffer-2739863",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-id7-tourer-pro286-ps77-kwh-auch-als-s-o-gtx-inkl-technologie-design-komfort-navi-assistenz-interieur-paket-uvmeu-2739824",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-5590-fiber-glasfaser-mediamarkt-rostock-brinkmannsdorf-13-von-13-18-uhr-lokal-2739817",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-legenden-z-a-nintendo-switch-1-version-amazon-spanien-2739802",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brainfit-ios-lifetime-gratis-iap-000-statt-2999eur-2715825",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fire-emblem-engage-divine-edition-switch-fur-5540eur-inkl-versand-otto-2739946",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-plus-discord-nitro-1-3-monate-gratis-je-nach-psn-abo-2739977",
+      "ts": 1772579842704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenlos-obstbaume-pflanzen-und-straucher-2740060",
+      "ts": 1772579842704
     }
   ]
 }
