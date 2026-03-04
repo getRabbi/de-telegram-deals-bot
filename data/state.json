@@ -2,7 +2,7 @@
   "date": "2026-03-04",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-golden-key-2k-account-verlinkung-notwendig-2740173",
     "mydealz|https://www.mydealz.de/deals/stahlwerk-scheinwerfer-reparatur-set-41teilig-polierset-scheinwerferaufbereitung-2740180",
     "rossmann|https://www.mydealz.de/deals/rossmann-neue-coupons-zb-20-auf-nahrungserganzung-schonheit-25-auf-kleenex-babywelt-mitglieder-25-auf-pampers-baby-dry-ab-23-2740159",
-    "zalando|https://www.mydealz.de/deals/zalando-20-extra-rabatt-2740152"
+    "zalando|https://www.mydealz.de/deals/zalando-20-extra-rabatt-2740152",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-physisch-475eur-super-mario-party-jamboree-3999eur-mm-rostock-sonntagsoffnung-lokal-2740238",
+    "mydealz|https://www.mydealz.de/deals/gaming-pc-ryzen-9800x3d-rtx-5090-32gb-32gb-ddr5-6000-1tb-ssd-b850m-240mm-waku-1200w-platinum-2740350",
+    "mydealz|https://www.mydealz.de/deals/novus-tools-akkutacker-j-550-metabox-set-premium-tacker-geeignet-fur-gewebe-stoffe-zierleisten-031-0364-2731857",
+    "mydealz|https://www.mydealz.de/deals/amazon-anker-zolo-30w-usb-c-ladegerat-kompaktes-gan-schnellladegerat-30-watt-90-cm-usb-c-kabel-2740294",
+    "mydealz|https://www.mydealz.de/deals/vertrag-fritzbox-6850-5g-v2-fur-effektiv-27497eur-mit-einem-monat-o2-mobile-unlimited-max-2740247"
   ],
   "postedHistory": [
     {
