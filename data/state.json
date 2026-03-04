@@ -1,11 +1,18 @@
 {
   "date": "2026-03-04",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
+    "mydealz|https://www.mydealz.de/deals/eureka-mignon-single-dose-espressomuhle-mit-65-mm-mahlscheiben-stufenloser-mahlgradeinstellung-extra-leise-mydealz-bestpreis-imprezza-2715837",
+    "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-golden-key-2k-account-verlinkung-notwendig-2740173",
+    "mydealz|https://www.mydealz.de/deals/stahlwerk-scheinwerfer-reparatur-set-41teilig-polierset-scheinwerferaufbereitung-2740180",
+    "rossmann|https://www.mydealz.de/deals/rossmann-neue-coupons-zb-20-auf-nahrungserganzung-schonheit-25-auf-kleenex-babywelt-mitglieder-25-auf-pampers-baby-dry-ab-23-2740159",
+    "zalando|https://www.mydealz.de/deals/zalando-20-extra-rabatt-2740152"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/mercedes-benz-vito-tourer-cdi-9g-tronic-select-lang-9-sitzer-163-ps-automatik-matrix-led-navi-rfk-dunkle-scheiben-uvm-eu-mit-tz-2684127",
