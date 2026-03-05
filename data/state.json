@@ -1,11 +1,18 @@
 {
   "date": "2026-03-05",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
+    "mydealz|https://www.mydealz.de/deals/parador-designboden-modular-one-eiche-horizon-sockelleisten-und-pe-folie-gratis-2740691",
+    "mydealz|https://www.mydealz.de/deals/gepostet-4-februar-2026-ikea-oldenburg-runde-15-gratis-baby-box-fur-werdende-eltern-nur-ikea-family-mitglieder-und-mit-anmeldung-2740680",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-heizlufter-2000w-keramik-weiss-schnell-erhitzender-oszillierender-elektrischer-heizlufter-mit-thermostatischer-steuerung-2740681",
+    "mydealz|https://www.mydealz.de/deals/metabo-kgs-216m-set-bei-hornbach-bis-0303-mit-tpg-2740682",
+    "mydealz|https://www.mydealz.de/deals/woltu-gartenpavillon-38-x-33-m-sechskantig-mit-seitenwanden-und-muckennetz-2740643"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/paradise-by-check-in-kingston-4-rollen-trolley-67-cm-2720798",
