@@ -2,7 +2,7 @@
   "date": "2026-03-05",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gepostet-4-februar-2026-ikea-oldenburg-runde-15-gratis-baby-box-fur-werdende-eltern-nur-ikea-family-mitglieder-und-mit-anmeldung-2740680",
     "mydealz|https://www.mydealz.de/deals/xiaomi-heizlufter-2000w-keramik-weiss-schnell-erhitzender-oszillierender-elektrischer-heizlufter-mit-thermostatischer-steuerung-2740681",
     "mydealz|https://www.mydealz.de/deals/metabo-kgs-216m-set-bei-hornbach-bis-0303-mit-tpg-2740682",
-    "mydealz|https://www.mydealz.de/deals/woltu-gartenpavillon-38-x-33-m-sechskantig-mit-seitenwanden-und-muckennetz-2740643"
+    "mydealz|https://www.mydealz.de/deals/woltu-gartenpavillon-38-x-33-m-sechskantig-mit-seitenwanden-und-muckennetz-2740643",
+    "mydealz|https://www.mydealz.de/deals/hochbeet-store-grow-metall-anthrazit-120-x-120-x-169-cm-158-eur-2740834",
+    "mydealz|https://www.mydealz.de/deals/nipogi-p2-amd-ryzen-3-4300u-16gb-ddr4-512gb-ssd-mini-pc-2740833",
+    "mydealz|https://www.mydealz.de/deals/3x-gustavo-gusto-tk-pizza-9-eur-300-eur-stk-2740848",
+    "mydealz|https://www.mydealz.de/gutscheine/weltfrauentag-versandkostenfrei-bei-blume2000-2740708",
+    "mydealz|https://www.mydealz.de/deals/ktc-m27t6-27-zoll-mini-led-1440p-180hz-2740745"
   ],
   "postedHistory": [
     {
