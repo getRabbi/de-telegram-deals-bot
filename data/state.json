@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/nipogi-p2-amd-ryzen-3-4300u-16gb-ddr4-512gb-ssd-mini-pc-2740833",
     "mydealz|https://www.mydealz.de/deals/3x-gustavo-gusto-tk-pizza-9-eur-300-eur-stk-2740848",
     "mydealz|https://www.mydealz.de/gutscheine/weltfrauentag-versandkostenfrei-bei-blume2000-2740708",
-    "mydealz|https://www.mydealz.de/deals/ktc-m27t6-27-zoll-mini-led-1440p-180hz-2740745"
+    "mydealz|https://www.mydealz.de/deals/ktc-m27t6-27-zoll-mini-led-1440p-180hz-2740745",
+    "mydealz|https://www.mydealz.de/deals/edeka-sud-pasta-al-bronzo-la-molisana-fur-nur-085eur-500gr-packung-2740894",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-xiaomi-17-512gb-mit-magenta-s-allnetsms-flat-30gb-5g-300mbits-schweiz-roaming-fur-3995eurmonat-19995eur-240eur-cashback-2740985",
+    "mydealz|https://www.mydealz.de/deals/gary-newman-1000-live-at-the-electric-ballroom-3lp-vinyl-prime-2740993",
+    "mydealz|https://www.mydealz.de/deals/gre-wpc-pool-avantgarde-o-x-h-410-x-124-cm-dunkelgrau-11000-l-inkl-filteranlage-anschlusszubehor-und-bodenvlies-2740933"
   ],
   "postedHistory": [
     {
