@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
-    "mydealz|https://www.mydealz.de/deals/parador-designboden-modular-one-eiche-horizon-sockelleisten-und-pe-folie-gratis-2740691",
-    "mydealz|https://www.mydealz.de/deals/gepostet-4-februar-2026-ikea-oldenburg-runde-15-gratis-baby-box-fur-werdende-eltern-nur-ikea-family-mitglieder-und-mit-anmeldung-2740680",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-heizlufter-2000w-keramik-weiss-schnell-erhitzender-oszillierender-elektrischer-heizlufter-mit-thermostatischer-steuerung-2740681",
-    "mydealz|https://www.mydealz.de/deals/metabo-kgs-216m-set-bei-hornbach-bis-0303-mit-tpg-2740682",
-    "mydealz|https://www.mydealz.de/deals/woltu-gartenpavillon-38-x-33-m-sechskantig-mit-seitenwanden-und-muckennetz-2740643",
-    "mydealz|https://www.mydealz.de/deals/hochbeet-store-grow-metall-anthrazit-120-x-120-x-169-cm-158-eur-2740834",
-    "mydealz|https://www.mydealz.de/deals/nipogi-p2-amd-ryzen-3-4300u-16gb-ddr4-512gb-ssd-mini-pc-2740833",
-    "mydealz|https://www.mydealz.de/deals/3x-gustavo-gusto-tk-pizza-9-eur-300-eur-stk-2740848",
-    "mydealz|https://www.mydealz.de/gutscheine/weltfrauentag-versandkostenfrei-bei-blume2000-2740708",
-    "mydealz|https://www.mydealz.de/deals/ktc-m27t6-27-zoll-mini-led-1440p-180hz-2740745",
-    "mydealz|https://www.mydealz.de/deals/edeka-sud-pasta-al-bronzo-la-molisana-fur-nur-085eur-500gr-packung-2740894",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-xiaomi-17-512gb-mit-magenta-s-allnetsms-flat-30gb-5g-300mbits-schweiz-roaming-fur-3995eurmonat-19995eur-240eur-cashback-2740985",
-    "mydealz|https://www.mydealz.de/deals/gary-newman-1000-live-at-the-electric-ballroom-3lp-vinyl-prime-2740993",
-    "mydealz|https://www.mydealz.de/deals/gre-wpc-pool-avantgarde-o-x-h-410-x-124-cm-dunkelgrau-11000-l-inkl-filteranlage-anschlusszubehor-und-bodenvlies-2740933"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/paradise-by-check-in-kingston-4-rollen-trolley-67-cm-2720798",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-ledvance-led-deckenleuchte-smart-wifi-planon-300-mm-20-w-1700-lm-wlan-einstellbare-farbtemperatur-alexa-google-assistant-2709529",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-astschere-energycut-750-b-nur-heute-bei-netto-md-zum-bestpreis-fur-1499-eur-2728349",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-oris-divers-65-1590eur-35-breitling-chronomat-gmt-4090eur-grand-seiko-spring-drive-le-4300eur-ruschenbeck-2728348",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-pencil-2-generation-2730408",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gouda-kase-400-gramm-packung-2736865",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/android-business-card-maker-logo-card-visitenkarten-erstellen-als-jpgpdf-exportieren-gratis-statt-599eur-2720806",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/globus-emsa-clip-close-plastik-ab-249eur-glas-ab-399eur-frischhaltedosen-ca-40-rabatt-ab-2226-2723552",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-oelde-doner-1cent-am-0203-2737010",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-outer-worlds-2-premium-edition-mit-season-pass-2-story-dlcs-artbook-soundtrack-moon-man-bonuspaket-xbox-6485eur-ps5-6916eur-2702171",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/penny-rugenwalder-muhle-veganer-aufschnitt-80g-2736913",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-anker-323-usb-c-ladegerat-33w-2-ports-usb-c-20w-usb-a-12w-activeshield-kompakt-2723901",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spotify-premium-2-monate-kostenlos-testen-fur-neukunden-musik-streaming-ohne-werbung-2726001",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/7x-mobil-1-fs-0w-40-1l-7x-1l-motorol-versand-kostenlos-2730939",
-      "ts": 1772148053042
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-mh-mohren-2kg-050eur-eff-kg-2737049",
-      "ts": 1772148053042
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
       "ts": 1772234166814
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/annke-ws300-2k-8-kanalfunk-uberwachungssystem-mit-500gb-hdd-ip66-alexa-support-2739170",
       "ts": 1772666487661
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parador-designboden-modular-one-eiche-horizon-sockelleisten-und-pe-folie-gratis-2740691",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gepostet-4-februar-2026-ikea-oldenburg-runde-15-gratis-baby-box-fur-werdende-eltern-nur-ikea-family-mitglieder-und-mit-anmeldung-2740680",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-heizlufter-2000w-keramik-weiss-schnell-erhitzender-oszillierender-elektrischer-heizlufter-mit-thermostatischer-steuerung-2740681",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/metabo-kgs-216m-set-bei-hornbach-bis-0303-mit-tpg-2740682",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/woltu-gartenpavillon-38-x-33-m-sechskantig-mit-seitenwanden-und-muckennetz-2740643",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hochbeet-store-grow-metall-anthrazit-120-x-120-x-169-cm-158-eur-2740834",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nipogi-p2-amd-ryzen-3-4300u-16gb-ddr4-512gb-ssd-mini-pc-2740833",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-gustavo-gusto-tk-pizza-9-eur-300-eur-stk-2740848",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/weltfrauentag-versandkostenfrei-bei-blume2000-2740708",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ktc-m27t6-27-zoll-mini-led-1440p-180hz-2740745",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-sud-pasta-al-bronzo-la-molisana-fur-nur-085eur-500gr-packung-2740894",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-xiaomi-17-512gb-mit-magenta-s-allnetsms-flat-30gb-5g-300mbits-schweiz-roaming-fur-3995eurmonat-19995eur-240eur-cashback-2740985",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gary-newman-1000-live-at-the-electric-ballroom-3lp-vinyl-prime-2740993",
+      "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gre-wpc-pool-avantgarde-o-x-h-410-x-124-cm-dunkelgrau-11000-l-inkl-filteranlage-anschlusszubehor-und-bodenvlies-2740933",
+      "ts": 1772754234242
     }
   ]
 }
