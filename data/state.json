@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/soyo-s4-plus-mini-pc-amd-ryzen-7-h255-cpu-16-gb-ddr5-ram-1-tb-ssd-pcie-30-nvme-wlan-6-bluetooth-52-2741274",
     "mydealz|https://www.mydealz.de/deals/iqunix-f97-graffiti-slate-tastatur-full-size-de-wireless-bt24-ghzusbc-moonstone-linear-rgb-hotswap-caseking-2703516",
     "mydealz|https://www.mydealz.de/deals/prime-310-m-azdelivery-cat7-netzwerkkabel-sftp-10-gbits-600-mhz-flacher-textilmantel-vergoldete-rj45stecker-2741350",
-    "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347"
+    "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347",
+    "mydealz|https://www.mydealz.de/deals/gude-brotmesser-32-cm-linkshand-briccole-di-venezia-2741387",
+    "mydealz|https://www.mydealz.de/deals/abrowing-rudergerat-und-bauchtrainer-2719898",
+    "mydealz|https://www.mydealz.de/deals/air-force-1-07-schwarz-weiss-in-verschiedenen-grossen-2723544",
+    "mydealz|https://www.mydealz.de/deals/reebok-polar-fleece-damen-jacke-verschiedene-farben-2741261"
   ],
   "postedHistory": [
     {
