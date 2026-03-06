@@ -2,7 +2,7 @@
   "date": "2026-03-06",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/marktguru-100-eur-hein-beanz-3x-je-person-2741092",
     "mydealz|https://www.mydealz.de/deals/neuer-aliexpressmunzdeal-petg-2kg-518eurkg-durchsichtig-orange-rot-weiss-blau-gelb-2741139",
     "mydealz|https://www.mydealz.de/deals/telekom-netz-sim-only-magentamobil-xl-young-allnetsms-flat-unlimited-5g-2-multi-sim-schweiz-roaming-fur-eff-2162eurmonat-2741157",
-    "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072"
+    "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072",
+    "mydealz|https://www.mydealz.de/deals/sommer-in-tirol-4-sporthotel-tirolerhof-itter-7-nachte-all-inclusive-light-juni-bis-oktober-fur-2-personen-ab-798eur-2741341",
+    "mydealz|https://www.mydealz.de/deals/soyo-s4-plus-mini-pc-amd-ryzen-7-h255-cpu-16-gb-ddr5-ram-1-tb-ssd-pcie-30-nvme-wlan-6-bluetooth-52-2741274",
+    "mydealz|https://www.mydealz.de/deals/iqunix-f97-graffiti-slate-tastatur-full-size-de-wireless-bt24-ghzusbc-moonstone-linear-rgb-hotswap-caseking-2703516",
+    "mydealz|https://www.mydealz.de/deals/prime-310-m-azdelivery-cat7-netzwerkkabel-sftp-10-gbits-600-mhz-flacher-textilmantel-vergoldete-rj45stecker-2741350",
+    "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347"
   ],
   "postedHistory": [
     {
