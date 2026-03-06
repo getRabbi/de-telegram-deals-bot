@@ -1,11 +1,18 @@
 {
   "date": "2026-03-06",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
+    "mydealz|https://www.mydealz.de/deals/zendure-ab2000x-solarflow-erweiterungsakku-40ah1920wh-lifepo4-max-1680w-eingangsleistung-2741136",
+    "mydealz|https://www.mydealz.de/deals/marktguru-100-eur-hein-beanz-3x-je-person-2741092",
+    "mydealz|https://www.mydealz.de/deals/neuer-aliexpressmunzdeal-petg-2kg-518eurkg-durchsichtig-orange-rot-weiss-blau-gelb-2741139",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-sim-only-magentamobil-xl-young-allnetsms-flat-unlimited-5g-2-multi-sim-schweiz-roaming-fur-eff-2162eurmonat-2741157",
+    "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
