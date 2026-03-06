@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
-    "mydealz|https://www.mydealz.de/deals/zendure-ab2000x-solarflow-erweiterungsakku-40ah1920wh-lifepo4-max-1680w-eingangsleistung-2741136",
-    "mydealz|https://www.mydealz.de/deals/marktguru-100-eur-hein-beanz-3x-je-person-2741092",
-    "mydealz|https://www.mydealz.de/deals/neuer-aliexpressmunzdeal-petg-2kg-518eurkg-durchsichtig-orange-rot-weiss-blau-gelb-2741139",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-sim-only-magentamobil-xl-young-allnetsms-flat-unlimited-5g-2-multi-sim-schweiz-roaming-fur-eff-2162eurmonat-2741157",
-    "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072",
-    "mydealz|https://www.mydealz.de/deals/sommer-in-tirol-4-sporthotel-tirolerhof-itter-7-nachte-all-inclusive-light-juni-bis-oktober-fur-2-personen-ab-798eur-2741341",
-    "mydealz|https://www.mydealz.de/deals/soyo-s4-plus-mini-pc-amd-ryzen-7-h255-cpu-16-gb-ddr5-ram-1-tb-ssd-pcie-30-nvme-wlan-6-bluetooth-52-2741274",
-    "mydealz|https://www.mydealz.de/deals/iqunix-f97-graffiti-slate-tastatur-full-size-de-wireless-bt24-ghzusbc-moonstone-linear-rgb-hotswap-caseking-2703516",
-    "mydealz|https://www.mydealz.de/deals/prime-310-m-azdelivery-cat7-netzwerkkabel-sftp-10-gbits-600-mhz-flacher-textilmantel-vergoldete-rj45stecker-2741350",
-    "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347",
-    "mydealz|https://www.mydealz.de/deals/gude-brotmesser-32-cm-linkshand-briccole-di-venezia-2741387",
-    "mydealz|https://www.mydealz.de/deals/abrowing-rudergerat-und-bauchtrainer-2719898",
-    "mydealz|https://www.mydealz.de/deals/air-force-1-07-schwarz-weiss-in-verschiedenen-grossen-2723544",
-    "mydealz|https://www.mydealz.de/deals/reebok-polar-fleece-damen-jacke-verschiedene-farben-2741261"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-im-superselect-allnetsms-flat-6gb-5g-fur-399eurmonat-9999eur-2720794",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bershka-kpop-demon-hunters-huntrx-2720810",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mtb-lenker-protaper-carbon-rise-12-318x810mm-black-stealth-2721607",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mazda-3-25l-nagisa-automatikeu-neuwagen18radervolllederelektrische-memory-sitzehudnaviruckfahrkameraledbose-soundsystem-etc-2690016",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-scott-voltage-eride-920-carbontq-360whxttwinlock193kgsgw130kg-2025-mlxl-2737402",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/turtle-beach-stealth-pivot-kabellos-hall-effekt-sticks-display-4-tasten-pcxboxbt-ca-20h-laufzeit-amazon-prime-2683027",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/glorious-series-2-pro-wireless-gaming-maus-55-g-26000-dpi-8k-polling-80-h-akku-bamf-20-sensor-kabelloskabelgebunden-2722062",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eurotronic-sparmatic-comet-heizkorperthermostat-programmierbar-8-heizzeiten-fenster-offen-erkennung-frostschutz-batteriebetrieben-2712886",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/5-zinsen-pa-auf-einlagen-alternative-zu-tagesgeld-2721903",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-airpods-3-generation-mit-lightning-ladecase-fur-10495-eur-mit-versandkosten-2722121",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/air-pods-3-generation-2737556",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-mi-cordless-screwdriver-2720786",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-snapmaker-u1-und-zubehor-reduziert-3d-drucker-toolchanger-270270270-mm-2720697",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/auswahl-kostenloser-online-kurse-azure-claude-ai-excel-trello-airtable-powerbi-java-revit-sap-etc-2720797",
-      "ts": 1772234166814
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/globus-conditorei-coppenrath-wiese-strudel-verschiedene-sorten-tiefgefroren-mit-coupon-nur-050-eur-nicht-bei-allen-markten-2733605",
-      "ts": 1772234166814
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
       "ts": 1772320393291
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gre-wpc-pool-avantgarde-o-x-h-410-x-124-cm-dunkelgrau-11000-l-inkl-filteranlage-anschlusszubehor-und-bodenvlies-2740933",
       "ts": 1772754234242
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zendure-ab2000x-solarflow-erweiterungsakku-40ah1920wh-lifepo4-max-1680w-eingangsleistung-2741136",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marktguru-100-eur-hein-beanz-3x-je-person-2741092",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neuer-aliexpressmunzdeal-petg-2kg-518eurkg-durchsichtig-orange-rot-weiss-blau-gelb-2741139",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-sim-only-magentamobil-xl-young-allnetsms-flat-unlimited-5g-2-multi-sim-schweiz-roaming-fur-eff-2162eurmonat-2741157",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sommer-in-tirol-4-sporthotel-tirolerhof-itter-7-nachte-all-inclusive-light-juni-bis-oktober-fur-2-personen-ab-798eur-2741341",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/soyo-s4-plus-mini-pc-amd-ryzen-7-h255-cpu-16-gb-ddr5-ram-1-tb-ssd-pcie-30-nvme-wlan-6-bluetooth-52-2741274",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iqunix-f97-graffiti-slate-tastatur-full-size-de-wireless-bt24-ghzusbc-moonstone-linear-rgb-hotswap-caseking-2703516",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-310-m-azdelivery-cat7-netzwerkkabel-sftp-10-gbits-600-mhz-flacher-textilmantel-vergoldete-rj45stecker-2741350",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gude-brotmesser-32-cm-linkshand-briccole-di-venezia-2741387",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/abrowing-rudergerat-und-bauchtrainer-2719898",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/air-force-1-07-schwarz-weiss-in-verschiedenen-grossen-2723544",
+      "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reebok-polar-fleece-damen-jacke-verschiedene-farben-2741261",
+      "ts": 1772839150292
     }
   ]
 }
