@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/ryanair-sommer-angebote-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2741762",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/reolink-trackmix-grau-wifi-6-4k-8mp-ptz-kameradual-6x-hybridzoomautotrackingfarbnachts2-wege-audio-amazonde-reolink-cb-bestpreis-2741917",
     "mydealz|https://www.mydealz.de/deals/2-ausgaben-unsere-jagd-gratis-2741871",
     "mydealz|https://www.mydealz.de/deals/spar-abofrosch-senses-granatapfel-sensitiv-dusche-duschgel-500-ml-vegan-ohne-mikroplastik-2741878",
-    "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879"
+    "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allnetsms-flat-20gb-5g-fur-eff-416eurmonat-durch-wechselbonus-60gb-fur-791eurmonat-2742093",
+    "mydealz|https://www.mydealz.de/deals/rhodos-griechenland-7-nachte-im-4-hotel-inkl-all-inclusive-verpflegung-flugen-zug-zum-flug-transfers-ab-791eur-pp-dzjun-2741067",
+    "mydealz|https://www.mydealz.de/deals/telekom-telekom-dsl-magentazuhause-l-fur-eff-2120eur-mtl-100-mbits-inkl-switch-2-mario-kart-world-2742080",
+    "mydealz|https://www.mydealz.de/deals/livarno-home-dachfenster-plissee-insektenschutz-sonnenschutz-kaufland-marktplatz-2741971"
   ],
   "postedHistory": [
     {
