@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ryanair-sommer-angebote-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2741762",
-    "mydealz|https://www.mydealz.de/deals/thalia-click-collect-schleich-eldrador-steindrache-70149-2741761",
-    "mydealz|https://www.mydealz.de/deals/dungeons-4-deluxe-edition-nintendo-switch-otto-up-2741709",
-    "mydealz|https://www.mydealz.de/deals/dji-osmo-nano-standard-combo-4k60fps-kleine-mini-cam-mit-113-sensor-143-weitwinkel-video-200-min-akku-wasserdicht-pov-kamera-64gb-2716233",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-auf-die-kanarischen-inseln-teneriffa-gran-canaria-lanzarote-ab-76eur-inkl-ruckflug-ryanair-mar-2741782",
-    "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654",
-    "mydealz|https://www.mydealz.de/deals/dickies-mapleton-t-shirt-verschiedene-farben-viele-grossen-2741944",
-    "mydealz|https://www.mydealz.de/deals/reolink-trackmix-grau-wifi-6-4k-8mp-ptz-kameradual-6x-hybridzoomautotrackingfarbnachts2-wege-audio-amazonde-reolink-cb-bestpreis-2741917",
-    "mydealz|https://www.mydealz.de/deals/2-ausgaben-unsere-jagd-gratis-2741871",
-    "mydealz|https://www.mydealz.de/deals/spar-abofrosch-senses-granatapfel-sensitiv-dusche-duschgel-500-ml-vegan-ohne-mikroplastik-2741878",
-    "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879",
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allnetsms-flat-20gb-5g-fur-eff-416eurmonat-durch-wechselbonus-60gb-fur-791eurmonat-2742093",
-    "mydealz|https://www.mydealz.de/deals/rhodos-griechenland-7-nachte-im-4-hotel-inkl-all-inclusive-verpflegung-flugen-zug-zum-flug-transfers-ab-791eur-pp-dzjun-2741067",
-    "mydealz|https://www.mydealz.de/deals/telekom-telekom-dsl-magentazuhause-l-fur-eff-2120eur-mtl-100-mbits-inkl-switch-2-mario-kart-world-2742080",
-    "mydealz|https://www.mydealz.de/deals/livarno-home-dachfenster-plissee-insektenschutz-sonnenschutz-kaufland-marktplatz-2741971"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-court-super-schuh-2720809",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-gift-tabletop-simulator-keygift-bei-317eur-bei-k4g-oder-offiziell-975eur-bei-steam-windowsmaclinuxsteamos-dlcs-ab-399eur-2722338",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-syndicate-wars-1996-fur-139eur-pc-mac-2724514",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/1x-pokemon-karmesin-purpur-paradoxrift-boosterpack-fur-001-eur-obsidian-flammen-fur-005-eur-reisegefahrten-fur-006-eur-personalisiert-2726937",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rapsol-1-liter-111-2733754",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-bridge-constructor-portal-fur-nintendo-switch-zaf-103eur-2724714",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pulsar-x3-crazylight-wireless-gaming-maus-uyuni-weiss-43g-xs-1-sensor-32000-dpi-8000-hz-polling-optical-switches-2733897",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/from-dusk-till-dawn-4k-dolby-vision-itunes-hd-digital-amazon-video-teil-2-und-3-auch-jeweils-599eur-in-hd-sammeldeal-2733806",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rodcraft-rh216-rangier-wagenheber-25t-hubkraft-75-500mm-2733883",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-md-payback-div-coupons-barcodes-kw1026-fur-netto-marken-discount-2738070",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-mit-hund-250g-deutsche-markenbutter-frija-ab-222026-2722754",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thule-velospace-xt-3-2724920",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-dsl-magenta-zu-hause-l-100mbit-fur-effektiv-2158-eur-monat-24-monate-laufzeit-2735990",
-      "ts": 1772320393291
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sangean-ddr-7x-dabukw-holzradio-in-drei-verschiedenen-farben-bluetooth-52-oled-display-akku-betrieb-tws-stereo-2738236",
-      "ts": 1772320393291
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-dortmund-recklinghausen-alpro-not-milk-vegane-hafermilch-mhd-2720657",
       "ts": 1772406870031
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/reebok-polar-fleece-damen-jacke-verschiedene-farben-2741261",
       "ts": 1772839150292
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ryanair-sommer-angebote-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2741762",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/thalia-click-collect-schleich-eldrador-steindrache-70149-2741761",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dungeons-4-deluxe-edition-nintendo-switch-otto-up-2741709",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-nano-standard-combo-4k60fps-kleine-mini-cam-mit-113-sensor-143-weitwinkel-video-200-min-akku-wasserdicht-pov-kamera-64gb-2716233",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-auf-die-kanarischen-inseln-teneriffa-gran-canaria-lanzarote-ab-76eur-inkl-ruckflug-ryanair-mar-2741782",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dickies-mapleton-t-shirt-verschiedene-farben-viele-grossen-2741944",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reolink-trackmix-grau-wifi-6-4k-8mp-ptz-kameradual-6x-hybridzoomautotrackingfarbnachts2-wege-audio-amazonde-reolink-cb-bestpreis-2741917",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2-ausgaben-unsere-jagd-gratis-2741871",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spar-abofrosch-senses-granatapfel-sensitiv-dusche-duschgel-500-ml-vegan-ohne-mikroplastik-2741878",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allnetsms-flat-20gb-5g-fur-eff-416eurmonat-durch-wechselbonus-60gb-fur-791eurmonat-2742093",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rhodos-griechenland-7-nachte-im-4-hotel-inkl-all-inclusive-verpflegung-flugen-zug-zum-flug-transfers-ab-791eur-pp-dzjun-2741067",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-telekom-dsl-magentazuhause-l-fur-eff-2120eur-mtl-100-mbits-inkl-switch-2-mario-kart-world-2742080",
+      "ts": 1772925220469
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/livarno-home-dachfenster-plissee-insektenschutz-sonnenschutz-kaufland-marktplatz-2741971",
+      "ts": 1772925220469
     }
   ]
 }
