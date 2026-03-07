@@ -2,7 +2,7 @@
   "date": "2026-03-07",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/dungeons-4-deluxe-edition-nintendo-switch-otto-up-2741709",
     "mydealz|https://www.mydealz.de/deals/dji-osmo-nano-standard-combo-4k60fps-kleine-mini-cam-mit-113-sensor-143-weitwinkel-video-200-min-akku-wasserdicht-pov-kamera-64gb-2716233",
     "mydealz|https://www.mydealz.de/deals/direktfluge-auf-die-kanarischen-inseln-teneriffa-gran-canaria-lanzarote-ab-76eur-inkl-ruckflug-ryanair-mar-2741782",
-    "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654"
+    "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654",
+    "mydealz|https://www.mydealz.de/deals/dickies-mapleton-t-shirt-verschiedene-farben-viele-grossen-2741944",
+    "mydealz|https://www.mydealz.de/deals/reolink-trackmix-grau-wifi-6-4k-8mp-ptz-kameradual-6x-hybridzoomautotrackingfarbnachts2-wege-audio-amazonde-reolink-cb-bestpreis-2741917",
+    "mydealz|https://www.mydealz.de/deals/2-ausgaben-unsere-jagd-gratis-2741871",
+    "mydealz|https://www.mydealz.de/deals/spar-abofrosch-senses-granatapfel-sensitiv-dusche-duschgel-500-ml-vegan-ohne-mikroplastik-2741878",
+    "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879"
   ],
   "postedHistory": [
     {
