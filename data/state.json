@@ -1,11 +1,18 @@
 {
   "date": "2026-03-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ryanair-sommer-angebote-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2741762",
+    "mydealz|https://www.mydealz.de/deals/thalia-click-collect-schleich-eldrador-steindrache-70149-2741761",
+    "mydealz|https://www.mydealz.de/deals/dungeons-4-deluxe-edition-nintendo-switch-otto-up-2741709",
+    "mydealz|https://www.mydealz.de/deals/dji-osmo-nano-standard-combo-4k60fps-kleine-mini-cam-mit-113-sensor-143-weitwinkel-video-200-min-akku-wasserdicht-pov-kamera-64gb-2716233",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-auf-die-kanarischen-inseln-teneriffa-gran-canaria-lanzarote-ab-76eur-inkl-ruckflug-ryanair-mar-2741782",
+    "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nischendeal-nordforest-alu-handsappie-mit-schneide-2720720",
