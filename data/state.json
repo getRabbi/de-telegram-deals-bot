@@ -1,11 +1,18 @@
 {
   "date": "2026-03-08",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bmw-318i-touring-156ps-8-gang-steptronic-klimaautomatik-sitzheizung-elektr-heckklappe-dt-neufahrzeug-2742261",
+    "mydealz|https://www.mydealz.de/deals/ios-appstore-cut-for-stories-kreative-instagramstoryvorlagen-bildbearbeitung-gradients-fonts-cropping-hintergrunde-storyexport-2734449",
+    "mydealz|https://www.mydealz.de/deals/stuttgart-starimbiss-berliner-platz-neueroffnung-nur-heute-040323-doner-fur-199eur-2742274",
+    "mydealz|https://www.mydealz.de/deals/media-markt-x-unidays-samsung-galaxy-book5-pro-360-16-16512gb-intel-core-ultra-7-949eur-galaxy-book-5-360-156-16512gb-849eur-2742287",
+    "mydealz|https://www.mydealz.de/deals/vidaxl-schaumstoffmatratze-weiss-140x200cm-7-zonen-hartegrad-20-ild-2742231",
+    "mydealz|https://www.mydealz.de/deals/cb26-umbro-fc-santos-away-trikot-jersey-fussball-trikot-xs-xxl-2742223"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-dortmund-recklinghausen-alpro-not-milk-vegane-hafermilch-mhd-2720657",
