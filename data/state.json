@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/bmw-318i-touring-156ps-8-gang-steptronic-klimaautomatik-sitzheizung-elektr-heckklappe-dt-neufahrzeug-2742261",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/direktfluge-nach-paphos-zypern-ab-65eur-inkl-ruckflug-von-berlin-weeze-memmingen-koln-ryanair-mar-2740120",
     "mydealz|https://www.mydealz.de/deals/ikea-walldorf-smarbarn-ikea-family-babybox-kostenlose-babybox-fur-werdende-eltern-babys-bis-6-monate-2742303",
     "mydealz|https://www.mydealz.de/deals/obi-garden-combisystem-stiel-2-aufsatze-fur-2999eur-lokal-2742423",
-    "mydealz|https://www.mydealz.de/deals/amazon-seesii-m6-plus-6-zoll-mini-kettensage-inkl-2-akkus-oler-fur-2999eur-statt-60eur-2742293"
+    "mydealz|https://www.mydealz.de/deals/amazon-seesii-m6-plus-6-zoll-mini-kettensage-inkl-2-akkus-oler-fur-2999eur-statt-60eur-2742293",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-apple-iphone-17e-256gb-im-gigakombi-allnetsms-flat-55gb-5g-500gb-fur-2999eurmonat-1eur-130eur-bonus-120eur-ohne-gk-2742618",
+    "mydealz|https://www.mydealz.de/deals/marttiini-lynx-lumberjack-finnen-messer-griff-aus-birke-klinge-11cm-edelstahl-lederscheide-42a-konform-2742609",
+    "mydealz|https://www.mydealz.de/deals/eufy-s100-kamera-wlan-ohne-akku-kabelgebunden-2742473",
+    "mydealz|https://www.mydealz.de/deals/flaconi-hugo-boss-boss-bottled-elixir-parfum-intense-100ml-o-50ml-4913eur-2742622"
   ],
   "postedHistory": [
     {
