@@ -1,11 +1,18 @@
 {
   "date": "2026-03-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gog-tunic-fur-1401eur-metacritic-85-zelda-x-souls-drm-frei-pc-mac-2742741",
+    "mydealz|https://www.mydealz.de/deals/ninkear-a15-plus-laptop-156-ips-fhd-amd-ryzen-7-5825u-notebook-16gb-ddr4-1tb-ssd-wifi-6-windows-11-pro-2740751",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-fur-vinyl-schallplatten-bis-1799eur-prime-jpc-imusic-2742791",
+    "mydealz|https://www.mydealz.de/deals/parkside-hacksler-2742673",
+    "mydealz|https://www.mydealz.de/deals/magura-mt-trail-sport-scheibenbremse-bremse-mountainbike-mtb-2742762",
+    "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
