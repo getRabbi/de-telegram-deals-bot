@@ -2,7 +2,7 @@
   "date": "2026-03-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/sammeldeal-fur-vinyl-schallplatten-bis-1799eur-prime-jpc-imusic-2742791",
     "mydealz|https://www.mydealz.de/deals/parkside-hacksler-2742673",
     "mydealz|https://www.mydealz.de/deals/magura-mt-trail-sport-scheibenbremse-bremse-mountainbike-mtb-2742762",
-    "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758"
+    "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758",
+    "mydealz|https://www.mydealz.de/deals/reolink-altas-2k-4mpsolarpanel-2-6-watt-ws-bestpreis-reolinkcom-cb-10-uberwachungskameraset-colorx-nachtsicht-akku-wifi6-tracking-2741435",
+    "mydealz|https://www.mydealz.de/deals/obi-lokal-leifheit-click-system-fur-innenraumreinigung-2-aufastze-1-stiel-2742993",
+    "mydealz|https://www.mydealz.de/deals/prime-schmidt-spiele-51206-metallknobelei-duell-reisespiel-blau-2742946",
+    "mydealz|https://www.mydealz.de/deals/deuter-durascent-alpinrucksack-42l10l-sl-erweiterung-in-glaciergraphite-wasserdicht-ipx4-versiegelte-nahte-rolltop-verschluss-2734604",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-dublin-inkl-ruckflug-von-berlin-hamburg-koln-hahn-memmingen-ab-40eur-inkl-ruckflug-ryanairmai-2738200"
   ],
   "postedHistory": [
     {
