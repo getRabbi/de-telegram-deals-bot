@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/gog-tunic-fur-1401eur-metacritic-85-zelda-x-souls-drm-frei-pc-mac-2742741",
-    "mydealz|https://www.mydealz.de/deals/ninkear-a15-plus-laptop-156-ips-fhd-amd-ryzen-7-5825u-notebook-16gb-ddr4-1tb-ssd-wifi-6-windows-11-pro-2740751",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-fur-vinyl-schallplatten-bis-1799eur-prime-jpc-imusic-2742791",
-    "mydealz|https://www.mydealz.de/deals/parkside-hacksler-2742673",
-    "mydealz|https://www.mydealz.de/deals/magura-mt-trail-sport-scheibenbremse-bremse-mountainbike-mtb-2742762",
-    "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758",
-    "mydealz|https://www.mydealz.de/deals/reolink-altas-2k-4mpsolarpanel-2-6-watt-ws-bestpreis-reolinkcom-cb-10-uberwachungskameraset-colorx-nachtsicht-akku-wifi6-tracking-2741435",
-    "mydealz|https://www.mydealz.de/deals/obi-lokal-leifheit-click-system-fur-innenraumreinigung-2-aufastze-1-stiel-2742993",
-    "mydealz|https://www.mydealz.de/deals/prime-schmidt-spiele-51206-metallknobelei-duell-reisespiel-blau-2742946",
-    "mydealz|https://www.mydealz.de/deals/deuter-durascent-alpinrucksack-42l10l-sl-erweiterung-in-glaciergraphite-wasserdicht-ipx4-versiegelte-nahte-rolltop-verschluss-2734604",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-dublin-inkl-ruckflug-von-berlin-hamburg-koln-hahn-memmingen-ab-40eur-inkl-ruckflug-ryanairmai-2738200",
-    "mydealz|https://www.mydealz.de/deals/24-spanngurte-expander-set-versandkostenfrei-via-app-2743226",
-    "mydealz|https://www.mydealz.de/deals/anycubic-kobra-3-max-combo-multicolor-filament-3d-drucker-mit-bis-zu-600-mms-hochgeschwindigkeitsdruck-und-420-420-500-mm-bauvolumen-2741804",
-    "mydealz|https://www.mydealz.de/deals/deep-rock-galactic-survivor-909eur-steam-2743191",
-    "mydealz|https://www.mydealz.de/deals/nickelodeon-kart-racers-3-slime-speedway-nintendo-switch-12-digitaler-download-usk-0-uber-40-charaktere-at-eshop-2714832"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/echoes-of-the-end-enhanced-edition-playstation-5-psn-store-ab-ps-extra-enthalten-digital-2739023",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/worx-wg260e5-18v-akku-heckenscheren-mit-akku-2739048",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-budapest-ungarn-inkl-ruckflug-von-berlin-nurnberg-hahn-ab-55eur-ryanairmalta-airmai-2730726",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/creality-tool-wrap-kit-pro-3d-drucker-toolkit-fur-3d-drucker-2739026",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/geo-abo-12-ausgaben-fur-43-eur-2738704",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-prime-2739041",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/horzu-abo-52-ausgaben-mit-gratis-reisenthel-overnighter-reisetasche-wert-4219-eur-120-eur-bestchoice-gutschein-fur-zusammen-15880-eur-2737984",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lenovo-legion-24-10-gaming-monitor-238-fhd-ips-240hz-05ms-freesync-premium-hohenverstellbar-hdmi-21-dp-2739255",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/parkside-performance-akku-heckenschere-ppahs-40-a1-2738409",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-wels-goodie-bag-mit-spielkarten-gartenset-und-sonnenblumensamen-freebie-2739272",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fronius-symo-45-3-m-solar-wechselrichter-symo-45-3-m-4210033-wlanlanwebserver-2739236",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/captiva-gaming-notebook-16-wqxga-180hz-i5-13500hx-rtx-5050-8gb-115w-16gb-ram-500gb-ssd-win11-8-cashback-2739448",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/facom-rohrzange-200mm-stillson-modell-prime-2739447",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fnatic-bolt-wireless-gaming-maus-schwarzweiss-pixart-3370-19000-dpi-kailh-80-67-g-24-ghz-bluetooth-2739459",
-      "ts": 1772493413945
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-family-business-network-spare-10eur-je-100-eur-warenwert-bei-pax-gilt-vom-01-31032026-2739377",
-      "ts": 1772493413945
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/carrera-digital-132-geldtransporter-money-transporter-2739600",
       "ts": 1772579842704
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/flaconi-hugo-boss-boss-bottled-elixir-parfum-intense-100ml-o-50ml-4913eur-2742622",
       "ts": 1773011682054
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-tunic-fur-1401eur-metacritic-85-zelda-x-souls-drm-frei-pc-mac-2742741",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ninkear-a15-plus-laptop-156-ips-fhd-amd-ryzen-7-5825u-notebook-16gb-ddr4-1tb-ssd-wifi-6-windows-11-pro-2740751",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-fur-vinyl-schallplatten-bis-1799eur-prime-jpc-imusic-2742791",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-hacksler-2742673",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/magura-mt-trail-sport-scheibenbremse-bremse-mountainbike-mtb-2742762",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reolink-altas-2k-4mpsolarpanel-2-6-watt-ws-bestpreis-reolinkcom-cb-10-uberwachungskameraset-colorx-nachtsicht-akku-wifi6-tracking-2741435",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/obi-lokal-leifheit-click-system-fur-innenraumreinigung-2-aufastze-1-stiel-2742993",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-schmidt-spiele-51206-metallknobelei-duell-reisespiel-blau-2742946",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deuter-durascent-alpinrucksack-42l10l-sl-erweiterung-in-glaciergraphite-wasserdicht-ipx4-versiegelte-nahte-rolltop-verschluss-2734604",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-dublin-inkl-ruckflug-von-berlin-hamburg-koln-hahn-memmingen-ab-40eur-inkl-ruckflug-ryanairmai-2738200",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/24-spanngurte-expander-set-versandkostenfrei-via-app-2743226",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anycubic-kobra-3-max-combo-multicolor-filament-3d-drucker-mit-bis-zu-600-mms-hochgeschwindigkeitsdruck-und-420-420-500-mm-bauvolumen-2741804",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deep-rock-galactic-survivor-909eur-steam-2743191",
+      "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nickelodeon-kart-racers-3-slime-speedway-nintendo-switch-12-digitaler-download-usk-0-uber-40-charaktere-at-eshop-2714832",
+      "ts": 1773098331113
     }
   ]
 }
