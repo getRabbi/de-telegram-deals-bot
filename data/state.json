@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
-    "mydealz|https://www.mydealz.de/deals/bbosch-professional-gra-18v2-46-akku-akku-rasenmaher-b-ware-beschadigte-fehlende-verpackung-2743340",
-    "mydealz|https://www.mydealz.de/deals/cube-nuroad-pro-gravelbike-cube-nuroad-pro-gravelbike-black-cube-cube-nuroad-pro-gravelbike-2743404",
-    "mydealz|https://www.mydealz.de/deals/kaufland-monster-energie-05-liter-2740351",
-    "mydealz|https://www.mydealz.de/deals/bestpreis-zwilling-enfinigy-kontaktgrill-1850w-2742256",
-    "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386",
-    "mydealz|https://www.mydealz.de/deals/globus-cheez-it-double-cheese-und-cheese-chilli-mit-coupon-069-euro-2743552",
-    "mydealz|https://www.mydealz.de/deals/groupon-apple-airpods-pro-3-gratis-versand-kabellose-inear-kopfhorer-4-cashback-oder-payback-moglich-2742990",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-finnland-lappland-rovaniemi-zur-polarlichter-saison-nonstop-von-berlin-inkl-ruckflug-dez-feb-easyjet-ab-100eur-2743548",
-    "mydealz|https://www.mydealz.de/gutscheine/die-eintracht-feiert-geburtstag-1899-rabatt-auf-fast-alles-im-fanshop-2743563",
-    "mydealz|https://www.mydealz.de/deals/ml2u-88-watch-face-wearos-watchfacegoogle-play-store-2743536",
-    "mydealz|https://www.mydealz.de/deals/115-eur-pramie-mit-dem-kostenlose-giro-und-tagesgeld-konto-2743751",
-    "mydealz|https://www.mydealz.de/deals/timberland-britton-road-chelsea-boots-rotbraun-wasserdicht-2743704",
-    "mydealz|https://www.mydealz.de/deals/sage-the-barista-express-impress-edelstahl-2-liter-wassertank-25-mahlgrade-54-mm-edelstahl-siebtrager-pid-temperaturregelung-2743143",
-    "mydealz|https://www.mydealz.de/deals/phanteks-nv-series-nv9-e-atx-pc-gehause-tempered-glass-argb-mattweiss-big-tower-d-rgb-strips-und-controller-inklusive-2743593"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/carrera-digital-132-geldtransporter-money-transporter-2739600",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/osprey-eja-48-treckingrucksack-ultraleichter-damen-rucksack-12kg-2-farben-purple-dusk-und-deep-teal-2-gr-wxss-und-wml-2739506",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mobel-deko-fur-wohnzimmer-jugendzimmer-balkon-outdoor-oder-indoor-schaukel-sessel-kinder-erwachsene-belastbar-bis-160kg-2739444",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2711964",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/leina-werke-kraftwagen-verbandkasten-standard-schwarz-2739688",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xtb-3000-paybackpunkte-fur-depoteroffnung-und-trade-mit-porsche-vz-aktien-deal-kombinierbar-2738151",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-payback-7fach-p-auf-den-einkauf-ab-2-euro-bis-15032026-gultig-2739772",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stabila-kreuzlinienlaser-lax-600-selbstnivellierend-3x360-laserlinien-reichw-30m-inkl-cas-akku-ladegerat-wandhalterung-koffer-2739863",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vw-volkswagen-id7-tourer-pro286-ps77-kwh-auch-als-s-o-gtx-inkl-technologie-design-komfort-navi-assistenz-interieur-paket-uvmeu-2739824",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-5590-fiber-glasfaser-mediamarkt-rostock-brinkmannsdorf-13-von-13-18-uhr-lokal-2739817",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-legenden-z-a-nintendo-switch-1-version-amazon-spanien-2739802",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brainfit-ios-lifetime-gratis-iap-000-statt-2999eur-2715825",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fire-emblem-engage-divine-edition-switch-fur-5540eur-inkl-versand-otto-2739946",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playstation-plus-discord-nitro-1-3-monate-gratis-je-nach-psn-abo-2739977",
-      "ts": 1772579842704
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenlos-obstbaume-pflanzen-und-straucher-2740060",
-      "ts": 1772579842704
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
       "ts": 1772666487661
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/nickelodeon-kart-racers-3-slime-speedway-nintendo-switch-12-digitaler-download-usk-0-uber-40-charaktere-at-eshop-2714832",
       "ts": 1773098331113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bbosch-professional-gra-18v2-46-akku-akku-rasenmaher-b-ware-beschadigte-fehlende-verpackung-2743340",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cube-nuroad-pro-gravelbike-cube-nuroad-pro-gravelbike-black-cube-cube-nuroad-pro-gravelbike-2743404",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-monster-energie-05-liter-2740351",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestpreis-zwilling-enfinigy-kontaktgrill-1850w-2742256",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/globus-cheez-it-double-cheese-und-cheese-chilli-mit-coupon-069-euro-2743552",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/groupon-apple-airpods-pro-3-gratis-versand-kabellose-inear-kopfhorer-4-cashback-oder-payback-moglich-2742990",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-finnland-lappland-rovaniemi-zur-polarlichter-saison-nonstop-von-berlin-inkl-ruckflug-dez-feb-easyjet-ab-100eur-2743548",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/die-eintracht-feiert-geburtstag-1899-rabatt-auf-fast-alles-im-fanshop-2743563",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ml2u-88-watch-face-wearos-watchfacegoogle-play-store-2743536",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/115-eur-pramie-mit-dem-kostenlose-giro-und-tagesgeld-konto-2743751",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/timberland-britton-road-chelsea-boots-rotbraun-wasserdicht-2743704",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sage-the-barista-express-impress-edelstahl-2-liter-wassertank-25-mahlgrade-54-mm-edelstahl-siebtrager-pid-temperaturregelung-2743143",
+      "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/phanteks-nv-series-nv9-e-atx-pc-gehause-tempered-glass-argb-mattweiss-big-tower-d-rgb-strips-und-controller-inklusive-2743593",
+      "ts": 1773184719922
     }
   ]
 }
