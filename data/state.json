@@ -2,7 +2,7 @@
   "date": "2026-03-10",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/cube-nuroad-pro-gravelbike-cube-nuroad-pro-gravelbike-black-cube-cube-nuroad-pro-gravelbike-2743404",
     "mydealz|https://www.mydealz.de/deals/kaufland-monster-energie-05-liter-2740351",
     "mydealz|https://www.mydealz.de/deals/bestpreis-zwilling-enfinigy-kontaktgrill-1850w-2742256",
-    "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386"
+    "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386",
+    "mydealz|https://www.mydealz.de/deals/globus-cheez-it-double-cheese-und-cheese-chilli-mit-coupon-069-euro-2743552",
+    "mydealz|https://www.mydealz.de/deals/groupon-apple-airpods-pro-3-gratis-versand-kabellose-inear-kopfhorer-4-cashback-oder-payback-moglich-2742990",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-finnland-lappland-rovaniemi-zur-polarlichter-saison-nonstop-von-berlin-inkl-ruckflug-dez-feb-easyjet-ab-100eur-2743548",
+    "mydealz|https://www.mydealz.de/gutscheine/die-eintracht-feiert-geburtstag-1899-rabatt-auf-fast-alles-im-fanshop-2743563",
+    "mydealz|https://www.mydealz.de/deals/ml2u-88-watch-face-wearos-watchfacegoogle-play-store-2743536"
   ],
   "postedHistory": [
     {
