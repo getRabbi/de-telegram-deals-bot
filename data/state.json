@@ -1,11 +1,18 @@
 {
   "date": "2026-03-10",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
+    "mydealz|https://www.mydealz.de/deals/bbosch-professional-gra-18v2-46-akku-akku-rasenmaher-b-ware-beschadigte-fehlende-verpackung-2743340",
+    "mydealz|https://www.mydealz.de/deals/cube-nuroad-pro-gravelbike-cube-nuroad-pro-gravelbike-black-cube-cube-nuroad-pro-gravelbike-2743404",
+    "mydealz|https://www.mydealz.de/deals/kaufland-monster-energie-05-liter-2740351",
+    "mydealz|https://www.mydealz.de/deals/bestpreis-zwilling-enfinigy-kontaktgrill-1850w-2742256",
+    "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/carrera-digital-132-geldtransporter-money-transporter-2739600",
