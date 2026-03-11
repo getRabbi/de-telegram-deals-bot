@@ -1,27 +1,11 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-wocheende-filme-fur-399-599eur-hd4k-digital-200-filme-imdb-65-at-itunes-apple-tv-2743946",
-    "mydealz|https://www.mydealz.de/deals/prime-nicktoons-the-dice-of-destiny-fur-switch-1-einzelspieler-oder-lokaler-koop-spieler-fur-1-bis-4-spieler-2710870",
-    "mydealz|https://www.mydealz.de/deals/hannover-50-rabatt-auf-alle-fahrten-im-ersten-monat-2743898",
-    "mydealz|https://www.mydealz.de/deals/cb-5-13-adidas-originals-campus-00s-schuh-40414243444546-2743896",
-    "mydealz|https://www.mydealz.de/deals/primarer-gartnerspaten-bei-globus-baumarkt-fur-1999eur-inkl-versand-nur-mit-bonuskarte-2743912",
-    "mydealz|https://www.mydealz.de/deals/parkside-performance-20-v-8-ah-smart-akku-papp-208-a1-2743910",
-    "mydealz|https://www.mydealz.de/deals/cherry-mx-lp-21-compact-wireless-gaming-tastatur-deqwertz-65-qwertz-mx-low-profile-speed-rgb-tri-mode-bt24-ghzusbc-prime-2744026",
-    "mydealz|https://www.mydealz.de/deals/steelplay-ps5-dualsense-ladestation-fur-2-controller-mit-2-usb-ports-weiss-amazon-prime-ottoup-lieferflat-2744023",
-    "mydealz|https://www.mydealz.de/deals/silent-kompressor-psko-2410-b2-24l-kesselvolumen-2743959",
-    "mydealz|https://www.mydealz.de/deals/paper-mario-the-thousand-year-door-nintendo-switch-2744011",
-    "mydealz|https://www.mydealz.de/deals/14-oz-goldmunze-fur-nur-110244eur-unter-goldwert-2744009",
-    "mydealz|https://www.mydealz.de/deals/netto-el-fuego-deluxe-edelstahl-gasgrill-6-brenner-seitenbrenner-fur-effektiv-27999eur-2743941",
-    "mydealz|https://www.mydealz.de/deals/mammut-crag-in-hybrid-jacket-men-isolationsjacke-gr-m-l-2744126",
-    "mydealz|https://www.mydealz.de/deals/lokal-obi-landau-id-pfalz-hela-ketchup-mayo-mische-kurzes-mhd-2744104",
-    "mydealz|https://www.mydealz.de/deals/gospower-batterie-gpms-3250b-balkonkraftwerk-plugplay-32v-50ah-massive-kapazitat-von-16-kwh-pro-einheit20-2744103"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
@@ -442,6 +426,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/phanteks-nv-series-nv9-e-atx-pc-gehause-tempered-glass-argb-mattweiss-big-tower-d-rgb-strips-und-controller-inklusive-2743593",
       "ts": 1773184719922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-wocheende-filme-fur-399-599eur-hd4k-digital-200-filme-imdb-65-at-itunes-apple-tv-2743946",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-nicktoons-the-dice-of-destiny-fur-switch-1-einzelspieler-oder-lokaler-koop-spieler-fur-1-bis-4-spieler-2710870",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hannover-50-rabatt-auf-alle-fahrten-im-ersten-monat-2743898",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-5-13-adidas-originals-campus-00s-schuh-40414243444546-2743896",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/primarer-gartnerspaten-bei-globus-baumarkt-fur-1999eur-inkl-versand-nur-mit-bonuskarte-2743912",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-performance-20-v-8-ah-smart-akku-papp-208-a1-2743910",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cherry-mx-lp-21-compact-wireless-gaming-tastatur-deqwertz-65-qwertz-mx-low-profile-speed-rgb-tri-mode-bt24-ghzusbc-prime-2744026",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steelplay-ps5-dualsense-ladestation-fur-2-controller-mit-2-usb-ports-weiss-amazon-prime-ottoup-lieferflat-2744023",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/silent-kompressor-psko-2410-b2-24l-kesselvolumen-2743959",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/paper-mario-the-thousand-year-door-nintendo-switch-2744011",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/14-oz-goldmunze-fur-nur-110244eur-unter-goldwert-2744009",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-el-fuego-deluxe-edelstahl-gasgrill-6-brenner-seitenbrenner-fur-effektiv-27999eur-2743941",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mammut-crag-in-hybrid-jacket-men-isolationsjacke-gr-m-l-2744126",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-obi-landau-id-pfalz-hela-ketchup-mayo-mische-kurzes-mhd-2744104",
+      "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gospower-batterie-gpms-3250b-balkonkraftwerk-plugplay-32v-50ah-massive-kapazitat-von-16-kwh-pro-einheit20-2744103",
+      "ts": 1773271003094
     }
   ]
 }
