@@ -1,11 +1,18 @@
 {
   "date": "2026-03-11",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-wocheende-filme-fur-399-599eur-hd4k-digital-200-filme-imdb-65-at-itunes-apple-tv-2743946",
+    "mydealz|https://www.mydealz.de/deals/prime-nicktoons-the-dice-of-destiny-fur-switch-1-einzelspieler-oder-lokaler-koop-spieler-fur-1-bis-4-spieler-2710870",
+    "mydealz|https://www.mydealz.de/deals/hannover-50-rabatt-auf-alle-fahrten-im-ersten-monat-2743898",
+    "mydealz|https://www.mydealz.de/deals/cb-5-13-adidas-originals-campus-00s-schuh-40414243444546-2743896",
+    "mydealz|https://www.mydealz.de/deals/primarer-gartnerspaten-bei-globus-baumarkt-fur-1999eur-inkl-versand-nur-mit-bonuskarte-2743912",
+    "mydealz|https://www.mydealz.de/deals/parkside-performance-20-v-8-ah-smart-akku-papp-208-a1-2743910"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
