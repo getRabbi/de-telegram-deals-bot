@@ -2,7 +2,7 @@
   "date": "2026-03-11",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/hannover-50-rabatt-auf-alle-fahrten-im-ersten-monat-2743898",
     "mydealz|https://www.mydealz.de/deals/cb-5-13-adidas-originals-campus-00s-schuh-40414243444546-2743896",
     "mydealz|https://www.mydealz.de/deals/primarer-gartnerspaten-bei-globus-baumarkt-fur-1999eur-inkl-versand-nur-mit-bonuskarte-2743912",
-    "mydealz|https://www.mydealz.de/deals/parkside-performance-20-v-8-ah-smart-akku-papp-208-a1-2743910"
+    "mydealz|https://www.mydealz.de/deals/parkside-performance-20-v-8-ah-smart-akku-papp-208-a1-2743910",
+    "mydealz|https://www.mydealz.de/deals/cherry-mx-lp-21-compact-wireless-gaming-tastatur-deqwertz-65-qwertz-mx-low-profile-speed-rgb-tri-mode-bt24-ghzusbc-prime-2744026",
+    "mydealz|https://www.mydealz.de/deals/steelplay-ps5-dualsense-ladestation-fur-2-controller-mit-2-usb-ports-weiss-amazon-prime-ottoup-lieferflat-2744023",
+    "mydealz|https://www.mydealz.de/deals/silent-kompressor-psko-2410-b2-24l-kesselvolumen-2743959",
+    "mydealz|https://www.mydealz.de/deals/paper-mario-the-thousand-year-door-nintendo-switch-2744011",
+    "mydealz|https://www.mydealz.de/deals/14-oz-goldmunze-fur-nur-110244eur-unter-goldwert-2744009"
   ],
   "postedHistory": [
     {
