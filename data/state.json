@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
-    "mydealz|https://www.mydealz.de/deals/einhell-mahroboter-freelexo-1200qm-lcd-bt-inkl-52-ah-akku-power-x-change-und-zubehor-2744252",
-    "mydealz|https://www.mydealz.de/deals/alpenfohn-gletscherwasser-360-white-rgb-360mm-wasserkuhlung-weiss-b-ware-2744031",
-    "mydealz|https://www.mydealz.de/deals/joker-folie-a-deux-limited-steelbook-4k-blu-ray-blu-ray-fur-1549eur-amazonit-2739902",
-    "mydealz|https://www.mydealz.de/deals/fehler-telekom-netz-samsung-galaxy-s26-512gb-im-freenet-magenta-allnetsms-flat-100gb-5g-300mbits-gratis-multisim-schweiz-roaming-2744306",
-    "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244",
-    "mydealz|https://www.mydealz.de/deals/3x-20a-tuya-zigbee-steckdose-einzelpreis-139eur-als-fullartikel-uber-10eur-1x-080eur-munzdeal-2744390",
-    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-antaeus-eau-de-toilette-100ml-parfumo-herrendufte-topliste-platz-86-2744404",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-8256-gb-5g-smartphone-nfc-mtk-dimensity-7400-ultra-683-15k-amoled-display-120hz-200mp-6580-mah-2744338",
-    "mydealz|https://www.mydealz.de/deals/adidas-essentials-feelcozy-french-terry-cargoshorts-gr-s-bis-xxl-ausser-xl-primedecathlon-herren-shorts-2744342",
-    "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393",
-    "mydealz|https://www.mydealz.de/deals/privatleasing-ds-7-vollausstattung-diesel-36-monate-10000-km-gf-040-rate-frei-wahlbar-eff-23820-eur-farbe-wahlbar-2744510",
-    "mydealz|https://www.mydealz.de/gutscheine/20eur-gutschein-beim-versand-fur-die-hausfrauen-versand-bader-2744532",
-    "mydealz|https://www.mydealz.de/deals/kangaroos-herren-chino-hose-fur-2089-eur-w32-w40-2744549",
-    "mydealz|https://www.mydealz.de/deals/arran-13yo-vintage-2010-private-cask-20101771-potstill-single-malt-scotch-whisky-whiskybase-8725-2744538"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eureka-mignon-single-dose-espressomuhle-mit-65-mm-mahlscheiben-stufenloser-mahlgradeinstellung-extra-leise-mydealz-bestpreis-imprezza-2715837",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-golden-key-2k-account-verlinkung-notwendig-2740173",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stahlwerk-scheinwerfer-reparatur-set-41teilig-polierset-scheinwerferaufbereitung-2740180",
-      "ts": 1772666487661
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/rossmann-neue-coupons-zb-20-auf-nahrungserganzung-schonheit-25-auf-kleenex-babywelt-mitglieder-25-auf-pampers-baby-dry-ab-23-2740159",
-      "ts": 1772666487661
-    },
-    {
-      "key": "zalando|https://www.mydealz.de/deals/zalando-20-extra-rabatt-2740152",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-physisch-475eur-super-mario-party-jamboree-3999eur-mm-rostock-sonntagsoffnung-lokal-2740238",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-ryzen-9800x3d-rtx-5090-32gb-32gb-ddr5-6000-1tb-ssd-b850m-240mm-waku-1200w-platinum-2740350",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/novus-tools-akkutacker-j-550-metabox-set-premium-tacker-geeignet-fur-gewebe-stoffe-zierleisten-031-0364-2731857",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-anker-zolo-30w-usb-c-ladegerat-kompaktes-gan-schnellladegerat-30-watt-90-cm-usb-c-kabel-2740294",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vertrag-fritzbox-6850-5g-v2-fur-effektiv-27497eur-mit-einem-monat-o2-mobile-unlimited-max-2740247",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tropical-island-jahreskarte-bronze-und-silber-stark-reduziert-2740179",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-2-x-40-ah-einhell-power-x-change-plus-akkus-2740482",
-      "ts": 1772666487661
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/annke-ws300-2k-8-kanalfunk-uberwachungssystem-mit-500gb-hdd-ip66-alexa-support-2739170",
-      "ts": 1772666487661
-    },
     {
       "key": "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
       "ts": 1772754234242
@@ -502,6 +426,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gospower-batterie-gpms-3250b-balkonkraftwerk-plugplay-32v-50ah-massive-kapazitat-von-16-kwh-pro-einheit20-2744103",
       "ts": 1773271003094
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/einhell-mahroboter-freelexo-1200qm-lcd-bt-inkl-52-ah-akku-power-x-change-und-zubehor-2744252",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/alpenfohn-gletscherwasser-360-white-rgb-360mm-wasserkuhlung-weiss-b-ware-2744031",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/joker-folie-a-deux-limited-steelbook-4k-blu-ray-blu-ray-fur-1549eur-amazonit-2739902",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fehler-telekom-netz-samsung-galaxy-s26-512gb-im-freenet-magenta-allnetsms-flat-100gb-5g-300mbits-gratis-multisim-schweiz-roaming-2744306",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-20a-tuya-zigbee-steckdose-einzelpreis-139eur-als-fullartikel-uber-10eur-1x-080eur-munzdeal-2744390",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-antaeus-eau-de-toilette-100ml-parfumo-herrendufte-topliste-platz-86-2744404",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-8256-gb-5g-smartphone-nfc-mtk-dimensity-7400-ultra-683-15k-amoled-display-120hz-200mp-6580-mah-2744338",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-essentials-feelcozy-french-terry-cargoshorts-gr-s-bis-xxl-ausser-xl-primedecathlon-herren-shorts-2744342",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-ds-7-vollausstattung-diesel-36-monate-10000-km-gf-040-rate-frei-wahlbar-eff-23820-eur-farbe-wahlbar-2744510",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/20eur-gutschein-beim-versand-fur-die-hausfrauen-versand-bader-2744532",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kangaroos-herren-chino-hose-fur-2089-eur-w32-w40-2744549",
+      "ts": 1773357536546
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/arran-13yo-vintage-2010-private-cask-20101771-potstill-single-malt-scotch-whisky-whiskybase-8725-2744538",
+      "ts": 1773357536546
     }
   ]
 }
