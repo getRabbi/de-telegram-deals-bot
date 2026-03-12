@@ -2,7 +2,7 @@
   "date": "2026-03-12",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/alpenfohn-gletscherwasser-360-white-rgb-360mm-wasserkuhlung-weiss-b-ware-2744031",
     "mydealz|https://www.mydealz.de/deals/joker-folie-a-deux-limited-steelbook-4k-blu-ray-blu-ray-fur-1549eur-amazonit-2739902",
     "mydealz|https://www.mydealz.de/deals/fehler-telekom-netz-samsung-galaxy-s26-512gb-im-freenet-magenta-allnetsms-flat-100gb-5g-300mbits-gratis-multisim-schweiz-roaming-2744306",
-    "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244"
+    "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244",
+    "mydealz|https://www.mydealz.de/deals/3x-20a-tuya-zigbee-steckdose-einzelpreis-139eur-als-fullartikel-uber-10eur-1x-080eur-munzdeal-2744390",
+    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-antaeus-eau-de-toilette-100ml-parfumo-herrendufte-topliste-platz-86-2744404",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-8256-gb-5g-smartphone-nfc-mtk-dimensity-7400-ultra-683-15k-amoled-display-120hz-200mp-6580-mah-2744338",
+    "mydealz|https://www.mydealz.de/deals/adidas-essentials-feelcozy-french-terry-cargoshorts-gr-s-bis-xxl-ausser-xl-primedecathlon-herren-shorts-2744342",
+    "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393"
   ],
   "postedHistory": [
     {
