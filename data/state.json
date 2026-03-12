@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/flaconi-chanel-antaeus-eau-de-toilette-100ml-parfumo-herrendufte-topliste-platz-86-2744404",
     "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-8256-gb-5g-smartphone-nfc-mtk-dimensity-7400-ultra-683-15k-amoled-display-120hz-200mp-6580-mah-2744338",
     "mydealz|https://www.mydealz.de/deals/adidas-essentials-feelcozy-french-terry-cargoshorts-gr-s-bis-xxl-ausser-xl-primedecathlon-herren-shorts-2744342",
-    "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393"
+    "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393",
+    "mydealz|https://www.mydealz.de/deals/privatleasing-ds-7-vollausstattung-diesel-36-monate-10000-km-gf-040-rate-frei-wahlbar-eff-23820-eur-farbe-wahlbar-2744510",
+    "mydealz|https://www.mydealz.de/gutscheine/20eur-gutschein-beim-versand-fur-die-hausfrauen-versand-bader-2744532",
+    "mydealz|https://www.mydealz.de/deals/kangaroos-herren-chino-hose-fur-2089-eur-w32-w40-2744549",
+    "mydealz|https://www.mydealz.de/deals/arran-13yo-vintage-2010-private-cask-20101771-potstill-single-malt-scotch-whisky-whiskybase-8725-2744538"
   ],
   "postedHistory": [
     {
