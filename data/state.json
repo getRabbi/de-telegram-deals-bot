@@ -1,11 +1,18 @@
 {
   "date": "2026-03-12",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
+    "mydealz|https://www.mydealz.de/deals/einhell-mahroboter-freelexo-1200qm-lcd-bt-inkl-52-ah-akku-power-x-change-und-zubehor-2744252",
+    "mydealz|https://www.mydealz.de/deals/alpenfohn-gletscherwasser-360-white-rgb-360mm-wasserkuhlung-weiss-b-ware-2744031",
+    "mydealz|https://www.mydealz.de/deals/joker-folie-a-deux-limited-steelbook-4k-blu-ray-blu-ray-fur-1549eur-amazonit-2739902",
+    "mydealz|https://www.mydealz.de/deals/fehler-telekom-netz-samsung-galaxy-s26-512gb-im-freenet-magenta-allnetsms-flat-100gb-5g-300mbits-gratis-multisim-schweiz-roaming-2744306",
+    "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kleine-volker-grosser-garten-brettspiel-fur-2-4-spieler-ab-10-jahren-2739845",
