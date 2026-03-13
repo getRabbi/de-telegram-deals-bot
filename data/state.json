@@ -1,11 +1,18 @@
 {
   "date": "2026-03-13",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/philips-34m2c6500-34-zoll-oled-wqhd-gaming-monitor-003-ms-reaktionszeit-175-hz-2744676",
+    "mydealz|https://www.mydealz.de/deals/helly-hansen-rig-rain-jacket-gr-m-l-xl-regenjacke-hardshell-2744728",
+    "mydealz|https://www.mydealz.de/deals/nbb-intel-core-ultra-7-265k-prozessor-fur-259eur-inkl-versand-2744652",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-sebamed-sammeldeal-zb-reinigungsschaum-unreine-haut-150ml-after-shave-balsam-432eur-5-urea-akut-shampoo-200ml-456-2744714",
+    "mydealz|https://www.mydealz.de/deals/telekom-moments-ahead-nuss-creme-geschenkt-2744751",
+    "mydealz|https://www.mydealz.de/deals/disney-epic-mickey-rebrushed-xbox-series-x-fur-1795eur-ps5-fur-2042eur-nintendo-switch-2304eur-amazon-2744743"
+  ],
   "postedHistory": [
     {
       "key": "aldi|https://www.mydealz.de/deals/succebuy-vevor-auto-kuhlschrank-45l-kompressorkuhlbox-1224v-dc-110-240v-ac-20c-bis-20c-led-digitaldisplay-2740634",
