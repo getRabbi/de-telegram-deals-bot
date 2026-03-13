@@ -2,7 +2,7 @@
   "date": "2026-03-13",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/nbb-intel-core-ultra-7-265k-prozessor-fur-259eur-inkl-versand-2744652",
     "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-sebamed-sammeldeal-zb-reinigungsschaum-unreine-haut-150ml-after-shave-balsam-432eur-5-urea-akut-shampoo-200ml-456-2744714",
     "mydealz|https://www.mydealz.de/deals/telekom-moments-ahead-nuss-creme-geschenkt-2744751",
-    "mydealz|https://www.mydealz.de/deals/disney-epic-mickey-rebrushed-xbox-series-x-fur-1795eur-ps5-fur-2042eur-nintendo-switch-2304eur-amazon-2744743"
+    "mydealz|https://www.mydealz.de/deals/disney-epic-mickey-rebrushed-xbox-series-x-fur-1795eur-ps5-fur-2042eur-nintendo-switch-2304eur-amazon-2744743",
+    "mydealz|https://www.mydealz.de/deals/gratisgarage-fur-gardena-sileno-mahroboter-2744935",
+    "mydealz|https://www.mydealz.de/deals/mckinley-damen-trekking-sandale-sportovado-w-fur-699eurvsk-gr-38-42-klettverschlusse-dampfende-eva-zwischensohle-2744777",
+    "mydealz|https://www.mydealz.de/deals/joybuy-tabwee-t90-tablet-8gb-ram-128gb-speicher-tablet-11-zoll-fhd-microsd-8000-mah-akku-mit-stiftmaustastatur-2744820",
+    "mydealz|https://www.mydealz.de/deals/ecovacs-deebot-t50-pro-omni-gen2-saugroboter-2744770",
+    "mydealz|https://www.mydealz.de/deals/vaude-funktionsjacke-renjo-jacke-in-gr-s-xxl-2744900"
   ],
   "postedHistory": [
     {
