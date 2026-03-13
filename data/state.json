@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/philips-34m2c6500-34-zoll-oled-wqhd-gaming-monitor-003-ms-reaktionszeit-175-hz-2744676",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/mckinley-damen-trekking-sandale-sportovado-w-fur-699eurvsk-gr-38-42-klettverschlusse-dampfende-eva-zwischensohle-2744777",
     "mydealz|https://www.mydealz.de/deals/joybuy-tabwee-t90-tablet-8gb-ram-128gb-speicher-tablet-11-zoll-fhd-microsd-8000-mah-akku-mit-stiftmaustastatur-2744820",
     "mydealz|https://www.mydealz.de/deals/ecovacs-deebot-t50-pro-omni-gen2-saugroboter-2744770",
-    "mydealz|https://www.mydealz.de/deals/vaude-funktionsjacke-renjo-jacke-in-gr-s-xxl-2744900"
+    "mydealz|https://www.mydealz.de/deals/vaude-funktionsjacke-renjo-jacke-in-gr-s-xxl-2744900",
+    "mydealz|https://www.mydealz.de/deals/lego-ideas-gremlins-gizmo-21361-fur-7995-euro-teilexklusives-set-muller-2741546",
+    "mydealz|https://www.mydealz.de/deals/carhartt-wip-leroy-shoulder-bag-unisex-handbag-eur2695-2744964",
+    "mydealz|https://www.mydealz.de/deals/the-verge-50-rabatt-auf-jahres-abo-tech-news-2745061",
+    "mydealz|https://www.mydealz.de/deals/amazon-echo-show-21-neueste-generation-21-zoll-smart-display-fire-tv-hd-streaming-und-alexa-gebraucht-sehr-guter-zustand-amazon-2744937"
   ],
   "postedHistory": [
     {
