@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/steampc-sammeldeal-themenlos-2745592",
     "mydealz|https://www.mydealz.de/deals/be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler-2745740",
     "mydealz|https://www.mydealz.de/deals/thief-bundle-pc-fur-551eur-bei-gog-4-stealth-klassiker-drm-frei-2745716",
-    "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618"
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618",
+    "mydealz|https://www.mydealz.de/deals/dell-latitude-7330-i7-1265u-16gb256gb-usb-c-webcam-4g-lte-hdmi-win11-ebaygebraucht-2746044",
+    "mydealz|https://www.mydealz.de/deals/huion-note-x10-2-in-1-digitales-notebook-zeichentablett-mit-batterielosem-stift-bluetooth-papiertablett-elektronischer-schreibblock-2746010",
+    "mydealz|https://www.mydealz.de/deals/feuergott-grillpfanne-feuerpfanne-25-mit-stiel-schwarz-2745998",
+    "mydealz|https://www.mydealz.de/deals/vaude-jacken-mens-qimsa-softshell-jacket-fahrradjacke-gr-m-2732229"
   ],
   "postedHistory": [
     {
