@@ -2,7 +2,7 @@
   "date": "2026-03-14",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/avalar-shadow-war-premium-2745136",
     "mydealz|https://www.mydealz.de/deals/sammeldeal-fischer-duopower-dubel-offensive-grosser-sale-zu-den-fruhlingsangeboten-prime-2745380",
     "mydealz|https://www.mydealz.de/deals/tv-movie-halbjahresabo-13-ausgaben-fur-4290-eur-mit-35-eur-bestchoice-gutschein-2735447",
-    "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372"
+    "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-buds-pro-2-zum-super-preis-2745799",
+    "mydealz|https://www.mydealz.de/deals/steampc-sammeldeal-themenlos-2745592",
+    "mydealz|https://www.mydealz.de/deals/be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler-2745740",
+    "mydealz|https://www.mydealz.de/deals/thief-bundle-pc-fur-551eur-bei-gog-4-stealth-klassiker-drm-frei-2745716",
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618"
   ],
   "postedHistory": [
     {
