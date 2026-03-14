@@ -1,148 +1,12 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-15",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
-    "mydealz|https://www.mydealz.de/deals/dreame-mahroboter-set-a2-2000-2745103",
-    "mydealz|https://www.mydealz.de/deals/avalar-shadow-war-premium-2745136",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-fischer-duopower-dubel-offensive-grosser-sale-zu-den-fruhlingsangeboten-prime-2745380",
-    "mydealz|https://www.mydealz.de/deals/tv-movie-halbjahresabo-13-ausgaben-fur-4290-eur-mit-35-eur-bestchoice-gutschein-2735447",
-    "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-buds-pro-2-zum-super-preis-2745799",
-    "mydealz|https://www.mydealz.de/deals/steampc-sammeldeal-themenlos-2745592",
-    "mydealz|https://www.mydealz.de/deals/be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler-2745740",
-    "mydealz|https://www.mydealz.de/deals/thief-bundle-pc-fur-551eur-bei-gog-4-stealth-klassiker-drm-frei-2745716",
-    "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618",
-    "mydealz|https://www.mydealz.de/deals/dell-latitude-7330-i7-1265u-16gb256gb-usb-c-webcam-4g-lte-hdmi-win11-ebaygebraucht-2746044",
-    "mydealz|https://www.mydealz.de/deals/huion-note-x10-2-in-1-digitales-notebook-zeichentablett-mit-batterielosem-stift-bluetooth-papiertablett-elektronischer-schreibblock-2746010",
-    "mydealz|https://www.mydealz.de/deals/feuergott-grillpfanne-feuerpfanne-25-mit-stiel-schwarz-2745998",
-    "mydealz|https://www.mydealz.de/deals/vaude-jacken-mens-qimsa-softshell-jacket-fahrradjacke-gr-m-2732229"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zendure-ab2000x-solarflow-erweiterungsakku-40ah1920wh-lifepo4-max-1680w-eingangsleistung-2741136",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marktguru-100-eur-hein-beanz-3x-je-person-2741092",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neuer-aliexpressmunzdeal-petg-2kg-518eurkg-durchsichtig-orange-rot-weiss-blau-gelb-2741139",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-sim-only-magentamobil-xl-young-allnetsms-flat-unlimited-5g-2-multi-sim-schweiz-roaming-fur-eff-2162eurmonat-2741157",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dead-island-definitive-edition-ps4-playstation-digitaler-download-deep-silver-usk18-zombies-will-never-die-at-ps-store-2741072",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sommer-in-tirol-4-sporthotel-tirolerhof-itter-7-nachte-all-inclusive-light-juni-bis-oktober-fur-2-personen-ab-798eur-2741341",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/soyo-s4-plus-mini-pc-amd-ryzen-7-h255-cpu-16-gb-ddr5-ram-1-tb-ssd-pcie-30-nvme-wlan-6-bluetooth-52-2741274",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/iqunix-f97-graffiti-slate-tastatur-full-size-de-wireless-bt24-ghzusbc-moonstone-linear-rgb-hotswap-caseking-2703516",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-310-m-azdelivery-cat7-netzwerkkabel-sftp-10-gbits-600-mhz-flacher-textilmantel-vergoldete-rj45stecker-2741350",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mac-mini-m4-2024-16gb-256gb-2741347",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gude-brotmesser-32-cm-linkshand-briccole-di-venezia-2741387",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/abrowing-rudergerat-und-bauchtrainer-2719898",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/air-force-1-07-schwarz-weiss-in-verschiedenen-grossen-2723544",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reebok-polar-fleece-damen-jacke-verschiedene-farben-2741261",
-      "ts": 1772839150292
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ryanair-sommer-angebote-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2741762",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thalia-click-collect-schleich-eldrador-steindrache-70149-2741761",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dungeons-4-deluxe-edition-nintendo-switch-otto-up-2741709",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-nano-standard-combo-4k60fps-kleine-mini-cam-mit-113-sensor-143-weitwinkel-video-200-min-akku-wasserdicht-pov-kamera-64gb-2716233",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-auf-die-kanarischen-inseln-teneriffa-gran-canaria-lanzarote-ab-76eur-inkl-ruckflug-ryanair-mar-2741782",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fast-tiefpreis-samsung-gu75u8079fu-75-zoll-fernseher-crystal-uhd-4k-75-smart-tv-189-cm-incl-zattoo-waiputv-2741654",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dickies-mapleton-t-shirt-verschiedene-farben-viele-grossen-2741944",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reolink-trackmix-grau-wifi-6-4k-8mp-ptz-kameradual-6x-hybridzoomautotrackingfarbnachts2-wege-audio-amazonde-reolink-cb-bestpreis-2741917",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2-ausgaben-unsere-jagd-gratis-2741871",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spar-abofrosch-senses-granatapfel-sensitiv-dusche-duschgel-500-ml-vegan-ohne-mikroplastik-2741878",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wd-40-multifunktionsprodukt-smart-straw-330ml-prime-2741879",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allnetsms-flat-20gb-5g-fur-eff-416eurmonat-durch-wechselbonus-60gb-fur-791eurmonat-2742093",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rhodos-griechenland-7-nachte-im-4-hotel-inkl-all-inclusive-verpflegung-flugen-zug-zum-flug-transfers-ab-791eur-pp-dzjun-2741067",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-telekom-dsl-magentazuhause-l-fur-eff-2120eur-mtl-100-mbits-inkl-switch-2-mario-kart-world-2742080",
-      "ts": 1772925220469
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/livarno-home-dachfenster-plissee-insektenschutz-sonnenschutz-kaufland-marktplatz-2741971",
-      "ts": 1772925220469
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-318i-touring-156ps-8-gang-steptronic-klimaautomatik-sitzheizung-elektr-heckklappe-dt-neufahrzeug-2742261",
       "ts": 1773011682054
@@ -502,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-echo-show-21-neueste-generation-21-zoll-smart-display-fire-tv-hd-streaming-und-alexa-gebraucht-sehr-guter-zustand-amazon-2744937",
       "ts": 1773443944827
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dreame-mahroboter-set-a2-2000-2745103",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/avalar-shadow-war-premium-2745136",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-fischer-duopower-dubel-offensive-grosser-sale-zu-den-fruhlingsangeboten-prime-2745380",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tv-movie-halbjahresabo-13-ausgaben-fur-4290-eur-mit-35-eur-bestchoice-gutschein-2735447",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-buds-pro-2-zum-super-preis-2745799",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steampc-sammeldeal-themenlos-2745592",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler-2745740",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/thief-bundle-pc-fur-551eur-bei-gog-4-stealth-klassiker-drm-frei-2745716",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dell-latitude-7330-i7-1265u-16gb256gb-usb-c-webcam-4g-lte-hdmi-win11-ebaygebraucht-2746044",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/huion-note-x10-2-in-1-digitales-notebook-zeichentablett-mit-batterielosem-stift-bluetooth-papiertablett-elektronischer-schreibblock-2746010",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/feuergott-grillpfanne-feuerpfanne-25-mit-stiel-schwarz-2745998",
+      "ts": 1773530320976
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vaude-jacken-mens-qimsa-softshell-jacket-fahrradjacke-gr-m-2732229",
+      "ts": 1773530320976
     }
   ]
 }
