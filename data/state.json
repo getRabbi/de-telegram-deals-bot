@@ -1,11 +1,18 @@
 {
   "date": "2026-03-14",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
+    "mydealz|https://www.mydealz.de/deals/dreame-mahroboter-set-a2-2000-2745103",
+    "mydealz|https://www.mydealz.de/deals/avalar-shadow-war-premium-2745136",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-fischer-duopower-dubel-offensive-grosser-sale-zu-den-fruhlingsangeboten-prime-2745380",
+    "mydealz|https://www.mydealz.de/deals/tv-movie-halbjahresabo-13-ausgaben-fur-4290-eur-mit-35-eur-bestchoice-gutschein-2735447",
+    "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/tp-link-tapo-s110e-smart-relaisschalter-matter-wlanbt-10a-drywet-contact-prime-2741169",
