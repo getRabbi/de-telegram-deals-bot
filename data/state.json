@@ -2,7 +2,7 @@
   "date": "2026-03-15",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/falsches-spiel-mit-roger-rabbit-4k-ultra-hd-blu-ray-amazon-prime-2746278",
     "mydealz|https://www.mydealz.de/deals/fritzbox-7530-vdslsupervectoringrouter-mit-wlan-acn-1266-mbits-telefonanlage-dectbasis-nasfunktionen-2746337",
     "mydealz|https://www.mydealz.de/deals/shark-stratos-akku-staubsauger-bis-60-min-laufzeit-fur-tierhaare-teppich-und-hartboden-mit-auto-kit-iz400eutbk-preisfehler-2746364",
-    "mydealz|https://www.mydealz.de/deals/puma-future-8-match-fgag-fussballschuhe-grossen-425-45-46-465-47-prime-2745808"
+    "mydealz|https://www.mydealz.de/deals/puma-future-8-match-fgag-fussballschuhe-grossen-425-45-46-465-47-prime-2745808",
+    "mydealz|https://www.mydealz.de/deals/parkside-hochdruckreiniger-phd-170-e3-2746553",
+    "mydealz|https://www.mydealz.de/deals/smart-growbox-komplettset-giy-se-27-80-x-80-x-160-cm-2-pflanzen-komplettsystem-mit-wlan-e42a-controller-150w-aerolight-wing-se-led-2731705",
+    "mydealz|https://www.mydealz.de/deals/vasagle-waschtischunterschrank-90-cm-lange-in-weiss-2-turen-offene-facher-hohenverstellbare-regale-aus-mdf-inkl-kippschutz-2746436",
+    "mydealz|https://www.mydealz.de/deals/ugreen-finecam-pro-4k-webcam-12-sony-cmos-ai-framing-gestensteuerung-ki-rauschunterdruckung-pdaf-7-filter-stativ-inkl-2746496",
+    "mydealz|https://www.mydealz.de/deals/blu-ray-west-side-story-2021-von-steven-spielberg-2734094"
   ],
   "postedHistory": [
     {
