@@ -1,11 +1,18 @@
 {
   "date": "2026-03-15",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/traxxas-rustler-4x4-brushless-stadium-truck-110-rtr-4wd-rot-trx67164-2746129",
+    "mydealz|https://www.mydealz.de/deals/final-fantasy-xvi-deluxe-edition-playstation-5-franzosische-version-pegi-amazon-2702137",
+    "mydealz|https://www.mydealz.de/deals/falsches-spiel-mit-roger-rabbit-4k-ultra-hd-blu-ray-amazon-prime-2746278",
+    "mydealz|https://www.mydealz.de/deals/fritzbox-7530-vdslsupervectoringrouter-mit-wlan-acn-1266-mbits-telefonanlage-dectbasis-nasfunktionen-2746337",
+    "mydealz|https://www.mydealz.de/deals/shark-stratos-akku-staubsauger-bis-60-min-laufzeit-fur-tierhaare-teppich-und-hartboden-mit-auto-kit-iz400eutbk-preisfehler-2746364",
+    "mydealz|https://www.mydealz.de/deals/puma-future-8-match-fgag-fussballschuhe-grossen-425-45-46-465-47-prime-2745808"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-318i-touring-156ps-8-gang-steptronic-klimaautomatik-sitzheizung-elektr-heckklappe-dt-neufahrzeug-2742261",
