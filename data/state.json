@@ -1,82 +1,12 @@
 {
-  "date": "2026-03-16",
+  "date": "2026-03-17",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/weber-classic-kettle-holzkohle-grill-porzellanemaillierter-deckel-kessel-47-cm-grillflache-reinigungssystem-thermometer-prime-2746896",
-    "mydealz|https://www.mydealz.de/deals/prophete-stack-50-suv-fully-e-bike-29-zoll-100nm-720wh-deore-bremslicht-etc-fahrrad-vollgefedert-2746995",
-    "mydealz|https://www.mydealz.de/deals/darkflash-dy450l-pro-midi-tower-atxmatxmini-itx-9-slots-gpu-bis-420-mm-cpu-kuhler-bis-180-mm-front-usb-c-fur-wasserkuhlung-schwarz-2738202",
-    "mydealz|https://www.mydealz.de/deals/aerocool-klaw-g-bk-v1-rgb-midi-towerpc-gehause-tempered-glass-seite-3x-120mm-argb-lufter-gpus-bis-370mm-caseking-2704040",
-    "mydealz|https://www.mydealz.de/deals/aerocool-delta-a-bk-v1-midi-tower-atx-acrylglas-seitenteil-guter-airflow-1x-120-mm-lufter-rgb-front-2703672",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-iphone-17-pro-max-256gb-im-allnetsms-flat-50gb-5g-200eur-cashback-125-wechselbonus-2746862",
-    "mydealz|https://www.mydealz.de/deals/emsa-samba-wave-isolierkanne-1-liter-12h-heiss24h-kalt-100-dicht-fur-799-euro-kaufland-2747194",
-    "mydealz|https://www.mydealz.de/deals/whd-segway-ninebot-f2-pro-d-e-scooter-mit-strassenzulassung-fur-erwachsene-20-kmh-55-km-reichweite-warehousedeals-2747207",
-    "rewe|https://www.mydealz.de/deals/gorewear-c3-thermo-tragerhose-fur-herren-in-schwarzneon-gelb-s-m-xl-3xl-gorewear-cup-sitzpolster-thermo-stretch-stoff-prime-2747176"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-tunic-fur-1401eur-metacritic-85-zelda-x-souls-drm-frei-pc-mac-2742741",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ninkear-a15-plus-laptop-156-ips-fhd-amd-ryzen-7-5825u-notebook-16gb-ddr4-1tb-ssd-wifi-6-windows-11-pro-2740751",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-fur-vinyl-schallplatten-bis-1799eur-prime-jpc-imusic-2742791",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/parkside-hacksler-2742673",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/magura-mt-trail-sport-scheibenbremse-bremse-mountainbike-mtb-2742762",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-metzingen-rosle-messerblock-cuisine-7tlg-2742758",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reolink-altas-2k-4mpsolarpanel-2-6-watt-ws-bestpreis-reolinkcom-cb-10-uberwachungskameraset-colorx-nachtsicht-akku-wifi6-tracking-2741435",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/obi-lokal-leifheit-click-system-fur-innenraumreinigung-2-aufastze-1-stiel-2742993",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-schmidt-spiele-51206-metallknobelei-duell-reisespiel-blau-2742946",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deuter-durascent-alpinrucksack-42l10l-sl-erweiterung-in-glaciergraphite-wasserdicht-ipx4-versiegelte-nahte-rolltop-verschluss-2734604",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-dublin-inkl-ruckflug-von-berlin-hamburg-koln-hahn-memmingen-ab-40eur-inkl-ruckflug-ryanairmai-2738200",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/24-spanngurte-expander-set-versandkostenfrei-via-app-2743226",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anycubic-kobra-3-max-combo-multicolor-filament-3d-drucker-mit-bis-zu-600-mms-hochgeschwindigkeitsdruck-und-420-420-500-mm-bauvolumen-2741804",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deep-rock-galactic-survivor-909eur-steam-2743191",
-      "ts": 1773098331113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nickelodeon-kart-racers-3-slime-speedway-nintendo-switch-12-digitaler-download-usk-0-uber-40-charaktere-at-eshop-2714832",
-      "ts": 1773098331113
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
       "ts": 1773184719922
@@ -436,6 +366,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-google-pixel-10-pro-xl-512gb-mit-pixelsnap-charger-2746200",
       "ts": 1773616823172
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/weber-classic-kettle-holzkohle-grill-porzellanemaillierter-deckel-kessel-47-cm-grillflache-reinigungssystem-thermometer-prime-2746896",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prophete-stack-50-suv-fully-e-bike-29-zoll-100nm-720wh-deore-bremslicht-etc-fahrrad-vollgefedert-2746995",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/darkflash-dy450l-pro-midi-tower-atxmatxmini-itx-9-slots-gpu-bis-420-mm-cpu-kuhler-bis-180-mm-front-usb-c-fur-wasserkuhlung-schwarz-2738202",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aerocool-klaw-g-bk-v1-rgb-midi-towerpc-gehause-tempered-glass-seite-3x-120mm-argb-lufter-gpus-bis-370mm-caseking-2704040",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aerocool-delta-a-bk-v1-midi-tower-atx-acrylglas-seitenteil-guter-airflow-1x-120-mm-lufter-rgb-front-2703672",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-iphone-17-pro-max-256gb-im-allnetsms-flat-50gb-5g-200eur-cashback-125-wechselbonus-2746862",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/emsa-samba-wave-isolierkanne-1-liter-12h-heiss24h-kalt-100-dicht-fur-799-euro-kaufland-2747194",
+      "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/whd-segway-ninebot-f2-pro-d-e-scooter-mit-strassenzulassung-fur-erwachsene-20-kmh-55-km-reichweite-warehousedeals-2747207",
+      "ts": 1773703349261
+    },
+    {
+      "key": "rewe|https://www.mydealz.de/deals/gorewear-c3-thermo-tragerhose-fur-herren-in-schwarzneon-gelb-s-m-xl-3xl-gorewear-cup-sitzpolster-thermo-stretch-stoff-prime-2747176",
+      "ts": 1773703349261
     }
   ]
 }
