@@ -1,11 +1,18 @@
 {
   "date": "2026-03-17",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-bundle-42999eur-2747206",
+    "mydealz|https://www.mydealz.de/deals/steam-battlefield-1-199eur-battlefield-v-def-249eur-099eurbattlefield-4-199eur-battlefield-2042-299eur-2747404",
+    "mydealz|https://www.mydealz.de/deals/steam-deck-a-way-out-299eur-co-op-spiel-2747395",
+    "mydealz|https://www.mydealz.de/deals/steam-mass-effect-legendary-edition-599-2747401",
+    "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
