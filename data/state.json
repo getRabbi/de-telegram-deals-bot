@@ -2,7 +2,7 @@
   "date": "2026-03-17",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/steam-battlefield-1-199eur-battlefield-v-def-249eur-099eurbattlefield-4-199eur-battlefield-2042-299eur-2747404",
     "mydealz|https://www.mydealz.de/deals/steam-deck-a-way-out-299eur-co-op-spiel-2747395",
     "mydealz|https://www.mydealz.de/deals/steam-mass-effect-legendary-edition-599-2747401",
-    "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983"
+    "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983",
+    "mydealz|https://www.mydealz.de/deals/automatikuhr-oris-propilot-date-41mm-10bar-4hz-41h-gr-2747654",
+    "mydealz|https://www.mydealz.de/deals/osmofresh-fusion-pro-auftisch-osmoseanlage-wassersprudlerkuhlung-keine-installation-heisswasserspender-7x-filterung-mineralisierung-2747526",
+    "mydealz|https://www.mydealz.de/deals/vaude-uv-cap-fahrrad-helmmutze-sonnenschutz-prime-2747636",
+    "mydealz|https://www.mydealz.de/deals/bauknecht-bba285pu1zk-einbau-backofen-71l-12-funktionen-power-heissluft-pizza-funktion-310c-flexiclean-a-schwarzglas-amazon-prime-2708595",
+    "mydealz|https://www.mydealz.de/deals/dmfv-kostenlose-3-monatige-mitgliedschaft-selbstkundigend-gratis-drohnen-versicherung-und-erweiterte-rechte-zur-eu-drohnenverordnung-2747628"
   ],
   "postedHistory": [
     {
