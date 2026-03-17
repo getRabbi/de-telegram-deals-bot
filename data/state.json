@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
-    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-bundle-42999eur-2747206",
-    "mydealz|https://www.mydealz.de/deals/steam-battlefield-1-199eur-battlefield-v-def-249eur-099eurbattlefield-4-199eur-battlefield-2042-299eur-2747404",
-    "mydealz|https://www.mydealz.de/deals/steam-deck-a-way-out-299eur-co-op-spiel-2747395",
-    "mydealz|https://www.mydealz.de/deals/steam-mass-effect-legendary-edition-599-2747401",
-    "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983",
-    "mydealz|https://www.mydealz.de/deals/automatikuhr-oris-propilot-date-41mm-10bar-4hz-41h-gr-2747654",
-    "mydealz|https://www.mydealz.de/deals/osmofresh-fusion-pro-auftisch-osmoseanlage-wassersprudlerkuhlung-keine-installation-heisswasserspender-7x-filterung-mineralisierung-2747526",
-    "mydealz|https://www.mydealz.de/deals/vaude-uv-cap-fahrrad-helmmutze-sonnenschutz-prime-2747636",
-    "mydealz|https://www.mydealz.de/deals/bauknecht-bba285pu1zk-einbau-backofen-71l-12-funktionen-power-heissluft-pizza-funktion-310c-flexiclean-a-schwarzglas-amazon-prime-2708595",
-    "mydealz|https://www.mydealz.de/deals/dmfv-kostenlose-3-monatige-mitgliedschaft-selbstkundigend-gratis-drohnen-versicherung-und-erweiterte-rechte-zur-eu-drohnenverordnung-2747628",
-    "mydealz|https://www.mydealz.de/deals/rennrad-aero-bianchi-oltre-comp-carbon-rahmenlrsssultegra-di2-2025-xsxl-2747644",
-    "mydealz|https://www.mydealz.de/deals/lokal-munchen-forderung-balkonkraftwerk-bis-zu-320eur-munchen-pass-bis-zu-484eur-2747815",
-    "mydealz|https://www.mydealz.de/deals/gratis-garage-ringtones-pro-google-play-store-2747826",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-tarife-mit-honor-magic-8-pro-vodafone-gigakombi-964eur-otelo-50gb-1044eur-o2-100gb-1064eur-2716085"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pulp-fiction-collectors-edition-4k-ultra-hd-blu-ray-gadgets-30th-anniversary-edition-blu-ray-deutscher-ton-2743379",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bbosch-professional-gra-18v2-46-akku-akku-rasenmaher-b-ware-beschadigte-fehlende-verpackung-2743340",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cube-nuroad-pro-gravelbike-cube-nuroad-pro-gravelbike-black-cube-cube-nuroad-pro-gravelbike-2743404",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-monster-energie-05-liter-2740351",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestpreis-zwilling-enfinigy-kontaktgrill-1850w-2742256",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asics-megablast-vital-greenblack-fur-unter-200-euro-2743386",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/globus-cheez-it-double-cheese-und-cheese-chilli-mit-coupon-069-euro-2743552",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/groupon-apple-airpods-pro-3-gratis-versand-kabellose-inear-kopfhorer-4-cashback-oder-payback-moglich-2742990",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-finnland-lappland-rovaniemi-zur-polarlichter-saison-nonstop-von-berlin-inkl-ruckflug-dez-feb-easyjet-ab-100eur-2743548",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/die-eintracht-feiert-geburtstag-1899-rabatt-auf-fast-alles-im-fanshop-2743563",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ml2u-88-watch-face-wearos-watchfacegoogle-play-store-2743536",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/115-eur-pramie-mit-dem-kostenlose-giro-und-tagesgeld-konto-2743751",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/timberland-britton-road-chelsea-boots-rotbraun-wasserdicht-2743704",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sage-the-barista-express-impress-edelstahl-2-liter-wassertank-25-mahlgrade-54-mm-edelstahl-siebtrager-pid-temperaturregelung-2743143",
-      "ts": 1773184719922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/phanteks-nv-series-nv9-e-atx-pc-gehause-tempered-glass-argb-mattweiss-big-tower-d-rgb-strips-und-controller-inklusive-2743593",
-      "ts": 1773184719922
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-wocheende-filme-fur-399-599eur-hd4k-digital-200-filme-imdb-65-at-itunes-apple-tv-2743946",
       "ts": 1773271003094
@@ -418,6 +342,66 @@
     {
       "key": "rewe|https://www.mydealz.de/deals/gorewear-c3-thermo-tragerhose-fur-herren-in-schwarzneon-gelb-s-m-xl-3xl-gorewear-cup-sitzpolster-thermo-stretch-stoff-prime-2747176",
       "ts": 1773703349261
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-bundle-42999eur-2747206",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-battlefield-1-199eur-battlefield-v-def-249eur-099eurbattlefield-4-199eur-battlefield-2042-299eur-2747404",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-deck-a-way-out-299eur-co-op-spiel-2747395",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-mass-effect-legendary-edition-599-2747401",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-oris-propilot-date-41mm-10bar-4hz-41h-gr-2747654",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/osmofresh-fusion-pro-auftisch-osmoseanlage-wassersprudlerkuhlung-keine-installation-heisswasserspender-7x-filterung-mineralisierung-2747526",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vaude-uv-cap-fahrrad-helmmutze-sonnenschutz-prime-2747636",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bauknecht-bba285pu1zk-einbau-backofen-71l-12-funktionen-power-heissluft-pizza-funktion-310c-flexiclean-a-schwarzglas-amazon-prime-2708595",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dmfv-kostenlose-3-monatige-mitgliedschaft-selbstkundigend-gratis-drohnen-versicherung-und-erweiterte-rechte-zur-eu-drohnenverordnung-2747628",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rennrad-aero-bianchi-oltre-comp-carbon-rahmenlrsssultegra-di2-2025-xsxl-2747644",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-munchen-forderung-balkonkraftwerk-bis-zu-320eur-munchen-pass-bis-zu-484eur-2747815",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-garage-ringtones-pro-google-play-store-2747826",
+      "ts": 1773789775010
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-tarife-mit-honor-magic-8-pro-vodafone-gigakombi-964eur-otelo-50gb-1044eur-o2-100gb-1064eur-2716085",
+      "ts": 1773789775010
     }
   ]
 }
