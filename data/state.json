@@ -1,11 +1,18 @@
 {
   "date": "2026-03-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/champion-sport-sonnenbrille-polarisiert-kat-3-uv400-schwarzgrau-modell-cu512801-2747812",
+    "mydealz|https://www.mydealz.de/deals/guardino-reer-turschutzgitter-treppenschutzgitter-75-cm-mit-7-und-14-cm-verlangerung-2747735",
+    "mydealz|https://www.mydealz.de/deals/apple-iphone-13-mini-rose-128-gb-physische-sim-esim-zustand-hervorragend-12-monate-garantie-2748019",
+    "mydealz|https://www.mydealz.de/deals/kindle-tolino-die-ruinen-des-wahnsinns-horrorthriller-ebook-noch-ein-krimi-aus-bayern-in-den-kommentaren-2748037",
+    "mydealz|https://www.mydealz.de/deals/gardena-combisystem-vertikutier-boy-32-cm-fur-4799eur-bestpreis-2747934",
+    "mydealz|https://www.mydealz.de/deals/warsteiner-premium-pilsener-bier-dosenbier-einweg-24-x-033-l-dose-989eur-helles-pulleken-mehrweg-flasche-20-x-033-l-flasche-1329eur-2748026"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-wocheende-filme-fur-399-599eur-hd4k-digital-200-filme-imdb-65-at-itunes-apple-tv-2743946",
