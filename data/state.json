@@ -2,7 +2,7 @@
   "date": "2026-03-18",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/apple-iphone-13-mini-rose-128-gb-physische-sim-esim-zustand-hervorragend-12-monate-garantie-2748019",
     "mydealz|https://www.mydealz.de/deals/kindle-tolino-die-ruinen-des-wahnsinns-horrorthriller-ebook-noch-ein-krimi-aus-bayern-in-den-kommentaren-2748037",
     "mydealz|https://www.mydealz.de/deals/gardena-combisystem-vertikutier-boy-32-cm-fur-4799eur-bestpreis-2747934",
-    "mydealz|https://www.mydealz.de/deals/warsteiner-premium-pilsener-bier-dosenbier-einweg-24-x-033-l-dose-989eur-helles-pulleken-mehrweg-flasche-20-x-033-l-flasche-1329eur-2748026"
+    "mydealz|https://www.mydealz.de/deals/warsteiner-premium-pilsener-bier-dosenbier-einweg-24-x-033-l-dose-989eur-helles-pulleken-mehrweg-flasche-20-x-033-l-flasche-1329eur-2748026",
+    "mydealz|https://www.mydealz.de/deals/yumyum-chicken-10er-karton-nur-eur-149-2748251",
+    "mydealz|https://www.mydealz.de/deals/ebay-plus-1000w-balkonkraftwerk-komplettset-2x-500w-bifazial-glas-glas-800w-foxess-wlan-wechselrichter-b-ware-2748240",
+    "mydealz|https://www.mydealz.de/deals/resident-evil-remake-trilogy-ps4ps5-playstation-usk-18-digital-incl-re-2-deluxe34-goldresistancedie-soldner-uvm-at-ps-store-2748165",
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-19032026-crimson-desert-xbsxps5-physisch-day-one-ed-oder-deluxe-edition-6995eur-usk-18-at-netgames-2748191",
+    "mydealz|https://www.mydealz.de/deals/payback-amazon-200-extra-punkte-auf-den-einsatz-der-payback-amex-karte-bei-amazon-ab-120eur-mbw-2748211"
   ],
   "postedHistory": [
     {
