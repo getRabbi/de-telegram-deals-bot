@@ -2,7 +2,7 @@
   "date": "2026-03-19",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/calvin-klein-rollkragen-pullover-schwarz-fur-3089-eur-m-l-2748532",
     "mydealz|https://www.mydealz.de/deals/champion-stranger-things-netflix-herren-hoodie-fur-2089-eur-m-xl-2748530",
     "mydealz|https://www.mydealz.de/deals/bench-herren-herren-eddie-22-slim-fit-jeans-mittelblaue-waschung-fur-2089-eur-w30-w38-2748521",
-    "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421"
+    "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421",
+    "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-worx-landroid-vision-cloud-wr303e-inkl-garage-fur-52713-eur-tpg-2748501",
+    "mydealz|https://www.mydealz.de/deals/mattel-mega-hry20-hot-wheels-audi-90-quattro-imsa-gto-mit-973-teilen-klemmbausteine-2748682",
+    "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
+    "mydealz|https://www.mydealz.de/deals/franzis-bauen-heimwerken-im-garten-ebook-gratis-statt-10eur-direktlink-im-text-2748702",
+    "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706"
   ],
   "postedHistory": [
     {
