@@ -1,11 +1,18 @@
 {
   "date": "2026-03-19",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
+    "mydealz|https://www.mydealz.de/deals/amazon-basics-druckerpapier-din-a4-80-gm2-2500-stuck-5-packungen-mit-500-weiss-amazon-prime-spar-abo-2748360",
+    "mydealz|https://www.mydealz.de/deals/calvin-klein-rollkragen-pullover-schwarz-fur-3089-eur-m-l-2748532",
+    "mydealz|https://www.mydealz.de/deals/champion-stranger-things-netflix-herren-hoodie-fur-2089-eur-m-xl-2748530",
+    "mydealz|https://www.mydealz.de/deals/bench-herren-herren-eddie-22-slim-fit-jeans-mittelblaue-waschung-fur-2089-eur-w30-w38-2748521",
+    "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
