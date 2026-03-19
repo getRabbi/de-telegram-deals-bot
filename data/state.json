@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
-    "mydealz|https://www.mydealz.de/deals/amazon-basics-druckerpapier-din-a4-80-gm2-2500-stuck-5-packungen-mit-500-weiss-amazon-prime-spar-abo-2748360",
-    "mydealz|https://www.mydealz.de/deals/calvin-klein-rollkragen-pullover-schwarz-fur-3089-eur-m-l-2748532",
-    "mydealz|https://www.mydealz.de/deals/champion-stranger-things-netflix-herren-hoodie-fur-2089-eur-m-xl-2748530",
-    "mydealz|https://www.mydealz.de/deals/bench-herren-herren-eddie-22-slim-fit-jeans-mittelblaue-waschung-fur-2089-eur-w30-w38-2748521",
-    "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421",
-    "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-worx-landroid-vision-cloud-wr303e-inkl-garage-fur-52713-eur-tpg-2748501",
-    "mydealz|https://www.mydealz.de/deals/mattel-mega-hry20-hot-wheels-audi-90-quattro-imsa-gto-mit-973-teilen-klemmbausteine-2748682",
-    "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
-    "mydealz|https://www.mydealz.de/deals/franzis-bauen-heimwerken-im-garten-ebook-gratis-statt-10eur-direktlink-im-text-2748702",
-    "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706",
-    "mydealz|https://www.mydealz.de/deals/usenet-sammeldeal-marz-2026-2748700",
-    "mydealz|https://www.mydealz.de/deals/giro-aries-spherical-mips-schwarzpink-2748597",
-    "mydealz|https://www.mydealz.de/deals/lyle-scott-herren-boxershorts-slips-3er-packung-fur-1289-eur-s-l-2748866",
-    "mydealz|https://www.mydealz.de/deals/vans-herren-t-shirt-baumwolle-fur-1189-eur-xs-s-2748867"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-nemesis-karnomorphs-brettspiel-erweiterung-2744233",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/einhell-mahroboter-freelexo-1200qm-lcd-bt-inkl-52-ah-akku-power-x-change-und-zubehor-2744252",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/alpenfohn-gletscherwasser-360-white-rgb-360mm-wasserkuhlung-weiss-b-ware-2744031",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/joker-folie-a-deux-limited-steelbook-4k-blu-ray-blu-ray-fur-1549eur-amazonit-2739902",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fehler-telekom-netz-samsung-galaxy-s26-512gb-im-freenet-magenta-allnetsms-flat-100gb-5g-300mbits-gratis-multisim-schweiz-roaming-2744306",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/penny-app-5-auf-deinen-einkauf-ab-1-euro-informationen-zu-rubbel-dich-glucklich-inkl-bilder-der-sofortgewinne-2744244",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3x-20a-tuya-zigbee-steckdose-einzelpreis-139eur-als-fullartikel-uber-10eur-1x-080eur-munzdeal-2744390",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-antaeus-eau-de-toilette-100ml-parfumo-herrendufte-topliste-platz-86-2744404",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-8256-gb-5g-smartphone-nfc-mtk-dimensity-7400-ultra-683-15k-amoled-display-120hz-200mp-6580-mah-2744338",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-essentials-feelcozy-french-terry-cargoshorts-gr-s-bis-xxl-ausser-xl-primedecathlon-herren-shorts-2744342",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deloox-missoni-wave-eau-de-toilette-frischer-aquatischer-duft-platz-88-parfum-fur-herren-100ml-fur-3189-eur-inkl-gratisversand-2744393",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/privatleasing-ds-7-vollausstattung-diesel-36-monate-10000-km-gf-040-rate-frei-wahlbar-eff-23820-eur-farbe-wahlbar-2744510",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/20eur-gutschein-beim-versand-fur-die-hausfrauen-versand-bader-2744532",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kangaroos-herren-chino-hose-fur-2089-eur-w32-w40-2744549",
-      "ts": 1773357536546
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/arran-13yo-vintage-2010-private-cask-20101771-potstill-single-malt-scotch-whisky-whiskybase-8725-2744538",
-      "ts": 1773357536546
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/philips-34m2c6500-34-zoll-oled-wqhd-gaming-monitor-003-ms-reaktionszeit-175-hz-2744676",
       "ts": 1773443944827
@@ -418,6 +342,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/perplexity-pro-1-year-trial-subscription-perplexity-key-global-neue-mailadresse-2748249",
       "ts": 1773876184147
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-basics-druckerpapier-din-a4-80-gm2-2500-stuck-5-packungen-mit-500-weiss-amazon-prime-spar-abo-2748360",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/calvin-klein-rollkragen-pullover-schwarz-fur-3089-eur-m-l-2748532",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/champion-stranger-things-netflix-herren-hoodie-fur-2089-eur-m-xl-2748530",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bench-herren-herren-eddie-22-slim-fit-jeans-mittelblaue-waschung-fur-2089-eur-w30-w38-2748521",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-worx-landroid-vision-cloud-wr303e-inkl-garage-fur-52713-eur-tpg-2748501",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mattel-mega-hry20-hot-wheels-audi-90-quattro-imsa-gto-mit-973-teilen-klemmbausteine-2748682",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/franzis-bauen-heimwerken-im-garten-ebook-gratis-statt-10eur-direktlink-im-text-2748702",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/usenet-sammeldeal-marz-2026-2748700",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/giro-aries-spherical-mips-schwarzpink-2748597",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lyle-scott-herren-boxershorts-slips-3er-packung-fur-1289-eur-s-l-2748866",
+      "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vans-herren-t-shirt-baumwolle-fur-1189-eur-xs-s-2748867",
+      "ts": 1773962467263
     }
   ]
 }
