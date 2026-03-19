@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/mattel-mega-hry20-hot-wheels-audi-90-quattro-imsa-gto-mit-973-teilen-klemmbausteine-2748682",
     "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
     "mydealz|https://www.mydealz.de/deals/franzis-bauen-heimwerken-im-garten-ebook-gratis-statt-10eur-direktlink-im-text-2748702",
-    "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706"
+    "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706",
+    "mydealz|https://www.mydealz.de/deals/usenet-sammeldeal-marz-2026-2748700",
+    "mydealz|https://www.mydealz.de/deals/giro-aries-spherical-mips-schwarzpink-2748597",
+    "mydealz|https://www.mydealz.de/deals/lyle-scott-herren-boxershorts-slips-3er-packung-fur-1289-eur-s-l-2748866",
+    "mydealz|https://www.mydealz.de/deals/vans-herren-t-shirt-baumwolle-fur-1189-eur-xs-s-2748867"
   ],
   "postedHistory": [
     {
