@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-20",
+  "date": "2026-03-21",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
-    "mydealz|https://www.mydealz.de/deals/hisense-65u7q-fernseher-65-zoll-4k-mini-led-uled-144hz-dolby-vision-iq-atmos-smart-tv-2748739",
-    "mydealz|https://www.mydealz.de/deals/tommy-jeans-bomber-jacke-herren-relaxed-fit-schwarz-fur-5589-eur-l-xl-2749020",
-    "mydealz|https://www.mydealz.de/deals/scotch-soda-mott-herren-chino-business-slim-fit-fur-2089-eur-w31-w36-2749011",
-    "mydealz|https://www.mydealz.de/deals/cb-samsung-family-hub-rs97f-side-by-side-mit-view-inside-und-wassertank-eek-e-614l-2748992",
-    "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493",
-    "mydealz|https://www.mydealz.de/deals/toom-wissen-abverkauf-leuchten-tischleuchte-liam-led-deckenfluter-abverkauf-sale-2749379",
-    "mydealz|https://www.mydealz.de/deals/cherry-um-90-pro-usb-mikrofon-mit-rgb-gamingstreaming-microphone-schwarz-2749235",
-    "mydealz|https://www.mydealz.de/deals/sony-wf-1000xm6-silber-2742983",
-    "mydealz|https://www.mydealz.de/deals/the-mind-kooperatives-kartenspiel-2749445",
-    "mydealz|https://www.mydealz.de/deals/johansson-fiete-vario-box-cargo-e-bike-lastenrad-dreirad-mit-brose-drive-c-motor-504-wh-akku-9-gang-schaltung-2749264",
-    "mydealz|https://www.mydealz.de/deals/gaming-pc-intel-i5-12400f-rtx-5060-ti-16gb-32gb-ddr4-3200-1tb-ssd-h610-550w-bronze-2749733",
-    "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-vg27aqml1a-27-qhd-gaming-monitor-25601440-260-hz-1-ms-fast-ips-hdr10-freesync-premium-g-sync-kompatibel-2749523",
-    "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-ritterburg-im-mittelalter-31168-7116-euro-durch-topcashback-moglich-thalia-2749699",
-    "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-luck-of-the-kairish-vault-hunter-skin-2749700"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-34m2c6500-34-zoll-oled-wqhd-gaming-monitor-003-ms-reaktionszeit-175-hz-2744676",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/helly-hansen-rig-rain-jacket-gr-m-l-xl-regenjacke-hardshell-2744728",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nbb-intel-core-ultra-7-265k-prozessor-fur-259eur-inkl-versand-2744652",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-sebamed-sammeldeal-zb-reinigungsschaum-unreine-haut-150ml-after-shave-balsam-432eur-5-urea-akut-shampoo-200ml-456-2744714",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-moments-ahead-nuss-creme-geschenkt-2744751",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/disney-epic-mickey-rebrushed-xbox-series-x-fur-1795eur-ps5-fur-2042eur-nintendo-switch-2304eur-amazon-2744743",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratisgarage-fur-gardena-sileno-mahroboter-2744935",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mckinley-damen-trekking-sandale-sportovado-w-fur-699eurvsk-gr-38-42-klettverschlusse-dampfende-eva-zwischensohle-2744777",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/joybuy-tabwee-t90-tablet-8gb-ram-128gb-speicher-tablet-11-zoll-fhd-microsd-8000-mah-akku-mit-stiftmaustastatur-2744820",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ecovacs-deebot-t50-pro-omni-gen2-saugroboter-2744770",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-funktionsjacke-renjo-jacke-in-gr-s-xxl-2744900",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-ideas-gremlins-gizmo-21361-fur-7995-euro-teilexklusives-set-muller-2741546",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/carhartt-wip-leroy-shoulder-bag-unisex-handbag-eur2695-2744964",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-verge-50-rabatt-auf-jahres-abo-tech-news-2745061",
-      "ts": 1773443944827
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-echo-show-21-neueste-generation-21-zoll-smart-display-fire-tv-hd-streaming-und-alexa-gebraucht-sehr-guter-zustand-amazon-2744937",
-      "ts": 1773443944827
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
       "ts": 1773530320976
@@ -418,6 +342,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/vans-herren-t-shirt-baumwolle-fur-1189-eur-xs-s-2748867",
       "ts": 1773962467263
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hisense-65u7q-fernseher-65-zoll-4k-mini-led-uled-144hz-dolby-vision-iq-atmos-smart-tv-2748739",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-bomber-jacke-herren-relaxed-fit-schwarz-fur-5589-eur-l-xl-2749020",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/scotch-soda-mott-herren-chino-business-slim-fit-fur-2089-eur-w31-w36-2749011",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-family-hub-rs97f-side-by-side-mit-view-inside-und-wassertank-eek-e-614l-2748992",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toom-wissen-abverkauf-leuchten-tischleuchte-liam-led-deckenfluter-abverkauf-sale-2749379",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cherry-um-90-pro-usb-mikrofon-mit-rgb-gamingstreaming-microphone-schwarz-2749235",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sony-wf-1000xm6-silber-2742983",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-mind-kooperatives-kartenspiel-2749445",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/johansson-fiete-vario-box-cargo-e-bike-lastenrad-dreirad-mit-brose-drive-c-motor-504-wh-akku-9-gang-schaltung-2749264",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-intel-i5-12400f-rtx-5060-ti-16gb-32gb-ddr4-3200-1tb-ssd-h610-550w-bronze-2749733",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-vg27aqml1a-27-qhd-gaming-monitor-25601440-260-hz-1-ms-fast-ips-hdr10-freesync-premium-g-sync-kompatibel-2749523",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-ritterburg-im-mittelalter-31168-7116-euro-durch-topcashback-moglich-thalia-2749699",
+      "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-luck-of-the-kairish-vault-hunter-skin-2749700",
+      "ts": 1774048791625
     }
   ]
 }
