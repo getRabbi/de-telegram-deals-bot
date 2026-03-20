@@ -2,7 +2,7 @@
   "date": "2026-03-20",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/tommy-jeans-bomber-jacke-herren-relaxed-fit-schwarz-fur-5589-eur-l-xl-2749020",
     "mydealz|https://www.mydealz.de/deals/scotch-soda-mott-herren-chino-business-slim-fit-fur-2089-eur-w31-w36-2749011",
     "mydealz|https://www.mydealz.de/deals/cb-samsung-family-hub-rs97f-side-by-side-mit-view-inside-und-wassertank-eek-e-614l-2748992",
-    "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493"
+    "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493",
+    "mydealz|https://www.mydealz.de/deals/toom-wissen-abverkauf-leuchten-tischleuchte-liam-led-deckenfluter-abverkauf-sale-2749379",
+    "mydealz|https://www.mydealz.de/deals/cherry-um-90-pro-usb-mikrofon-mit-rgb-gamingstreaming-microphone-schwarz-2749235",
+    "mydealz|https://www.mydealz.de/deals/sony-wf-1000xm6-silber-2742983",
+    "mydealz|https://www.mydealz.de/deals/the-mind-kooperatives-kartenspiel-2749445",
+    "mydealz|https://www.mydealz.de/deals/johansson-fiete-vario-box-cargo-e-bike-lastenrad-dreirad-mit-brose-drive-c-motor-504-wh-akku-9-gang-schaltung-2749264"
   ],
   "postedHistory": [
     {
