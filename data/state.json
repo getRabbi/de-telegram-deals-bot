@@ -1,11 +1,18 @@
 {
   "date": "2026-03-20",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
+    "mydealz|https://www.mydealz.de/deals/hisense-65u7q-fernseher-65-zoll-4k-mini-led-uled-144hz-dolby-vision-iq-atmos-smart-tv-2748739",
+    "mydealz|https://www.mydealz.de/deals/tommy-jeans-bomber-jacke-herren-relaxed-fit-schwarz-fur-5589-eur-l-xl-2749020",
+    "mydealz|https://www.mydealz.de/deals/scotch-soda-mott-herren-chino-business-slim-fit-fur-2089-eur-w31-w36-2749011",
+    "mydealz|https://www.mydealz.de/deals/cb-samsung-family-hub-rs97f-side-by-side-mit-view-inside-und-wassertank-eek-e-614l-2748992",
+    "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/philips-34m2c6500-34-zoll-oled-wqhd-gaming-monitor-003-ms-reaktionszeit-175-hz-2744676",
