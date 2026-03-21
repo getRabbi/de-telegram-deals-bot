@@ -1,27 +1,11 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
-    "mydealz|https://www.mydealz.de/deals/mips-radhelm-schutzhelm-smith-convoy-mips-system-otto-und-amazon-mehrere-farben-2749940",
-    "mydealz|https://www.mydealz.de/deals/remington-barttrimmer-mb320c-selbstscharf-keramik-klingen04-18mm-9-langeneinst-netz-akkubetrieb-led-ladeanzeige-prime-2749879",
-    "mydealz|https://www.mydealz.de/deals/benriach-malting-season-third-edition-single-malt-scotch-whisky-07l-487-prime-2748271",
-    "mydealz|https://www.mydealz.de/deals/juskys-mulltonnenbox-namur-2-m2-aufbewahrungsbox-in-grau-fur-3-tonnen-zwei-grossen-turen-2749807",
-    "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815",
-    "mydealz|https://www.mydealz.de/deals/black-forest-brettspiel-deutsche-ausgabe-14-jahre-1-4-spieler-spielzeit-60-120-min-76-bgg-at-prime-2750037",
-    "mydealz|https://www.mydealz.de/deals/lassig-5tlg-schulranzen-set-adventure-bus-in-grau-limango-2749959",
-    "mydealz|https://www.mydealz.de/deals/tooltop-t7-thermal-kamera-warmebildkamera-fur-android-256-192-25-hz-ip54-12499eur-mit-macro-linse-2750075",
-    "mydealz|https://www.mydealz.de/deals/mcdonalds-app-am-0703-1503-28032026-gibt-es-ab-3-eur-500-extra-punkte-zur-osteraktion-kombination-mit-paypal-cashback-aktion-2738947",
-    "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036",
-    "mydealz|https://www.mydealz.de/deals/bybit-eu-25-eur-fur-den-werber-25-eur-fur-den-geworbenen-in-btc-2750288",
-    "rossmann|https://www.mydealz.de/gutscheine/payback-15fach-punkte-auf-everywish-gutscheine-bspw-ikea-otto-rossmann-muller-gultig-bis-293226-personalisiert-2748699",
-    "mydealz|https://www.mydealz.de/deals/the-room-stalker-horror-loop-walking-simulator-kostenlos-im-google-play-store-2750227",
-    "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-mit-magnesium-kaliumchlorid-cholin-und-b-vitaminen-1-x-15-beutel-spar-abo-p-2726830"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
@@ -418,6 +402,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-luck-of-the-kairish-vault-hunter-skin-2749700",
       "ts": 1774048791625
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mips-radhelm-schutzhelm-smith-convoy-mips-system-otto-und-amazon-mehrere-farben-2749940",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/remington-barttrimmer-mb320c-selbstscharf-keramik-klingen04-18mm-9-langeneinst-netz-akkubetrieb-led-ladeanzeige-prime-2749879",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/benriach-malting-season-third-edition-single-malt-scotch-whisky-07l-487-prime-2748271",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/juskys-mulltonnenbox-namur-2-m2-aufbewahrungsbox-in-grau-fur-3-tonnen-zwei-grossen-turen-2749807",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/black-forest-brettspiel-deutsche-ausgabe-14-jahre-1-4-spieler-spielzeit-60-120-min-76-bgg-at-prime-2750037",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lassig-5tlg-schulranzen-set-adventure-bus-in-grau-limango-2749959",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tooltop-t7-thermal-kamera-warmebildkamera-fur-android-256-192-25-hz-ip54-12499eur-mit-macro-linse-2750075",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mcdonalds-app-am-0703-1503-28032026-gibt-es-ab-3-eur-500-extra-punkte-zur-osteraktion-kombination-mit-paypal-cashback-aktion-2738947",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bybit-eu-25-eur-fur-den-werber-25-eur-fur-den-geworbenen-in-btc-2750288",
+      "ts": 1774134956510
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/gutscheine/payback-15fach-punkte-auf-everywish-gutscheine-bspw-ikea-otto-rossmann-muller-gultig-bis-293226-personalisiert-2748699",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-room-stalker-horror-loop-walking-simulator-kostenlos-im-google-play-store-2750227",
+      "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-mit-magnesium-kaliumchlorid-cholin-und-b-vitaminen-1-x-15-beutel-spar-abo-p-2726830",
+      "ts": 1774134956510
     }
   ]
 }
