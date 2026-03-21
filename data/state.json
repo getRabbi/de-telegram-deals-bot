@@ -2,7 +2,7 @@
   "date": "2026-03-21",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/remington-barttrimmer-mb320c-selbstscharf-keramik-klingen04-18mm-9-langeneinst-netz-akkubetrieb-led-ladeanzeige-prime-2749879",
     "mydealz|https://www.mydealz.de/deals/benriach-malting-season-third-edition-single-malt-scotch-whisky-07l-487-prime-2748271",
     "mydealz|https://www.mydealz.de/deals/juskys-mulltonnenbox-namur-2-m2-aufbewahrungsbox-in-grau-fur-3-tonnen-zwei-grossen-turen-2749807",
-    "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815"
+    "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815",
+    "mydealz|https://www.mydealz.de/deals/black-forest-brettspiel-deutsche-ausgabe-14-jahre-1-4-spieler-spielzeit-60-120-min-76-bgg-at-prime-2750037",
+    "mydealz|https://www.mydealz.de/deals/lassig-5tlg-schulranzen-set-adventure-bus-in-grau-limango-2749959",
+    "mydealz|https://www.mydealz.de/deals/tooltop-t7-thermal-kamera-warmebildkamera-fur-android-256-192-25-hz-ip54-12499eur-mit-macro-linse-2750075",
+    "mydealz|https://www.mydealz.de/deals/mcdonalds-app-am-0703-1503-28032026-gibt-es-ab-3-eur-500-extra-punkte-zur-osteraktion-kombination-mit-paypal-cashback-aktion-2738947",
+    "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036"
   ],
   "postedHistory": [
     {
