@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/lassig-5tlg-schulranzen-set-adventure-bus-in-grau-limango-2749959",
     "mydealz|https://www.mydealz.de/deals/tooltop-t7-thermal-kamera-warmebildkamera-fur-android-256-192-25-hz-ip54-12499eur-mit-macro-linse-2750075",
     "mydealz|https://www.mydealz.de/deals/mcdonalds-app-am-0703-1503-28032026-gibt-es-ab-3-eur-500-extra-punkte-zur-osteraktion-kombination-mit-paypal-cashback-aktion-2738947",
-    "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036"
+    "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036",
+    "mydealz|https://www.mydealz.de/deals/bybit-eu-25-eur-fur-den-werber-25-eur-fur-den-geworbenen-in-btc-2750288",
+    "rossmann|https://www.mydealz.de/gutscheine/payback-15fach-punkte-auf-everywish-gutscheine-bspw-ikea-otto-rossmann-muller-gultig-bis-293226-personalisiert-2748699",
+    "mydealz|https://www.mydealz.de/deals/the-room-stalker-horror-loop-walking-simulator-kostenlos-im-google-play-store-2750227",
+    "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-mit-magnesium-kaliumchlorid-cholin-und-b-vitaminen-1-x-15-beutel-spar-abo-p-2726830"
   ],
   "postedHistory": [
     {
