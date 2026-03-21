@@ -2072,7 +2072,155 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357",
+      "store": "MyDealz",
+      "title": "[GEWERBETREIBENDE] 10€ Rabatt ab 80€ bei SELGROS – mehrfach nutzbar bis 31.05.2026 (über Konsum Berlin Mitgliedschaft für 25 EUR)",
+      "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/7401_1/re/1200x1200/qt/80/7401_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[GEWERBETREIBENDE] 10€ Rabatt ab 80€ bei SELGROS – mehrfach nutzbar bis 31.05.2026 (über Konsum Berlin Mitgliedschaft für 25 EUR)</b>\n🏪 MyDealz\n💶 Was: 25 € → <b>Now: 25 €</b>\n🔻 Save: 0%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[GEWERBETREIBENDE] 10€ Rabatt ab 80€ bei SELGROS – mehrfach nutzbar bis 31.05.2026 (über Konsum Berlin Mitgliedschaft für 25 EUR)",
+        "now": "25 €",
+        "was": "25 €",
+        "discountPct": 0,
+        "isTop": false,
+        "url": "https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357",
+        "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/7401_1/re/1200x1200/qt/80/7401_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383",
+      "store": "MyDealz",
+      "title": "105° - (Franzis) Richtig löten (DO IT!) | eBook | gratis statt 10€ | Direktlink im Text",
+      "imageUrl": "https://static.mydealz.de/threads/raw/JPMqb/2752383_1/re/1200x1200/qt/80/2752383_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>105° - (Franzis) Richtig löten (DO IT!) | eBook | gratis statt 10€ | Direktlink im Text</b>\n🏪 MyDealz\n💶 Was: 0 € → <b>Now: 0 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "105° - (Franzis) Richtig löten (DO IT!) | eBook | gratis statt 10€ | Direktlink im Text",
+        "now": "0 €",
+        "was": "0 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383",
+        "imageUrl": "https://static.mydealz.de/threads/raw/JPMqb/2752383_1/re/1200x1200/qt/80/2752383_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332",
+      "store": "MyDealz",
+      "title": "102° - [SIRPLUS] -30% auf ALLES (Gerettete Lebensmittel und MHD Produkte)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/n28Ld/2752332_1/re/1200x1200/qt/80/2752332_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>102° - [SIRPLUS] -30% auf ALLES (Gerettete Lebensmittel und MHD Produkte)</b>\n🏪 MyDealz\n💶 Was: 7 € → <b>Now: 7 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "102° - [SIRPLUS] -30% auf ALLES (Gerettete Lebensmittel und MHD Produkte)",
+        "now": "7 €",
+        "was": "7 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332",
+        "imageUrl": "https://static.mydealz.de/threads/raw/n28Ld/2752332_1/re/1200x1200/qt/80/2752332_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374",
+      "store": "MyDealz",
+      "title": "160° - LG OLED TV 65 Zoll B5 + DS60TR 5.1 Kanal 440W Soundbar + 100 Euro Cashback | eff nach SB-Verkauf ~ 785 Euro",
+      "imageUrl": "https://static.mydealz.de/threads/raw/A8W2m/2752374_1/re/1200x1200/qt/80/2752374_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>160° - LG OLED TV 65 Zoll B5 + DS60TR 5.1 Kanal 440W Soundbar + 100 Euro Cashback | eff nach SB-Verkauf ~ 785 Euro</b>\n🏪 MyDealz\n💶 Was: 08 € → <b>Now: 08 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "160° - LG OLED TV 65 Zoll B5 + DS60TR 5.1 Kanal 440W Soundbar + 100 Euro Cashback | eff nach SB-Verkauf ~ 785 Euro",
+        "now": "08 €",
+        "was": "08 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374",
+        "imageUrl": "https://static.mydealz.de/threads/raw/A8W2m/2752374_1/re/1200x1200/qt/80/2752374_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-03-21T17:18:17.045Z"
+  "updatedAt": "2026-03-21T18:22:52.782Z"
 }
