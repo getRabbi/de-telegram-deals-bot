@@ -1,11 +1,18 @@
 {
   "date": "2026-03-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
+    "mydealz|https://www.mydealz.de/deals/mips-radhelm-schutzhelm-smith-convoy-mips-system-otto-und-amazon-mehrere-farben-2749940",
+    "mydealz|https://www.mydealz.de/deals/remington-barttrimmer-mb320c-selbstscharf-keramik-klingen04-18mm-9-langeneinst-netz-akkubetrieb-led-ladeanzeige-prime-2749879",
+    "mydealz|https://www.mydealz.de/deals/benriach-malting-season-third-edition-single-malt-scotch-whisky-07l-487-prime-2748271",
+    "mydealz|https://www.mydealz.de/deals/juskys-mulltonnenbox-namur-2-m2-aufbewahrungsbox-in-grau-fur-3-tonnen-zwei-grossen-turen-2749807",
+    "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
