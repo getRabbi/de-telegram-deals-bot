@@ -2,7 +2,7 @@
   "date": "2026-03-22",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/aliexpress-naturehike-cloud-up-2-personen-trekking-zelt-fur-6269-1-personen-fur-5839-lieferung-aus-spanien-2750494",
     "mydealz|https://www.mydealz.de/deals/bosch-professional-cuttermesser-18-mm-mit-aluminiumgriff-prime-2750485",
     "mydealz|https://www.mydealz.de/deals/creality-175mm-3d-filament-ender-pla-3-kaufen-2-umsonst-5kg-2750492",
-    "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509"
+    "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509",
+    "mydealz|https://www.mydealz.de/deals/koln-4-mauritius-hotel-und-therme-inkl-fruhstuck-taglicher-eintritt-in-die-mauritius-therme-ab-13545-eur-1-un-fur-2-personen-2750575",
+    "mydealz|https://www.mydealz.de/deals/prime-aeg-waschmaschine-lr7amz491fl-dampf-nachlegefunktion-1400-umin-eek-a-bestpreis-2750617",
+    "mydealz|https://www.mydealz.de/deals/reisenthel-korb-fur-25-eur-versand-bei-limango-family-2750535",
+    "mydealz|https://www.mydealz.de/gutscheine/50-auf-alle-abos-bei-neotaste-zum-fruhling-2750542",
+    "mydealz|https://www.mydealz.de/deals/gillette-intimate-elektrischer-korperrasierer-herren-i3-fur-den-intimbereich-wasserdicht-kabellos-fur-nass-und-trockenanwendung-prime-2750560"
   ],
   "postedHistory": [
     {
