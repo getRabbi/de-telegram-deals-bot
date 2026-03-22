@@ -1,11 +1,18 @@
 {
   "date": "2026-03-22",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
+    "mydealz|https://www.mydealz.de/deals/dreierpack-x-sense-smart-rauchmelder-xs01-m-mit-sbs50-basisstation-zertifiziert-nach-en-14604-wlan-x-sense-home-security-app-kompatibel-2741843",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-naturehike-cloud-up-2-personen-trekking-zelt-fur-6269-1-personen-fur-5839-lieferung-aus-spanien-2750494",
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-cuttermesser-18-mm-mit-aluminiumgriff-prime-2750485",
+    "mydealz|https://www.mydealz.de/deals/creality-175mm-3d-filament-ender-pla-3-kaufen-2-umsonst-5kg-2750492",
+    "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
