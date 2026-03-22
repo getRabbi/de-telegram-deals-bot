@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
-    "mydealz|https://www.mydealz.de/deals/dreierpack-x-sense-smart-rauchmelder-xs01-m-mit-sbs50-basisstation-zertifiziert-nach-en-14604-wlan-x-sense-home-security-app-kompatibel-2741843",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-naturehike-cloud-up-2-personen-trekking-zelt-fur-6269-1-personen-fur-5839-lieferung-aus-spanien-2750494",
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-cuttermesser-18-mm-mit-aluminiumgriff-prime-2750485",
-    "mydealz|https://www.mydealz.de/deals/creality-175mm-3d-filament-ender-pla-3-kaufen-2-umsonst-5kg-2750492",
-    "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509",
-    "mydealz|https://www.mydealz.de/deals/koln-4-mauritius-hotel-und-therme-inkl-fruhstuck-taglicher-eintritt-in-die-mauritius-therme-ab-13545-eur-1-un-fur-2-personen-2750575",
-    "mydealz|https://www.mydealz.de/deals/prime-aeg-waschmaschine-lr7amz491fl-dampf-nachlegefunktion-1400-umin-eek-a-bestpreis-2750617",
-    "mydealz|https://www.mydealz.de/deals/reisenthel-korb-fur-25-eur-versand-bei-limango-family-2750535",
-    "mydealz|https://www.mydealz.de/gutscheine/50-auf-alle-abos-bei-neotaste-zum-fruhling-2750542",
-    "mydealz|https://www.mydealz.de/deals/gillette-intimate-elektrischer-korperrasierer-herren-i3-fur-den-intimbereich-wasserdicht-kabellos-fur-nass-und-trockenanwendung-prime-2750560",
-    "mydealz|https://www.mydealz.de/deals/burgerking-app-gratis-kronen-durch-ein-app-spiel-baby-burger-fang-die-baby-burger-2750809",
-    "mydealz|https://www.mydealz.de/deals/personalisiert-upgrade-auf-gen3-gerate-mit-50-rabatt-zb-shelly-2pm-gen3-2750756",
-    "mydealz|https://www.mydealz.de/deals/solar-guitars-ab27red-burst-thomann-ltd-2750803",
-    "mydealz|https://www.mydealz.de/deals/lexin-b4fm-motorrad-intercom-helm-headset-fur-bis-zu-10-motorrader-mit-2000m-reichweite-dsp-und-cvc-gerauschunterdruckung-2750711"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/glasdeckel-mit-stahlrand-dampfloch-o20-cm-ab-474-eur-inkl-versand-o24-cm-534-eur-kaufland-2745165",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dreame-mahroboter-set-a2-2000-2745103",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/avalar-shadow-war-premium-2745136",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-fischer-duopower-dubel-offensive-grosser-sale-zu-den-fruhlingsangeboten-prime-2745380",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tv-movie-halbjahresabo-13-ausgaben-fur-4290-eur-mit-35-eur-bestchoice-gutschein-2735447",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/schneiderschirme-ampelschirm-rhodos-grande-ca-400-x-300-cm-natur-2745372",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-buds-pro-2-zum-super-preis-2745799",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steampc-sammeldeal-themenlos-2745592",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler-2745740",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thief-bundle-pc-fur-551eur-bei-gog-4-stealth-klassiker-drm-frei-2745716",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-amazonde-wd-red-plus-12-tb-nas-interne-festplatte-35-zoll-7200-umin-sata-6gbs-cmr-512mb-cache-2745618",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-latitude-7330-i7-1265u-16gb256gb-usb-c-webcam-4g-lte-hdmi-win11-ebaygebraucht-2746044",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/huion-note-x10-2-in-1-digitales-notebook-zeichentablett-mit-batterielosem-stift-bluetooth-papiertablett-elektronischer-schreibblock-2746010",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/feuergott-grillpfanne-feuerpfanne-25-mit-stiel-schwarz-2745998",
-      "ts": 1773530320976
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-jacken-mens-qimsa-softshell-jacket-fahrradjacke-gr-m-2732229",
-      "ts": 1773530320976
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/traxxas-rustler-4x4-brushless-stadium-truck-110-rtr-4wd-rot-trx67164-2746129",
       "ts": 1773616823172
@@ -478,6 +402,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-mit-magnesium-kaliumchlorid-cholin-und-b-vitaminen-1-x-15-beutel-spar-abo-p-2726830",
       "ts": 1774134956510
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dreierpack-x-sense-smart-rauchmelder-xs01-m-mit-sbs50-basisstation-zertifiziert-nach-en-14604-wlan-x-sense-home-security-app-kompatibel-2741843",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-naturehike-cloud-up-2-personen-trekking-zelt-fur-6269-1-personen-fur-5839-lieferung-aus-spanien-2750494",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-cuttermesser-18-mm-mit-aluminiumgriff-prime-2750485",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/creality-175mm-3d-filament-ender-pla-3-kaufen-2-umsonst-5kg-2750492",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/koln-4-mauritius-hotel-und-therme-inkl-fruhstuck-taglicher-eintritt-in-die-mauritius-therme-ab-13545-eur-1-un-fur-2-personen-2750575",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-aeg-waschmaschine-lr7amz491fl-dampf-nachlegefunktion-1400-umin-eek-a-bestpreis-2750617",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reisenthel-korb-fur-25-eur-versand-bei-limango-family-2750535",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/50-auf-alle-abos-bei-neotaste-zum-fruhling-2750542",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gillette-intimate-elektrischer-korperrasierer-herren-i3-fur-den-intimbereich-wasserdicht-kabellos-fur-nass-und-trockenanwendung-prime-2750560",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/burgerking-app-gratis-kronen-durch-ein-app-spiel-baby-burger-fang-die-baby-burger-2750809",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/personalisiert-upgrade-auf-gen3-gerate-mit-50-rabatt-zb-shelly-2pm-gen3-2750756",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/solar-guitars-ab27red-burst-thomann-ltd-2750803",
+      "ts": 1774221503446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lexin-b4fm-motorrad-intercom-helm-headset-fur-bis-zu-10-motorrader-mit-2000m-reichweite-dsp-und-cvc-gerauschunterdruckung-2750711",
+      "ts": 1774221503446
     }
   ]
 }
