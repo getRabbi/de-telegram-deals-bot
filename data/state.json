@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/gore-wear-shield-armlinge-armwarmer-gore-tex-infinium-xs-bis-2xl-2751013",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/ktc-h27t27-gaming-monitor-27-zoll-wqhd-ips-100hz-99-srgb-2x-hdmi-1x-dp-fur-8441eur-30-cashback-aliexpress-2749159",
     "mydealz|https://www.mydealz.de/deals/edeka-evtl-lokal-coca-cola-19-cent-angebot-und-gutschein-app-2750166",
     "mydealz|https://www.mydealz.de/deals/lg-qned87a6b-65-zoll-mini-led-fernseher-mit-bis-zu-144hz-2751041",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-nature-hike-cloud-trek-1-personen-bikepacking-zelt-20d-nylon-packmass-40x15x15-cm-wassersaule-4000-mm-inkl-footprint-2750500"
+    "mydealz|https://www.mydealz.de/deals/aliexpress-nature-hike-cloud-trek-1-personen-bikepacking-zelt-20d-nylon-packmass-40x15x15-cm-wassersaule-4000-mm-inkl-footprint-2750500",
+    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-damen-polo-shirt-fur-2189-eur-nur-noch-in-xs-2750324",
+    "mydealz|https://www.mydealz.de/deals/paramount-standard-ohne-werbung-2-monate-a-299eur-via-amazon-prime-video-2751337",
+    "aldi|https://www.mydealz.de/deals/guthabenkarten-mit-15-rabatt-bei-aldi-nord-2749736",
+    "mydealz|https://www.mydealz.de/deals/data-frog-pc07-wireless-controller-fur-pcandroid-tv-fur-1059eur-statt-3081eur-2750161"
   ],
   "postedHistory": [
     {
