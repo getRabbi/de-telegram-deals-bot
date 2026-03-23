@@ -2,7 +2,7 @@
   "date": "2026-03-23",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/lego-bugatti-centodieci-otto-up-2750994",
     "mydealz|https://www.mydealz.de/deals/schalke-sondertrikot-2425-2751007",
     "mydealz|https://www.mydealz.de/deals/lego-nissan-skyline-gtr-76917-2fast-2-furious-2750997",
-    "mydealz|https://www.mydealz.de/deals/ryanair-fantastische-entdeckungen-fluge-ab-15eur-london-dublin-mallorca-barcelona-uvmvon-berlin-koln-uvm-fluge-bis-3006-2751024"
+    "mydealz|https://www.mydealz.de/deals/ryanair-fantastische-entdeckungen-fluge-ab-15eur-london-dublin-mallorca-barcelona-uvmvon-berlin-koln-uvm-fluge-bis-3006-2751024",
+    "mydealz|https://www.mydealz.de/deals/hot-wheels-lets-race-netflix-21-prime-transporter-zu-t-rex-mit-inkl-autorennbahn-mit-beleuchtung-gerauschen-inkl-2-spielzeugautos-2750995",
+    "mydealz|https://www.mydealz.de/deals/ktc-h27t27-gaming-monitor-27-zoll-wqhd-ips-100hz-99-srgb-2x-hdmi-1x-dp-fur-8441eur-30-cashback-aliexpress-2749159",
+    "mydealz|https://www.mydealz.de/deals/edeka-evtl-lokal-coca-cola-19-cent-angebot-und-gutschein-app-2750166",
+    "mydealz|https://www.mydealz.de/deals/lg-qned87a6b-65-zoll-mini-led-fernseher-mit-bis-zu-144hz-2751041",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-nature-hike-cloud-trek-1-personen-bikepacking-zelt-20d-nylon-packmass-40x15x15-cm-wassersaule-4000-mm-inkl-footprint-2750500"
   ],
   "postedHistory": [
     {
