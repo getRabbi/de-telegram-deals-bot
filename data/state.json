@@ -1,11 +1,18 @@
 {
   "date": "2026-03-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gore-wear-shield-armlinge-armwarmer-gore-tex-infinium-xs-bis-2xl-2751013",
+    "mydealz|https://www.mydealz.de/deals/uking-500-w-nebelmaschine-rgb-3-led-mischfarbe-nebelmaschine-mit-fernbedienung-2715648",
+    "mydealz|https://www.mydealz.de/deals/lego-bugatti-centodieci-otto-up-2750994",
+    "mydealz|https://www.mydealz.de/deals/schalke-sondertrikot-2425-2751007",
+    "mydealz|https://www.mydealz.de/deals/lego-nissan-skyline-gtr-76917-2fast-2-furious-2750997",
+    "mydealz|https://www.mydealz.de/deals/ryanair-fantastische-entdeckungen-fluge-ab-15eur-london-dublin-mallorca-barcelona-uvmvon-berlin-koln-uvm-fluge-bis-3006-2751024"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/traxxas-rustler-4x4-brushless-stadium-truck-110-rtr-4wd-rot-trx67164-2746129",
