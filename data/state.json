@@ -1,27 +1,11 @@
 {
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
-    "mydealz|https://www.mydealz.de/deals/automatikuhr-seiko-presage-gmt-le-ssk015j1-3hz-41h-hardlex-407x131mm-2751593",
-    "mydealz|https://www.mydealz.de/deals/auto-abo-kia-picanto-vision-automatik-279eur-pm-20000-km-12-m-2751576",
-    "mydealz|https://www.mydealz.de/deals/penny-rotkappchen-sekt-249eur-075l-versch-sorten-2751584",
-    "mydealz|https://www.mydealz.de/deals/lokal-playmobil-ausverkauf-50-auf-uvp-at-kaufland-waiblingen-2751542",
-    "mydealz|https://www.mydealz.de/deals/silvercrest-kuchenmaschine-monsieur-cuisine-skms-1200-a1-smart-wlan-b-ware-refurbished-sehr-gut-2751578",
-    "mydealz|https://www.mydealz.de/deals/netto-md-kerrygold-butter-je-250gr-fur-129-eur-oder111eurmit-app-g-2751749",
-    "mydealz|https://www.mydealz.de/deals/steam-fallout-new-vegas-fur-099eur-statt-135-2751745",
-    "mydealz|https://www.mydealz.de/deals/telekom-magenta-mobil-xl-young-unlimited-5g-fur-eff-2162eur-mtl-2-multisim-eff-721-mtl-pro-sim-500eur-boni-guthaben-2751631",
-    "mydealz|https://www.mydealz.de/deals/ugreen-240w-usb-c-kabel-mit-led-display-pd31-e-marker-480-mbps-1m-65866-prime-2751649",
-    "mydealz|https://www.mydealz.de/deals/trs-chilipulver-extra-scharf-100g-prime-2751667",
-    "mydealz|https://www.mydealz.de/deals/vorbestellung-inno3d-rtx-5070-ti-x3-oc-white-16gb-grafikkarte-2751942",
-    "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-weste-fur-3289-eur-m-xl-2751927",
-    "mydealz|https://www.mydealz.de/deals/replay-herren-hoodie-kapuzensweatshirt-fur-2489-eur-m-l-2751929",
-    "mydealz|https://www.mydealz.de/deals/urlaubspiraten-winterberg-4-tage-hp-199-euro-pro-person-1000-qm-wellness-3-sterne-2751860"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
@@ -442,6 +426,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/data-frog-pc07-wireless-controller-fur-pcandroid-tv-fur-1059eur-statt-3081eur-2750161",
       "ts": 1774308174131
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-seiko-presage-gmt-le-ssk015j1-3hz-41h-hardlex-407x131mm-2751593",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/auto-abo-kia-picanto-vision-automatik-279eur-pm-20000-km-12-m-2751576",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/penny-rotkappchen-sekt-249eur-075l-versch-sorten-2751584",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-playmobil-ausverkauf-50-auf-uvp-at-kaufland-waiblingen-2751542",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/silvercrest-kuchenmaschine-monsieur-cuisine-skms-1200-a1-smart-wlan-b-ware-refurbished-sehr-gut-2751578",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-kerrygold-butter-je-250gr-fur-129-eur-oder111eurmit-app-g-2751749",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-fallout-new-vegas-fur-099eur-statt-135-2751745",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-magenta-mobil-xl-young-unlimited-5g-fur-eff-2162eur-mtl-2-multisim-eff-721-mtl-pro-sim-500eur-boni-guthaben-2751631",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ugreen-240w-usb-c-kabel-mit-led-display-pd31-e-marker-480-mbps-1m-65866-prime-2751649",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trs-chilipulver-extra-scharf-100g-prime-2751667",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-inno3d-rtx-5070-ti-x3-oc-white-16gb-grafikkarte-2751942",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-weste-fur-3289-eur-m-xl-2751927",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/replay-herren-hoodie-kapuzensweatshirt-fur-2489-eur-m-l-2751929",
+      "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/urlaubspiraten-winterberg-4-tage-hp-199-euro-pro-person-1000-qm-wellness-3-sterne-2751860",
+      "ts": 1774394552076
     }
   ]
 }
