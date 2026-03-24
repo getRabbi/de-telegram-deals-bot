@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/steam-fallout-new-vegas-fur-099eur-statt-135-2751745",
     "mydealz|https://www.mydealz.de/deals/telekom-magenta-mobil-xl-young-unlimited-5g-fur-eff-2162eur-mtl-2-multisim-eff-721-mtl-pro-sim-500eur-boni-guthaben-2751631",
     "mydealz|https://www.mydealz.de/deals/ugreen-240w-usb-c-kabel-mit-led-display-pd31-e-marker-480-mbps-1m-65866-prime-2751649",
-    "mydealz|https://www.mydealz.de/deals/trs-chilipulver-extra-scharf-100g-prime-2751667"
+    "mydealz|https://www.mydealz.de/deals/trs-chilipulver-extra-scharf-100g-prime-2751667",
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-inno3d-rtx-5070-ti-x3-oc-white-16gb-grafikkarte-2751942",
+    "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-weste-fur-3289-eur-m-xl-2751927",
+    "mydealz|https://www.mydealz.de/deals/replay-herren-hoodie-kapuzensweatshirt-fur-2489-eur-m-l-2751929",
+    "mydealz|https://www.mydealz.de/deals/urlaubspiraten-winterberg-4-tage-hp-199-euro-pro-person-1000-qm-wellness-3-sterne-2751860"
   ],
   "postedHistory": [
     {
