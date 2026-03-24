@@ -1,11 +1,18 @@
 {
   "date": "2026-03-24",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
+    "mydealz|https://www.mydealz.de/deals/automatikuhr-seiko-presage-gmt-le-ssk015j1-3hz-41h-hardlex-407x131mm-2751593",
+    "mydealz|https://www.mydealz.de/deals/auto-abo-kia-picanto-vision-automatik-279eur-pm-20000-km-12-m-2751576",
+    "mydealz|https://www.mydealz.de/deals/penny-rotkappchen-sekt-249eur-075l-versch-sorten-2751584",
+    "mydealz|https://www.mydealz.de/deals/lokal-playmobil-ausverkauf-50-auf-uvp-at-kaufland-waiblingen-2751542",
+    "mydealz|https://www.mydealz.de/deals/silvercrest-kuchenmaschine-monsieur-cuisine-skms-1200-a1-smart-wlan-b-ware-refurbished-sehr-gut-2751578"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
