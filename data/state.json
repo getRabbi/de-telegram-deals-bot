@@ -1,11 +1,18 @@
 {
   "date": "2026-03-25",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
+    "mydealz|https://www.mydealz.de/deals/10eur-gratis-mit-dem-code-gamer26-nur-ein-spiel-aussuchen-runterladen-und-mindestens-5-mintuen-spielen-2750991",
+    "mydealz|https://www.mydealz.de/deals/mattel-disney-peter-pan-und-wendy-figuren-puppen-prime-2751226",
+    "mydealz|https://www.mydealz.de/deals/garmin-edge-540-gps-fahrradcomputer-mit-adaptiver-coaching-und-vollfarbkarten-2752097",
+    "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-fur-windows-pc-linux-chrome-mac-tastatur-sonstiges-kabe-2752073",
+    "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
