@@ -1,148 +1,12 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
-    "mydealz|https://www.mydealz.de/deals/10eur-gratis-mit-dem-code-gamer26-nur-ein-spiel-aussuchen-runterladen-und-mindestens-5-mintuen-spielen-2750991",
-    "mydealz|https://www.mydealz.de/deals/mattel-disney-peter-pan-und-wendy-figuren-puppen-prime-2751226",
-    "mydealz|https://www.mydealz.de/deals/garmin-edge-540-gps-fahrradcomputer-mit-adaptiver-coaching-und-vollfarbkarten-2752097",
-    "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-fur-windows-pc-linux-chrome-mac-tastatur-sonstiges-kabe-2752073",
-    "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088",
-    "mydealz|https://www.mydealz.de/deals/hoka-rincon-3-damen-laufschuhe-fur-5889-eur-37-39-2752244",
-    "mydealz|https://www.mydealz.de/deals/bench-herren-merrick-zehn-paar-socken-10er-packung-socken-schwarz-fur-1789-eur-39-49-2752250",
-    "mydealz|https://www.mydealz.de/deals/bnesim-travel-esim-billigster-datentarif-ohne-ablaufdatum-fur-die-usa-nur-eur1688-fur-20-gb-volle-33-rabatt-nur-kurze-zeit-2752236",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-marokko-fez-tanger-agadir-essaouira-ab-45eur-inkl-ruckflug-weeze-memmingen-hahnryanair-apr-2746155",
-    "mydealz|https://www.mydealz.de/deals/prime-cilitbang-wc-steine-3x2er-pack-2752034",
-    "mydealz|https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357",
-    "mydealz|https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383",
-    "mydealz|https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332",
-    "mydealz|https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ladival-sonnencreme-fur-kinder-gratis-schleich-schildkrote-gratis-ente-gratis-apres-2746153",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-mario-kart-world-bundle-42999eur-2747206",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-battlefield-1-199eur-battlefield-v-def-249eur-099eurbattlefield-4-199eur-battlefield-2042-299eur-2747404",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-deck-a-way-out-299eur-co-op-spiel-2747395",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-mass-effect-legendary-edition-599-2747401",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msi-mag401qr-gaming-monitor-40-zoll-uwqhd-155-hz-ips-usb-c-1ms-2746983",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-oris-propilot-date-41mm-10bar-4hz-41h-gr-2747654",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/osmofresh-fusion-pro-auftisch-osmoseanlage-wassersprudlerkuhlung-keine-installation-heisswasserspender-7x-filterung-mineralisierung-2747526",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-uv-cap-fahrrad-helmmutze-sonnenschutz-prime-2747636",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bauknecht-bba285pu1zk-einbau-backofen-71l-12-funktionen-power-heissluft-pizza-funktion-310c-flexiclean-a-schwarzglas-amazon-prime-2708595",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dmfv-kostenlose-3-monatige-mitgliedschaft-selbstkundigend-gratis-drohnen-versicherung-und-erweiterte-rechte-zur-eu-drohnenverordnung-2747628",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rennrad-aero-bianchi-oltre-comp-carbon-rahmenlrsssultegra-di2-2025-xsxl-2747644",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-munchen-forderung-balkonkraftwerk-bis-zu-320eur-munchen-pass-bis-zu-484eur-2747815",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-garage-ringtones-pro-google-play-store-2747826",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-tarife-mit-honor-magic-8-pro-vodafone-gigakombi-964eur-otelo-50gb-1044eur-o2-100gb-1064eur-2716085",
-      "ts": 1773789775010
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/champion-sport-sonnenbrille-polarisiert-kat-3-uv400-schwarzgrau-modell-cu512801-2747812",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/guardino-reer-turschutzgitter-treppenschutzgitter-75-cm-mit-7-und-14-cm-verlangerung-2747735",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-13-mini-rose-128-gb-physische-sim-esim-zustand-hervorragend-12-monate-garantie-2748019",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kindle-tolino-die-ruinen-des-wahnsinns-horrorthriller-ebook-noch-ein-krimi-aus-bayern-in-den-kommentaren-2748037",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-combisystem-vertikutier-boy-32-cm-fur-4799eur-bestpreis-2747934",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/warsteiner-premium-pilsener-bier-dosenbier-einweg-24-x-033-l-dose-989eur-helles-pulleken-mehrweg-flasche-20-x-033-l-flasche-1329eur-2748026",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yumyum-chicken-10er-karton-nur-eur-149-2748251",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ebay-plus-1000w-balkonkraftwerk-komplettset-2x-500w-bifazial-glas-glas-800w-foxess-wlan-wechselrichter-b-ware-2748240",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/resident-evil-remake-trilogy-ps4ps5-playstation-usk-18-digital-incl-re-2-deluxe34-goldresistancedie-soldner-uvm-at-ps-store-2748165",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-19032026-crimson-desert-xbsxps5-physisch-day-one-ed-oder-deluxe-edition-6995eur-usk-18-at-netgames-2748191",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/payback-amazon-200-extra-punkte-auf-den-einsatz-der-payback-amex-karte-bei-amazon-ab-120eur-mbw-2748211",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-last-of-us-staffel-1-fur-999eur-staffel-2-fur-1499eur-hd-digital-boxset-fur-2299eur-via-itunes-amazon-video-itunes-2737363",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lyle-scott-herren-hemd-baumwolle-beige-fur-1689-eur-nur-noch-in-xl-2748362",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anmite-14-zoll-tragbarer-monitor-touch-wuxga-ips-400-nits-100-srgb-amd-freesync-pro-usb-c-2748320",
-      "ts": 1773876184147
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/perplexity-pro-1-year-trial-subscription-perplexity-key-global-neue-mailadresse-2748249",
-      "ts": 1773876184147
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
       "ts": 1773962467263
@@ -502,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/urlaubspiraten-winterberg-4-tage-hp-199-euro-pro-person-1000-qm-wellness-3-sterne-2751860",
       "ts": 1774394552076
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/10eur-gratis-mit-dem-code-gamer26-nur-ein-spiel-aussuchen-runterladen-und-mindestens-5-mintuen-spielen-2750991",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mattel-disney-peter-pan-und-wendy-figuren-puppen-prime-2751226",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-edge-540-gps-fahrradcomputer-mit-adaptiver-coaching-und-vollfarbkarten-2752097",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-fur-windows-pc-linux-chrome-mac-tastatur-sonstiges-kabe-2752073",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hoka-rincon-3-damen-laufschuhe-fur-5889-eur-37-39-2752244",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bench-herren-merrick-zehn-paar-socken-10er-packung-socken-schwarz-fur-1789-eur-39-49-2752250",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bnesim-travel-esim-billigster-datentarif-ohne-ablaufdatum-fur-die-usa-nur-eur1688-fur-20-gb-volle-33-rabatt-nur-kurze-zeit-2752236",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-marokko-fez-tanger-agadir-essaouira-ab-45eur-inkl-ruckflug-weeze-memmingen-hahnryanair-apr-2746155",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-cilitbang-wc-steine-3x2er-pack-2752034",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332",
+      "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374",
+      "ts": 1774481110205
     }
   ]
 }
