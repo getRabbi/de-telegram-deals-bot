@@ -2,7 +2,7 @@
   "date": "2026-03-25",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/mattel-disney-peter-pan-und-wendy-figuren-puppen-prime-2751226",
     "mydealz|https://www.mydealz.de/deals/garmin-edge-540-gps-fahrradcomputer-mit-adaptiver-coaching-und-vollfarbkarten-2752097",
     "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-fur-windows-pc-linux-chrome-mac-tastatur-sonstiges-kabe-2752073",
-    "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088"
+    "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088",
+    "mydealz|https://www.mydealz.de/deals/hoka-rincon-3-damen-laufschuhe-fur-5889-eur-37-39-2752244",
+    "mydealz|https://www.mydealz.de/deals/bench-herren-merrick-zehn-paar-socken-10er-packung-socken-schwarz-fur-1789-eur-39-49-2752250",
+    "mydealz|https://www.mydealz.de/deals/bnesim-travel-esim-billigster-datentarif-ohne-ablaufdatum-fur-die-usa-nur-eur1688-fur-20-gb-volle-33-rabatt-nur-kurze-zeit-2752236",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-marokko-fez-tanger-agadir-essaouira-ab-45eur-inkl-ruckflug-weeze-memmingen-hahnryanair-apr-2746155",
+    "mydealz|https://www.mydealz.de/deals/prime-cilitbang-wc-steine-3x2er-pack-2752034"
   ],
   "postedHistory": [
     {
