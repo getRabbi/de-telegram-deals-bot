@@ -1,11 +1,18 @@
 {
   "date": "2026-03-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
+    "mydealz|https://www.mydealz.de/deals/zendure-smart-meter-3ct-zum-bestpreis-inkl-10shoop-fur-6909eur-2752471",
+    "mydealz|https://www.mydealz.de/deals/pixi-buch-malheft-hase-hopper-traut-sich-was-mit-video-bastelbogen-gratis-fur-vereine-und-kindergarten-2752514",
+    "mydealz|https://www.mydealz.de/deals/amazon-4x-500g-spaghetti-fur-274eur-im-spar-abo-mit-coupon-rechnerisch-ab-256eur-2752373",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-male-chino-hose-slim-fit-98-baumwolle-w27-bis-w36-navy-1679eur-schwarz-1840eur-primeotto-flat-2752497",
+    "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
