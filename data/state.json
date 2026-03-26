@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/2x-puma-t-shirt-100-baumwolle-kinder-weiss-fur-1589-eur-116-176-2752683",
     "mydealz|https://www.mydealz.de/deals/enders-boston-pro-4-kr-turbo-ii-2752645",
     "mydealz|https://www.mydealz.de/deals/100-euro-cashback-fur-wechsel-wohngebaudeversicherung-bei-verivox-uber-shoop-app-2752640",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560"
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560",
+    "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-windbreaker-regenjacke-blau-fur-3489-eur-s-xxl-2752798",
+    "mydealz|https://www.mydealz.de/deals/6x-boss-socken-fusslinge-herren-made-in-italy-schwarz-fur-2389-eur-41-42-2752805",
+    "mydealz|https://www.mydealz.de/deals/adidas-squadra-21-trainingsjacke-gelb-herren-fur-1690-eur-s-xxl-2752797",
+    "mydealz|https://www.mydealz.de/deals/bruno-banani-sweatjacke-kapuzenjacke-fur-1590-eur-m-xl-und-xxl-2752799"
   ],
   "postedHistory": [
     {
