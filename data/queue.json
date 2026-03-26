@@ -2072,7 +2072,155 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
+      "store": "MyDealz",
+      "title": "183° - [Netto MD] Aral SuperCard über 5 EUR gratis ab 75 MEW",
+      "imageUrl": "https://static.mydealz.de/threads/raw/VCAFg/2754742_1/re/1200x1200/qt/80/2754742_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>183° - [Netto MD] Aral SuperCard über 5 EUR gratis ab 75 MEW</b>\n🏪 MyDealz\n💶 Was: 5 € → <b>Now: 5 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "183° - [Netto MD] Aral SuperCard über 5 EUR gratis ab 75 MEW",
+        "now": "5 €",
+        "was": "5 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
+        "imageUrl": "https://static.mydealz.de/threads/raw/VCAFg/2754742_1/re/1200x1200/qt/80/2754742_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
+      "store": "MyDealz",
+      "title": "115° - Target Darts Nathan Aspinall Gen 2 95% Tungsten",
+      "imageUrl": "https://static.mydealz.de/threads/raw/LHeVN/2754716_1/re/1200x1200/qt/80/2754716_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>115° - Target Darts Nathan Aspinall Gen 2 95% Tungsten</b>\n🏪 MyDealz\n💶 Was: 83.96 € → <b>Now: 83.96 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "115° - Target Darts Nathan Aspinall Gen 2 95% Tungsten",
+        "now": "83.96 €",
+        "was": "83.96 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
+        "imageUrl": "https://static.mydealz.de/threads/raw/LHeVN/2754716_1/re/1200x1200/qt/80/2754716_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
+      "store": "Rossmann",
+      "title": "142° - [Rossmann] 20% Rabatt auf ISANA mit Coupon (ohne App)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/wVR7O/2754779_1/re/1200x1200/qt/80/2754779_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>142° - [Rossmann] 20% Rabatt auf ISANA mit Coupon (ohne App)</b>\n🏪 Rossmann\n💶 Was: 5.09 € → <b>Now: 5.09 €</b>\n🔻 Save: 0%\n\n#TopDeals #Rossmann #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "Rossmann",
+        "storeTag": "ROSSMANN",
+        "title": "142° - [Rossmann] 20% Rabatt auf ISANA mit Coupon (ohne App)",
+        "now": "5.09 €",
+        "was": "5.09 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
+        "imageUrl": "https://static.mydealz.de/threads/raw/wVR7O/2754779_1/re/1200x1200/qt/80/2754779_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#Rossmann",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
+      "store": "MyDealz",
+      "title": "183° - Xbox Game Pass-Neuzugang (April) – Hades II",
+      "imageUrl": "https://static.mydealz.de/threads/raw/wdi63/2754786_1/re/1200x1200/qt/80/2754786_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>183° - Xbox Game Pass-Neuzugang (April) – Hades II</b>\n🏪 MyDealz\n💶 Was: 0 € → <b>Now: 0 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "183° - Xbox Game Pass-Neuzugang (April) – Hades II",
+        "now": "0 €",
+        "was": "0 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
+        "imageUrl": "https://static.mydealz.de/threads/raw/wdi63/2754786_1/re/1200x1200/qt/80/2754786_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-03-26T17:53:26.779Z"
+  "updatedAt": "2026-03-26T18:52:51.940Z"
 }
