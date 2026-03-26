@@ -2,7 +2,7 @@
   "date": "2026-03-26",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/pixi-buch-malheft-hase-hopper-traut-sich-was-mit-video-bastelbogen-gratis-fur-vereine-und-kindergarten-2752514",
     "mydealz|https://www.mydealz.de/deals/amazon-4x-500g-spaghetti-fur-274eur-im-spar-abo-mit-coupon-rechnerisch-ab-256eur-2752373",
     "mydealz|https://www.mydealz.de/deals/jack-jones-male-chino-hose-slim-fit-98-baumwolle-w27-bis-w36-navy-1679eur-schwarz-1840eur-primeotto-flat-2752497",
-    "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208"
+    "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208",
+    "mydealz|https://www.mydealz.de/deals/7x-bench-boxershorts-herren-95-baumwolle-fur-2489-eur-xs-4xl-2752677",
+    "mydealz|https://www.mydealz.de/deals/2x-puma-t-shirt-100-baumwolle-kinder-weiss-fur-1589-eur-116-176-2752683",
+    "mydealz|https://www.mydealz.de/deals/enders-boston-pro-4-kr-turbo-ii-2752645",
+    "mydealz|https://www.mydealz.de/deals/100-euro-cashback-fur-wechsel-wohngebaudeversicherung-bei-verivox-uber-shoop-app-2752640",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560"
   ],
   "postedHistory": [
     {
