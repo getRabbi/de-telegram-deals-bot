@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
-    "mydealz|https://www.mydealz.de/deals/zendure-smart-meter-3ct-zum-bestpreis-inkl-10shoop-fur-6909eur-2752471",
-    "mydealz|https://www.mydealz.de/deals/pixi-buch-malheft-hase-hopper-traut-sich-was-mit-video-bastelbogen-gratis-fur-vereine-und-kindergarten-2752514",
-    "mydealz|https://www.mydealz.de/deals/amazon-4x-500g-spaghetti-fur-274eur-im-spar-abo-mit-coupon-rechnerisch-ab-256eur-2752373",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-male-chino-hose-slim-fit-98-baumwolle-w27-bis-w36-navy-1679eur-schwarz-1840eur-primeotto-flat-2752497",
-    "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208",
-    "mydealz|https://www.mydealz.de/deals/7x-bench-boxershorts-herren-95-baumwolle-fur-2489-eur-xs-4xl-2752677",
-    "mydealz|https://www.mydealz.de/deals/2x-puma-t-shirt-100-baumwolle-kinder-weiss-fur-1589-eur-116-176-2752683",
-    "mydealz|https://www.mydealz.de/deals/enders-boston-pro-4-kr-turbo-ii-2752645",
-    "mydealz|https://www.mydealz.de/deals/100-euro-cashback-fur-wechsel-wohngebaudeversicherung-bei-verivox-uber-shoop-app-2752640",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560",
-    "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-windbreaker-regenjacke-blau-fur-3489-eur-s-xxl-2752798",
-    "mydealz|https://www.mydealz.de/deals/6x-boss-socken-fusslinge-herren-made-in-italy-schwarz-fur-2389-eur-41-42-2752805",
-    "mydealz|https://www.mydealz.de/deals/adidas-squadra-21-trainingsjacke-gelb-herren-fur-1690-eur-s-xxl-2752797",
-    "mydealz|https://www.mydealz.de/deals/bruno-banani-sweatjacke-kapuzenjacke-fur-1590-eur-m-xl-und-xxl-2752799"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ios-appstore-unit-converter-pro-hd-700-einheiten-in-30-kategorien-schnell-leicht-bedienbar-dark-mode-urlscheme-fur-automationen-2732399",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-basics-druckerpapier-din-a4-80-gm2-2500-stuck-5-packungen-mit-500-weiss-amazon-prime-spar-abo-2748360",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/calvin-klein-rollkragen-pullover-schwarz-fur-3089-eur-m-l-2748532",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/champion-stranger-things-netflix-herren-hoodie-fur-2089-eur-m-xl-2748530",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bench-herren-herren-eddie-22-slim-fit-jeans-mittelblaue-waschung-fur-2089-eur-w30-w38-2748521",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/karcher-cb-karcher-oc-6-18-premium-mitteldruckreiniger-2748421",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-worx-landroid-vision-cloud-wr303e-inkl-garage-fur-52713-eur-tpg-2748501",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mattel-mega-hry20-hot-wheels-audi-90-quattro-imsa-gto-mit-973-teilen-klemmbausteine-2748682",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-holz-kleiderbugel-20er-set-prime-2739069",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/franzis-bauen-heimwerken-im-garten-ebook-gratis-statt-10eur-direktlink-im-text-2748702",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sony-alpha-6400-aps-c-spiegellose-kamera-mit-16-50mm-objektiv-2748706",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/usenet-sammeldeal-marz-2026-2748700",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/giro-aries-spherical-mips-schwarzpink-2748597",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lyle-scott-herren-boxershorts-slips-3er-packung-fur-1289-eur-s-l-2748866",
-      "ts": 1773962467263
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vans-herren-t-shirt-baumwolle-fur-1189-eur-xs-s-2748867",
-      "ts": 1773962467263
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
       "ts": 1774048791625
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374",
       "ts": 1774481110205
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zendure-smart-meter-3ct-zum-bestpreis-inkl-10shoop-fur-6909eur-2752471",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pixi-buch-malheft-hase-hopper-traut-sich-was-mit-video-bastelbogen-gratis-fur-vereine-und-kindergarten-2752514",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-4x-500g-spaghetti-fur-274eur-im-spar-abo-mit-coupon-rechnerisch-ab-256eur-2752373",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-male-chino-hose-slim-fit-98-baumwolle-w27-bis-w36-navy-1679eur-schwarz-1840eur-primeotto-flat-2752497",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/7x-bench-boxershorts-herren-95-baumwolle-fur-2489-eur-xs-4xl-2752677",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2x-puma-t-shirt-100-baumwolle-kinder-weiss-fur-1589-eur-116-176-2752683",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/enders-boston-pro-4-kr-turbo-ii-2752645",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/100-euro-cashback-fur-wechsel-wohngebaudeversicherung-bei-verivox-uber-shoop-app-2752640",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-windbreaker-regenjacke-blau-fur-3489-eur-s-xxl-2752798",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/6x-boss-socken-fusslinge-herren-made-in-italy-schwarz-fur-2389-eur-41-42-2752805",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-squadra-21-trainingsjacke-gelb-herren-fur-1690-eur-s-xxl-2752797",
+      "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bruno-banani-sweatjacke-kapuzenjacke-fur-1590-eur-m-xl-und-xxl-2752799",
+      "ts": 1774567323397
     }
   ]
 }
