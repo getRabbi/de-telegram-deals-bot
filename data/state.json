@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/wmf-janosch-kinderbesteck-set-4-teilig-kinderbesteck-edelstahl-cromargan-poliert-prime-2753097",
     "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-speicherkarte-schwarz-2753087",
     "mydealz|https://www.mydealz.de/deals/lokal-berlin-yunus-emre-steak-doner-fur-1ct-2753099",
-    "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112"
+    "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-glenn-chino-business-hose-98-baumwolle-blau-fur-1889-eur-w31-w36-2753306",
+    "mydealz|https://www.mydealz.de/deals/clementoni-galileo-lab-sternen-projektor-2753221",
+    "mydealz|https://www.mydealz.de/deals/bosch-spotless-max-bcrdw3b-fur-49520eur-2753057",
+    "mydealz|https://www.mydealz.de/deals/italia-in-tour-bahnpass-3-tage-zugfahren-durch-italien-fur-35eur-5-tage-fur-59eur-trenitalia-2753307"
   ],
   "postedHistory": [
     {
