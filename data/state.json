@@ -1,11 +1,18 @@
 {
   "date": "2026-03-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
+    "mydealz|https://www.mydealz.de/deals/garmin-epix-pro-gen-2-51mm-gps-multisport-smartwatch-mit-14-amoled-display-und-touch-tastenbedienung-2752954",
+    "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-spaten-fiskars-xact-spitz-hornbach-tiefpreisgarantie-offline-im-laden-2752538",
+    "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-fur-6852-eur-2752678",
+    "mydealz|https://www.mydealz.de/deals/osprey-farpoint-trek-70-liter-reise-rucksack-inkl-aircover-auch-als-damenversion-2752985",
+    "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
