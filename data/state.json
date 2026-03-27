@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
-    "mydealz|https://www.mydealz.de/deals/garmin-epix-pro-gen-2-51mm-gps-multisport-smartwatch-mit-14-amoled-display-und-touch-tastenbedienung-2752954",
-    "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-spaten-fiskars-xact-spitz-hornbach-tiefpreisgarantie-offline-im-laden-2752538",
-    "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-fur-6852-eur-2752678",
-    "mydealz|https://www.mydealz.de/deals/osprey-farpoint-trek-70-liter-reise-rucksack-inkl-aircover-auch-als-damenversion-2752985",
-    "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978",
-    "mydealz|https://www.mydealz.de/deals/muller-pokemon-pokopia-switch-2-fur-6400eur-mit-app-coupon-2753131",
-    "mydealz|https://www.mydealz.de/deals/wmf-janosch-kinderbesteck-set-4-teilig-kinderbesteck-edelstahl-cromargan-poliert-prime-2753097",
-    "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-speicherkarte-schwarz-2753087",
-    "mydealz|https://www.mydealz.de/deals/lokal-berlin-yunus-emre-steak-doner-fur-1ct-2753099",
-    "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-glenn-chino-business-hose-98-baumwolle-blau-fur-1889-eur-w31-w36-2753306",
-    "mydealz|https://www.mydealz.de/deals/clementoni-galileo-lab-sternen-projektor-2753221",
-    "mydealz|https://www.mydealz.de/deals/bosch-spotless-max-bcrdw3b-fur-49520eur-2753057",
-    "mydealz|https://www.mydealz.de/deals/italia-in-tour-bahnpass-3-tage-zugfahren-durch-italien-fur-35eur-5-tage-fur-59eur-trenitalia-2753307"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kilkerran-8-jahre-556-cask-strength-release-2025-100-bourbon-casks-single-malt-scotch-whisky-whiskybase-8783-2748463",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hisense-65u7q-fernseher-65-zoll-4k-mini-led-uled-144hz-dolby-vision-iq-atmos-smart-tv-2748739",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-bomber-jacke-herren-relaxed-fit-schwarz-fur-5589-eur-l-xl-2749020",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/scotch-soda-mott-herren-chino-business-slim-fit-fur-2089-eur-w31-w36-2749011",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-family-hub-rs97f-side-by-side-mit-view-inside-und-wassertank-eek-e-614l-2748992",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-zuruck-in-die-vergangenheit-1989-93-komplette-serie-blu-ray-imdb-82-scott-bakula-neuer-bestpreis-2748493",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/toom-wissen-abverkauf-leuchten-tischleuchte-liam-led-deckenfluter-abverkauf-sale-2749379",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cherry-um-90-pro-usb-mikrofon-mit-rgb-gamingstreaming-microphone-schwarz-2749235",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sony-wf-1000xm6-silber-2742983",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-mind-kooperatives-kartenspiel-2749445",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/johansson-fiete-vario-box-cargo-e-bike-lastenrad-dreirad-mit-brose-drive-c-motor-504-wh-akku-9-gang-schaltung-2749264",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-intel-i5-12400f-rtx-5060-ti-16gb-32gb-ddr4-3200-1tb-ssd-h610-550w-bronze-2749733",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-vg27aqml1a-27-qhd-gaming-monitor-25601440-260-hz-1-ms-fast-ips-hdr10-freesync-premium-g-sync-kompatibel-2749523",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3-in-1-ritterburg-im-mittelalter-31168-7116-euro-durch-topcashback-moglich-thalia-2749699",
-      "ts": 1774048791625
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/borderlands-4-shift-code-fur-luck-of-the-kairish-vault-hunter-skin-2749700",
-      "ts": 1774048791625
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
       "ts": 1774134956510
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/bruno-banani-sweatjacke-kapuzenjacke-fur-1590-eur-m-xl-und-xxl-2752799",
       "ts": 1774567323397
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-epix-pro-gen-2-51mm-gps-multisport-smartwatch-mit-14-amoled-display-und-touch-tastenbedienung-2752954",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-spaten-fiskars-xact-spitz-hornbach-tiefpreisgarantie-offline-im-laden-2752538",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-fur-6852-eur-2752678",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/osprey-farpoint-trek-70-liter-reise-rucksack-inkl-aircover-auch-als-damenversion-2752985",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-pokemon-pokopia-switch-2-fur-6400eur-mit-app-coupon-2753131",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wmf-janosch-kinderbesteck-set-4-teilig-kinderbesteck-edelstahl-cromargan-poliert-prime-2753097",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-speicherkarte-schwarz-2753087",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-berlin-yunus-emre-steak-doner-fur-1ct-2753099",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-glenn-chino-business-hose-98-baumwolle-blau-fur-1889-eur-w31-w36-2753306",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/clementoni-galileo-lab-sternen-projektor-2753221",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-spotless-max-bcrdw3b-fur-49520eur-2753057",
+      "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/italia-in-tour-bahnpass-3-tage-zugfahren-durch-italien-fur-35eur-5-tage-fur-59eur-trenitalia-2753307",
+      "ts": 1774653793847
     }
   ]
 }
