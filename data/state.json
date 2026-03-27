@@ -2,7 +2,7 @@
   "date": "2026-03-27",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-spaten-fiskars-xact-spitz-hornbach-tiefpreisgarantie-offline-im-laden-2752538",
     "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-fur-6852-eur-2752678",
     "mydealz|https://www.mydealz.de/deals/osprey-farpoint-trek-70-liter-reise-rucksack-inkl-aircover-auch-als-damenversion-2752985",
-    "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978"
+    "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978",
+    "mydealz|https://www.mydealz.de/deals/muller-pokemon-pokopia-switch-2-fur-6400eur-mit-app-coupon-2753131",
+    "mydealz|https://www.mydealz.de/deals/wmf-janosch-kinderbesteck-set-4-teilig-kinderbesteck-edelstahl-cromargan-poliert-prime-2753097",
+    "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-speicherkarte-schwarz-2753087",
+    "mydealz|https://www.mydealz.de/deals/lokal-berlin-yunus-emre-steak-doner-fur-1ct-2753099",
+    "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112"
   ],
   "postedHistory": [
     {
