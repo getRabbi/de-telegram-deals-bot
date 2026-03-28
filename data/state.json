@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-ugreen-usb-c-ladegerat-30w-mit-3-ports-gan-ii-fur-898eur-statt-1599eur-2753468",
-    "mydealz|https://www.mydealz.de/deals/tvv-workout-8-watch-face-wearos-watchfacegoogle-play-store-2753484",
-    "mydealz|https://www.mydealz.de/deals/gogplaystation-minit-psn-digital-2733344",
-    "mydealz|https://www.mydealz.de/deals/anker-usb-c-kabel-3m-100w-schnellladekabel-usb-c-auf-usb-c-kabel-pd-30-ladekabel-usb-c-2753428",
-    "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-kaufland-mobil-starterpaket-fur-499-halbjahrestarif-mit-10-gb-zusatzlich-2752044",
-    "mydealz|https://www.mydealz.de/deals/koln-pommes-bratwurst-und-currywurst-fur-2eur-preise-wie-vor-20-jahren-2753632",
-    "mydealz|https://www.mydealz.de/deals/oceans-trilogie-4k-blu-ray-blu-ray-fur-2655eur-inkl-versand-amazonit-2753652",
-    "mydealz|https://www.mydealz.de/deals/50eur-extra-provision-telekom-empfehlen-telekom-profisde-2751053",
-    "mydealz|https://www.mydealz.de/deals/cudy-gs105u-5-port-gigabit-ethernet-switch-mit-usb-c-fur-760eur-amazon-prime-2753588",
-    "mydealz|https://www.mydealz.de/deals/revolutionrace-herren-nordwand-pants-verschiedene-farben-4450eur-nordwand-pro-pants-5950eur-outdoor-trekkingwandern-ama-mp-revolutionrace-2737472",
-    "mydealz|https://www.mydealz.de/deals/hummel-sneaker-socken-12er-packung-weiss-oder-schwarz-fur-1589-eur-41-48-2753809",
-    "mydealz|https://www.mydealz.de/deals/5-stuck-jack-jones-male-t-shirt-mit-amazonprime-versandkostenfrei-2753737",
-    "mydealz|https://www.mydealz.de/deals/hisense-65-zoll-qled-tv-144hz-vrr-65e77q-pro-4k-uhd-164cm-65-fernseher-dolby-vision-atmos-amd-freesync-premium-4xhdmi21-allm-earc-paypal-2753746"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mips-radhelm-schutzhelm-smith-convoy-mips-system-otto-und-amazon-mehrere-farben-2749940",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/remington-barttrimmer-mb320c-selbstscharf-keramik-klingen04-18mm-9-langeneinst-netz-akkubetrieb-led-ladeanzeige-prime-2749879",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/benriach-malting-season-third-edition-single-malt-scotch-whisky-07l-487-prime-2748271",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/juskys-mulltonnenbox-namur-2-m2-aufbewahrungsbox-in-grau-fur-3-tonnen-zwei-grossen-turen-2749807",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-house-of-da-vinci-3-3d-puzzle-adventure-389eur-anstatt-699eur-im-google-play-store-mit-46-sterne-bei-100k-downloads-2749815",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/black-forest-brettspiel-deutsche-ausgabe-14-jahre-1-4-spieler-spielzeit-60-120-min-76-bgg-at-prime-2750037",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lassig-5tlg-schulranzen-set-adventure-bus-in-grau-limango-2749959",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tooltop-t7-thermal-kamera-warmebildkamera-fur-android-256-192-25-hz-ip54-12499eur-mit-macro-linse-2750075",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mcdonalds-app-am-0703-1503-28032026-gibt-es-ab-3-eur-500-extra-punkte-zur-osteraktion-kombination-mit-paypal-cashback-aktion-2738947",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steiner-warmebildgerat-nighthunter-h35-gen-2-2750036",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bybit-eu-25-eur-fur-den-werber-25-eur-fur-den-geworbenen-in-btc-2750288",
-      "ts": 1774134956510
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/gutscheine/payback-15fach-punkte-auf-everywish-gutscheine-bspw-ikea-otto-rossmann-muller-gultig-bis-293226-personalisiert-2748699",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-room-stalker-horror-loop-walking-simulator-kostenlos-im-google-play-store-2750227",
-      "ts": 1774134956510
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/elotrans-reload-isotonische-elektrolyt-glucose-mischung-mit-magnesium-kaliumchlorid-cholin-und-b-vitaminen-1-x-15-beutel-spar-abo-p-2726830",
-      "ts": 1774134956510
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
       "ts": 1774221503446
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/italia-in-tour-bahnpass-3-tage-zugfahren-durch-italien-fur-35eur-5-tage-fur-59eur-trenitalia-2753307",
       "ts": 1774653793847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-ugreen-usb-c-ladegerat-30w-mit-3-ports-gan-ii-fur-898eur-statt-1599eur-2753468",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tvv-workout-8-watch-face-wearos-watchfacegoogle-play-store-2753484",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gogplaystation-minit-psn-digital-2733344",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anker-usb-c-kabel-3m-100w-schnellladekabel-usb-c-auf-usb-c-kabel-pd-30-ladekabel-usb-c-2753428",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-kaufland-mobil-starterpaket-fur-499-halbjahrestarif-mit-10-gb-zusatzlich-2752044",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/koln-pommes-bratwurst-und-currywurst-fur-2eur-preise-wie-vor-20-jahren-2753632",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oceans-trilogie-4k-blu-ray-blu-ray-fur-2655eur-inkl-versand-amazonit-2753652",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/50eur-extra-provision-telekom-empfehlen-telekom-profisde-2751053",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cudy-gs105u-5-port-gigabit-ethernet-switch-mit-usb-c-fur-760eur-amazon-prime-2753588",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/revolutionrace-herren-nordwand-pants-verschiedene-farben-4450eur-nordwand-pro-pants-5950eur-outdoor-trekkingwandern-ama-mp-revolutionrace-2737472",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hummel-sneaker-socken-12er-packung-weiss-oder-schwarz-fur-1589-eur-41-48-2753809",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/5-stuck-jack-jones-male-t-shirt-mit-amazonprime-versandkostenfrei-2753737",
+      "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hisense-65-zoll-qled-tv-144hz-vrr-65e77q-pro-4k-uhd-164cm-65-fernseher-dolby-vision-atmos-amd-freesync-premium-4xhdmi21-allm-earc-paypal-2753746",
+      "ts": 1774740102472
     }
   ]
 }
