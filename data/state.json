@@ -1,11 +1,18 @@
 {
   "date": "2026-03-28",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-ugreen-usb-c-ladegerat-30w-mit-3-ports-gan-ii-fur-898eur-statt-1599eur-2753468",
+    "mydealz|https://www.mydealz.de/deals/tvv-workout-8-watch-face-wearos-watchfacegoogle-play-store-2753484",
+    "mydealz|https://www.mydealz.de/deals/gogplaystation-minit-psn-digital-2733344",
+    "mydealz|https://www.mydealz.de/deals/anker-usb-c-kabel-3m-100w-schnellladekabel-usb-c-auf-usb-c-kabel-pd-30-ladekabel-usb-c-2753428",
+    "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ellesse-damen-puffer-jacke-steppjacke-fur-2889-eur-nur-noch-in-36-2749765",
