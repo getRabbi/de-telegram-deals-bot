@@ -2,7 +2,7 @@
   "date": "2026-03-28",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/tvv-workout-8-watch-face-wearos-watchfacegoogle-play-store-2753484",
     "mydealz|https://www.mydealz.de/deals/gogplaystation-minit-psn-digital-2733344",
     "mydealz|https://www.mydealz.de/deals/anker-usb-c-kabel-3m-100w-schnellladekabel-usb-c-auf-usb-c-kabel-pd-30-ladekabel-usb-c-2753428",
-    "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420"
+    "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-kaufland-mobil-starterpaket-fur-499-halbjahrestarif-mit-10-gb-zusatzlich-2752044",
+    "mydealz|https://www.mydealz.de/deals/koln-pommes-bratwurst-und-currywurst-fur-2eur-preise-wie-vor-20-jahren-2753632",
+    "mydealz|https://www.mydealz.de/deals/oceans-trilogie-4k-blu-ray-blu-ray-fur-2655eur-inkl-versand-amazonit-2753652",
+    "mydealz|https://www.mydealz.de/deals/50eur-extra-provision-telekom-empfehlen-telekom-profisde-2751053",
+    "mydealz|https://www.mydealz.de/deals/cudy-gs105u-5-port-gigabit-ethernet-switch-mit-usb-c-fur-760eur-amazon-prime-2753588"
   ],
   "postedHistory": [
     {
