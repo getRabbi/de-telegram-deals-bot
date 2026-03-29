@@ -1,27 +1,11 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
-    "mydealz|https://www.mydealz.de/deals/renovo-dauerschutz-lasur-plus-abverkaufhagebau-betzdorf-2753814",
-    "mydealz|https://www.mydealz.de/deals/giant-propel-advanced-2-aero-carbon-rennrad-2026-shimano-105-2753945",
-    "mydealz|https://www.mydealz.de/deals/voggenreiter-blockflote-aus-kunststoff-deutsche-griffweise-mit-flute-master-app-2753889",
-    "mydealz|https://www.mydealz.de/deals/telekom-magenta-moments-5eur-rabatt-auf-zubehor-im-telekom-shop-2754016",
-    "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920",
-    "mydealz|https://www.mydealz.de/deals/kfc-app-deals-10-crispys-10eur-zinger-original-veggie-299eur-2754091",
-    "mydealz|https://www.mydealz.de/deals/apple-leder-case-magsafe-iphone-14-plus-umbra-braun-2754044",
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-motorola-signature-512gb-im-allnetsms-flat-55gb-5g-fur-2999eurmonat-59eur-75eur-cash-charger-120eur-ohne-gk-2754094",
-    "mydealz|https://www.mydealz.de/deals/gourmetmaxx-wasserkocher-edlstahl-1800w-fur-799-euro-globus-mit-globus-karte-2754114",
-    "mydealz|https://www.mydealz.de/deals/hp-probook-440-g6-14-laptop-intel-i5-8265u-16gb-ram-aufrustbar-m2-nvme-ssd-usb-c-hdmi-lan-refurbished-notebook-2723522",
-    "mydealz|https://www.mydealz.de/deals/endet-heute-kaminofen-rika-cool-6kw-dekor-rosteffekt-mit-kochplatte-und-bimschv-2-158692-eur-bei-vorkasse-3-skonto-2754299",
-    "mydealz|https://www.mydealz.de/deals/gravel-bike-pinarello-grevil-f9-shimano-grx-di2-princeton-lrs-855kg-2754290",
-    "mydealz|https://www.mydealz.de/deals/new-york-ab-658eur-in-der-level-premium-economy-von-d-a-ch-zzgl-gepack-chance-auf-lie-flat-sitze-2754293",
-    "mydealz|https://www.mydealz.de/deals/100eur-bonus-fur-naga-depot-uber-spartanien-250eur-einzahlung-und-mehrere-trades-notig-2754291"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
@@ -442,6 +426,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/hisense-65-zoll-qled-tv-144hz-vrr-65e77q-pro-4k-uhd-164cm-65-fernseher-dolby-vision-atmos-amd-freesync-premium-4xhdmi21-allm-earc-paypal-2753746",
       "ts": 1774740102472
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/renovo-dauerschutz-lasur-plus-abverkaufhagebau-betzdorf-2753814",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/giant-propel-advanced-2-aero-carbon-rennrad-2026-shimano-105-2753945",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/voggenreiter-blockflote-aus-kunststoff-deutsche-griffweise-mit-flute-master-app-2753889",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-magenta-moments-5eur-rabatt-auf-zubehor-im-telekom-shop-2754016",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kfc-app-deals-10-crispys-10eur-zinger-original-veggie-299eur-2754091",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-leder-case-magsafe-iphone-14-plus-umbra-braun-2754044",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-motorola-signature-512gb-im-allnetsms-flat-55gb-5g-fur-2999eurmonat-59eur-75eur-cash-charger-120eur-ohne-gk-2754094",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gourmetmaxx-wasserkocher-edlstahl-1800w-fur-799-euro-globus-mit-globus-karte-2754114",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hp-probook-440-g6-14-laptop-intel-i5-8265u-16gb-ram-aufrustbar-m2-nvme-ssd-usb-c-hdmi-lan-refurbished-notebook-2723522",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/endet-heute-kaminofen-rika-cool-6kw-dekor-rosteffekt-mit-kochplatte-und-bimschv-2-158692-eur-bei-vorkasse-3-skonto-2754299",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gravel-bike-pinarello-grevil-f9-shimano-grx-di2-princeton-lrs-855kg-2754290",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/new-york-ab-658eur-in-der-level-premium-economy-von-d-a-ch-zzgl-gepack-chance-auf-lie-flat-sitze-2754293",
+      "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/100eur-bonus-fur-naga-depot-uber-spartanien-250eur-einzahlung-und-mehrere-trades-notig-2754291",
+      "ts": 1774822836071
     }
   ]
 }
