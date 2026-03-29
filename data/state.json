@@ -2,7 +2,7 @@
   "date": "2026-03-29",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/giant-propel-advanced-2-aero-carbon-rennrad-2026-shimano-105-2753945",
     "mydealz|https://www.mydealz.de/deals/voggenreiter-blockflote-aus-kunststoff-deutsche-griffweise-mit-flute-master-app-2753889",
     "mydealz|https://www.mydealz.de/deals/telekom-magenta-moments-5eur-rabatt-auf-zubehor-im-telekom-shop-2754016",
-    "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920"
+    "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920",
+    "mydealz|https://www.mydealz.de/deals/kfc-app-deals-10-crispys-10eur-zinger-original-veggie-299eur-2754091",
+    "mydealz|https://www.mydealz.de/deals/apple-leder-case-magsafe-iphone-14-plus-umbra-braun-2754044",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-motorola-signature-512gb-im-allnetsms-flat-55gb-5g-fur-2999eurmonat-59eur-75eur-cash-charger-120eur-ohne-gk-2754094",
+    "mydealz|https://www.mydealz.de/deals/gourmetmaxx-wasserkocher-edlstahl-1800w-fur-799-euro-globus-mit-globus-karte-2754114",
+    "mydealz|https://www.mydealz.de/deals/hp-probook-440-g6-14-laptop-intel-i5-8265u-16gb-ram-aufrustbar-m2-nvme-ssd-usb-c-hdmi-lan-refurbished-notebook-2723522"
   ],
   "postedHistory": [
     {
