@@ -1,11 +1,18 @@
 {
   "date": "2026-03-29",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
+    "mydealz|https://www.mydealz.de/deals/renovo-dauerschutz-lasur-plus-abverkaufhagebau-betzdorf-2753814",
+    "mydealz|https://www.mydealz.de/deals/giant-propel-advanced-2-aero-carbon-rennrad-2026-shimano-105-2753945",
+    "mydealz|https://www.mydealz.de/deals/voggenreiter-blockflote-aus-kunststoff-deutsche-griffweise-mit-flute-master-app-2753889",
+    "mydealz|https://www.mydealz.de/deals/telekom-magenta-moments-5eur-rabatt-auf-zubehor-im-telekom-shop-2754016",
+    "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
