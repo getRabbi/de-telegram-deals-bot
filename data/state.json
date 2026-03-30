@@ -2,7 +2,7 @@
   "date": "2026-03-30",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/gutscheine/mammutmarsch-10-rabatt-eure-nachte-wanderung-2750773",
     "mydealz|https://www.mydealz.de/deals/edeka-haribo-fruchtgummi-verschiedene-sorten-150-175gr-beutel-2754277",
     "mydealz|https://www.mydealz.de/deals/27-auf-fast-alles-zb-nike-air-force-1-low-retro-premium-triple-white-bomber-grey-farben-siehe-dealtext-2754455",
-    "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509"
+    "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509",
+    "mydealz|https://www.mydealz.de/deals/samsung-the-frame-55-zoll-2025-zum-fast-bestpreis-bei-otto-fur-65999-eur-2754609",
+    "mydealz|https://www.mydealz.de/deals/kostenlose-tube-dichtmittel-nach-hause-quilosa-ms-35-total-2754645",
+    "mydealz|https://www.mydealz.de/gutscheine/5-euro-gutschein-fur-eezynrw-opnv-2754600",
+    "mydealz|https://www.mydealz.de/deals/a-way-out-539eur-ps4-co-op-spiel-playstation-psn-store-2754619",
+    "mydealz|https://www.mydealz.de/deals/bplatzdeloox-french-avenue-amber-empire-extrait-de-parfum-100ml-ahnlich-clive-christian-blonde-amber-o-deloox-3089eur-2754625"
   ],
   "postedHistory": [
     {
