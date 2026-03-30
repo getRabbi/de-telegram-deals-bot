@@ -1,11 +1,18 @@
 {
   "date": "2026-03-30",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/liqui-moly-diesel-additiv-und-benzin-injektionen-reiniger-2752125",
+    "mydealz|https://www.mydealz.de/deals/nische-kronenberg-sensorische-kinder-hangeschaukel-weich-atmungsaktiv-bis-90-kg-bei-adhs-autismus-sensorischen-problemen-2754311",
+    "mydealz|https://www.mydealz.de/gutscheine/mammutmarsch-10-rabatt-eure-nachte-wanderung-2750773",
+    "mydealz|https://www.mydealz.de/deals/edeka-haribo-fruchtgummi-verschiedene-sorten-150-175gr-beutel-2754277",
+    "mydealz|https://www.mydealz.de/deals/27-auf-fast-alles-zb-nike-air-force-1-low-retro-premium-triple-white-bomber-grey-farben-siehe-dealtext-2754455",
+    "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
