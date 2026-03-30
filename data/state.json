@@ -1,84 +1,12 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "slots": {
-    "morning": true,
-    "noon": true,
+    "morning": false,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/liqui-moly-diesel-additiv-und-benzin-injektionen-reiniger-2752125",
-    "mydealz|https://www.mydealz.de/deals/nische-kronenberg-sensorische-kinder-hangeschaukel-weich-atmungsaktiv-bis-90-kg-bei-adhs-autismus-sensorischen-problemen-2754311",
-    "mydealz|https://www.mydealz.de/gutscheine/mammutmarsch-10-rabatt-eure-nachte-wanderung-2750773",
-    "mydealz|https://www.mydealz.de/deals/edeka-haribo-fruchtgummi-verschiedene-sorten-150-175gr-beutel-2754277",
-    "mydealz|https://www.mydealz.de/deals/27-auf-fast-alles-zb-nike-air-force-1-low-retro-premium-triple-white-bomber-grey-farben-siehe-dealtext-2754455",
-    "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509",
-    "mydealz|https://www.mydealz.de/deals/samsung-the-frame-55-zoll-2025-zum-fast-bestpreis-bei-otto-fur-65999-eur-2754609",
-    "mydealz|https://www.mydealz.de/deals/kostenlose-tube-dichtmittel-nach-hause-quilosa-ms-35-total-2754645",
-    "mydealz|https://www.mydealz.de/gutscheine/5-euro-gutschein-fur-eezynrw-opnv-2754600",
-    "mydealz|https://www.mydealz.de/deals/a-way-out-539eur-ps4-co-op-spiel-playstation-psn-store-2754619",
-    "mydealz|https://www.mydealz.de/deals/bplatzdeloox-french-avenue-amber-empire-extrait-de-parfum-100ml-ahnlich-clive-christian-blonde-amber-o-deloox-3089eur-2754625"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/verbex-k08-ohrhorer-knochenleitungs-ohrhorer-bluetooth-offener-leichter-komfortabler-gehorschutz-fur-radfahren-laufen-joybuy-app-2750536",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dreierpack-x-sense-smart-rauchmelder-xs01-m-mit-sbs50-basisstation-zertifiziert-nach-en-14604-wlan-x-sense-home-security-app-kompatibel-2741843",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-naturehike-cloud-up-2-personen-trekking-zelt-fur-6269-1-personen-fur-5839-lieferung-aus-spanien-2750494",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-cuttermesser-18-mm-mit-aluminiumgriff-prime-2750485",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/creality-175mm-3d-filament-ender-pla-3-kaufen-2-umsonst-5kg-2750492",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/notino-app-rasasi-hawas-atlantis-eau-de-parfum-100ml-o-hawas-kobra-3747eur-hawas-viper-3085eur-2750509",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/koln-4-mauritius-hotel-und-therme-inkl-fruhstuck-taglicher-eintritt-in-die-mauritius-therme-ab-13545-eur-1-un-fur-2-personen-2750575",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-aeg-waschmaschine-lr7amz491fl-dampf-nachlegefunktion-1400-umin-eek-a-bestpreis-2750617",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reisenthel-korb-fur-25-eur-versand-bei-limango-family-2750535",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/50-auf-alle-abos-bei-neotaste-zum-fruhling-2750542",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gillette-intimate-elektrischer-korperrasierer-herren-i3-fur-den-intimbereich-wasserdicht-kabellos-fur-nass-und-trockenanwendung-prime-2750560",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/burgerking-app-gratis-kronen-durch-ein-app-spiel-baby-burger-fang-die-baby-burger-2750809",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/personalisiert-upgrade-auf-gen3-gerate-mit-50-rabatt-zb-shelly-2pm-gen3-2750756",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/solar-guitars-ab27red-burst-thomann-ltd-2750803",
-      "ts": 1774221503446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lexin-b4fm-motorrad-intercom-helm-headset-fur-bis-zu-10-motorrader-mit-2000m-reichweite-dsp-und-cvc-gerauschunterdruckung-2750711",
-      "ts": 1774221503446
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/gore-wear-shield-armlinge-armwarmer-gore-tex-infinium-xs-bis-2xl-2751013",
       "ts": 1774308174131
@@ -498,6 +426,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/100eur-bonus-fur-naga-depot-uber-spartanien-250eur-einzahlung-und-mehrere-trades-notig-2754291",
       "ts": 1774822836071
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/liqui-moly-diesel-additiv-und-benzin-injektionen-reiniger-2752125",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nische-kronenberg-sensorische-kinder-hangeschaukel-weich-atmungsaktiv-bis-90-kg-bei-adhs-autismus-sensorischen-problemen-2754311",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/mammutmarsch-10-rabatt-eure-nachte-wanderung-2750773",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-haribo-fruchtgummi-verschiedene-sorten-150-175gr-beutel-2754277",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/27-auf-fast-alles-zb-nike-air-force-1-low-retro-premium-triple-white-bomber-grey-farben-siehe-dealtext-2754455",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-the-frame-55-zoll-2025-zum-fast-bestpreis-bei-otto-fur-65999-eur-2754609",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenlose-tube-dichtmittel-nach-hause-quilosa-ms-35-total-2754645",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/5-euro-gutschein-fur-eezynrw-opnv-2754600",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/a-way-out-539eur-ps4-co-op-spiel-playstation-psn-store-2754619",
+      "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bplatzdeloox-french-avenue-amber-empire-extrait-de-parfum-100ml-ahnlich-clive-christian-blonde-amber-o-deloox-3089eur-2754625",
+      "ts": 1774909521728
     }
   ]
 }
