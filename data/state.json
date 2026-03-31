@@ -1,11 +1,18 @@
 {
   "date": "2026-03-31",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
+    "mydealz|https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
+    "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
+    "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
+    "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-neupreis-539eur-2755024",
+    "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/gore-wear-shield-armlinge-armwarmer-gore-tex-infinium-xs-bis-2xl-2751013",
