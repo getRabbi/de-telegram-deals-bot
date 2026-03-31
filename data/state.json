@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/segway-navimow-i208-lidar-inklusive-garage-2754950",
     "mydealz|https://www.mydealz.de/deals/lg-48-c5-oled-tv-50eur-lg-cashback-10-fach-payback-s60tr-sb-verkauf-66845eur-effektiv-2754978",
     "mydealz|https://www.mydealz.de/deals/bavaria-weiss-blau-kasten-bei-netto-statt-1349-eur-nur-849-eur-mit-barcode-2754873",
-    "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711"
+    "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711",
+    "mydealz|https://www.mydealz.de/deals/aktive-auszeit-in-osterreich-ab-1-un-4-sporthotel-radstadt-inkl-fruhstuck-zugang-zum-erlebnis-freibad-ab-102eur-fur-2-personen-2755112",
+    "mydealz|https://www.mydealz.de/gutscheine/gratis-versand-bei-atu-2755154",
+    "mydealz|https://www.mydealz.de/deals/bmc-twostroke-al-20-grun-zum-knallerpreis-2755160",
+    "mydealz|https://www.mydealz.de/deals/the-black-keys-no-rain-no-flowers-green-vinyl-lp-edition-2755164"
   ],
   "postedHistory": [
     {
