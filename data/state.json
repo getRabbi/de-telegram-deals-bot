@@ -1,88 +1,12 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
-    "mydealz|https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
-    "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
-    "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
-    "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-neupreis-539eur-2755024",
-    "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680",
-    "mydealz|https://www.mydealz.de/deals/thalia-3-fur-2-auf-ausgewahlte-lego-sets-2754997",
-    "mydealz|https://www.mydealz.de/deals/segway-navimow-i208-lidar-inklusive-garage-2754950",
-    "mydealz|https://www.mydealz.de/deals/lg-48-c5-oled-tv-50eur-lg-cashback-10-fach-payback-s60tr-sb-verkauf-66845eur-effektiv-2754978",
-    "mydealz|https://www.mydealz.de/deals/bavaria-weiss-blau-kasten-bei-netto-statt-1349-eur-nur-849-eur-mit-barcode-2754873",
-    "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711",
-    "mydealz|https://www.mydealz.de/deals/aktive-auszeit-in-osterreich-ab-1-un-4-sporthotel-radstadt-inkl-fruhstuck-zugang-zum-erlebnis-freibad-ab-102eur-fur-2-personen-2755112",
-    "mydealz|https://www.mydealz.de/gutscheine/gratis-versand-bei-atu-2755154",
-    "mydealz|https://www.mydealz.de/deals/bmc-twostroke-al-20-grun-zum-knallerpreis-2755160",
-    "mydealz|https://www.mydealz.de/deals/the-black-keys-no-rain-no-flowers-green-vinyl-lp-edition-2755164"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gore-wear-shield-armlinge-armwarmer-gore-tex-infinium-xs-bis-2xl-2751013",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/uking-500-w-nebelmaschine-rgb-3-led-mischfarbe-nebelmaschine-mit-fernbedienung-2715648",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-bugatti-centodieci-otto-up-2750994",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/schalke-sondertrikot-2425-2751007",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-nissan-skyline-gtr-76917-2fast-2-furious-2750997",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ryanair-fantastische-entdeckungen-fluge-ab-15eur-london-dublin-mallorca-barcelona-uvmvon-berlin-koln-uvm-fluge-bis-3006-2751024",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hot-wheels-lets-race-netflix-21-prime-transporter-zu-t-rex-mit-inkl-autorennbahn-mit-beleuchtung-gerauschen-inkl-2-spielzeugautos-2750995",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ktc-h27t27-gaming-monitor-27-zoll-wqhd-ips-100hz-99-srgb-2x-hdmi-1x-dp-fur-8441eur-30-cashback-aliexpress-2749159",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-evtl-lokal-coca-cola-19-cent-angebot-und-gutschein-app-2750166",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-qned87a6b-65-zoll-mini-led-fernseher-mit-bis-zu-144hz-2751041",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-nature-hike-cloud-trek-1-personen-bikepacking-zelt-20d-nylon-packmass-40x15x15-cm-wassersaule-4000-mm-inkl-footprint-2750500",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-damen-polo-shirt-fur-2189-eur-nur-noch-in-xs-2750324",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/paramount-standard-ohne-werbung-2-monate-a-299eur-via-amazon-prime-video-2751337",
-      "ts": 1774308174131
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/guthabenkarten-mit-15-rabatt-bei-aldi-nord-2749736",
-      "ts": 1774308174131
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/data-frog-pc07-wireless-controller-fur-pcandroid-tv-fur-1059eur-statt-3081eur-2750161",
-      "ts": 1774308174131
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
       "ts": 1774394552076
@@ -486,6 +410,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/bplatzdeloox-french-avenue-amber-empire-extrait-de-parfum-100ml-ahnlich-clive-christian-blonde-amber-o-deloox-3089eur-2754625",
       "ts": 1774909521728
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
+      "ts": 1774995900679
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-neupreis-539eur-2755024",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/thalia-3-fur-2-auf-ausgewahlte-lego-sets-2754997",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/segway-navimow-i208-lidar-inklusive-garage-2754950",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-48-c5-oled-tv-50eur-lg-cashback-10-fach-payback-s60tr-sb-verkauf-66845eur-effektiv-2754978",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bavaria-weiss-blau-kasten-bei-netto-statt-1349-eur-nur-849-eur-mit-barcode-2754873",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aktive-auszeit-in-osterreich-ab-1-un-4-sporthotel-radstadt-inkl-fruhstuck-zugang-zum-erlebnis-freibad-ab-102eur-fur-2-personen-2755112",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/gratis-versand-bei-atu-2755154",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmc-twostroke-al-20-grun-zum-knallerpreis-2755160",
+      "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-black-keys-no-rain-no-flowers-green-vinyl-lp-edition-2755164",
+      "ts": 1774995900679
     }
   ]
 }
