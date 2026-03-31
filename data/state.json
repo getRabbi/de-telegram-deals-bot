@@ -2,7 +2,7 @@
   "date": "2026-03-31",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
     "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
     "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-neupreis-539eur-2755024",
-    "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680"
+    "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680",
+    "mydealz|https://www.mydealz.de/deals/thalia-3-fur-2-auf-ausgewahlte-lego-sets-2754997",
+    "mydealz|https://www.mydealz.de/deals/segway-navimow-i208-lidar-inklusive-garage-2754950",
+    "mydealz|https://www.mydealz.de/deals/lg-48-c5-oled-tv-50eur-lg-cashback-10-fach-payback-s60tr-sb-verkauf-66845eur-effektiv-2754978",
+    "mydealz|https://www.mydealz.de/deals/bavaria-weiss-blau-kasten-bei-netto-statt-1349-eur-nur-849-eur-mit-barcode-2754873",
+    "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711"
   ],
   "postedHistory": [
     {
