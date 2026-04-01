@@ -1,11 +1,18 @@
 {
   "date": "2026-04-01",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
+    "mydealz|https://www.mydealz.de/deals/3x-home-affaire-bettwasche-2-teilig-155-cm-x-220-cm-fur-2889-eur-2755380",
+    "mydealz|https://www.mydealz.de/deals/sammel-deal-puzzle-sets-amazon-prime-avangersharry-potteryu-gi-ohdragonball-zpeanutsmonsterpaw-patrol-usw-2755322",
+    "mydealz|https://www.mydealz.de/deals/finanzennet-zero-neukundenaktion-zur-depoteroffnung-50eur-lufthansa-aktie-2x-amundi-msci-world-etf-2755286",
+    "mydealz|https://www.mydealz.de/deals/yaber-t2-beamer-mit-jbl-sound-und-akku-wifi-6-bluetooth-native-1080p-fhd-tragbarer-projektor-fur-innen-u-ausseneinsatz-2755598",
+    "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
