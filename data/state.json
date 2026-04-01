@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
-    "mydealz|https://www.mydealz.de/deals/3x-home-affaire-bettwasche-2-teilig-155-cm-x-220-cm-fur-2889-eur-2755380",
-    "mydealz|https://www.mydealz.de/deals/sammel-deal-puzzle-sets-amazon-prime-avangersharry-potteryu-gi-ohdragonball-zpeanutsmonsterpaw-patrol-usw-2755322",
-    "mydealz|https://www.mydealz.de/deals/finanzennet-zero-neukundenaktion-zur-depoteroffnung-50eur-lufthansa-aktie-2x-amundi-msci-world-etf-2755286",
-    "mydealz|https://www.mydealz.de/deals/yaber-t2-beamer-mit-jbl-sound-und-akku-wifi-6-bluetooth-native-1080p-fhd-tragbarer-projektor-fur-innen-u-ausseneinsatz-2755598",
-    "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012",
-    "mydealz|https://www.mydealz.de/deals/wheelox-carvival-kostenloses-rennspiel-fur-xbox-one-xbox-series-xs-pc-2755560",
-    "mydealz|https://www.mydealz.de/deals/lego-marvel-super-heroes-76354-shield-helicarrier-vorbestellung-fur-01062026-2755507",
-    "mydealz|https://www.mydealz.de/deals/ebay-dyson-store-dyson-v15-detect-absolute-kabelloser-staubsauger-generaluberholt-12-monate-garantie-12-m-ebay-zusatzschutz-gratis-2755551",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-jjimarco-jjdave-sa-navy-blazer-2730-bis-3636-fur-1519eur-primeotto-flatquelle-2744656",
-    "mydealz|https://www.mydealz.de/deals/asrock-radeon-rx-9070-xt-steel-legend-15-cashback-63095eur-effektiv-2755706",
-    "mydealz|https://www.mydealz.de/deals/edeka-hessenring-800ml-flasche-hela-gewurzketchup-in-verschiedenen-sorten-ab-3003-040826-2755682",
-    "mydealz|https://www.mydealz.de/deals/grundig-fry-7320-heissluftfritteuse-76l-1750w-touchdisplay-sichtfenster-80-200c-joybuy-2755658",
-    "mydealz|https://www.mydealz.de/deals/asus-usb-bt540-bluetooth-54-dongle-adapter-kompatibel-mit-windows-linux-bis-zu-7-gerate-fur-pc-und-laptop-plug-play-ble-prime-2755475",
-    "mydealz|https://www.mydealz.de/deals/trinkgut-essen-haedenkampstr-kasten-einbecker-winterbock-fur-5eur-2755690"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vuescan-scannersoftware-bis-zu-25-rabatt-standard-jahresabo-eur28-einmalkauf-ab-eur83-windowsmacoslinux-endet-montag-2751595",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-seiko-presage-gmt-le-ssk015j1-3hz-41h-hardlex-407x131mm-2751593",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/auto-abo-kia-picanto-vision-automatik-279eur-pm-20000-km-12-m-2751576",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/penny-rotkappchen-sekt-249eur-075l-versch-sorten-2751584",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-playmobil-ausverkauf-50-auf-uvp-at-kaufland-waiblingen-2751542",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/silvercrest-kuchenmaschine-monsieur-cuisine-skms-1200-a1-smart-wlan-b-ware-refurbished-sehr-gut-2751578",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-md-kerrygold-butter-je-250gr-fur-129-eur-oder111eurmit-app-g-2751749",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-fallout-new-vegas-fur-099eur-statt-135-2751745",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-magenta-mobil-xl-young-unlimited-5g-fur-eff-2162eur-mtl-2-multisim-eff-721-mtl-pro-sim-500eur-boni-guthaben-2751631",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ugreen-240w-usb-c-kabel-mit-led-display-pd31-e-marker-480-mbps-1m-65866-prime-2751649",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/trs-chilipulver-extra-scharf-100g-prime-2751667",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-inno3d-rtx-5070-ti-x3-oc-white-16gb-grafikkarte-2751942",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-weste-fur-3289-eur-m-xl-2751927",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/replay-herren-hoodie-kapuzensweatshirt-fur-2489-eur-m-l-2751929",
-      "ts": 1774394552076
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/urlaubspiraten-winterberg-4-tage-hp-199-euro-pro-person-1000-qm-wellness-3-sterne-2751860",
-      "ts": 1774394552076
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
       "ts": 1774481110205
@@ -486,6 +410,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/the-black-keys-no-rain-no-flowers-green-vinyl-lp-edition-2755164",
       "ts": 1774995900679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-home-affaire-bettwasche-2-teilig-155-cm-x-220-cm-fur-2889-eur-2755380",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammel-deal-puzzle-sets-amazon-prime-avangersharry-potteryu-gi-ohdragonball-zpeanutsmonsterpaw-patrol-usw-2755322",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/finanzennet-zero-neukundenaktion-zur-depoteroffnung-50eur-lufthansa-aktie-2x-amundi-msci-world-etf-2755286",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/yaber-t2-beamer-mit-jbl-sound-und-akku-wifi-6-bluetooth-native-1080p-fhd-tragbarer-projektor-fur-innen-u-ausseneinsatz-2755598",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wheelox-carvival-kostenloses-rennspiel-fur-xbox-one-xbox-series-xs-pc-2755560",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-marvel-super-heroes-76354-shield-helicarrier-vorbestellung-fur-01062026-2755507",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-store-dyson-v15-detect-absolute-kabelloser-staubsauger-generaluberholt-12-monate-garantie-12-m-ebay-zusatzschutz-gratis-2755551",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-jjimarco-jjdave-sa-navy-blazer-2730-bis-3636-fur-1519eur-primeotto-flatquelle-2744656",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asrock-radeon-rx-9070-xt-steel-legend-15-cashback-63095eur-effektiv-2755706",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-hessenring-800ml-flasche-hela-gewurzketchup-in-verschiedenen-sorten-ab-3003-040826-2755682",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/grundig-fry-7320-heissluftfritteuse-76l-1750w-touchdisplay-sichtfenster-80-200c-joybuy-2755658",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asus-usb-bt540-bluetooth-54-dongle-adapter-kompatibel-mit-windows-linux-bis-zu-7-gerate-fur-pc-und-laptop-plug-play-ble-prime-2755475",
+      "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trinkgut-essen-haedenkampstr-kasten-einbecker-winterbock-fur-5eur-2755690",
+      "ts": 1775082448778
     }
   ]
 }
