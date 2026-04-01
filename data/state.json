@@ -2,7 +2,7 @@
   "date": "2026-04-01",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/sammel-deal-puzzle-sets-amazon-prime-avangersharry-potteryu-gi-ohdragonball-zpeanutsmonsterpaw-patrol-usw-2755322",
     "mydealz|https://www.mydealz.de/deals/finanzennet-zero-neukundenaktion-zur-depoteroffnung-50eur-lufthansa-aktie-2x-amundi-msci-world-etf-2755286",
     "mydealz|https://www.mydealz.de/deals/yaber-t2-beamer-mit-jbl-sound-und-akku-wifi-6-bluetooth-native-1080p-fhd-tragbarer-projektor-fur-innen-u-ausseneinsatz-2755598",
-    "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012"
+    "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012",
+    "mydealz|https://www.mydealz.de/deals/wheelox-carvival-kostenloses-rennspiel-fur-xbox-one-xbox-series-xs-pc-2755560",
+    "mydealz|https://www.mydealz.de/deals/lego-marvel-super-heroes-76354-shield-helicarrier-vorbestellung-fur-01062026-2755507",
+    "mydealz|https://www.mydealz.de/deals/ebay-dyson-store-dyson-v15-detect-absolute-kabelloser-staubsauger-generaluberholt-12-monate-garantie-12-m-ebay-zusatzschutz-gratis-2755551",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-jjimarco-jjdave-sa-navy-blazer-2730-bis-3636-fur-1519eur-primeotto-flatquelle-2744656",
+    "mydealz|https://www.mydealz.de/deals/asrock-radeon-rx-9070-xt-steel-legend-15-cashback-63095eur-effektiv-2755706"
   ],
   "postedHistory": [
     {
