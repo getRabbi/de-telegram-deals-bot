@@ -2072,7 +2072,155 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473",
+      "store": "MyDealz",
+      "title": "DNP DS 620 - 150€ Rabatt",
+      "imageUrl": "https://static.mydealz.de/threads/raw/Lt9d5/2758473_1/re/1200x1200/qt/80/2758473_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>DNP DS 620 - 150€ Rabatt</b>\n🏪 MyDealz\n💶 Was: 178,50 € → <b>Now: 178,50 €</b>\n🔻 Save: 0%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "DNP DS 620 - 150€ Rabatt",
+        "now": "178,50 €",
+        "was": "178,50 €",
+        "discountPct": 0,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473",
+        "imageUrl": "https://static.mydealz.de/threads/raw/Lt9d5/2758473_1/re/1200x1200/qt/80/2758473_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
+      "store": "MyDealz",
+      "title": "99° - Brawl Stars - Geschenkejagd",
+      "imageUrl": "https://static.mydealz.de/threads/raw/CWm79/2758340_1/re/1200x1200/qt/80/2758340_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>99° - Brawl Stars - Geschenkejagd</b>\n🏪 MyDealz\n💶 Was: 3.41 € → <b>Now: 3.41 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "99° - Brawl Stars - Geschenkejagd",
+        "now": "3.41 €",
+        "was": "3.41 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
+        "imageUrl": "https://static.mydealz.de/threads/raw/CWm79/2758340_1/re/1200x1200/qt/80/2758340_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
+      "store": "MyDealz",
+      "title": "100° - Unbreakable - Unzerbrechlich - iTunes / 4K / Dolby Vision",
+      "imageUrl": "https://static.mydealz.de/threads/raw/xqSpF/2757469_1/re/1200x1200/qt/80/2757469_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>100° - Unbreakable - Unzerbrechlich - iTunes / 4K / Dolby Vision</b>\n🏪 MyDealz\n💶 Was: 4.99 € → <b>Now: 4.99 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "100° - Unbreakable - Unzerbrechlich - iTunes / 4K / Dolby Vision",
+        "now": "4.99 €",
+        "was": "4.99 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
+        "imageUrl": "https://static.mydealz.de/threads/raw/xqSpF/2757469_1/re/1200x1200/qt/80/2757469_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
+      "store": "MyDealz",
+      "title": "124° - AMD Ryzen 7 5700X Prozessor, 8C/16T, 3.40-4.60GHz, tray",
+      "imageUrl": "https://static.mydealz.de/threads/raw/RiMKJ/2758495_1/re/1200x1200/qt/80/2758495_1.jpg",
+      "caption": "🔥 <b>Top Deal | Top-Angebot 🇩🇪</b>\n\n<b>124° - AMD Ryzen 7 5700X Prozessor, 8C/16T, 3.40-4.60GHz, tray</b>\n🏪 MyDealz\n💶 Was: 204.89 € → <b>Now: 204.89 €</b>\n🔻 Save: 0%\n\n#TopDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "124° - AMD Ryzen 7 5700X Prozessor, 8C/16T, 3.40-4.60GHz, tray",
+        "now": "204.89 €",
+        "was": "204.89 €",
+        "discountPct": 0,
+        "isTop": true,
+        "url": "https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
+        "imageUrl": "https://static.mydealz.de/threads/raw/RiMKJ/2758495_1/re/1200x1200/qt/80/2758495_1.jpg",
+        "hashtags": [
+          "#TopDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-04-02T16:45:44.135Z"
+  "updatedAt": "2026-04-02T17:41:31.714Z"
 }
