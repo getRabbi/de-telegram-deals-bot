@@ -2,7 +2,7 @@
   "date": "2026-04-02",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/odys-alpha-x5-pro-e-scooter-mit-abe-max-20-kmh-bis-zu-50km-reichweite-105-luftreifen-max-120kg-belastung-2755795",
     "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-sp-mediamarkt-saturn-ebay-2755810",
     "mydealz|https://www.mydealz.de/deals/kala-concert-ukelele-starter-kit-elvis-rockabilly-2755989",
-    "mydealz|https://www.mydealz.de/deals/olivenbaum-olea-europaea-inkl-17cm-topf-60-180-cm-hohe-2755878"
+    "mydealz|https://www.mydealz.de/deals/olivenbaum-olea-europaea-inkl-17cm-topf-60-180-cm-hohe-2755878",
+    "mydealz|https://www.mydealz.de/deals/fluge-nach-barcelona-im-sommer-mit-malta-air-inkl-ruckflug-von-koln-hahn-und-berlin-und-mai-jun-ab-32eur-oneway-16eur-2755932",
+    "mydealz|https://www.mydealz.de/deals/adidas-originals-predator-sala-core-black-signal-green-36-43-13-47-13-2920eur-mit-asos-premier-2752715",
+    "mydealz|https://www.mydealz.de/deals/adidas-performance-ultraboost-5-olive-strata-36-41-13-2750060",
+    "mydealz|https://www.mydealz.de/deals/chicco-beistellbett-next2me-zwillinge-2755917",
+    "mydealz|https://www.mydealz.de/deals/11-auf-kaffee-der-kaffeerosterei-kaffanero-2755858"
   ],
   "postedHistory": [
     {
