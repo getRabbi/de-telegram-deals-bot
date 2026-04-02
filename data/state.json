@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/adidas-originals-predator-sala-core-black-signal-green-36-43-13-47-13-2920eur-mit-asos-premier-2752715",
     "mydealz|https://www.mydealz.de/deals/adidas-performance-ultraboost-5-olive-strata-36-41-13-2750060",
     "mydealz|https://www.mydealz.de/deals/chicco-beistellbett-next2me-zwillinge-2755917",
-    "mydealz|https://www.mydealz.de/deals/11-auf-kaffee-der-kaffeerosterei-kaffanero-2755858"
+    "mydealz|https://www.mydealz.de/deals/11-auf-kaffee-der-kaffeerosterei-kaffanero-2755858",
+    "lidl|https://www.mydealz.de/deals/lidl-jubilaums-akku-bohrschrauber-pabs-20-li-g8-mit-akku-und-ladegerat-2756123",
+    "mydealz|https://www.mydealz.de/deals/therme-erding-oster-angebote-eintritt-fur-2-3-oder-4-personen-mit-extras-ab-12350-eur-gultig-12-monate-2756059",
+    "mydealz|https://www.mydealz.de/deals/aircash-prepaid-mastercard-aktuell-kostenfrei-bestellbar-statt-5eur-2756082",
+    "mydealz|https://www.mydealz.de/deals/15-auf-die-individuelle-xbox-gamepads-2754436"
   ],
   "postedHistory": [
     {
