@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
-    "mydealz|https://www.mydealz.de/deals/rituals-peeling-hammam-sakura-mehr-fur-1290eur-24-2755751",
-    "mydealz|https://www.mydealz.de/deals/odys-alpha-x5-pro-e-scooter-mit-abe-max-20-kmh-bis-zu-50km-reichweite-105-luftreifen-max-120kg-belastung-2755795",
-    "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-sp-mediamarkt-saturn-ebay-2755810",
-    "mydealz|https://www.mydealz.de/deals/kala-concert-ukelele-starter-kit-elvis-rockabilly-2755989",
-    "mydealz|https://www.mydealz.de/deals/olivenbaum-olea-europaea-inkl-17cm-topf-60-180-cm-hohe-2755878",
-    "mydealz|https://www.mydealz.de/deals/fluge-nach-barcelona-im-sommer-mit-malta-air-inkl-ruckflug-von-koln-hahn-und-berlin-und-mai-jun-ab-32eur-oneway-16eur-2755932",
-    "mydealz|https://www.mydealz.de/deals/adidas-originals-predator-sala-core-black-signal-green-36-43-13-47-13-2920eur-mit-asos-premier-2752715",
-    "mydealz|https://www.mydealz.de/deals/adidas-performance-ultraboost-5-olive-strata-36-41-13-2750060",
-    "mydealz|https://www.mydealz.de/deals/chicco-beistellbett-next2me-zwillinge-2755917",
-    "mydealz|https://www.mydealz.de/deals/11-auf-kaffee-der-kaffeerosterei-kaffanero-2755858",
-    "lidl|https://www.mydealz.de/deals/lidl-jubilaums-akku-bohrschrauber-pabs-20-li-g8-mit-akku-und-ladegerat-2756123",
-    "mydealz|https://www.mydealz.de/deals/therme-erding-oster-angebote-eintritt-fur-2-3-oder-4-personen-mit-extras-ab-12350-eur-gultig-12-monate-2756059",
-    "mydealz|https://www.mydealz.de/deals/aircash-prepaid-mastercard-aktuell-kostenfrei-bestellbar-statt-5eur-2756082",
-    "mydealz|https://www.mydealz.de/deals/15-auf-die-individuelle-xbox-gamepads-2754436"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10eur-gratis-mit-dem-code-gamer26-nur-ein-spiel-aussuchen-runterladen-und-mindestens-5-mintuen-spielen-2750991",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mattel-disney-peter-pan-und-wendy-figuren-puppen-prime-2751226",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/garmin-edge-540-gps-fahrradcomputer-mit-adaptiver-coaching-und-vollfarbkarten-2752097",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-fur-windows-pc-linux-chrome-mac-tastatur-sonstiges-kabe-2752073",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vanish-oxi-action-multi-textil-fleckenentfernerspray-1-x-660-ml-prime-spar-abo-2752088",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hoka-rincon-3-damen-laufschuhe-fur-5889-eur-37-39-2752244",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bench-herren-merrick-zehn-paar-socken-10er-packung-socken-schwarz-fur-1789-eur-39-49-2752250",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bnesim-travel-esim-billigster-datentarif-ohne-ablaufdatum-fur-die-usa-nur-eur1688-fur-20-gb-volle-33-rabatt-nur-kurze-zeit-2752236",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-marokko-fez-tanger-agadir-essaouira-ab-45eur-inkl-ruckflug-weeze-memmingen-hahnryanair-apr-2746155",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-cilitbang-wc-steine-3x2er-pack-2752034",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/gewerbetreibende-10eur-rabatt-ab-80eur-bei-selgros-mehrfach-nutzbar-bis-31052026-uber-konsum-berlin-mitgliedschaft-fur-25-eur-2752357",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/franzis-richtig-loten-do-it-ebook-gratis-statt-10eur-direktlink-im-text-2752383",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sirplus-30-auf-alles-gerettete-lebensmittel-und-mhd-produkte-2752332",
-      "ts": 1774481110205
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-65-zoll-b5-ds60tr-51-kanal-440w-soundbar-100-euro-cashback-eff-nach-sb-verkauf-785-euro-2752374",
-      "ts": 1774481110205
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
       "ts": 1774567323397
@@ -486,6 +410,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/trinkgut-essen-haedenkampstr-kasten-einbecker-winterbock-fur-5eur-2755690",
       "ts": 1775082448778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rituals-peeling-hammam-sakura-mehr-fur-1290eur-24-2755751",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/odys-alpha-x5-pro-e-scooter-mit-abe-max-20-kmh-bis-zu-50km-reichweite-105-luftreifen-max-120kg-belastung-2755795",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-sp-mediamarkt-saturn-ebay-2755810",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kala-concert-ukelele-starter-kit-elvis-rockabilly-2755989",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/olivenbaum-olea-europaea-inkl-17cm-topf-60-180-cm-hohe-2755878",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-barcelona-im-sommer-mit-malta-air-inkl-ruckflug-von-koln-hahn-und-berlin-und-mai-jun-ab-32eur-oneway-16eur-2755932",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-predator-sala-core-black-signal-green-36-43-13-47-13-2920eur-mit-asos-premier-2752715",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-performance-ultraboost-5-olive-strata-36-41-13-2750060",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/chicco-beistellbett-next2me-zwillinge-2755917",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/11-auf-kaffee-der-kaffeerosterei-kaffanero-2755858",
+      "ts": 1775168588236
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-jubilaums-akku-bohrschrauber-pabs-20-li-g8-mit-akku-und-ladegerat-2756123",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/therme-erding-oster-angebote-eintritt-fur-2-3-oder-4-personen-mit-extras-ab-12350-eur-gultig-12-monate-2756059",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aircash-prepaid-mastercard-aktuell-kostenfrei-bestellbar-statt-5eur-2756082",
+      "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/15-auf-die-individuelle-xbox-gamepads-2754436",
+      "ts": 1775168588236
     }
   ]
 }
