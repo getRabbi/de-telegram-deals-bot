@@ -1,11 +1,18 @@
 {
   "date": "2026-04-02",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
+    "mydealz|https://www.mydealz.de/deals/rituals-peeling-hammam-sakura-mehr-fur-1290eur-24-2755751",
+    "mydealz|https://www.mydealz.de/deals/odys-alpha-x5-pro-e-scooter-mit-abe-max-20-kmh-bis-zu-50km-reichweite-105-luftreifen-max-120kg-belastung-2755795",
+    "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-sp-mediamarkt-saturn-ebay-2755810",
+    "mydealz|https://www.mydealz.de/deals/kala-concert-ukelele-starter-kit-elvis-rockabilly-2755989",
+    "mydealz|https://www.mydealz.de/deals/olivenbaum-olea-europaea-inkl-17cm-topf-60-180-cm-hohe-2755878"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/adobe-creative-cloud-pro-student-teacher-gen-ai-1-jahr-abo-2750206",
