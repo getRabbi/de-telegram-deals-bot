@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
-    "mydealz|https://www.mydealz.de/deals/privatleasingcupra-formentor-e-hybrid-vz-black-edition272psforderf24-mon10000kmjahr229eurm269eurunloylf-038blp-58620eff-292eur-2756217",
-    "mydealz|https://www.mydealz.de/deals/vegane-angebote-im-supermarkt-kw14-ab-3003-2756225",
-    "mydealz|https://www.mydealz.de/deals/neff-varioclip-z11ti15x0-auszugsystem-1-paar-2756236",
-    "mydealz|https://www.mydealz.de/deals/prime-deleycon-45w-dualport-ladegerat-usbc-45w-usba-12w-pd-30-schnellladen-fur-iphone-171615-uvm-weiss-2749355",
-    "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418",
-    "mydealz|https://www.mydealz.de/deals/heitmann-kaffeemaschinen-entkalker-fur-kaffeevollautomaten-siebtrager-pad-und-kapselmaschinen-250-ml-farblos-prime-im-sparabo-nur-233eur-2756420",
-    "mydealz|https://www.mydealz.de/deals/kaufland-movenpick-cafe-crema-1kg-2756423",
-    "mydealz|https://www.mydealz.de/deals/odol-med3-original-oder-minzfrisch-zahnpasta-mit-3in1-schutz-fur-starke-zahne-gesundes-zahnfleisch-und-frischen-atem-75-ml-spar-abo-prime-2756439",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-proraso-after-shave-lotion-nourishing-100-ml-aftershave-fur-manner-mit-sandelholz-shea-ol-made-in-italy-2756422",
-    "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593",
-    "mydealz|https://www.mydealz.de/deals/mydealz-x-systemtreff-2755109",
-    "mydealz|https://www.mydealz.de/deals/gawfolk-27-qhd-ips-monitor-120-hz-1-ms-99-srgb-hdr10-vesa-1x-9999eur-2x-14998eur-stuck-7499eur-2756583",
-    "mydealz|https://www.mydealz.de/deals/kodi-meridol-mundspulung-400ml-2756457",
-    "lidl|https://www.mydealz.de/deals/lidl-plus-yogamehome-yoga-entspannung-40-tage-kostenlos-nutzen-kein-abo-keine-automatische-verlangerung-lidl-plus-kunden-2756522"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zendure-smart-meter-3ct-zum-bestpreis-inkl-10shoop-fur-6909eur-2752471",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pixi-buch-malheft-hase-hopper-traut-sich-was-mit-video-bastelbogen-gratis-fur-vereine-und-kindergarten-2752514",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-4x-500g-spaghetti-fur-274eur-im-spar-abo-mit-coupon-rechnerisch-ab-256eur-2752373",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-male-chino-hose-slim-fit-98-baumwolle-w27-bis-w36-navy-1679eur-schwarz-1840eur-primeotto-flat-2752497",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/15-rabatt-auf-fast-alles-auf-tchibode-2752208",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/7x-bench-boxershorts-herren-95-baumwolle-fur-2489-eur-xs-4xl-2752677",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-puma-t-shirt-100-baumwolle-kinder-weiss-fur-1589-eur-116-176-2752683",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/enders-boston-pro-4-kr-turbo-ii-2752645",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/100-euro-cashback-fur-wechsel-wohngebaudeversicherung-bei-verivox-uber-shoop-app-2752640",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-zum-sonntagmorgen-filme-100-filme-imdb-65-top-20-kuratiert-4khd-digital-at-itunes-apple-tv-399-599eur-2752560",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-jeans-herren-windbreaker-regenjacke-blau-fur-3489-eur-s-xxl-2752798",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/6x-boss-socken-fusslinge-herren-made-in-italy-schwarz-fur-2389-eur-41-42-2752805",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-squadra-21-trainingsjacke-gelb-herren-fur-1690-eur-s-xxl-2752797",
-      "ts": 1774567323397
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bruno-banani-sweatjacke-kapuzenjacke-fur-1590-eur-m-xl-und-xxl-2752799",
-      "ts": 1774567323397
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
       "ts": 1774653793847
@@ -486,6 +410,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/15-auf-die-individuelle-xbox-gamepads-2754436",
       "ts": 1775168588236
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/privatleasingcupra-formentor-e-hybrid-vz-black-edition272psforderf24-mon10000kmjahr229eurm269eurunloylf-038blp-58620eff-292eur-2756217",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vegane-angebote-im-supermarkt-kw14-ab-3003-2756225",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neff-varioclip-z11ti15x0-auszugsystem-1-paar-2756236",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-deleycon-45w-dualport-ladegerat-usbc-45w-usba-12w-pd-30-schnellladen-fur-iphone-171615-uvm-weiss-2749355",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/heitmann-kaffeemaschinen-entkalker-fur-kaffeevollautomaten-siebtrager-pad-und-kapselmaschinen-250-ml-farblos-prime-im-sparabo-nur-233eur-2756420",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-movenpick-cafe-crema-1kg-2756423",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/odol-med3-original-oder-minzfrisch-zahnpasta-mit-3in1-schutz-fur-starke-zahne-gesundes-zahnfleisch-und-frischen-atem-75-ml-spar-abo-prime-2756439",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-proraso-after-shave-lotion-nourishing-100-ml-aftershave-fur-manner-mit-sandelholz-shea-ol-made-in-italy-2756422",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mydealz-x-systemtreff-2755109",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gawfolk-27-qhd-ips-monitor-120-hz-1-ms-99-srgb-hdr10-vesa-1x-9999eur-2x-14998eur-stuck-7499eur-2756583",
+      "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kodi-meridol-mundspulung-400ml-2756457",
+      "ts": 1775254966655
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-plus-yogamehome-yoga-entspannung-40-tage-kostenlos-nutzen-kein-abo-keine-automatische-verlangerung-lidl-plus-kunden-2756522",
+      "ts": 1775254966655
     }
   ]
 }
