@@ -1,11 +1,18 @@
 {
   "date": "2026-04-03",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
+    "mydealz|https://www.mydealz.de/deals/privatleasingcupra-formentor-e-hybrid-vz-black-edition272psforderf24-mon10000kmjahr229eurm269eurunloylf-038blp-58620eff-292eur-2756217",
+    "mydealz|https://www.mydealz.de/deals/vegane-angebote-im-supermarkt-kw14-ab-3003-2756225",
+    "mydealz|https://www.mydealz.de/deals/neff-varioclip-z11ti15x0-auszugsystem-1-paar-2756236",
+    "mydealz|https://www.mydealz.de/deals/prime-deleycon-45w-dualport-ladegerat-usbc-45w-usba-12w-pd-30-schnellladen-fur-iphone-171615-uvm-weiss-2749355",
+    "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/timberland-lightweight-travel-tagesrucksack-19l-wander-reise-fur-2489-eur-2752436",
