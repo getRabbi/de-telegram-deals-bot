@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/kaufland-movenpick-cafe-crema-1kg-2756423",
     "mydealz|https://www.mydealz.de/deals/odol-med3-original-oder-minzfrisch-zahnpasta-mit-3in1-schutz-fur-starke-zahne-gesundes-zahnfleisch-und-frischen-atem-75-ml-spar-abo-prime-2756439",
     "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-proraso-after-shave-lotion-nourishing-100-ml-aftershave-fur-manner-mit-sandelholz-shea-ol-made-in-italy-2756422",
-    "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593"
+    "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593",
+    "mydealz|https://www.mydealz.de/deals/mydealz-x-systemtreff-2755109",
+    "mydealz|https://www.mydealz.de/deals/gawfolk-27-qhd-ips-monitor-120-hz-1-ms-99-srgb-hdr10-vesa-1x-9999eur-2x-14998eur-stuck-7499eur-2756583",
+    "mydealz|https://www.mydealz.de/deals/kodi-meridol-mundspulung-400ml-2756457",
+    "lidl|https://www.mydealz.de/deals/lidl-plus-yogamehome-yoga-entspannung-40-tage-kostenlos-nutzen-kein-abo-keine-automatische-verlangerung-lidl-plus-kunden-2756522"
   ],
   "postedHistory": [
     {
