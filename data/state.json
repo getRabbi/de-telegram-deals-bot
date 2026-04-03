@@ -2,7 +2,7 @@
   "date": "2026-04-03",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/vegane-angebote-im-supermarkt-kw14-ab-3003-2756225",
     "mydealz|https://www.mydealz.de/deals/neff-varioclip-z11ti15x0-auszugsystem-1-paar-2756236",
     "mydealz|https://www.mydealz.de/deals/prime-deleycon-45w-dualport-ladegerat-usbc-45w-usba-12w-pd-30-schnellladen-fur-iphone-171615-uvm-weiss-2749355",
-    "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418"
+    "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418",
+    "mydealz|https://www.mydealz.de/deals/heitmann-kaffeemaschinen-entkalker-fur-kaffeevollautomaten-siebtrager-pad-und-kapselmaschinen-250-ml-farblos-prime-im-sparabo-nur-233eur-2756420",
+    "mydealz|https://www.mydealz.de/deals/kaufland-movenpick-cafe-crema-1kg-2756423",
+    "mydealz|https://www.mydealz.de/deals/odol-med3-original-oder-minzfrisch-zahnpasta-mit-3in1-schutz-fur-starke-zahne-gesundes-zahnfleisch-und-frischen-atem-75-ml-spar-abo-prime-2756439",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-proraso-after-shave-lotion-nourishing-100-ml-aftershave-fur-manner-mit-sandelholz-shea-ol-made-in-italy-2756422",
+    "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593"
   ],
   "postedHistory": [
     {
