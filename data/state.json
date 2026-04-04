@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/automatikuhr-sinn-u1-full-tegiment-44x14mm-1000m-wadi-4hz-40hr-2756998",
-    "mydealz|https://www.mydealz.de/deals/limangotonies-tonie-horspielfiguren-ab-1099eur-clever-tonies-ab-699-zb-paw-patrol-jungle-pups-marshall-2756942",
-    "mydealz|https://www.mydealz.de/deals/mein-schiff-4-7-nachte-mittelmeer-kreuzfahrten-ab-599eur-pp-abbis-mallorcanov-feb-2756990",
-    "mydealz|https://www.mydealz.de/deals/mortal-kombat-1-standard-edition-ps5-playstation-digital-finish-him-at-ps-store-2756904",
-    "mydealz|https://www.mydealz.de/deals/parkside-pendelhubstichsage-pstk-800-d3-2756920",
-    "mydealz|https://www.mydealz.de/deals/berliner-philharmonie-kostenlose-lunchkonzerte-jeden-mittwoch-bis-zum-246-13-uhr-40-50-min-eintritt-frei-lokal-berlin-2756991",
-    "mydealz|https://www.mydealz.de/deals/nbb-gigabyte-x870-gaming-wifi6-mainboard-sockel-am5-2757123",
-    "mydealz|https://www.mydealz.de/deals/like-a-dragon-pirate-yakuza-in-hawaii-1329eur-neuer-bestpreis-deluxe-edition-1619eur-metacritic-81-steam-key-steam-deck-loaded-2757033",
-    "mydealz|https://www.mydealz.de/deals/steam-my-coworker-is-an-idiot-actionspiel-2757097",
-    "mydealz|https://www.mydealz.de/deals/prime-ugreen-finecam-lite-1080p-webcam-full-hd-1080p30fps-usb-a-webcam-mit-mikrofon-fixfokus-automatische-lichtkorrektur-90-ansicht-2756963",
-    "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-wifi-2021-128gb-space-grau-wie-neu-inkl-30-monate-garantie-2744530",
-    "mydealz|https://www.mydealz.de/deals/apple-macbook-neo-13-2026-512gb-ssd-8gb-ram-a18-pro-chip-magic-keyboard-mit-touch-id-indigo-silber-zum-tiepreis-0-finanzierung-2757309",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-congstar-samsung-galaxy-s26-ultra-512gb-67eur-vs-idealo-allnetsms-flat-30gb-19eurmonat-689eur-zz-vodafone-gk-966eur-2757317",
-    "mydealz|https://www.mydealz.de/deals/happy-socks-4er-packung-socken-alien-ufo-fur-1589-eur-36-46-2757305",
-    "mydealz|https://www.mydealz.de/deals/chio-tortilla-chips-110-g-2757240"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/garmin-epix-pro-gen-2-51mm-gps-multisport-smartwatch-mit-14-amoled-display-und-touch-tastenbedienung-2752954",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-spaten-fiskars-xact-spitz-hornbach-tiefpreisgarantie-offline-im-laden-2752538",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-fur-6852-eur-2752678",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/osprey-farpoint-trek-70-liter-reise-rucksack-inkl-aircover-auch-als-damenversion-2752985",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/casio-sammeldeal-8x-casio-uhren-1x-casio-g-shock-min-20-ersparnis-zu-idealo-2752978",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/muller-pokemon-pokopia-switch-2-fur-6400eur-mit-app-coupon-2753131",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wmf-janosch-kinderbesteck-set-4-teilig-kinderbesteck-edelstahl-cromargan-poliert-prime-2753097",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sandisk-gameplay-microsd-express-karte-works-with-nintendo-switch-2-512-gb-speicherkarte-schwarz-2753087",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-berlin-yunus-emre-steak-doner-fur-1ct-2753099",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marktguru-netto-md-tomato-al-gusto-pastasauce-fur-effektiv-029eur-2753112",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-glenn-chino-business-hose-98-baumwolle-blau-fur-1889-eur-w31-w36-2753306",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/clementoni-galileo-lab-sternen-projektor-2753221",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-spotless-max-bcrdw3b-fur-49520eur-2753057",
-      "ts": 1774653793847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/italia-in-tour-bahnpass-3-tage-zugfahren-durch-italien-fur-35eur-5-tage-fur-59eur-trenitalia-2753307",
-      "ts": 1774653793847
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
       "ts": 1774740102472
@@ -486,6 +410,66 @@
     {
       "key": "lidl|https://www.mydealz.de/deals/lidl-plus-yogamehome-yoga-entspannung-40-tage-kostenlos-nutzen-kein-abo-keine-automatische-verlangerung-lidl-plus-kunden-2756522",
       "ts": 1775254966655
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-sinn-u1-full-tegiment-44x14mm-1000m-wadi-4hz-40hr-2756998",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/limangotonies-tonie-horspielfiguren-ab-1099eur-clever-tonies-ab-699-zb-paw-patrol-jungle-pups-marshall-2756942",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mein-schiff-4-7-nachte-mittelmeer-kreuzfahrten-ab-599eur-pp-abbis-mallorcanov-feb-2756990",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mortal-kombat-1-standard-edition-ps5-playstation-digital-finish-him-at-ps-store-2756904",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-pendelhubstichsage-pstk-800-d3-2756920",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/berliner-philharmonie-kostenlose-lunchkonzerte-jeden-mittwoch-bis-zum-246-13-uhr-40-50-min-eintritt-frei-lokal-berlin-2756991",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nbb-gigabyte-x870-gaming-wifi6-mainboard-sockel-am5-2757123",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/like-a-dragon-pirate-yakuza-in-hawaii-1329eur-neuer-bestpreis-deluxe-edition-1619eur-metacritic-81-steam-key-steam-deck-loaded-2757033",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-my-coworker-is-an-idiot-actionspiel-2757097",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-ugreen-finecam-lite-1080p-webcam-full-hd-1080p30fps-usb-a-webcam-mit-mikrofon-fixfokus-automatische-lichtkorrektur-90-ansicht-2756963",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-wifi-2021-128gb-space-grau-wie-neu-inkl-30-monate-garantie-2744530",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-macbook-neo-13-2026-512gb-ssd-8gb-ram-a18-pro-chip-magic-keyboard-mit-touch-id-indigo-silber-zum-tiepreis-0-finanzierung-2757309",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-congstar-samsung-galaxy-s26-ultra-512gb-67eur-vs-idealo-allnetsms-flat-30gb-19eurmonat-689eur-zz-vodafone-gk-966eur-2757317",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/happy-socks-4er-packung-socken-alien-ufo-fur-1589-eur-36-46-2757305",
+      "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/chio-tortilla-chips-110-g-2757240",
+      "ts": 1775341153367
     }
   ]
 }
