@@ -2,7 +2,7 @@
   "date": "2026-04-04",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/mein-schiff-4-7-nachte-mittelmeer-kreuzfahrten-ab-599eur-pp-abbis-mallorcanov-feb-2756990",
     "mydealz|https://www.mydealz.de/deals/mortal-kombat-1-standard-edition-ps5-playstation-digital-finish-him-at-ps-store-2756904",
     "mydealz|https://www.mydealz.de/deals/parkside-pendelhubstichsage-pstk-800-d3-2756920",
-    "mydealz|https://www.mydealz.de/deals/berliner-philharmonie-kostenlose-lunchkonzerte-jeden-mittwoch-bis-zum-246-13-uhr-40-50-min-eintritt-frei-lokal-berlin-2756991"
+    "mydealz|https://www.mydealz.de/deals/berliner-philharmonie-kostenlose-lunchkonzerte-jeden-mittwoch-bis-zum-246-13-uhr-40-50-min-eintritt-frei-lokal-berlin-2756991",
+    "mydealz|https://www.mydealz.de/deals/nbb-gigabyte-x870-gaming-wifi6-mainboard-sockel-am5-2757123",
+    "mydealz|https://www.mydealz.de/deals/like-a-dragon-pirate-yakuza-in-hawaii-1329eur-neuer-bestpreis-deluxe-edition-1619eur-metacritic-81-steam-key-steam-deck-loaded-2757033",
+    "mydealz|https://www.mydealz.de/deals/steam-my-coworker-is-an-idiot-actionspiel-2757097",
+    "mydealz|https://www.mydealz.de/deals/prime-ugreen-finecam-lite-1080p-webcam-full-hd-1080p30fps-usb-a-webcam-mit-mikrofon-fixfokus-automatische-lichtkorrektur-90-ansicht-2756963",
+    "mydealz|https://www.mydealz.de/deals/apple-ipad-pro-129-wifi-2021-128gb-space-grau-wie-neu-inkl-30-monate-garantie-2744530"
   ],
   "postedHistory": [
     {
