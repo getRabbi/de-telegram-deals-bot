@@ -1,11 +1,18 @@
 {
   "date": "2026-04-04",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/automatikuhr-sinn-u1-full-tegiment-44x14mm-1000m-wadi-4hz-40hr-2756998",
+    "mydealz|https://www.mydealz.de/deals/limangotonies-tonie-horspielfiguren-ab-1099eur-clever-tonies-ab-699-zb-paw-patrol-jungle-pups-marshall-2756942",
+    "mydealz|https://www.mydealz.de/deals/mein-schiff-4-7-nachte-mittelmeer-kreuzfahrten-ab-599eur-pp-abbis-mallorcanov-feb-2756990",
+    "mydealz|https://www.mydealz.de/deals/mortal-kombat-1-standard-edition-ps5-playstation-digital-finish-him-at-ps-store-2756904",
+    "mydealz|https://www.mydealz.de/deals/parkside-pendelhubstichsage-pstk-800-d3-2756920",
+    "mydealz|https://www.mydealz.de/deals/berliner-philharmonie-kostenlose-lunchkonzerte-jeden-mittwoch-bis-zum-246-13-uhr-40-50-min-eintritt-frei-lokal-berlin-2756991"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/logitech-g522-lightspeed-kabelloses-gaming-headset-full-band-mikrofon-tri-connect-bluetooth-usb-a-auf-c-lightsync-rgb-schwarz-2752966",
