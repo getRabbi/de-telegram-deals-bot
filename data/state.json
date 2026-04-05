@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tiefpreise-apple-iphone-17e-256gb-a19-chip-48-mp-kamera-61-zoll-oled-0-finanzierung-zb-in-weiss-mit-cb-57745eur-ohne-cb-608eur-2757567",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-14-pro-8256-gb-5g-smartphone-black-nfc-667-zoll-120-hz-15-k-display-200-mp-kamera-45-w-5100-mah-2745094",
-    "mydealz|https://www.mydealz.de/deals/cb-45-pk1-3-der-nussknacker-grand-classic-ballet-14112026-bis-23012027-mehrere-stadte-zb-berlin-koln-nurnberg-stuttgart-2757449",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-burnout-paradise-remastered-509eur-nintendo-switch-jpn-276eur-2757415",
-    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-bei-aliexpress-mit-gutscheincode-idealocd4-2757435",
-    "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447",
-    "mydealz|https://www.mydealz.de/deals/killtec-damen-softshelljacke-kos-122-blau-wasser-winddicht-10000mm-atmungsaktiv-all-over-print-2999eur-499eur-versand-2755052",
-    "mydealz|https://www.mydealz.de/deals/ml2u-51-ml2u-394-cyber-tactical-wearos-watchfacegoogle-play-store-2757557",
-    "mydealz|https://www.mydealz.de/deals/the-north-face-quest-wasserdichte-isolierjacke-fur-herren-grosse-xs-xxl-2719627",
-    "mydealz|https://www.mydealz.de/deals/preisfehler-solakon-solarmodul-500w-bifaziales-monokristallines-solarpanel-40v-photovoltaik-fur-balkonkraftwerk-pv-anlage-4-stuck-2757718",
-    "mydealz|https://www.mydealz.de/deals/loewe-klang-multiroom-speakers-loewe-klang-mr1-fur-109eur-mr3-fur-209eur-und-mr5-fur-269eur-kaufland-amazon-2757658",
-    "mydealz|https://www.mydealz.de/deals/reolink-w760-kamera-2757939",
-    "mydealz|https://www.mydealz.de/deals/resident-evil-3-pc-steam-2751326",
-    "mydealz|https://www.mydealz.de/deals/1822direkt-depot-170eur-neukundenbonus-120eur-werbepramie-ohne-schufa-2757708",
-    "mydealz|https://www.mydealz.de/deals/steam-depths-of-horror-mushroom-day-kostenlos-2757931"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-ugreen-usb-c-ladegerat-30w-mit-3-ports-gan-ii-fur-898eur-statt-1599eur-2753468",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tvv-workout-8-watch-face-wearos-watchfacegoogle-play-store-2753484",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gogplaystation-minit-psn-digital-2733344",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anker-usb-c-kabel-3m-100w-schnellladekabel-usb-c-auf-usb-c-kabel-pd-30-ladekabel-usb-c-2753428",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-16x-staubsaugerbeutel-typ-g-all-bbz16gall-passend-fur-alle-baureihen-ausser-bsg8-bsn1-primemm-saturn-2753420",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-kaufland-mobil-starterpaket-fur-499-halbjahrestarif-mit-10-gb-zusatzlich-2752044",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/koln-pommes-bratwurst-und-currywurst-fur-2eur-preise-wie-vor-20-jahren-2753632",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oceans-trilogie-4k-blu-ray-blu-ray-fur-2655eur-inkl-versand-amazonit-2753652",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/50eur-extra-provision-telekom-empfehlen-telekom-profisde-2751053",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cudy-gs105u-5-port-gigabit-ethernet-switch-mit-usb-c-fur-760eur-amazon-prime-2753588",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/revolutionrace-herren-nordwand-pants-verschiedene-farben-4450eur-nordwand-pro-pants-5950eur-outdoor-trekkingwandern-ama-mp-revolutionrace-2737472",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hummel-sneaker-socken-12er-packung-weiss-oder-schwarz-fur-1589-eur-41-48-2753809",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/5-stuck-jack-jones-male-t-shirt-mit-amazonprime-versandkostenfrei-2753737",
-      "ts": 1774740102472
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hisense-65-zoll-qled-tv-144hz-vrr-65e77q-pro-4k-uhd-164cm-65-fernseher-dolby-vision-atmos-amd-freesync-premium-4xhdmi21-allm-earc-paypal-2753746",
-      "ts": 1774740102472
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
       "ts": 1774822836071
@@ -486,6 +410,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/chio-tortilla-chips-110-g-2757240",
       "ts": 1775341153367
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tiefpreise-apple-iphone-17e-256gb-a19-chip-48-mp-kamera-61-zoll-oled-0-finanzierung-zb-in-weiss-mit-cb-57745eur-ohne-cb-608eur-2757567",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-14-pro-8256-gb-5g-smartphone-black-nfc-667-zoll-120-hz-15-k-display-200-mp-kamera-45-w-5100-mah-2745094",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-45-pk1-3-der-nussknacker-grand-classic-ballet-14112026-bis-23012027-mehrere-stadte-zb-berlin-koln-nurnberg-stuttgart-2757449",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-burnout-paradise-remastered-509eur-nintendo-switch-jpn-276eur-2757415",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-bei-aliexpress-mit-gutscheincode-idealocd4-2757435",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/killtec-damen-softshelljacke-kos-122-blau-wasser-winddicht-10000mm-atmungsaktiv-all-over-print-2999eur-499eur-versand-2755052",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ml2u-51-ml2u-394-cyber-tactical-wearos-watchfacegoogle-play-store-2757557",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-quest-wasserdichte-isolierjacke-fur-herren-grosse-xs-xxl-2719627",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/preisfehler-solakon-solarmodul-500w-bifaziales-monokristallines-solarpanel-40v-photovoltaik-fur-balkonkraftwerk-pv-anlage-4-stuck-2757718",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/loewe-klang-multiroom-speakers-loewe-klang-mr1-fur-109eur-mr3-fur-209eur-und-mr5-fur-269eur-kaufland-amazon-2757658",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reolink-w760-kamera-2757939",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/resident-evil-3-pc-steam-2751326",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/1822direkt-depot-170eur-neukundenbonus-120eur-werbepramie-ohne-schufa-2757708",
+      "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-depths-of-horror-mushroom-day-kostenlos-2757931",
+      "ts": 1775427630000
     }
   ]
 }
