@@ -2,7 +2,7 @@
   "date": "2026-04-05",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/cb-45-pk1-3-der-nussknacker-grand-classic-ballet-14112026-bis-23012027-mehrere-stadte-zb-berlin-koln-nurnberg-stuttgart-2757449",
     "mydealz|https://www.mydealz.de/deals/nintendo-eshop-burnout-paradise-remastered-509eur-nintendo-switch-jpn-276eur-2757415",
     "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-bei-aliexpress-mit-gutscheincode-idealocd4-2757435",
-    "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447"
+    "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447",
+    "mydealz|https://www.mydealz.de/deals/killtec-damen-softshelljacke-kos-122-blau-wasser-winddicht-10000mm-atmungsaktiv-all-over-print-2999eur-499eur-versand-2755052",
+    "mydealz|https://www.mydealz.de/deals/ml2u-51-ml2u-394-cyber-tactical-wearos-watchfacegoogle-play-store-2757557",
+    "mydealz|https://www.mydealz.de/deals/the-north-face-quest-wasserdichte-isolierjacke-fur-herren-grosse-xs-xxl-2719627",
+    "mydealz|https://www.mydealz.de/deals/preisfehler-solakon-solarmodul-500w-bifaziales-monokristallines-solarpanel-40v-photovoltaik-fur-balkonkraftwerk-pv-anlage-4-stuck-2757718",
+    "mydealz|https://www.mydealz.de/deals/loewe-klang-multiroom-speakers-loewe-klang-mr1-fur-109eur-mr3-fur-209eur-und-mr5-fur-269eur-kaufland-amazon-2757658"
   ],
   "postedHistory": [
     {
