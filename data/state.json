@@ -1,11 +1,18 @@
 {
   "date": "2026-04-05",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/tiefpreise-apple-iphone-17e-256gb-a19-chip-48-mp-kamera-61-zoll-oled-0-finanzierung-zb-in-weiss-mit-cb-57745eur-ohne-cb-608eur-2757567",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-14-pro-8256-gb-5g-smartphone-black-nfc-667-zoll-120-hz-15-k-display-200-mp-kamera-45-w-5100-mah-2745094",
+    "mydealz|https://www.mydealz.de/deals/cb-45-pk1-3-der-nussknacker-grand-classic-ballet-14112026-bis-23012027-mehrere-stadte-zb-berlin-koln-nurnberg-stuttgart-2757449",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-burnout-paradise-remastered-509eur-nintendo-switch-jpn-276eur-2757415",
+    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-bei-aliexpress-mit-gutscheincode-idealocd4-2757435",
+    "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/sid-meiers-civilization-vii-switch-fur-2499eur-oder-playstation-5-xbox-series-x-fur-2699eur-amazon-prime-media-markt-abholung-2753448",
