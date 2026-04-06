@@ -1,11 +1,18 @@
 {
   "date": "2026-04-06",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
+    "mydealz|https://www.mydealz.de/deals/bresser-5-in-1-beaufort-funk-wetterstation-mit-aussensensor-sensor-fur-temperatur-luftfeuchtigkeit-luftdruck-windrichtung-regenmesser-2714567",
+    "mydealz|https://www.mydealz.de/deals/neuer-db-flinkster-wochenendtarief-und-gutscheine-bei-anmeldung-2757042",
+    "mydealz|https://www.mydealz.de/deals/5-1-liter-castrol-edge-5w-30-ll-longlife-motorol-bei-globus-fur-4499-euro-mit-bauhaus-tpg-fur-3559-euro-bauhaus-tpg-2758106",
+    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-sodastream-co2-zylinder-fur-wassersprudler-quick-connect-system-2754159",
+    "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
