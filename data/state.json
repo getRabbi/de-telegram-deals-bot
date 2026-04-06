@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/neuer-db-flinkster-wochenendtarief-und-gutscheine-bei-anmeldung-2757042",
     "mydealz|https://www.mydealz.de/deals/5-1-liter-castrol-edge-5w-30-ll-longlife-motorol-bei-globus-fur-4499-euro-mit-bauhaus-tpg-fur-3559-euro-bauhaus-tpg-2758106",
     "mydealz|https://www.mydealz.de/deals/amazon-sparabo-sodastream-co2-zylinder-fur-wassersprudler-quick-connect-system-2754159",
-    "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066"
+    "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066",
+    "mydealz|https://www.mydealz.de/deals/toom-bottrop-ua-emos-p08215-gummi-kabeltrommel-15m-mit-led-strahler-2758107",
+    "mydealz|https://www.mydealz.de/deals/momax-hangesessel-laura-grauschwarz-fur-9675eur-inkl-gestell-kissen-2758243",
+    "mydealz|https://www.mydealz.de/deals/vasagle-kuchenregal-stehend-mit-6-regalebenen-und-6-haken-80-x-40-x-167-cm-21-kg-bis-zu-90-kg-belastbar-2758204",
+    "mydealz|https://www.mydealz.de/deals/lacoste-family-friends-sale-40-auf-uber-3000-artikel-darunter-l1212-jacken-pullover-uvm-2758105"
   ],
   "postedHistory": [
     {
