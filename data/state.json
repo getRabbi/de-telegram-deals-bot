@@ -1,127 +1,12 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
-    "mydealz|https://www.mydealz.de/deals/bresser-5-in-1-beaufort-funk-wetterstation-mit-aussensensor-sensor-fur-temperatur-luftfeuchtigkeit-luftdruck-windrichtung-regenmesser-2714567",
-    "mydealz|https://www.mydealz.de/deals/neuer-db-flinkster-wochenendtarief-und-gutscheine-bei-anmeldung-2757042",
-    "mydealz|https://www.mydealz.de/deals/5-1-liter-castrol-edge-5w-30-ll-longlife-motorol-bei-globus-fur-4499-euro-mit-bauhaus-tpg-fur-3559-euro-bauhaus-tpg-2758106",
-    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-sodastream-co2-zylinder-fur-wassersprudler-quick-connect-system-2754159",
-    "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066",
-    "mydealz|https://www.mydealz.de/deals/toom-bottrop-ua-emos-p08215-gummi-kabeltrommel-15m-mit-led-strahler-2758107",
-    "mydealz|https://www.mydealz.de/deals/momax-hangesessel-laura-grauschwarz-fur-9675eur-inkl-gestell-kissen-2758243",
-    "mydealz|https://www.mydealz.de/deals/vasagle-kuchenregal-stehend-mit-6-regalebenen-und-6-haken-80-x-40-x-167-cm-21-kg-bis-zu-90-kg-belastbar-2758204",
-    "mydealz|https://www.mydealz.de/deals/lacoste-family-friends-sale-40-auf-uber-3000-artikel-darunter-l1212-jacken-pullover-uvm-2758105"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/frosted-games-brettspiele-sammelthread-viele-bestpreise-vsk-frei-ab-80eur-zb-frostpunk-aeons-end-das-unbewusste-townsfolk-tussle-2754037",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/renovo-dauerschutz-lasur-plus-abverkaufhagebau-betzdorf-2753814",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/giant-propel-advanced-2-aero-carbon-rennrad-2026-shimano-105-2753945",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/voggenreiter-blockflote-aus-kunststoff-deutsche-griffweise-mit-flute-master-app-2753889",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-magenta-moments-5eur-rabatt-auf-zubehor-im-telekom-shop-2754016",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dusseldorf-antalya-direkt-flug-inkl-gepack-hin-zuruck-fur-89eur-im-juni-2753920",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kfc-app-deals-10-crispys-10eur-zinger-original-veggie-299eur-2754091",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-leder-case-magsafe-iphone-14-plus-umbra-braun-2754044",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-motorola-signature-512gb-im-allnetsms-flat-55gb-5g-fur-2999eurmonat-59eur-75eur-cash-charger-120eur-ohne-gk-2754094",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gourmetmaxx-wasserkocher-edlstahl-1800w-fur-799-euro-globus-mit-globus-karte-2754114",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hp-probook-440-g6-14-laptop-intel-i5-8265u-16gb-ram-aufrustbar-m2-nvme-ssd-usb-c-hdmi-lan-refurbished-notebook-2723522",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/endet-heute-kaminofen-rika-cool-6kw-dekor-rosteffekt-mit-kochplatte-und-bimschv-2-158692-eur-bei-vorkasse-3-skonto-2754299",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gravel-bike-pinarello-grevil-f9-shimano-grx-di2-princeton-lrs-855kg-2754290",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/new-york-ab-658eur-in-der-level-premium-economy-von-d-a-ch-zzgl-gepack-chance-auf-lie-flat-sitze-2754293",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/100eur-bonus-fur-naga-depot-uber-spartanien-250eur-einzahlung-und-mehrere-trades-notig-2754291",
-      "ts": 1774822836071
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/liqui-moly-diesel-additiv-und-benzin-injektionen-reiniger-2752125",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nische-kronenberg-sensorische-kinder-hangeschaukel-weich-atmungsaktiv-bis-90-kg-bei-adhs-autismus-sensorischen-problemen-2754311",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/mammutmarsch-10-rabatt-eure-nachte-wanderung-2750773",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-haribo-fruchtgummi-verschiedene-sorten-150-175gr-beutel-2754277",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/27-auf-fast-alles-zb-nike-air-force-1-low-retro-premium-triple-white-bomber-grey-farben-siehe-dealtext-2754455",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-napoleon-rogue-pro-s-525-gasgrill-inkl-abdeckhaube-2754509",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-the-frame-55-zoll-2025-zum-fast-bestpreis-bei-otto-fur-65999-eur-2754609",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenlose-tube-dichtmittel-nach-hause-quilosa-ms-35-total-2754645",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/5-euro-gutschein-fur-eezynrw-opnv-2754600",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/a-way-out-539eur-ps4-co-op-spiel-playstation-psn-store-2754619",
-      "ts": 1774909521728
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bplatzdeloox-french-avenue-amber-empire-extrait-de-parfum-100ml-ahnlich-clive-christian-blonde-amber-o-deloox-3089eur-2754625",
-      "ts": 1774909521728
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
       "ts": 1774995900679
@@ -481,6 +366,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-depths-of-horror-mushroom-day-kostenlos-2757931",
       "ts": 1775427630000
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bresser-5-in-1-beaufort-funk-wetterstation-mit-aussensensor-sensor-fur-temperatur-luftfeuchtigkeit-luftdruck-windrichtung-regenmesser-2714567",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neuer-db-flinkster-wochenendtarief-und-gutscheine-bei-anmeldung-2757042",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/5-1-liter-castrol-edge-5w-30-ll-longlife-motorol-bei-globus-fur-4499-euro-mit-bauhaus-tpg-fur-3559-euro-bauhaus-tpg-2758106",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-sodastream-co2-zylinder-fur-wassersprudler-quick-connect-system-2754159",
+      "ts": 1775514350417
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toom-bottrop-ua-emos-p08215-gummi-kabeltrommel-15m-mit-led-strahler-2758107",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/momax-hangesessel-laura-grauschwarz-fur-9675eur-inkl-gestell-kissen-2758243",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vasagle-kuchenregal-stehend-mit-6-regalebenen-und-6-haken-80-x-40-x-167-cm-21-kg-bis-zu-90-kg-belastbar-2758204",
+      "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lacoste-family-friends-sale-40-auf-uber-3000-artikel-darunter-l1212-jacken-pullover-uvm-2758105",
+      "ts": 1775514350417
     }
   ]
 }
