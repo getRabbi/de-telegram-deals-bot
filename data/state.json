@@ -2,7 +2,7 @@
   "date": "2026-04-07",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
     "mydealz|https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
     "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
-    "mydealz|https://www.mydealz.de/deals/iniu-powerbank-10000mah-225w-nur-1833eur-statt-2999eur-39-2758737"
+    "mydealz|https://www.mydealz.de/deals/iniu-powerbank-10000mah-225w-nur-1833eur-statt-2999eur-39-2758737",
+    "mydealz|https://www.mydealz.de/deals/oral-b-io-serie-5-zahnburste-2758710",
+    "mydealz|https://www.mydealz.de/deals/muhle-glashuttesa-teutonia-iv-lady-2758573",
+    "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-shimano-105-di2-carbon-rennrad-83kg-2758682",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-zypern-paphos-larnaca-ab-99eur-inkl-ruckflug-von-berlin-weeze-memmingen-koln-wien-ryanair-jul-2758703",
+    "mydealz|https://www.mydealz.de/deals/wiim-mini-airplay-2-macht-lautsprecher-spotify-und-airplay-fahig-2758472"
   ],
   "postedHistory": [
     {
