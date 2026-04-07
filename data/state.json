@@ -1,11 +1,18 @@
 {
   "date": "2026-04-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/xbox-forza-horizon-6-kostenloser-1966-toyota-sports-800-fanta-edition-2758246",
+    "mydealz|https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473",
+    "mydealz|https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
+    "mydealz|https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
+    "mydealz|https://www.mydealz.de/deals/iniu-powerbank-10000mah-225w-nur-1833eur-statt-2999eur-39-2758737"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
