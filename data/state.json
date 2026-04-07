@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/xbox-forza-horizon-6-kostenloser-1966-toyota-sports-800-fanta-edition-2758246",
-    "mydealz|https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473",
-    "mydealz|https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
-    "mydealz|https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
-    "mydealz|https://www.mydealz.de/deals/iniu-powerbank-10000mah-225w-nur-1833eur-statt-2999eur-39-2758737",
-    "mydealz|https://www.mydealz.de/deals/oral-b-io-serie-5-zahnburste-2758710",
-    "mydealz|https://www.mydealz.de/deals/muhle-glashuttesa-teutonia-iv-lady-2758573",
-    "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-shimano-105-di2-carbon-rennrad-83kg-2758682",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-zypern-paphos-larnaca-ab-99eur-inkl-ruckflug-von-berlin-weeze-memmingen-koln-wien-ryanair-jul-2758703",
-    "mydealz|https://www.mydealz.de/deals/wiim-mini-airplay-2-macht-lautsprecher-spotify-und-airplay-fahig-2758472",
-    "mydealz|https://www.mydealz.de/deals/becks-oder-san-miguel-6x033-l-trager-2758350",
-    "mydealz|https://www.mydealz.de/deals/a-pple-watch-band-milanaise-armband-49-mm-titan-2758708",
-    "mydealz|https://www.mydealz.de/deals/smallrig-6028-advanced-hawklock-cage-kit-for-sony-alpha-7-v7r-v7-iv-2758783",
-    "mydealz|https://www.mydealz.de/deals/blu-apartments-wellness-familienzeit-auszeit-im-polnischen-ostseebad-wellness-familienzeit-deine-auszeit-im-polnischen-ostseebad-2758785"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-md-aral-supercard-uber-5-eur-gratis-ab-75-mew-2754742",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/target-nathan-aspinall-darts-2754716",
-      "ts": 1774995900679
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/rossmann-20-rabatt-auf-isana-mit-coupon-ohne-app-2754779",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neuzugang-im-xbox-game-pass-14-april-hades-ii-2754786",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-neupreis-539eur-2755024",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/30-rabatt-bei-joola-tischtennis-2751680",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thalia-3-fur-2-auf-ausgewahlte-lego-sets-2754997",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/segway-navimow-i208-lidar-inklusive-garage-2754950",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-48-c5-oled-tv-50eur-lg-cashback-10-fach-payback-s60tr-sb-verkauf-66845eur-effektiv-2754978",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bavaria-weiss-blau-kasten-bei-netto-statt-1349-eur-nur-849-eur-mit-barcode-2754873",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/alldocube-iplay-70-mini-ultra-88-zoll-android-14-tablet-snapdragon-7-gen-3-12256-gb-sd-karte-slot-144-hz-gaming-tablet-7300-mah-neukunde-2754711",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aktive-auszeit-in-osterreich-ab-1-un-4-sporthotel-radstadt-inkl-fruhstuck-zugang-zum-erlebnis-freibad-ab-102eur-fur-2-personen-2755112",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/gratis-versand-bei-atu-2755154",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmc-twostroke-al-20-grun-zum-knallerpreis-2755160",
-      "ts": 1774995900679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-black-keys-no-rain-no-flowers-green-vinyl-lp-edition-2755164",
-      "ts": 1774995900679
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
       "ts": 1775082448778
@@ -422,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lacoste-family-friends-sale-40-auf-uber-3000-artikel-darunter-l1212-jacken-pullover-uvm-2758105",
       "ts": 1775514350417
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xbox-forza-horizon-6-kostenloser-1966-toyota-sports-800-fanta-edition-2758246",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dnp-ds-620-150eur-rabatt-2758473",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brawl-stars-geschenkejagd-2758340",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/unbreakable-unzerbrechlich-itunes-4k-dolby-vision-2757469",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5700x-prozessor-8c16t-340-460ghz-tray-2758495",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iniu-powerbank-10000mah-225w-nur-1833eur-statt-2999eur-39-2758737",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oral-b-io-serie-5-zahnburste-2758710",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muhle-glashuttesa-teutonia-iv-lady-2758573",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-shimano-105-di2-carbon-rennrad-83kg-2758682",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-zypern-paphos-larnaca-ab-99eur-inkl-ruckflug-von-berlin-weeze-memmingen-koln-wien-ryanair-jul-2758703",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wiim-mini-airplay-2-macht-lautsprecher-spotify-und-airplay-fahig-2758472",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/becks-oder-san-miguel-6x033-l-trager-2758350",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/a-pple-watch-band-milanaise-armband-49-mm-titan-2758708",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/smallrig-6028-advanced-hawklock-cage-kit-for-sony-alpha-7-v7r-v7-iv-2758783",
+      "ts": 1775600921439
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/blu-apartments-wellness-familienzeit-auszeit-im-polnischen-ostseebad-wellness-familienzeit-deine-auszeit-im-polnischen-ostseebad-2758785",
+      "ts": 1775600921440
     }
   ]
 }
