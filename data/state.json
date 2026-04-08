@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemuse-und-schalmesser-set-2-teilig-gerade-und-wellenschliff-extra-scharf-8-cm-schwarz-oder-rot-prime-2758349",
     "mydealz|https://www.mydealz.de/deals/parkside-digital-heissluftgeblase-phlgd-2000-d5-fur-1499eur-595eur-vsk-2759243",
     "mydealz|https://www.mydealz.de/deals/lego-11370-stranger-things-the-creel-house-cdiscount-neukunde-2759051",
-    "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090"
+    "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090",
+    "mydealz|https://www.mydealz.de/deals/ikea-leipzig-20-euro-coupon-bei-einkauf-ab-150-euro-einkaufswert-ab-0105-2758270",
+    "mydealz|https://www.mydealz.de/deals/ortlieb-vario-ps-einzeltasche-high-visibility-ql2-wasserdicht-ortlieb-quick-lock-21-26-liter-volumen-gewicht-1200-g-2759341",
+    "mydealz|https://www.mydealz.de/deals/idiocracy-2006-dvd-at-via-kultklub-18-gutschein-neukunden-einige-altkunden-2759265",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-chants-of-sennaar-fur-switch-metacritic-84-85-nor-1053eur-2732022"
   ],
   "postedHistory": [
     {
