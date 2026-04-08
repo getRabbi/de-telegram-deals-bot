@@ -1,11 +1,18 @@
 {
   "date": "2026-04-08",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
+    "mydealz|https://www.mydealz.de/deals/esprit-herren-jacke-blouson-fur-2489-eur-m-xxl-2759057",
+    "mydealz|https://www.mydealz.de/deals/waldorf-protein-wavetable-synthesizer-2759045",
+    "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-bratwurst-500g-perfekt-fur-kleine-osterfeuer-2758985",
+    "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-pkm-liga-kampfdeck-rockets-mewtu-pokemon-2758946",
+    "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
