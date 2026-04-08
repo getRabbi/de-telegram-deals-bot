@@ -2,7 +2,7 @@
   "date": "2026-04-08",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/waldorf-protein-wavetable-synthesizer-2759045",
     "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-bratwurst-500g-perfekt-fur-kleine-osterfeuer-2758985",
     "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-pkm-liga-kampfdeck-rockets-mewtu-pokemon-2758946",
-    "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970"
+    "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-tirana-albanien-ab-51eur-inkl-ruckflug-von-weeze-ryanair-malta-air-apr-jun-2759231",
+    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemuse-und-schalmesser-set-2-teilig-gerade-und-wellenschliff-extra-scharf-8-cm-schwarz-oder-rot-prime-2758349",
+    "mydealz|https://www.mydealz.de/deals/parkside-digital-heissluftgeblase-phlgd-2000-d5-fur-1499eur-595eur-vsk-2759243",
+    "mydealz|https://www.mydealz.de/deals/lego-11370-stranger-things-the-creel-house-cdiscount-neukunde-2759051",
+    "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090"
   ],
   "postedHistory": [
     {
