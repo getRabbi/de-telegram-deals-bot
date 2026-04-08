@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
-    "mydealz|https://www.mydealz.de/deals/esprit-herren-jacke-blouson-fur-2489-eur-m-xxl-2759057",
-    "mydealz|https://www.mydealz.de/deals/waldorf-protein-wavetable-synthesizer-2759045",
-    "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-bratwurst-500g-perfekt-fur-kleine-osterfeuer-2758985",
-    "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-pkm-liga-kampfdeck-rockets-mewtu-pokemon-2758946",
-    "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-tirana-albanien-ab-51eur-inkl-ruckflug-von-weeze-ryanair-malta-air-apr-jun-2759231",
-    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemuse-und-schalmesser-set-2-teilig-gerade-und-wellenschliff-extra-scharf-8-cm-schwarz-oder-rot-prime-2758349",
-    "mydealz|https://www.mydealz.de/deals/parkside-digital-heissluftgeblase-phlgd-2000-d5-fur-1499eur-595eur-vsk-2759243",
-    "mydealz|https://www.mydealz.de/deals/lego-11370-stranger-things-the-creel-house-cdiscount-neukunde-2759051",
-    "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090",
-    "mydealz|https://www.mydealz.de/deals/ikea-leipzig-20-euro-coupon-bei-einkauf-ab-150-euro-einkaufswert-ab-0105-2758270",
-    "mydealz|https://www.mydealz.de/deals/ortlieb-vario-ps-einzeltasche-high-visibility-ql2-wasserdicht-ortlieb-quick-lock-21-26-liter-volumen-gewicht-1200-g-2759341",
-    "mydealz|https://www.mydealz.de/deals/idiocracy-2006-dvd-at-via-kultklub-18-gutschein-neukunden-einige-altkunden-2759265",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-chants-of-sennaar-fur-switch-metacritic-84-85-nor-1053eur-2732022"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nike-air-max-laufschuhe-sneakers-fur-3589-eur-nur-noch-in-36-2755385",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3x-home-affaire-bettwasche-2-teilig-155-cm-x-220-cm-fur-2889-eur-2755380",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammel-deal-puzzle-sets-amazon-prime-avangersharry-potteryu-gi-ohdragonball-zpeanutsmonsterpaw-patrol-usw-2755322",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/finanzennet-zero-neukundenaktion-zur-depoteroffnung-50eur-lufthansa-aktie-2x-amundi-msci-world-etf-2755286",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yaber-t2-beamer-mit-jbl-sound-und-akku-wifi-6-bluetooth-native-1080p-fhd-tragbarer-projektor-fur-innen-u-ausseneinsatz-2755598",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-15-trikot-spanien-heim-auswarts-des-europameister-der-em-2024-2755012",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wheelox-carvival-kostenloses-rennspiel-fur-xbox-one-xbox-series-xs-pc-2755560",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-marvel-super-heroes-76354-shield-helicarrier-vorbestellung-fur-01062026-2755507",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-store-dyson-v15-detect-absolute-kabelloser-staubsauger-generaluberholt-12-monate-garantie-12-m-ebay-zusatzschutz-gratis-2755551",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-jjimarco-jjdave-sa-navy-blazer-2730-bis-3636-fur-1519eur-primeotto-flatquelle-2744656",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asrock-radeon-rx-9070-xt-steel-legend-15-cashback-63095eur-effektiv-2755706",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-hessenring-800ml-flasche-hela-gewurzketchup-in-verschiedenen-sorten-ab-3003-040826-2755682",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/grundig-fry-7320-heissluftfritteuse-76l-1750w-touchdisplay-sichtfenster-80-200c-joybuy-2755658",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asus-usb-bt540-bluetooth-54-dongle-adapter-kompatibel-mit-windows-linux-bis-zu-7-gerate-fur-pc-und-laptop-plug-play-ble-prime-2755475",
-      "ts": 1775082448778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/trinkgut-essen-haedenkampstr-kasten-einbecker-winterbock-fur-5eur-2755690",
-      "ts": 1775082448778
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
       "ts": 1775168588236
@@ -422,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/blu-apartments-wellness-familienzeit-auszeit-im-polnischen-ostseebad-wellness-familienzeit-deine-auszeit-im-polnischen-ostseebad-2758785",
       "ts": 1775600921440
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/esprit-herren-jacke-blouson-fur-2489-eur-m-xxl-2759057",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/waldorf-protein-wavetable-synthesizer-2759045",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-bratwurst-500g-perfekt-fur-kleine-osterfeuer-2758985",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-pkm-liga-kampfdeck-rockets-mewtu-pokemon-2758946",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-tirana-albanien-ab-51eur-inkl-ruckflug-von-weeze-ryanair-malta-air-apr-jun-2759231",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemuse-und-schalmesser-set-2-teilig-gerade-und-wellenschliff-extra-scharf-8-cm-schwarz-oder-rot-prime-2758349",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-digital-heissluftgeblase-phlgd-2000-d5-fur-1499eur-595eur-vsk-2759243",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-11370-stranger-things-the-creel-house-cdiscount-neukunde-2759051",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-leipzig-20-euro-coupon-bei-einkauf-ab-150-euro-einkaufswert-ab-0105-2758270",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ortlieb-vario-ps-einzeltasche-high-visibility-ql2-wasserdicht-ortlieb-quick-lock-21-26-liter-volumen-gewicht-1200-g-2759341",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/idiocracy-2006-dvd-at-via-kultklub-18-gutschein-neukunden-einige-altkunden-2759265",
+      "ts": 1775687393578
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-chants-of-sennaar-fur-switch-metacritic-84-85-nor-1053eur-2732022",
+      "ts": 1775687393578
     }
   ]
 }
