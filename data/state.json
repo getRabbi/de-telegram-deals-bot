@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/prime-anker-zolo-powerbank-2025-upgrade-20000mah-30w-high-speed-ladegerat-mit-integriertem-usb-c-kabel-2757103",
     "mydealz|https://www.mydealz.de/deals/prime-gorenje-optibake-bos6737-e02b-einbau-backofen-77l-aquacleanheissluftairfrygrillpizzamode-300cschwarz-energieklasse-a-2759655",
     "mydealz|https://www.mydealz.de/deals/sky-extra-ostergeschenk-leihfilm-geschenkt-osterei-finden-2759701",
-    "mydealz|https://www.mydealz.de/deals/oster-sammeldeal-mit-amazon-verlosung-spiele-ab-16-cent-bis-maximal-2eur-bis-zu-90-rabatt-steam-playstation-xbox-nintendo-switch-2759690"
+    "mydealz|https://www.mydealz.de/deals/oster-sammeldeal-mit-amazon-verlosung-spiele-ab-16-cent-bis-maximal-2eur-bis-zu-90-rabatt-steam-playstation-xbox-nintendo-switch-2759690",
+    "mydealz|https://www.mydealz.de/deals/harry-samys-super-sandwich-penny-app-2759650",
+    "mydealz|https://www.mydealz.de/deals/sks-rennkompressor-standpumpe-sv-ventile-2759785",
+    "mydealz|https://www.mydealz.de/deals/sony-wf-c510-bluetooth-in-ear-kopfhorer-prime-2742188",
+    "mydealz|https://www.mydealz.de/deals/gooloo-4000a-starthilfe-powerbank-20000mah-starthilfe-booster-fur-autos-externe-12v-batterie-starthilfegerat-fur-benzin-und-dieselmotoren-2759715"
   ],
   "postedHistory": [
     {
