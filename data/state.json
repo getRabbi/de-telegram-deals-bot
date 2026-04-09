@@ -1,11 +1,18 @@
 {
   "date": "2026-04-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
+    "mydealz|https://www.mydealz.de/deals/decathlon-wanderrucksack-wandern-mh500-38-l-khaki-2759492",
+    "mydealz|https://www.mydealz.de/deals/freitickets-fur-automechanika-frankfurt-am-main-0809-12092026-2759483",
+    "mydealz|https://www.mydealz.de/deals/new-balance-kinder-sneakers-323-blau-fur-2090-eur-36-40-2759498",
+    "mydealz|https://www.mydealz.de/deals/calvin-klein-herren-3er-packung-slips-baumwolle-schwarz-fur-2089-eur-nur-noch-in-m-und-l-2759512",
+    "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-lokal-expert-2759608"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ooni-halo-pro-spiralknetmaschine-2755827",
