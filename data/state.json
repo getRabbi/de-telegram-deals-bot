@@ -2,7 +2,7 @@
   "date": "2026-04-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/freitickets-fur-automechanika-frankfurt-am-main-0809-12092026-2759483",
     "mydealz|https://www.mydealz.de/deals/new-balance-kinder-sneakers-323-blau-fur-2090-eur-36-40-2759498",
     "mydealz|https://www.mydealz.de/deals/calvin-klein-herren-3er-packung-slips-baumwolle-schwarz-fur-2089-eur-nur-noch-in-m-und-l-2759512",
-    "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-lokal-expert-2759608"
+    "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-lokal-expert-2759608",
+    "mydealz|https://www.mydealz.de/deals/gratis-eintritt-zur-messe-make-to-order-days-inkl-vvs-regional-stuttgart-2759679",
+    "mydealz|https://www.mydealz.de/deals/prime-anker-zolo-powerbank-2025-upgrade-20000mah-30w-high-speed-ladegerat-mit-integriertem-usb-c-kabel-2757103",
+    "mydealz|https://www.mydealz.de/deals/prime-gorenje-optibake-bos6737-e02b-einbau-backofen-77l-aquacleanheissluftairfrygrillpizzamode-300cschwarz-energieklasse-a-2759655",
+    "mydealz|https://www.mydealz.de/deals/sky-extra-ostergeschenk-leihfilm-geschenkt-osterei-finden-2759701",
+    "mydealz|https://www.mydealz.de/deals/oster-sammeldeal-mit-amazon-verlosung-spiele-ab-16-cent-bis-maximal-2eur-bis-zu-90-rabatt-steam-playstation-xbox-nintendo-switch-2759690"
   ],
   "postedHistory": [
     {
