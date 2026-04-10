@@ -1,11 +1,18 @@
 {
   "date": "2026-04-10",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/deuter-gogo-ltd-rucksack-5-farben-zum-tiefpreis-2759776",
+    "mydealz|https://www.mydealz.de/deals/asics-japan-s-sneakers-damen-weiss-cool-matcha-fur-2590-eur-37-435-2759933",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-chino-hose-beige-fur-1589-eur-nur-noch-in-w32-l34-2759939",
+    "mydealz|https://www.mydealz.de/deals/amazon-products-fleece-weste-blau-fur-890-eur-nur-noch-in-4xl-2759924",
+    "mydealz|https://www.mydealz.de/deals/papercal-kostenlos-kalender-fur-ios-ipados-macos-watchos-2759921",
+    "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
