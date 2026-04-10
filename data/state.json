@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/deuter-gogo-ltd-rucksack-5-farben-zum-tiefpreis-2759776",
-    "mydealz|https://www.mydealz.de/deals/asics-japan-s-sneakers-damen-weiss-cool-matcha-fur-2590-eur-37-435-2759933",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-chino-hose-beige-fur-1589-eur-nur-noch-in-w32-l34-2759939",
-    "mydealz|https://www.mydealz.de/deals/amazon-products-fleece-weste-blau-fur-890-eur-nur-noch-in-4xl-2759924",
-    "mydealz|https://www.mydealz.de/deals/papercal-kostenlos-kalender-fur-ios-ipados-macos-watchos-2759921",
-    "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140",
-    "mydealz|https://www.mydealz.de/deals/6er-portofino-herren-boxershorts-baumwolle-schwarz-fur-2489-eur-s-xxl-2760162",
-    "mydealz|https://www.mydealz.de/deals/sonos-sub-4-2755282",
-    "mydealz|https://www.mydealz.de/deals/pura-vida-kniffliges-plattchenlegespiel-piatnik-2-4-spieler-familienspiel-naturthema-amazon-prime-2757735",
-    "mydealz|https://www.mydealz.de/deals/lg-rt80b2-warmepumpentrockner-8-kg-warmepumpentechnologie-led-display-startzeitvorwahl-kindersicherung-mediamarktsaturn-2758586",
-    "mydealz|https://www.mydealz.de/deals/cock-currypaste-grun-sehr-scharf-400-g-288eur-moglich-authentisch-thailandisch-kochen-naturliche-zutaten-spar-abo-prime-2760147",
-    "mydealz|https://www.mydealz.de/deals/12x-crosshatch-herren-astral-pack-boxershorts-baumwolle-schwarz-fur-3589-eur-s-xxl-2760409",
-    "mydealz|https://www.mydealz.de/deals/3x-jack-jones-polo-shirt-herren-baumwolle-fur-2889-eur-m-xl-2760419",
-    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-jeans-polo-shirt-damen-baumwolle-rot-fur-1889-eur-m-xl-2760171",
-    "mydealz|https://www.mydealz.de/deals/amazon-essentials-stretch-herren-shorts-blau-fur-890-eur-nur-noch-in-36-2760407"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kanaren-kreuzfahrt-7-tage-ab-civitavecchia-rom-bis-santa-cruz-teneriffa-inkl-vp-bordguthaben-innenkabine-289eur-aussenkabine-369eurpp-2756243",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/privatleasingcupra-formentor-e-hybrid-vz-black-edition272psforderf24-mon10000kmjahr229eurm269eurunloylf-038blp-58620eff-292eur-2756217",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vegane-angebote-im-supermarkt-kw14-ab-3003-2756225",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neff-varioclip-z11ti15x0-auszugsystem-1-paar-2756236",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-deleycon-45w-dualport-ladegerat-usbc-45w-usba-12w-pd-30-schnellladen-fur-iphone-171615-uvm-weiss-2749355",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aberlour-2012-13-j-moscatel-cask-cs-dram-collection-573-morrison-single-malt-scotch-whisky-whiskybase-8650-2756418",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/heitmann-kaffeemaschinen-entkalker-fur-kaffeevollautomaten-siebtrager-pad-und-kapselmaschinen-250-ml-farblos-prime-im-sparabo-nur-233eur-2756420",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-movenpick-cafe-crema-1kg-2756423",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/odol-med3-original-oder-minzfrisch-zahnpasta-mit-3in1-schutz-fur-starke-zahne-gesundes-zahnfleisch-und-frischen-atem-75-ml-spar-abo-prime-2756439",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-proraso-after-shave-lotion-nourishing-100-ml-aftershave-fur-manner-mit-sandelholz-shea-ol-made-in-italy-2756422",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/byd-atto-3-evoneues-modell313ps510km-wltp800v6-j-garantiepanoramaleder360kamsitzbeluftungelek-sitzeshzehkdt-neufahr-mit-tz-2756593",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mydealz-x-systemtreff-2755109",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gawfolk-27-qhd-ips-monitor-120-hz-1-ms-99-srgb-hdr10-vesa-1x-9999eur-2x-14998eur-stuck-7499eur-2756583",
-      "ts": 1775254966655
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kodi-meridol-mundspulung-400ml-2756457",
-      "ts": 1775254966655
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-plus-yogamehome-yoga-entspannung-40-tage-kostenlos-nutzen-kein-abo-keine-automatische-verlangerung-lidl-plus-kunden-2756522",
-      "ts": 1775254966655
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-sinn-u1-full-tegiment-44x14mm-1000m-wadi-4hz-40hr-2756998",
       "ts": 1775341153367
@@ -422,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gooloo-4000a-starthilfe-powerbank-20000mah-starthilfe-booster-fur-autos-externe-12v-batterie-starthilfegerat-fur-benzin-und-dieselmotoren-2759715",
       "ts": 1775773918566
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deuter-gogo-ltd-rucksack-5-farben-zum-tiefpreis-2759776",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asics-japan-s-sneakers-damen-weiss-cool-matcha-fur-2590-eur-37-435-2759933",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-chino-hose-beige-fur-1589-eur-nur-noch-in-w32-l34-2759939",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-products-fleece-weste-blau-fur-890-eur-nur-noch-in-4xl-2759924",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/papercal-kostenlos-kalender-fur-ios-ipados-macos-watchos-2759921",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/6er-portofino-herren-boxershorts-baumwolle-schwarz-fur-2489-eur-s-xxl-2760162",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sonos-sub-4-2755282",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pura-vida-kniffliges-plattchenlegespiel-piatnik-2-4-spieler-familienspiel-naturthema-amazon-prime-2757735",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-rt80b2-warmepumpentrockner-8-kg-warmepumpentechnologie-led-display-startzeitvorwahl-kindersicherung-mediamarktsaturn-2758586",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cock-currypaste-grun-sehr-scharf-400-g-288eur-moglich-authentisch-thailandisch-kochen-naturliche-zutaten-spar-abo-prime-2760147",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/12x-crosshatch-herren-astral-pack-boxershorts-baumwolle-schwarz-fur-3589-eur-s-xxl-2760409",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-jack-jones-polo-shirt-herren-baumwolle-fur-2889-eur-m-xl-2760419",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-jeans-polo-shirt-damen-baumwolle-rot-fur-1889-eur-m-xl-2760171",
+      "ts": 1775860014460
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-essentials-stretch-herren-shorts-blau-fur-890-eur-nur-noch-in-36-2760407",
+      "ts": 1775860014460
     }
   ]
 }
