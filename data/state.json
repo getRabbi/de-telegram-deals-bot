@@ -2,7 +2,7 @@
   "date": "2026-04-10",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/jack-jones-herren-chino-hose-beige-fur-1589-eur-nur-noch-in-w32-l34-2759939",
     "mydealz|https://www.mydealz.de/deals/amazon-products-fleece-weste-blau-fur-890-eur-nur-noch-in-4xl-2759924",
     "mydealz|https://www.mydealz.de/deals/papercal-kostenlos-kalender-fur-ios-ipados-macos-watchos-2759921",
-    "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140"
+    "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140",
+    "mydealz|https://www.mydealz.de/deals/6er-portofino-herren-boxershorts-baumwolle-schwarz-fur-2489-eur-s-xxl-2760162",
+    "mydealz|https://www.mydealz.de/deals/sonos-sub-4-2755282",
+    "mydealz|https://www.mydealz.de/deals/pura-vida-kniffliges-plattchenlegespiel-piatnik-2-4-spieler-familienspiel-naturthema-amazon-prime-2757735",
+    "mydealz|https://www.mydealz.de/deals/lg-rt80b2-warmepumpentrockner-8-kg-warmepumpentechnologie-led-display-startzeitvorwahl-kindersicherung-mediamarktsaturn-2758586",
+    "mydealz|https://www.mydealz.de/deals/cock-currypaste-grun-sehr-scharf-400-g-288eur-moglich-authentisch-thailandisch-kochen-naturliche-zutaten-spar-abo-prime-2760147"
   ],
   "postedHistory": [
     {
