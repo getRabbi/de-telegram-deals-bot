@@ -1,11 +1,18 @@
 {
   "date": "2026-04-11",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/grunes-wunder-von-der-weser-werder-trikot-heim-2526-fur-unter-3000-eur-2760655",
+    "mydealz|https://www.mydealz.de/deals/ugreen-shoop-10-cashback-bis-zu-45-rabatt-auf-ladegerate-powerbanks-hubs-2744731",
+    "mydealz|https://www.mydealz.de/deals/tv-horen-und-sehen-6-monatsabo-26-ausgaben-fur-8450-eur-mit-80-eur-bestchoice-gutschein-2734344",
+    "mydealz|https://www.mydealz.de/deals/tchibo-payback-10fach-punkte-coupon-2760550",
+    "mydealz|https://www.mydealz.de/deals/busch-muller-lumotec-iq-x-dynamo-scheinwerfer-2760215",
+    "mydealz|https://www.mydealz.de/deals/dd-living-crino-getrankekistenregal-fur-6-kisten-25-mm-vierkantrohr-hohenverstellbare-fusse-3210583-cm-amazon-prime-2760633"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/automatikuhr-sinn-u1-full-tegiment-44x14mm-1000m-wadi-4hz-40hr-2756998",
