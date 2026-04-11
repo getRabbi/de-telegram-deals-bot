@@ -2,7 +2,7 @@
   "date": "2026-04-11",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/tv-horen-und-sehen-6-monatsabo-26-ausgaben-fur-8450-eur-mit-80-eur-bestchoice-gutschein-2734344",
     "mydealz|https://www.mydealz.de/deals/tchibo-payback-10fach-punkte-coupon-2760550",
     "mydealz|https://www.mydealz.de/deals/busch-muller-lumotec-iq-x-dynamo-scheinwerfer-2760215",
-    "mydealz|https://www.mydealz.de/deals/dd-living-crino-getrankekistenregal-fur-6-kisten-25-mm-vierkantrohr-hohenverstellbare-fusse-3210583-cm-amazon-prime-2760633"
+    "mydealz|https://www.mydealz.de/deals/dd-living-crino-getrankekistenregal-fur-6-kisten-25-mm-vierkantrohr-hohenverstellbare-fusse-3210583-cm-amazon-prime-2760633",
+    "mydealz|https://www.mydealz.de/deals/bgs-672-telefonzange-din-iso-5745-mit-schneide-gerade-200-mm-2760715",
+    "mydealz|https://www.mydealz.de/deals/cb-ray-ban-rb-3025-aviator-gungrau-unisex-sonnenbrille-medium-55-mm-fur-7471eur-large-62mm-fur-7647eur-vsk-frei-fielmann-2760822",
+    "mydealz|https://www.mydealz.de/deals/dyson-15-cashback-verlangerte-garantie-bei-shoop-2760677",
+    "mydealz|https://www.mydealz.de/deals/oral-b-15-cashback-25eur-shoop-gutschein-10-rabatt-mit-dem-oral-b-gutschein-bei-shoop-2760659",
+    "mydealz|https://www.mydealz.de/deals/ducky-one-3-yellow-60-hot-swap-cherry-mx-silent-red-linear-50m-pbt-double-shot-2760743"
   ],
   "postedHistory": [
     {
