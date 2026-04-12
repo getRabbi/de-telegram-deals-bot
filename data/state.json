@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/fiskars-blumendusche-mbw-2999eur-evtl-nicht-erforderlich-2761367",
     "mydealz|https://www.mydealz.de/deals/range-rover-evoque-d200-s-204-ps-fur-375-eur-mtl-eff-422-eur-lf-061360-kameranavisitzheizung36-mon10000-km-1699eurnk-ab-mai-2026-2761374",
     "mydealz|https://www.mydealz.de/deals/gigabyte-aorus-fo32u2-32-4k-oled-gaming-monitor-240hz-003ms-hdmi-21dpusbc-computeruniverse-2752273",
-    "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234"
+    "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234",
+    "mydealz|https://www.mydealz.de/deals/bosch-series-4-staubsauger-mit-beutel-rot-2732080",
+    "mydealz|https://www.mydealz.de/deals/camp-david-herren-hoodie-grun-fur-2089-eur-nur-noch-in-m-2761544",
+    "rossmann|https://www.mydealz.de/deals/rossmann-8x-hydro-5-hydrating-gel-447-eur-bzw-056-eur-je-5er-klinge-2761554",
+    "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-128-galaxy-watch-8-bt-im-freenet-allnetsms-flat-25gb-5g-fur-1999eurmonat-108eur-mit-trade-in-abzug-2761532"
   ],
   "postedHistory": [
     {
