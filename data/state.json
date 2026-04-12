@@ -1,11 +1,18 @@
 {
   "date": "2026-04-12",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
+    "mydealz|https://www.mydealz.de/deals/happy-pike-place-day-gratis-kaffee-klein-bei-starbucks-2761207",
+    "mydealz|https://www.mydealz.de/deals/samwatch-fantasy-e-2025-watch-face-wear-os-play-store-2761202",
+    "mydealz|https://www.mydealz.de/deals/yaheetch-sonnenschirm-o-230cm-marktschirm-gartenschirm-mit-kurbel-wasserdicht-terrassenschirm-rund-sonnenschutz-2761201",
+    "mydealz|https://www.mydealz.de/deals/cozze-pizzaofen-gas-premium-425-cm-17-mit-drehbarem-pizzastein-digital-thermometer-inkl-hitzeschild-2761236",
+    "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/tiefpreise-apple-iphone-17e-256gb-a19-chip-48-mp-kamera-61-zoll-oled-0-finanzierung-zb-in-weiss-mit-cb-57745eur-ohne-cb-608eur-2757567",
