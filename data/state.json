@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
-    "mydealz|https://www.mydealz.de/deals/happy-pike-place-day-gratis-kaffee-klein-bei-starbucks-2761207",
-    "mydealz|https://www.mydealz.de/deals/samwatch-fantasy-e-2025-watch-face-wear-os-play-store-2761202",
-    "mydealz|https://www.mydealz.de/deals/yaheetch-sonnenschirm-o-230cm-marktschirm-gartenschirm-mit-kurbel-wasserdicht-terrassenschirm-rund-sonnenschutz-2761201",
-    "mydealz|https://www.mydealz.de/deals/cozze-pizzaofen-gas-premium-425-cm-17-mit-drehbarem-pizzastein-digital-thermometer-inkl-hitzeschild-2761236",
-    "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177",
-    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-limo-oder-touring-51990eur-340-ps-automatik-wltp601-km-forderfahiges-dt-neufahrzeug-2761366",
-    "mydealz|https://www.mydealz.de/deals/fiskars-blumendusche-mbw-2999eur-evtl-nicht-erforderlich-2761367",
-    "mydealz|https://www.mydealz.de/deals/range-rover-evoque-d200-s-204-ps-fur-375-eur-mtl-eff-422-eur-lf-061360-kameranavisitzheizung36-mon10000-km-1699eurnk-ab-mai-2026-2761374",
-    "mydealz|https://www.mydealz.de/deals/gigabyte-aorus-fo32u2-32-4k-oled-gaming-monitor-240hz-003ms-hdmi-21dpusbc-computeruniverse-2752273",
-    "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234",
-    "mydealz|https://www.mydealz.de/deals/bosch-series-4-staubsauger-mit-beutel-rot-2732080",
-    "mydealz|https://www.mydealz.de/deals/camp-david-herren-hoodie-grun-fur-2089-eur-nur-noch-in-m-2761544",
-    "rossmann|https://www.mydealz.de/deals/rossmann-8x-hydro-5-hydrating-gel-447-eur-bzw-056-eur-je-5er-klinge-2761554",
-    "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-128-galaxy-watch-8-bt-im-freenet-allnetsms-flat-25gb-5g-fur-1999eurmonat-108eur-mit-trade-in-abzug-2761532"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tiefpreise-apple-iphone-17e-256gb-a19-chip-48-mp-kamera-61-zoll-oled-0-finanzierung-zb-in-weiss-mit-cb-57745eur-ohne-cb-608eur-2757567",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-14-pro-8256-gb-5g-smartphone-black-nfc-667-zoll-120-hz-15-k-display-200-mp-kamera-45-w-5100-mah-2745094",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-45-pk1-3-der-nussknacker-grand-classic-ballet-14112026-bis-23012027-mehrere-stadte-zb-berlin-koln-nurnberg-stuttgart-2757449",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-burnout-paradise-remastered-509eur-nintendo-switch-jpn-276eur-2757415",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-bei-aliexpress-mit-gutscheincode-idealocd4-2757435",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-hamburg-mignon-ei-gratis-5eur-coupon-ab-einen-einkauf-uber-20eur-2757447",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/killtec-damen-softshelljacke-kos-122-blau-wasser-winddicht-10000mm-atmungsaktiv-all-over-print-2999eur-499eur-versand-2755052",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ml2u-51-ml2u-394-cyber-tactical-wearos-watchfacegoogle-play-store-2757557",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-quest-wasserdichte-isolierjacke-fur-herren-grosse-xs-xxl-2719627",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/preisfehler-solakon-solarmodul-500w-bifaziales-monokristallines-solarpanel-40v-photovoltaik-fur-balkonkraftwerk-pv-anlage-4-stuck-2757718",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/loewe-klang-multiroom-speakers-loewe-klang-mr1-fur-109eur-mr3-fur-209eur-und-mr5-fur-269eur-kaufland-amazon-2757658",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reolink-w760-kamera-2757939",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/resident-evil-3-pc-steam-2751326",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/1822direkt-depot-170eur-neukundenbonus-120eur-werbepramie-ohne-schufa-2757708",
-      "ts": 1775427630000
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-depths-of-horror-mushroom-day-kostenlos-2757931",
-      "ts": 1775427630000
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
       "ts": 1775514350417
@@ -422,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/schwerlastregal-5-boden-160-kgboden-90-x-180-x-40-cm-fur-1750-euro-b1-baumarkt-mittwoch-1504-2760988",
       "ts": 1775946086446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/happy-pike-place-day-gratis-kaffee-klein-bei-starbucks-2761207",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samwatch-fantasy-e-2025-watch-face-wear-os-play-store-2761202",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/yaheetch-sonnenschirm-o-230cm-marktschirm-gartenschirm-mit-kurbel-wasserdicht-terrassenschirm-rund-sonnenschutz-2761201",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cozze-pizzaofen-gas-premium-425-cm-17-mit-drehbarem-pizzastein-digital-thermometer-inkl-hitzeschild-2761236",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-limo-oder-touring-51990eur-340-ps-automatik-wltp601-km-forderfahiges-dt-neufahrzeug-2761366",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fiskars-blumendusche-mbw-2999eur-evtl-nicht-erforderlich-2761367",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/range-rover-evoque-d200-s-204-ps-fur-375-eur-mtl-eff-422-eur-lf-061360-kameranavisitzheizung36-mon10000-km-1699eurnk-ab-mai-2026-2761374",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gigabyte-aorus-fo32u2-32-4k-oled-gaming-monitor-240hz-003ms-hdmi-21dpusbc-computeruniverse-2752273",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-series-4-staubsauger-mit-beutel-rot-2732080",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/camp-david-herren-hoodie-grun-fur-2089-eur-nur-noch-in-m-2761544",
+      "ts": 1776032612637
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/rossmann-8x-hydro-5-hydrating-gel-447-eur-bzw-056-eur-je-5er-klinge-2761554",
+      "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-128-galaxy-watch-8-bt-im-freenet-allnetsms-flat-25gb-5g-fur-1999eurmonat-108eur-mit-trade-in-abzug-2761532",
+      "ts": 1776032612637
     }
   ]
 }
