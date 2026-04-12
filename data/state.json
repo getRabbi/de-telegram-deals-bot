@@ -2,7 +2,7 @@
   "date": "2026-04-12",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/samwatch-fantasy-e-2025-watch-face-wear-os-play-store-2761202",
     "mydealz|https://www.mydealz.de/deals/yaheetch-sonnenschirm-o-230cm-marktschirm-gartenschirm-mit-kurbel-wasserdicht-terrassenschirm-rund-sonnenschutz-2761201",
     "mydealz|https://www.mydealz.de/deals/cozze-pizzaofen-gas-premium-425-cm-17-mit-drehbarem-pizzastein-digital-thermometer-inkl-hitzeschild-2761236",
-    "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177"
+    "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177",
+    "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-limo-oder-touring-51990eur-340-ps-automatik-wltp601-km-forderfahiges-dt-neufahrzeug-2761366",
+    "mydealz|https://www.mydealz.de/deals/fiskars-blumendusche-mbw-2999eur-evtl-nicht-erforderlich-2761367",
+    "mydealz|https://www.mydealz.de/deals/range-rover-evoque-d200-s-204-ps-fur-375-eur-mtl-eff-422-eur-lf-061360-kameranavisitzheizung36-mon10000-km-1699eurnk-ab-mai-2026-2761374",
+    "mydealz|https://www.mydealz.de/deals/gigabyte-aorus-fo32u2-32-4k-oled-gaming-monitor-240hz-003ms-hdmi-21dpusbc-computeruniverse-2752273",
+    "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234"
   ],
   "postedHistory": [
     {
