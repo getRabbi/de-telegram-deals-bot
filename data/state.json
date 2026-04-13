@@ -1,57 +1,12 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
-    "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-auf-tiefgekuhltes-gemuse-krauter-zb-k-bio-frosta-ausgenommen-iglo-2761722",
-    "mydealz|https://www.mydealz.de/deals/raisin-startzins-35-pa-fur-3-monate-bis-50000eur-neukunden-2761751",
-    "mydealz|https://www.mydealz.de/deals/prime-burnhard-funk-grillthermometer-mit-4-temperaturfuhlern-30m-reichweite-fur-grill-backofen-timer-2745589"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bresser-5-in-1-beaufort-funk-wetterstation-mit-aussensensor-sensor-fur-temperatur-luftfeuchtigkeit-luftdruck-windrichtung-regenmesser-2714567",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neuer-db-flinkster-wochenendtarief-und-gutscheine-bei-anmeldung-2757042",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/5-1-liter-castrol-edge-5w-30-ll-longlife-motorol-bei-globus-fur-4499-euro-mit-bauhaus-tpg-fur-3559-euro-bauhaus-tpg-2758106",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-sodastream-co2-zylinder-fur-wassersprudler-quick-connect-system-2754159",
-      "ts": 1775514350417
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-nur-in-der-filiale-pbssa-20-li-a1-akku-bohrschrauber-mit-akku-und-ladegerat-2758066",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/toom-bottrop-ua-emos-p08215-gummi-kabeltrommel-15m-mit-led-strahler-2758107",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/momax-hangesessel-laura-grauschwarz-fur-9675eur-inkl-gestell-kissen-2758243",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vasagle-kuchenregal-stehend-mit-6-regalebenen-und-6-haken-80-x-40-x-167-cm-21-kg-bis-zu-90-kg-belastbar-2758204",
-      "ts": 1775514350417
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lacoste-family-friends-sale-40-auf-uber-3000-artikel-darunter-l1212-jacken-pullover-uvm-2758105",
-      "ts": 1775514350417
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/xbox-forza-horizon-6-kostenloser-1966-toyota-sports-800-fanta-edition-2758246",
       "ts": 1775600921439
@@ -411,6 +366,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-128-galaxy-watch-8-bt-im-freenet-allnetsms-flat-25gb-5g-fur-1999eurmonat-108eur-mit-trade-in-abzug-2761532",
       "ts": 1776032612637
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
+      "ts": 1776119717724
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-auf-tiefgekuhltes-gemuse-krauter-zb-k-bio-frosta-ausgenommen-iglo-2761722",
+      "ts": 1776119717724
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/raisin-startzins-35-pa-fur-3-monate-bis-50000eur-neukunden-2761751",
+      "ts": 1776119717724
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-burnhard-funk-grillthermometer-mit-4-temperaturfuhlern-30m-reichweite-fur-grill-backofen-timer-2745589",
+      "ts": 1776119717724
     }
   ]
 }
