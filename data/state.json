@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
+    "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-auf-tiefgekuhltes-gemuse-krauter-zb-k-bio-frosta-ausgenommen-iglo-2761722",
+    "mydealz|https://www.mydealz.de/deals/raisin-startzins-35-pa-fur-3-monate-bis-50000eur-neukunden-2761751",
+    "mydealz|https://www.mydealz.de/deals/prime-burnhard-funk-grillthermometer-mit-4-temperaturfuhlern-30m-reichweite-fur-grill-backofen-timer-2745589"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/zendure-direkt-zendure-hyper-2000-wechselrichter-2758128",
