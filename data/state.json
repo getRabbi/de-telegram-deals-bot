@@ -1,11 +1,18 @@
 {
   "date": "2026-04-14",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/intel-core-ultra-7-270k-plus-8p16e24t-370-550ghz-tray-2761723",
+    "mydealz|https://www.mydealz.de/deals/lego-speed-champions-netto-45711-dattel-2761742",
+    "mydealz|https://www.mydealz.de/deals/cb-deal-philips-hue-play-lightbar-doppelpack-schwarz-hue-standard-bridge-eur-10879-2761911",
+    "mydealz|https://www.mydealz.de/deals/cosori-heissluftfritteuse-turbo-tower-pro-smart-2761839",
+    "mydealz|https://www.mydealz.de/deals/lokal-doner-berlin-reinickendorf-199eur-2761838",
+    "mydealz|https://www.mydealz.de/deals/avm-fritzrepeater-1200-ax-wlan-repeater-wifi-6-mesh-gigabit-lan-nur-53eur-lokal-lieferando-x-mediamarkt-2761889"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/xbox-forza-horizon-6-kostenloser-1966-toyota-sports-800-fanta-edition-2758246",
