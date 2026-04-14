@@ -2,7 +2,7 @@
   "date": "2026-04-14",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/cb-deal-philips-hue-play-lightbar-doppelpack-schwarz-hue-standard-bridge-eur-10879-2761911",
     "mydealz|https://www.mydealz.de/deals/cosori-heissluftfritteuse-turbo-tower-pro-smart-2761839",
     "mydealz|https://www.mydealz.de/deals/lokal-doner-berlin-reinickendorf-199eur-2761838",
-    "mydealz|https://www.mydealz.de/deals/avm-fritzrepeater-1200-ax-wlan-repeater-wifi-6-mesh-gigabit-lan-nur-53eur-lokal-lieferando-x-mediamarkt-2761889"
+    "mydealz|https://www.mydealz.de/deals/avm-fritzrepeater-1200-ax-wlan-repeater-wifi-6-mesh-gigabit-lan-nur-53eur-lokal-lieferando-x-mediamarkt-2761889",
+    "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-mit-sds-plus-gbh-18v-28-dc-mit-xl-boxx-2760899",
+    "mydealz|https://www.mydealz.de/deals/einhell-starter-kit-gratis-beim-kauf-eines-solo-akkugerats-2762093",
+    "mydealz|https://www.mydealz.de/deals/gutscheinfehler-3x-nedis-usbkabel-ac-1-2m-fur-897-eur-statt-36-eur-bei-ebay-fiducia-2762075",
+    "mydealz|https://www.mydealz.de/deals/krause-corda-montagegerust-5m-beim-globus-baumarkt-fur-388-euro-mit-bauhaus-tpg-fur-34144-euro-bauhaus-tpg-2762046",
+    "mydealz|https://www.mydealz.de/deals/bulliant-herren-ledergurtel-mit-ratsche-35-mm-automatikschliesse-fur-948-eur-statt-1499-eur-bei-amazon-prime-2762043"
   ],
   "postedHistory": [
     {
