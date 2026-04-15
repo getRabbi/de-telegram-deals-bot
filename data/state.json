@@ -2,7 +2,7 @@
   "date": "2026-04-15",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/brillenreiniger-tiefstpreis-zeiss-doppelpack-2x120ml-alkoholfrei-003900-0030-158-prime-2761936",
     "mydealz|https://www.mydealz.de/deals/bestpreis-fractal-design-north-tg-charcoal-black-gehause-miditower-schwarz-2762460",
     "mydealz|https://www.mydealz.de/deals/super-mario-party-jamboreejamboree-tv-nintendo-switch-2-fur-5281-amazonit-2762429",
-    "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741"
+    "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
+    "mydealz|https://www.mydealz.de/deals/hotel-kreta-griechenland-4-elounda-palm-hotel-suites-zb-7-nachte-inkl-halbpension-fur-2-personen-ab-779eur-2762466",
+    "mydealz|https://www.mydealz.de/deals/arrma-kraton-3s-dsc-4x4-ara2508s-2026-rc-auto-116-4wd-rtr-truggy-bestprice-2762656",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-nordseebestrafung-nordseekrimi-teufel-und-graf-ermitteln-1-abgeschlossener-fall-ebook-2762658",
+    "mydealz|https://www.mydealz.de/deals/msi-claw-core-ultra-7-16gb-1tb-handheld-gaming-pc-2737682",
+    "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663"
   ],
   "postedHistory": [
     {
