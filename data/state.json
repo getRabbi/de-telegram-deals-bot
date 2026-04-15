@@ -1,11 +1,18 @@
 {
   "date": "2026-04-15",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-telekom-magentatv-smart-fur-7eurmonat-6-freimonate-50eur-gutschein-eff-316eurmonat-2762306",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-mallorca-inkl-ruckflug-von-koln-berlin-hahn-bremen-hamburg-und-weitere-ab-36eur-inkl-ruckflug-ryanair-apr-2762340",
+    "mydealz|https://www.mydealz.de/deals/brillenreiniger-tiefstpreis-zeiss-doppelpack-2x120ml-alkoholfrei-003900-0030-158-prime-2761936",
+    "mydealz|https://www.mydealz.de/deals/bestpreis-fractal-design-north-tg-charcoal-black-gehause-miditower-schwarz-2762460",
+    "mydealz|https://www.mydealz.de/deals/super-mario-party-jamboreejamboree-tv-nintendo-switch-2-fur-5281-amazonit-2762429",
+    "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
