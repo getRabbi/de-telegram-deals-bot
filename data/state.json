@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lokal-telekom-magentatv-smart-fur-7eurmonat-6-freimonate-50eur-gutschein-eff-316eurmonat-2762306",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/arrma-kraton-3s-dsc-4x4-ara2508s-2026-rc-auto-116-4wd-rtr-truggy-bestprice-2762656",
     "mydealz|https://www.mydealz.de/deals/amazon-kindle-nordseebestrafung-nordseekrimi-teufel-und-graf-ermitteln-1-abgeschlossener-fall-ebook-2762658",
     "mydealz|https://www.mydealz.de/deals/msi-claw-core-ultra-7-16gb-1tb-handheld-gaming-pc-2737682",
-    "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663"
+    "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663",
+    "mydealz|https://www.mydealz.de/deals/gabelfluge-wien-asien-deutschland-mit-saudia-zb-bangkok-fur-370-euro-2762885",
+    "mydealz|https://www.mydealz.de/deals/nike-nfl-seattle-seahawks-trikot-american-football-metcalf-fur-4589-eur-nur-noch-in-s-2762882",
+    "mydealz|https://www.mydealz.de/deals/gardena-garten-clogs-schwarzgrau-unisex-fur-1389-eur-38-43-2762886",
+    "mydealz|https://www.mydealz.de/deals/frequent-traveller-status-mit-10-rundreisen-innerhalb-europas-in-economy-erreichen-ca-40-gunstiger-uptrip-anleitung-2743011"
   ],
   "postedHistory": [
     {
