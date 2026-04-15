@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lokal-telekom-magentatv-smart-fur-7eurmonat-6-freimonate-50eur-gutschein-eff-316eurmonat-2762306",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-mallorca-inkl-ruckflug-von-koln-berlin-hahn-bremen-hamburg-und-weitere-ab-36eur-inkl-ruckflug-ryanair-apr-2762340",
-    "mydealz|https://www.mydealz.de/deals/brillenreiniger-tiefstpreis-zeiss-doppelpack-2x120ml-alkoholfrei-003900-0030-158-prime-2761936",
-    "mydealz|https://www.mydealz.de/deals/bestpreis-fractal-design-north-tg-charcoal-black-gehause-miditower-schwarz-2762460",
-    "mydealz|https://www.mydealz.de/deals/super-mario-party-jamboreejamboree-tv-nintendo-switch-2-fur-5281-amazonit-2762429",
-    "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
-    "mydealz|https://www.mydealz.de/deals/hotel-kreta-griechenland-4-elounda-palm-hotel-suites-zb-7-nachte-inkl-halbpension-fur-2-personen-ab-779eur-2762466",
-    "mydealz|https://www.mydealz.de/deals/arrma-kraton-3s-dsc-4x4-ara2508s-2026-rc-auto-116-4wd-rtr-truggy-bestprice-2762656",
-    "mydealz|https://www.mydealz.de/deals/amazon-kindle-nordseebestrafung-nordseekrimi-teufel-und-graf-ermitteln-1-abgeschlossener-fall-ebook-2762658",
-    "mydealz|https://www.mydealz.de/deals/msi-claw-core-ultra-7-16gb-1tb-handheld-gaming-pc-2737682",
-    "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663",
-    "mydealz|https://www.mydealz.de/deals/gabelfluge-wien-asien-deutschland-mit-saudia-zb-bangkok-fur-370-euro-2762885",
-    "mydealz|https://www.mydealz.de/deals/nike-nfl-seattle-seahawks-trikot-american-football-metcalf-fur-4589-eur-nur-noch-in-s-2762882",
-    "mydealz|https://www.mydealz.de/deals/gardena-garten-clogs-schwarzgrau-unisex-fur-1389-eur-38-43-2762886",
-    "mydealz|https://www.mydealz.de/deals/frequent-traveller-status-mit-10-rundreisen-innerhalb-europas-in-economy-erreichen-ca-40-gunstiger-uptrip-anleitung-2743011"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/levis-501-jeans-original-fit-viele-grossen-2758803",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/esprit-herren-jacke-blouson-fur-2489-eur-m-xxl-2759057",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/waldorf-protein-wavetable-synthesizer-2759045",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-bratwurst-500g-perfekt-fur-kleine-osterfeuer-2758985",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-pkm-liga-kampfdeck-rockets-mewtu-pokemon-2758946",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nutravita-omega-3-kapseln-hochdosiert-2000mg-fischol-kapseln-mit-660mg-epa-un-440mg-dha-2756970",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-tirana-albanien-ab-51eur-inkl-ruckflug-von-weeze-ryanair-malta-air-apr-jun-2759231",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemuse-und-schalmesser-set-2-teilig-gerade-und-wellenschliff-extra-scharf-8-cm-schwarz-oder-rot-prime-2758349",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/parkside-digital-heissluftgeblase-phlgd-2000-d5-fur-1499eur-595eur-vsk-2759243",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-11370-stranger-things-the-creel-house-cdiscount-neukunde-2759051",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-womens-vl-court-30-schuh-2759090",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-leipzig-20-euro-coupon-bei-einkauf-ab-150-euro-einkaufswert-ab-0105-2758270",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ortlieb-vario-ps-einzeltasche-high-visibility-ql2-wasserdicht-ortlieb-quick-lock-21-26-liter-volumen-gewicht-1200-g-2759341",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/idiocracy-2006-dvd-at-via-kultklub-18-gutschein-neukunden-einige-altkunden-2759265",
-      "ts": 1775687393578
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-chants-of-sennaar-fur-switch-metacritic-84-85-nor-1053eur-2732022",
-      "ts": 1775687393578
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
       "ts": 1775773918566
@@ -398,6 +322,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/pelikan-tintenglas-tinte-4001-blau-schwarz-30-ml-sparabo-prime-2762256",
       "ts": 1776206218533
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-telekom-magentatv-smart-fur-7eurmonat-6-freimonate-50eur-gutschein-eff-316eurmonat-2762306",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-mallorca-inkl-ruckflug-von-koln-berlin-hahn-bremen-hamburg-und-weitere-ab-36eur-inkl-ruckflug-ryanair-apr-2762340",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brillenreiniger-tiefstpreis-zeiss-doppelpack-2x120ml-alkoholfrei-003900-0030-158-prime-2761936",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestpreis-fractal-design-north-tg-charcoal-black-gehause-miditower-schwarz-2762460",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/super-mario-party-jamboreejamboree-tv-nintendo-switch-2-fur-5281-amazonit-2762429",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hotel-kreta-griechenland-4-elounda-palm-hotel-suites-zb-7-nachte-inkl-halbpension-fur-2-personen-ab-779eur-2762466",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/arrma-kraton-3s-dsc-4x4-ara2508s-2026-rc-auto-116-4wd-rtr-truggy-bestprice-2762656",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-nordseebestrafung-nordseekrimi-teufel-und-graf-ermitteln-1-abgeschlossener-fall-ebook-2762658",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-claw-core-ultra-7-16gb-1tb-handheld-gaming-pc-2737682",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gabelfluge-wien-asien-deutschland-mit-saudia-zb-bangkok-fur-370-euro-2762885",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nike-nfl-seattle-seahawks-trikot-american-football-metcalf-fur-4589-eur-nur-noch-in-s-2762882",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-garten-clogs-schwarzgrau-unisex-fur-1389-eur-38-43-2762886",
+      "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/frequent-traveller-status-mit-10-rundreisen-innerhalb-europas-in-economy-erreichen-ca-40-gunstiger-uptrip-anleitung-2743011",
+      "ts": 1776292418483
     }
   ]
 }
