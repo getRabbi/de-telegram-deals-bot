@@ -1,23 +1,11 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "slots": {
-    "morning": true,
-    "noon": true,
+    "morning": false,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-intel-j4105-inkl-psu-stand-wifi-usb-c-micro-server-f-pihole-jellyfin-proxmox-uvm-2762820",
-    "mydealz|https://www.mydealz.de/deals/brennenstuhl-qualitats-kunststoff-verlangerungskabel-mit-schutzkontakt-stecker-und-kupplung-3m-477eur-5m-666eur-fur-innen-prime-2762668",
-    "mydealz|https://www.mydealz.de/deals/kaufland-maggi-wurze-je-1kg-flasche-2762958",
-    "mydealz|https://www.mydealz.de/deals/the-matrix-1999-reloaded-2003-resurrections-2021-je-399eur-4k-hdr-dv-digital-at-rakuten-tv-apple-tv-itunes-amazon-vod-2762855",
-    "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1604-bulls-eye-grill-saucen-300ml-flasche-in-verschiedenen-sorten-fur-je-179eur-literpreis-597eur-2762943",
-    "mydealz|https://www.mydealz.de/deals/alpicool-ncf45-40l-kompressor-kuhlbox-12v-tragbarer-mini-kuhlschrank-elektrische-gefrierbox-auto-camping-boot-lkw-prime-2762955",
-    "mydealz|https://www.mydealz.de/deals/lg-f4wx9092b-serie-8-waschmaschine-9-kg-a-1350-umin-ai-wash-turbowash-360-dampf-schwarz-matt-vsk-frei-mymediamarktsaturn-2762971",
-    "mydealz|https://www.mydealz.de/deals/bruno-banani-5-pocket-hose-chino-98-baumwolle-herren-business-fur-2489-eur-w32-w40-2763136",
-    "mydealz|https://www.mydealz.de/deals/sky-filme-serien-inkl-hbo-inhalte-paramount-und-netflix-fur-eur-1499-mtl-2763085",
-    "mydealz|https://www.mydealz.de/deals/schwartau-dessert-sauce-erdbeere-oder-himbeere-fur-je-161eur-125ml-spar-abo-prime-2763013",
-    "mydealz|https://www.mydealz.de/deals/sagrotan-samt-schaum-handseife-kirschblute-rose-250ml-schaumseife-im-seifenspender-spar-abo-prime-2763054"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
@@ -394,6 +382,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/frequent-traveller-status-mit-10-rundreisen-innerhalb-europas-in-economy-erreichen-ca-40-gunstiger-uptrip-anleitung-2743011",
       "ts": 1776292418483
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-intel-j4105-inkl-psu-stand-wifi-usb-c-micro-server-f-pihole-jellyfin-proxmox-uvm-2762820",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-qualitats-kunststoff-verlangerungskabel-mit-schutzkontakt-stecker-und-kupplung-3m-477eur-5m-666eur-fur-innen-prime-2762668",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-maggi-wurze-je-1kg-flasche-2762958",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-matrix-1999-reloaded-2003-resurrections-2021-je-399eur-4k-hdr-dv-digital-at-rakuten-tv-apple-tv-itunes-amazon-vod-2762855",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1604-bulls-eye-grill-saucen-300ml-flasche-in-verschiedenen-sorten-fur-je-179eur-literpreis-597eur-2762943",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/alpicool-ncf45-40l-kompressor-kuhlbox-12v-tragbarer-mini-kuhlschrank-elektrische-gefrierbox-auto-camping-boot-lkw-prime-2762955",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-f4wx9092b-serie-8-waschmaschine-9-kg-a-1350-umin-ai-wash-turbowash-360-dampf-schwarz-matt-vsk-frei-mymediamarktsaturn-2762971",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bruno-banani-5-pocket-hose-chino-98-baumwolle-herren-business-fur-2489-eur-w32-w40-2763136",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sky-filme-serien-inkl-hbo-inhalte-paramount-und-netflix-fur-eur-1499-mtl-2763085",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schwartau-dessert-sauce-erdbeere-oder-himbeere-fur-je-161eur-125ml-spar-abo-prime-2763013",
+      "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sagrotan-samt-schaum-handseife-kirschblute-rose-250ml-schaumseife-im-seifenspender-spar-abo-prime-2763054",
+      "ts": 1776378640558
     }
   ]
 }
