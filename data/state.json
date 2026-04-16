@@ -1,11 +1,18 @@
 {
   "date": "2026-04-16",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-intel-j4105-inkl-psu-stand-wifi-usb-c-micro-server-f-pihole-jellyfin-proxmox-uvm-2762820",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-qualitats-kunststoff-verlangerungskabel-mit-schutzkontakt-stecker-und-kupplung-3m-477eur-5m-666eur-fur-innen-prime-2762668",
+    "mydealz|https://www.mydealz.de/deals/kaufland-maggi-wurze-je-1kg-flasche-2762958",
+    "mydealz|https://www.mydealz.de/deals/the-matrix-1999-reloaded-2003-resurrections-2021-je-399eur-4k-hdr-dv-digital-at-rakuten-tv-apple-tv-itunes-amazon-vod-2762855",
+    "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1604-bulls-eye-grill-saucen-300ml-flasche-in-verschiedenen-sorten-fur-je-179eur-literpreis-597eur-2762943",
+    "mydealz|https://www.mydealz.de/deals/alpicool-ncf45-40l-kompressor-kuhlbox-12v-tragbarer-mini-kuhlschrank-elektrische-gefrierbox-auto-camping-boot-lkw-prime-2762955"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
