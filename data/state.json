@@ -2,7 +2,7 @@
   "date": "2026-04-16",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/kaufland-maggi-wurze-je-1kg-flasche-2762958",
     "mydealz|https://www.mydealz.de/deals/the-matrix-1999-reloaded-2003-resurrections-2021-je-399eur-4k-hdr-dv-digital-at-rakuten-tv-apple-tv-itunes-amazon-vod-2762855",
     "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1604-bulls-eye-grill-saucen-300ml-flasche-in-verschiedenen-sorten-fur-je-179eur-literpreis-597eur-2762943",
-    "mydealz|https://www.mydealz.de/deals/alpicool-ncf45-40l-kompressor-kuhlbox-12v-tragbarer-mini-kuhlschrank-elektrische-gefrierbox-auto-camping-boot-lkw-prime-2762955"
+    "mydealz|https://www.mydealz.de/deals/alpicool-ncf45-40l-kompressor-kuhlbox-12v-tragbarer-mini-kuhlschrank-elektrische-gefrierbox-auto-camping-boot-lkw-prime-2762955",
+    "mydealz|https://www.mydealz.de/deals/lg-f4wx9092b-serie-8-waschmaschine-9-kg-a-1350-umin-ai-wash-turbowash-360-dampf-schwarz-matt-vsk-frei-mymediamarktsaturn-2762971",
+    "mydealz|https://www.mydealz.de/deals/bruno-banani-5-pocket-hose-chino-98-baumwolle-herren-business-fur-2489-eur-w32-w40-2763136",
+    "mydealz|https://www.mydealz.de/deals/sky-filme-serien-inkl-hbo-inhalte-paramount-und-netflix-fur-eur-1499-mtl-2763085",
+    "mydealz|https://www.mydealz.de/deals/schwartau-dessert-sauce-erdbeere-oder-himbeere-fur-je-161eur-125ml-spar-abo-prime-2763013",
+    "mydealz|https://www.mydealz.de/deals/sagrotan-samt-schaum-handseife-kirschblute-rose-250ml-schaumseife-im-seifenspender-spar-abo-prime-2763054"
   ],
   "postedHistory": [
     {
