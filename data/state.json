@@ -2,7 +2,7 @@
   "date": "2026-04-17",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/by-amazon-house-blend-kaffeebohnen-mittelgerostet-1-kg-rainforest-alliance-zertifiziert-prime-spar-abo-2763258",
     "mydealz|https://www.mydealz.de/deals/adidas-originals-samba-jp-sneaker-in-schwarz-und-weiss-gr-35-bis-43-46-2762960",
     "mydealz|https://www.mydealz.de/deals/netto-coca-cola-versch-sorten-12x1l-pet-fl-2763059",
-    "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298"
+    "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298",
+    "mydealz|https://www.mydealz.de/gutscheine/payback-netto-md-bis-zu-2000-extrapunkte-auf-google-play-geschenkkarten-2763397",
+    "lidl|https://www.mydealz.de/deals/krups-arabica-picto-ea810870-mit-milchduse-lidl-online-mit-gutschein-fur-versandkosten-fur-219-eur-moglich-2763415",
+    "mydealz|https://www.mydealz.de/deals/amazon-otto-up-animal-crossing-new-horizons-nintendo-switch-2-edition-2763395",
+    "mydealz|https://www.mydealz.de/deals/bohse-onkelz-adios-2x-vinyl-lp-2763347",
+    "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378"
   ],
   "postedHistory": [
     {
