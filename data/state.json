@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
@@ -16,7 +16,11 @@
     "lidl|https://www.mydealz.de/deals/krups-arabica-picto-ea810870-mit-milchduse-lidl-online-mit-gutschein-fur-versandkosten-fur-219-eur-moglich-2763415",
     "mydealz|https://www.mydealz.de/deals/amazon-otto-up-animal-crossing-new-horizons-nintendo-switch-2-edition-2763395",
     "mydealz|https://www.mydealz.de/deals/bohse-onkelz-adios-2x-vinyl-lp-2763347",
-    "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378"
+    "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378",
+    "mydealz|https://www.mydealz.de/deals/3x-jack-jones-herren-t-shirts-100-baumwolle-fur-2189-eur-m-xl-2763551",
+    "mydealz|https://www.mydealz.de/deals/philips-oneblade-rasierklingen-3-stk-1-intimate-mir-app-10-2763508",
+    "mydealz|https://www.mydealz.de/deals/mould-king-eclipse-super-sternenzerstorer-imperial-star-war-dreadnought-21004-fur-30749-euro-10368-klemmbausteine-ebay-2763535",
+    "mydealz|https://www.mydealz.de/deals/amazonjoybuygalaxussamsung-85-kg-waschtrockner-wd5000t-mit-airwash-eek-c-effektiv-439eur-moglich-2763451"
   ],
   "postedHistory": [
     {
