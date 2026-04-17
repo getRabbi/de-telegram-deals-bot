@@ -1,11 +1,18 @@
 {
   "date": "2026-04-17",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
+    "mydealz|https://www.mydealz.de/deals/hummel-fussballschuhe-kinder-schwarz-fur-1590-eur-30-38-2763314",
+    "mydealz|https://www.mydealz.de/deals/by-amazon-house-blend-kaffeebohnen-mittelgerostet-1-kg-rainforest-alliance-zertifiziert-prime-spar-abo-2763258",
+    "mydealz|https://www.mydealz.de/deals/adidas-originals-samba-jp-sneaker-in-schwarz-und-weiss-gr-35-bis-43-46-2762960",
+    "mydealz|https://www.mydealz.de/deals/netto-coca-cola-versch-sorten-12x1l-pet-fl-2763059",
+    "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
