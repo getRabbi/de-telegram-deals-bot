@@ -1,148 +1,12 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
-    "mydealz|https://www.mydealz.de/deals/hummel-fussballschuhe-kinder-schwarz-fur-1590-eur-30-38-2763314",
-    "mydealz|https://www.mydealz.de/deals/by-amazon-house-blend-kaffeebohnen-mittelgerostet-1-kg-rainforest-alliance-zertifiziert-prime-spar-abo-2763258",
-    "mydealz|https://www.mydealz.de/deals/adidas-originals-samba-jp-sneaker-in-schwarz-und-weiss-gr-35-bis-43-46-2762960",
-    "mydealz|https://www.mydealz.de/deals/netto-coca-cola-versch-sorten-12x1l-pet-fl-2763059",
-    "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298",
-    "mydealz|https://www.mydealz.de/gutscheine/payback-netto-md-bis-zu-2000-extrapunkte-auf-google-play-geschenkkarten-2763397",
-    "lidl|https://www.mydealz.de/deals/krups-arabica-picto-ea810870-mit-milchduse-lidl-online-mit-gutschein-fur-versandkosten-fur-219-eur-moglich-2763415",
-    "mydealz|https://www.mydealz.de/deals/amazon-otto-up-animal-crossing-new-horizons-nintendo-switch-2-edition-2763395",
-    "mydealz|https://www.mydealz.de/deals/bohse-onkelz-adios-2x-vinyl-lp-2763347",
-    "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378",
-    "mydealz|https://www.mydealz.de/deals/3x-jack-jones-herren-t-shirts-100-baumwolle-fur-2189-eur-m-xl-2763551",
-    "mydealz|https://www.mydealz.de/deals/philips-oneblade-rasierklingen-3-stk-1-intimate-mir-app-10-2763508",
-    "mydealz|https://www.mydealz.de/deals/mould-king-eclipse-super-sternenzerstorer-imperial-star-war-dreadnought-21004-fur-30749-euro-10368-klemmbausteine-ebay-2763535",
-    "mydealz|https://www.mydealz.de/deals/amazonjoybuygalaxussamsung-85-kg-waschtrockner-wd5000t-mit-airwash-eek-c-effektiv-439eur-moglich-2763451"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-ikea-kaarst-mignon-ei-inkl-5-euro-ikea-coupon-2759337",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/decathlon-wanderrucksack-wandern-mh500-38-l-khaki-2759492",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/freitickets-fur-automechanika-frankfurt-am-main-0809-12092026-2759483",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/new-balance-kinder-sneakers-323-blau-fur-2090-eur-36-40-2759498",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/calvin-klein-herren-3er-packung-slips-baumwolle-schwarz-fur-2089-eur-nur-noch-in-m-und-l-2759512",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-lokal-expert-2759608",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-eintritt-zur-messe-make-to-order-days-inkl-vvs-regional-stuttgart-2759679",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-anker-zolo-powerbank-2025-upgrade-20000mah-30w-high-speed-ladegerat-mit-integriertem-usb-c-kabel-2757103",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-gorenje-optibake-bos6737-e02b-einbau-backofen-77l-aquacleanheissluftairfrygrillpizzamode-300cschwarz-energieklasse-a-2759655",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sky-extra-ostergeschenk-leihfilm-geschenkt-osterei-finden-2759701",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oster-sammeldeal-mit-amazon-verlosung-spiele-ab-16-cent-bis-maximal-2eur-bis-zu-90-rabatt-steam-playstation-xbox-nintendo-switch-2759690",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/harry-samys-super-sandwich-penny-app-2759650",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sks-rennkompressor-standpumpe-sv-ventile-2759785",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sony-wf-c510-bluetooth-in-ear-kopfhorer-prime-2742188",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gooloo-4000a-starthilfe-powerbank-20000mah-starthilfe-booster-fur-autos-externe-12v-batterie-starthilfegerat-fur-benzin-und-dieselmotoren-2759715",
-      "ts": 1775773918566
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deuter-gogo-ltd-rucksack-5-farben-zum-tiefpreis-2759776",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asics-japan-s-sneakers-damen-weiss-cool-matcha-fur-2590-eur-37-435-2759933",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-chino-hose-beige-fur-1589-eur-nur-noch-in-w32-l34-2759939",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-products-fleece-weste-blau-fur-890-eur-nur-noch-in-4xl-2759924",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/papercal-kostenlos-kalender-fur-ios-ipados-macos-watchos-2759921",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/no-frost-freistehend-gefrierkombination-grorenje-2760140",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/6er-portofino-herren-boxershorts-baumwolle-schwarz-fur-2489-eur-s-xxl-2760162",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sonos-sub-4-2755282",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pura-vida-kniffliges-plattchenlegespiel-piatnik-2-4-spieler-familienspiel-naturthema-amazon-prime-2757735",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-rt80b2-warmepumpentrockner-8-kg-warmepumpentechnologie-led-display-startzeitvorwahl-kindersicherung-mediamarktsaturn-2758586",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cock-currypaste-grun-sehr-scharf-400-g-288eur-moglich-authentisch-thailandisch-kochen-naturliche-zutaten-spar-abo-prime-2760147",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/12x-crosshatch-herren-astral-pack-boxershorts-baumwolle-schwarz-fur-3589-eur-s-xxl-2760409",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3x-jack-jones-polo-shirt-herren-baumwolle-fur-2889-eur-m-xl-2760419",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-jeans-polo-shirt-damen-baumwolle-rot-fur-1889-eur-m-xl-2760171",
-      "ts": 1775860014460
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-essentials-stretch-herren-shorts-blau-fur-890-eur-nur-noch-in-36-2760407",
-      "ts": 1775860014460
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/grunes-wunder-von-der-weser-werder-trikot-heim-2526-fur-unter-3000-eur-2760655",
       "ts": 1775946086446
@@ -442,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/sagrotan-samt-schaum-handseife-kirschblute-rose-250ml-schaumseife-im-seifenspender-spar-abo-prime-2763054",
       "ts": 1776378640558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hummel-fussballschuhe-kinder-schwarz-fur-1590-eur-30-38-2763314",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/by-amazon-house-blend-kaffeebohnen-mittelgerostet-1-kg-rainforest-alliance-zertifiziert-prime-spar-abo-2763258",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-samba-jp-sneaker-in-schwarz-und-weiss-gr-35-bis-43-46-2762960",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-coca-cola-versch-sorten-12x1l-pet-fl-2763059",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/payback-netto-md-bis-zu-2000-extrapunkte-auf-google-play-geschenkkarten-2763397",
+      "ts": 1776464917275
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/krups-arabica-picto-ea810870-mit-milchduse-lidl-online-mit-gutschein-fur-versandkosten-fur-219-eur-moglich-2763415",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-otto-up-animal-crossing-new-horizons-nintendo-switch-2-edition-2763395",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bohse-onkelz-adios-2x-vinyl-lp-2763347",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-jack-jones-herren-t-shirts-100-baumwolle-fur-2189-eur-m-xl-2763551",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/philips-oneblade-rasierklingen-3-stk-1-intimate-mir-app-10-2763508",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mould-king-eclipse-super-sternenzerstorer-imperial-star-war-dreadnought-21004-fur-30749-euro-10368-klemmbausteine-ebay-2763535",
+      "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazonjoybuygalaxussamsung-85-kg-waschtrockner-wd5000t-mit-airwash-eek-c-effektiv-439eur-moglich-2763451",
+      "ts": 1776464917275
     }
   ]
 }
