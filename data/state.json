@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
-    "mydealz|https://www.mydealz.de/deals/woltu-bartisch-in-vintagebraun-schwarz-60-x-60-x-100-cm-holzwerkstoff-stahl-integrierte-fussstutze-verstellbare-standfusse-2760929",
-    "mydealz|https://www.mydealz.de/deals/wmf-flavour-schmorpfanne-28-cm-induktion-servierpfanne-gusseisen-induktion-gusseisen-emailliert-hoher-rand-backofenfest-2764128",
-    "mydealz|https://www.mydealz.de/deals/grundig-si-3550-dampfbugeleisen-2400-w-120-gmin-dampfstoss-25-gmin-dampfleistung-keramik-bugelsohle-220-ml-wassertank-prime-2763974",
-    "mydealz|https://www.mydealz.de/gutscheine/10eur-sofortrabatt-bei-eventim-auf-ticketkauf-mit-wero-ohne-mbw-2764391",
-    "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384",
-    "mydealz|https://www.mydealz.de/deals/creality-1kg-hyper-pla-oder-petg-fur-799eur-2764395",
-    "mydealz|https://www.mydealz.de/deals/ostmann-gewurze-lets-do-spicy-fruits-wurzmischung-fur-susses-obst-kreiert-von-lalaleluu-scharfes-obst-topping-70-g-prime-spar-abo-2735422",
-    "mydealz|https://www.mydealz.de/deals/ack-jones-jungen-hoodie-jjelogo-sweat-hood-prime-2764321",
-    "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-gusto-tradizione-italiana-gerostete-kaffeebohnen-mit-wurzigen-aromatischen-noten-ideal-fur-einen-espresso-prime-sparabo-2764319",
-    "mydealz|https://www.mydealz.de/deals/fluge-von-brussel-bru-auf-die-seychellen-sez-mit-turkish-airlines-tk-inkl-gepack-nov-dez26-2764486",
-    "mydealz|https://www.mydealz.de/deals/geoid-cc700-gps-fahrradcomputer-28-zoll-farbbildschirm-route-navigation-ant-bluetooth-ipx7-wasserdicht-15-25-std-akkulaufzeit-2737076",
-    "mydealz|https://www.mydealz.de/deals/yuma-x-ecoflow-1800w-balkonkraftwerk-mit-stream-ultra-2764484",
-    "mydealz|https://www.mydealz.de/deals/iosipadosmacos-dualcapture-mit-frontback-gleichzeitig-filmenfotografieren-lifetime-premium-gratis-statt-4499eur-2718009",
-    "mydealz|https://www.mydealz.de/deals/eneba-google-play-guthaben-deal-2764424"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/grunes-wunder-von-der-weser-werder-trikot-heim-2526-fur-unter-3000-eur-2760655",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ugreen-shoop-10-cashback-bis-zu-45-rabatt-auf-ladegerate-powerbanks-hubs-2744731",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tv-horen-und-sehen-6-monatsabo-26-ausgaben-fur-8450-eur-mit-80-eur-bestchoice-gutschein-2734344",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tchibo-payback-10fach-punkte-coupon-2760550",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/busch-muller-lumotec-iq-x-dynamo-scheinwerfer-2760215",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dd-living-crino-getrankekistenregal-fur-6-kisten-25-mm-vierkantrohr-hohenverstellbare-fusse-3210583-cm-amazon-prime-2760633",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bgs-672-telefonzange-din-iso-5745-mit-schneide-gerade-200-mm-2760715",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-ray-ban-rb-3025-aviator-gungrau-unisex-sonnenbrille-medium-55-mm-fur-7471eur-large-62mm-fur-7647eur-vsk-frei-fielmann-2760822",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dyson-15-cashback-verlangerte-garantie-bei-shoop-2760677",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oral-b-15-cashback-25eur-shoop-gutschein-10-rabatt-mit-dem-oral-b-gutschein-bei-shoop-2760659",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ducky-one-3-yellow-60-hot-swap-cherry-mx-silent-red-linear-50m-pbt-double-shot-2760743",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-kutaissi-georgien-ab-54eur-inkl-ruckflug-von-hamburg-memmingen-hahn-brussel-wizz-jan-2761034",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-alsenhoven-marstek-b2500-d-fur-260-euro-abholen-2761008",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/alternate-outdoor-deals-napoleon-zubehor-2758378",
-      "ts": 1775946086446
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/schwerlastregal-5-boden-160-kgboden-90-x-180-x-40-cm-fur-1750-euro-b1-baumarkt-mittwoch-1504-2760988",
-      "ts": 1775946086446
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
       "ts": 1776032612637
@@ -382,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazonjoybuygalaxussamsung-85-kg-waschtrockner-wd5000t-mit-airwash-eek-c-effektiv-439eur-moglich-2763451",
       "ts": 1776464917275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/woltu-bartisch-in-vintagebraun-schwarz-60-x-60-x-100-cm-holzwerkstoff-stahl-integrierte-fussstutze-verstellbare-standfusse-2760929",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wmf-flavour-schmorpfanne-28-cm-induktion-servierpfanne-gusseisen-induktion-gusseisen-emailliert-hoher-rand-backofenfest-2764128",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/grundig-si-3550-dampfbugeleisen-2400-w-120-gmin-dampfstoss-25-gmin-dampfleistung-keramik-bugelsohle-220-ml-wassertank-prime-2763974",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/10eur-sofortrabatt-bei-eventim-auf-ticketkauf-mit-wero-ohne-mbw-2764391",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/creality-1kg-hyper-pla-oder-petg-fur-799eur-2764395",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ostmann-gewurze-lets-do-spicy-fruits-wurzmischung-fur-susses-obst-kreiert-von-lalaleluu-scharfes-obst-topping-70-g-prime-spar-abo-2735422",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ack-jones-jungen-hoodie-jjelogo-sweat-hood-prime-2764321",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-gusto-tradizione-italiana-gerostete-kaffeebohnen-mit-wurzigen-aromatischen-noten-ideal-fur-einen-espresso-prime-sparabo-2764319",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-von-brussel-bru-auf-die-seychellen-sez-mit-turkish-airlines-tk-inkl-gepack-nov-dez26-2764486",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/geoid-cc700-gps-fahrradcomputer-28-zoll-farbbildschirm-route-navigation-ant-bluetooth-ipx7-wasserdicht-15-25-std-akkulaufzeit-2737076",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/yuma-x-ecoflow-1800w-balkonkraftwerk-mit-stream-ultra-2764484",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iosipadosmacos-dualcapture-mit-frontback-gleichzeitig-filmenfotografieren-lifetime-premium-gratis-statt-4499eur-2718009",
+      "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eneba-google-play-guthaben-deal-2764424",
+      "ts": 1776551035019
     }
   ]
 }
