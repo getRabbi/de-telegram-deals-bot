@@ -1,11 +1,18 @@
 {
   "date": "2026-04-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
+    "mydealz|https://www.mydealz.de/deals/woltu-bartisch-in-vintagebraun-schwarz-60-x-60-x-100-cm-holzwerkstoff-stahl-integrierte-fussstutze-verstellbare-standfusse-2760929",
+    "mydealz|https://www.mydealz.de/deals/wmf-flavour-schmorpfanne-28-cm-induktion-servierpfanne-gusseisen-induktion-gusseisen-emailliert-hoher-rand-backofenfest-2764128",
+    "mydealz|https://www.mydealz.de/deals/grundig-si-3550-dampfbugeleisen-2400-w-120-gmin-dampfstoss-25-gmin-dampfleistung-keramik-bugelsohle-220-ml-wassertank-prime-2763974",
+    "mydealz|https://www.mydealz.de/gutscheine/10eur-sofortrabatt-bei-eventim-auf-ticketkauf-mit-wero-ohne-mbw-2764391",
+    "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/grunes-wunder-von-der-weser-werder-trikot-heim-2526-fur-unter-3000-eur-2760655",
