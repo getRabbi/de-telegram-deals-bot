@@ -2,7 +2,7 @@
   "date": "2026-04-18",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/wmf-flavour-schmorpfanne-28-cm-induktion-servierpfanne-gusseisen-induktion-gusseisen-emailliert-hoher-rand-backofenfest-2764128",
     "mydealz|https://www.mydealz.de/deals/grundig-si-3550-dampfbugeleisen-2400-w-120-gmin-dampfstoss-25-gmin-dampfleistung-keramik-bugelsohle-220-ml-wassertank-prime-2763974",
     "mydealz|https://www.mydealz.de/gutscheine/10eur-sofortrabatt-bei-eventim-auf-ticketkauf-mit-wero-ohne-mbw-2764391",
-    "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384"
+    "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384",
+    "mydealz|https://www.mydealz.de/deals/creality-1kg-hyper-pla-oder-petg-fur-799eur-2764395",
+    "mydealz|https://www.mydealz.de/deals/ostmann-gewurze-lets-do-spicy-fruits-wurzmischung-fur-susses-obst-kreiert-von-lalaleluu-scharfes-obst-topping-70-g-prime-spar-abo-2735422",
+    "mydealz|https://www.mydealz.de/deals/ack-jones-jungen-hoodie-jjelogo-sweat-hood-prime-2764321",
+    "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-gusto-tradizione-italiana-gerostete-kaffeebohnen-mit-wurzigen-aromatischen-noten-ideal-fur-einen-espresso-prime-sparabo-2764319",
+    "mydealz|https://www.mydealz.de/deals/fluge-von-brussel-bru-auf-die-seychellen-sez-mit-turkish-airlines-tk-inkl-gepack-nov-dez26-2764486"
   ],
   "postedHistory": [
     {
