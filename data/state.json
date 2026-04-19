@@ -1,11 +1,18 @@
 {
   "date": "2026-04-19",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
+    "mydealz|https://www.mydealz.de/deals/santa-cruz-rucksack-skater-braun-fur-2589-eur-2764702",
+    "mydealz|https://www.mydealz.de/deals/adidas-bayern-munchen-retro-fussball-shorts-fur-1789-eur-s-3xl-2764692",
+    "mydealz|https://www.mydealz.de/deals/hades-2-2399eur-ps-ps5-playstation-5-psn-store-release-rabatt-2764682",
+    "mydealz|https://www.mydealz.de/deals/privatleasingfiat600-hybrid-business-110ps-fur-165eurmtleff22729eur-lf-055kameranavisitzheizung24-mon10000km1495eurnk-2764926",
+    "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
