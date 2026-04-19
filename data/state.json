@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
-    "mydealz|https://www.mydealz.de/deals/santa-cruz-rucksack-skater-braun-fur-2589-eur-2764702",
-    "mydealz|https://www.mydealz.de/deals/adidas-bayern-munchen-retro-fussball-shorts-fur-1789-eur-s-3xl-2764692",
-    "mydealz|https://www.mydealz.de/deals/hades-2-2399eur-ps-ps5-playstation-5-psn-store-release-rabatt-2764682",
-    "mydealz|https://www.mydealz.de/deals/privatleasingfiat600-hybrid-business-110ps-fur-165eurmtleff22729eur-lf-055kameranavisitzheizung24-mon10000km1495eurnk-2764926",
-    "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903",
-    "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7590-wlan-router-fritzbox-refurbished-gut-2764885",
-    "mydealz|https://www.mydealz.de/deals/walter-3tlg-sagenset-handsage-508-mm-ruckensage-300-mm-stichsage-150-mm-gehartete-zahne-softgripgriffe-fur-prazise-holzarbeiten-2764848",
-    "mydealz|https://www.mydealz.de/deals/norev-mercedes-b-s-klasse-w222-silber-grau-metallic-limousine-ab-2013-118-183481-2762212",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-succebuy-20-55-liter-tragbarer-kuhlschrank-autokuhlschrank-elektrischer-kompressorkuhler-mit-1224-v-dc-und-110-240-v-ac-2742416",
-    "mydealz|https://www.mydealz.de/deals/wmf-durado-wokpfanne-28cm-induktion-antihaft-backofenfest-bis-260c-prime-2741932",
-    "mydealz|https://www.mydealz.de/deals/sneaker-sale-zb-skechers-sport-bounder-verkona-40-455-adidas-gazelle-schwarz-36-44-fur-5475eur-uvm-2764908",
-    "mydealz|https://www.mydealz.de/deals/siku-3068-aebi-terratrac-tt211-132-metallmodell-mit-frontmahwerk-ab-3-jahren-muller-abholung-2765030",
-    "mydealz|https://www.mydealz.de/deals/evercross-tech-ev06c-kinder-e-scooter-faltbarer-elektroroller-fur-6-12-jahre-mit-led-2742898",
-    "mydealz|https://www.mydealz.de/deals/gxtrust-542bm-muta-wireless-controller-im-batman-design-pcswitchandroidios-bluetooth24-ghzusb-75-recycelt-akku-amazon-prime-2765001"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-oled-tv-48-zoll-c5e-ds60tr-400w-soundbar-6-fach-payback-personalisiert-oled48c5elbds6otr-eff-nach-sb-verkauf-650-euro-moglich-2761227",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/happy-pike-place-day-gratis-kaffee-klein-bei-starbucks-2761207",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samwatch-fantasy-e-2025-watch-face-wear-os-play-store-2761202",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yaheetch-sonnenschirm-o-230cm-marktschirm-gartenschirm-mit-kurbel-wasserdicht-terrassenschirm-rund-sonnenschutz-2761201",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cozze-pizzaofen-gas-premium-425-cm-17-mit-drehbarem-pizzastein-digital-thermometer-inkl-hitzeschild-2761236",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/google-play-5eur-bonus-mit-paysafecard-fur-neukunden-effektiv-kostenlos-100-bonus-auf-5eur-bis-07052026-2761177",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmw-i5-edrive40-limo-oder-touring-51990eur-340-ps-automatik-wltp601-km-forderfahiges-dt-neufahrzeug-2761366",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fiskars-blumendusche-mbw-2999eur-evtl-nicht-erforderlich-2761367",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/range-rover-evoque-d200-s-204-ps-fur-375-eur-mtl-eff-422-eur-lf-061360-kameranavisitzheizung36-mon10000-km-1699eurnk-ab-mai-2026-2761374",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gigabyte-aorus-fo32u2-32-4k-oled-gaming-monitor-240hz-003ms-hdmi-21dpusbc-computeruniverse-2752273",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-campingstuhl-klappstuhl-mit-getrankehalter-angelstuhl-schaumstoffpolsterung-klappbar-bis-205-kg-belastbar-2761234",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-series-4-staubsauger-mit-beutel-rot-2732080",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/camp-david-herren-hoodie-grun-fur-2089-eur-nur-noch-in-m-2761544",
-      "ts": 1776032612637
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/rossmann-8x-hydro-5-hydrating-gel-447-eur-bzw-056-eur-je-5er-klinge-2761554",
-      "ts": 1776032612637
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-128-galaxy-watch-8-bt-im-freenet-allnetsms-flat-25gb-5g-fur-1999eurmonat-108eur-mit-trade-in-abzug-2761532",
-      "ts": 1776032612637
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
       "ts": 1776119717724
@@ -382,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/eneba-google-play-guthaben-deal-2764424",
       "ts": 1776551035019
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/santa-cruz-rucksack-skater-braun-fur-2589-eur-2764702",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-bayern-munchen-retro-fussball-shorts-fur-1789-eur-s-3xl-2764692",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hades-2-2399eur-ps-ps5-playstation-5-psn-store-release-rabatt-2764682",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/privatleasingfiat600-hybrid-business-110ps-fur-165eurmtleff22729eur-lf-055kameranavisitzheizung24-mon10000km1495eurnk-2764926",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7590-wlan-router-fritzbox-refurbished-gut-2764885",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/walter-3tlg-sagenset-handsage-508-mm-ruckensage-300-mm-stichsage-150-mm-gehartete-zahne-softgripgriffe-fur-prazise-holzarbeiten-2764848",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/norev-mercedes-b-s-klasse-w222-silber-grau-metallic-limousine-ab-2013-118-183481-2762212",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-succebuy-20-55-liter-tragbarer-kuhlschrank-autokuhlschrank-elektrischer-kompressorkuhler-mit-1224-v-dc-und-110-240-v-ac-2742416",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wmf-durado-wokpfanne-28cm-induktion-antihaft-backofenfest-bis-260c-prime-2741932",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sneaker-sale-zb-skechers-sport-bounder-verkona-40-455-adidas-gazelle-schwarz-36-44-fur-5475eur-uvm-2764908",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/siku-3068-aebi-terratrac-tt211-132-metallmodell-mit-frontmahwerk-ab-3-jahren-muller-abholung-2765030",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/evercross-tech-ev06c-kinder-e-scooter-faltbarer-elektroroller-fur-6-12-jahre-mit-led-2742898",
+      "ts": 1776637502021
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gxtrust-542bm-muta-wireless-controller-im-batman-design-pcswitchandroidios-bluetooth24-ghzusb-75-recycelt-akku-amazon-prime-2765001",
+      "ts": 1776637502021
     }
   ]
 }
