@@ -2,7 +2,7 @@
   "date": "2026-04-19",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/adidas-bayern-munchen-retro-fussball-shorts-fur-1789-eur-s-3xl-2764692",
     "mydealz|https://www.mydealz.de/deals/hades-2-2399eur-ps-ps5-playstation-5-psn-store-release-rabatt-2764682",
     "mydealz|https://www.mydealz.de/deals/privatleasingfiat600-hybrid-business-110ps-fur-165eurmtleff22729eur-lf-055kameranavisitzheizung24-mon10000km1495eurnk-2764926",
-    "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903"
+    "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903",
+    "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7590-wlan-router-fritzbox-refurbished-gut-2764885",
+    "mydealz|https://www.mydealz.de/deals/walter-3tlg-sagenset-handsage-508-mm-ruckensage-300-mm-stichsage-150-mm-gehartete-zahne-softgripgriffe-fur-prazise-holzarbeiten-2764848",
+    "mydealz|https://www.mydealz.de/deals/norev-mercedes-b-s-klasse-w222-silber-grau-metallic-limousine-ab-2013-118-183481-2762212",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-succebuy-20-55-liter-tragbarer-kuhlschrank-autokuhlschrank-elektrischer-kompressorkuhler-mit-1224-v-dc-und-110-240-v-ac-2742416",
+    "mydealz|https://www.mydealz.de/deals/wmf-durado-wokpfanne-28cm-induktion-antihaft-backofenfest-bis-260c-prime-2741932"
   ],
   "postedHistory": [
     {
