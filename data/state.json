@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/anycubic-refurbishe-anycubic-kobra-s1-combo-3d-drucker-2765205",
+    "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-balkonkraftwerk-set-mit-4x-500-w-bifacial-solarmodul-und-kabeln-2765228",
+    "mydealz|https://www.mydealz.de/deals/songmics-elektrisch-hohenverstellbarer-schreibtisch-100-x-60-cm-in-weiss-2765200",
+    "mydealz|https://www.mydealz.de/deals/30-eur-bonus-fur-die-eroffnung-eines-derivatekontos-auf-okx-2765072"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
