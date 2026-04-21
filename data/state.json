@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/songmics-mulleimer-50-l-aus-stahl-15-mullsacke-herausnehmbarer-inneneimer-aus-kunststoff-mit-deckel-griffe-softclose-cremefarben-2750303",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/mediamarktsaturn-2750363",
     "mydealz|https://www.mydealz.de/deals/philips-evnia-34-curved-gaming-monitor-wqhd-180-hz-1-ms-freesync-ambiglow-hohenverstellbar-lautsprecher-amazon-prime-coolblue-2765609",
     "mydealz|https://www.mydealz.de/deals/prime-ugreen-usb-c-ladegerat-200w-gan-netzteil-8-port-desktop-ladestation-pd-charger-100w-schnellladegerat-2765555",
-    "mydealz|https://www.mydealz.de/deals/bosch-smu4hvs14e-serie-4-geschirrspuler-spulmaschine-unterbaufahig-edelstahl-46-db-my-mediamarkt-bosch-smi4hvs14e-teilintegrierbar-42415-2765553"
+    "mydealz|https://www.mydealz.de/deals/bosch-smu4hvs14e-serie-4-geschirrspuler-spulmaschine-unterbaufahig-edelstahl-46-db-my-mediamarkt-bosch-smi4hvs14e-teilintegrierbar-42415-2765553",
+    "mydealz|https://www.mydealz.de/deals/lg-75ua75006la-75-zoll-uhd-4k-smart-tv-2765873",
+    "mydealz|https://www.mydealz.de/deals/asus-rog-cetra-true-wireless-moonlight-2766007",
+    "mydealz|https://www.mydealz.de/deals/motorola-turbopower-68-w-usb-c-1-m-kabel-2766002",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-japan-tetris-effect-connected-metacritic-94-2765989"
   ],
   "postedHistory": [
     {
