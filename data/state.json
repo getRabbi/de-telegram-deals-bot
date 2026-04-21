@@ -1,11 +1,18 @@
 {
   "date": "2026-04-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/songmics-mulleimer-50-l-aus-stahl-15-mullsacke-herausnehmbarer-inneneimer-aus-kunststoff-mit-deckel-griffe-softclose-cremefarben-2750303",
+    "mydealz|https://www.mydealz.de/deals/kichly-glasbehalter-mit-deckel-12-dosen-und-12-deckel-2764338",
+    "mydealz|https://www.mydealz.de/deals/1822direkt-tagesgeld-280-fur-6-monate-40eur-kwk-bis-250000eur-haftungsverbund-der-sparkassen-finanzgruppe-ohne-schufa-2765440",
+    "mydealz|https://www.mydealz.de/deals/hp-probook-640-g8-i5-11th-16gb-256gb-fhd-refurbished-fur-287eur-bei-amazon-5-rabatt-bis-so-2765404",
+    "mydealz|https://www.mydealz.de/deals/das-schweigen-der-lammer-1991-anthony-hopkins-5-oscars-imdb-8610-jodie-foster-in-4k-dolby-vision-auf-itunes-apple-tv-2765371",
+    "mydealz|https://www.mydealz.de/deals/benfei-festplattengehause-25-zoll-sata-iii-auf-usb-bis-zu-6-gbps-werkzeugfrei-externes-gehause-fur-ssd-und-hdd-at-prime-2765329"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/microplane-reiben-black-sheep-master-etc-2761757",
