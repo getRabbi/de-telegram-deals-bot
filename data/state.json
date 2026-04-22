@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/einhell-deltaschleifer-tc-ds-19-prime-2765382",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/sammeldeal-ram-arbeitsspeicher-64gb-32gb-ram-kits-von-lexar-und-kingston-2766298",
     "mydealz|https://www.mydealz.de/deals/his-herren-baumwolle-boxershorts-3er-packung-fur-1689-eur-m-und-xxl-2766305",
     "mydealz|https://www.mydealz.de/deals/mould-king-11014-motorisierte-achterbahn-3646-teile-2765495",
-    "mydealz|https://www.mydealz.de/deals/sc-preussen-munster-heimtrikot-202526-2766268"
+    "mydealz|https://www.mydealz.de/deals/sc-preussen-munster-heimtrikot-202526-2766268",
+    "mydealz|https://www.mydealz.de/deals/jumanji-1995-399eur-4k-hdr-digital-jumanji-willkommen-im-dschungel-the-next-level-je-499eur-hd-digital-at-amazon-vod-sammeldeal-2766506",
+    "mydealz|https://www.mydealz.de/deals/limango-knirps-doppler-taschen-regenschirme-modell-havanna-mehr-versch-farben-extrem-leicht-kompakt-ab-999eurvsk-2766196",
+    "mydealz|https://www.mydealz.de/deals/lokal-vodafone-netz-gigakombi-macbook-neo-512gb-im-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-zz-100eur-rnm-120eur-ohne-gk-2766420",
+    "mydealz|https://www.mydealz.de/deals/joybuy-hermes-h24-herbes-vives-edp-100ml-15ml-2766107"
   ],
   "postedHistory": [
     {
