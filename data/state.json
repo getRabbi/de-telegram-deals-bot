@@ -1,148 +1,12 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/einhell-deltaschleifer-tc-ds-19-prime-2765382",
-    "mydealz|https://www.mydealz.de/deals/wir-sind-am-leben-das-berlin-musical-via-abundo-abo-div-termine-kostenlos-fur-neukunden-2765681",
-    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-9600x-rx-9070xt-16gb-32gb-ddr5-6000-1tb-ssd-b850m-wifi-750w-gold-2764719",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-4g-8gb-256gb-black-2765543",
-    "mydealz|https://www.mydealz.de/deals/adidas-unisex-3-streifen-rubber-x3-basketball-prime-2766031",
-    "mydealz|https://www.mydealz.de/deals/baby-wunschliste-8eur-small-foot-spielkasse-aus-holz-inkl-scanner-kartenlesegerat-spielgeld-und-kreditkarten-mehrfarbig-11099-spielzeug-2766036",
-    "mydealz|https://www.mydealz.de/deals/gog-deal-75-kerbal-space-program-2766048",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-ram-arbeitsspeicher-64gb-32gb-ram-kits-von-lexar-und-kingston-2766298",
-    "mydealz|https://www.mydealz.de/deals/his-herren-baumwolle-boxershorts-3er-packung-fur-1689-eur-m-und-xxl-2766305",
-    "mydealz|https://www.mydealz.de/deals/mould-king-11014-motorisierte-achterbahn-3646-teile-2765495",
-    "mydealz|https://www.mydealz.de/deals/sc-preussen-munster-heimtrikot-202526-2766268",
-    "mydealz|https://www.mydealz.de/deals/jumanji-1995-399eur-4k-hdr-digital-jumanji-willkommen-im-dschungel-the-next-level-je-499eur-hd-digital-at-amazon-vod-sammeldeal-2766506",
-    "mydealz|https://www.mydealz.de/deals/limango-knirps-doppler-taschen-regenschirme-modell-havanna-mehr-versch-farben-extrem-leicht-kompakt-ab-999eurvsk-2766196",
-    "mydealz|https://www.mydealz.de/deals/lokal-vodafone-netz-gigakombi-macbook-neo-512gb-im-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-zz-100eur-rnm-120eur-ohne-gk-2766420",
-    "mydealz|https://www.mydealz.de/deals/joybuy-hermes-h24-herbes-vives-edp-100ml-15ml-2766107"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/intel-core-ultra-7-270k-plus-8p16e24t-370-550ghz-tray-2761723",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-speed-champions-netto-45711-dattel-2761742",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-philips-hue-play-lightbar-doppelpack-schwarz-hue-standard-bridge-eur-10879-2761911",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cosori-heissluftfritteuse-turbo-tower-pro-smart-2761839",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-doner-berlin-reinickendorf-199eur-2761838",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzrepeater-1200-ax-wlan-repeater-wifi-6-mesh-gigabit-lan-nur-53eur-lokal-lieferando-x-mediamarkt-2761889",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-mit-sds-plus-gbh-18v-28-dc-mit-xl-boxx-2760899",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/einhell-starter-kit-gratis-beim-kauf-eines-solo-akkugerats-2762093",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gutscheinfehler-3x-nedis-usbkabel-ac-1-2m-fur-897-eur-statt-36-eur-bei-ebay-fiducia-2762075",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/krause-corda-montagegerust-5m-beim-globus-baumarkt-fur-388-euro-mit-bauhaus-tpg-fur-34144-euro-bauhaus-tpg-2762046",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bulliant-herren-ledergurtel-mit-ratsche-35-mm-automatikschliesse-fur-948-eur-statt-1499-eur-bei-amazon-prime-2762043",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nischendeal-pixel-buds-pro-2-fur-179-eur-im-google-store-ideal-um-store-guthaben-einzulosen-2761861",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/logitech-mx-keys-s-qwertz-tastatur-wireless-hintergrundbeleuchtes-keyboard-lokal-tiefpreis-lieferando-mediamarkt-2762337",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-laubblaser-gbl-18v-800-solo-nach-cashback-15928eur-moglich-2762304",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pelikan-tintenglas-tinte-4001-blau-schwarz-30-ml-sparabo-prime-2762256",
-      "ts": 1776206218533
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-telekom-magentatv-smart-fur-7eurmonat-6-freimonate-50eur-gutschein-eff-316eurmonat-2762306",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-mallorca-inkl-ruckflug-von-koln-berlin-hahn-bremen-hamburg-und-weitere-ab-36eur-inkl-ruckflug-ryanair-apr-2762340",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brillenreiniger-tiefstpreis-zeiss-doppelpack-2x120ml-alkoholfrei-003900-0030-158-prime-2761936",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestpreis-fractal-design-north-tg-charcoal-black-gehause-miditower-schwarz-2762460",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/super-mario-party-jamboreejamboree-tv-nintendo-switch-2-fur-5281-amazonit-2762429",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hotel-kreta-griechenland-4-elounda-palm-hotel-suites-zb-7-nachte-inkl-halbpension-fur-2-personen-ab-779eur-2762466",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/arrma-kraton-3s-dsc-4x4-ara2508s-2026-rc-auto-116-4wd-rtr-truggy-bestprice-2762656",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-nordseebestrafung-nordseekrimi-teufel-und-graf-ermitteln-1-abgeschlossener-fall-ebook-2762658",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msi-claw-core-ultra-7-16gb-1tb-handheld-gaming-pc-2737682",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-livingforest-kostenlos-2762663",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gabelfluge-wien-asien-deutschland-mit-saudia-zb-bangkok-fur-370-euro-2762885",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nike-nfl-seattle-seahawks-trikot-american-football-metcalf-fur-4589-eur-nur-noch-in-s-2762882",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-garten-clogs-schwarzgrau-unisex-fur-1389-eur-38-43-2762886",
-      "ts": 1776292418483
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/frequent-traveller-status-mit-10-rundreisen-innerhalb-europas-in-economy-erreichen-ca-40-gunstiger-uptrip-anleitung-2743011",
-      "ts": 1776292418483
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-intel-j4105-inkl-psu-stand-wifi-usb-c-micro-server-f-pihole-jellyfin-proxmox-uvm-2762820",
       "ts": 1776378640558
@@ -442,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-japan-tetris-effect-connected-metacritic-94-2765989",
       "ts": 1776810678017
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/einhell-deltaschleifer-tc-ds-19-prime-2765382",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wir-sind-am-leben-das-berlin-musical-via-abundo-abo-div-termine-kostenlos-fur-neukunden-2765681",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-9600x-rx-9070xt-16gb-32gb-ddr5-6000-1tb-ssd-b850m-wifi-750w-gold-2764719",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-4g-8gb-256gb-black-2765543",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-unisex-3-streifen-rubber-x3-basketball-prime-2766031",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/baby-wunschliste-8eur-small-foot-spielkasse-aus-holz-inkl-scanner-kartenlesegerat-spielgeld-und-kreditkarten-mehrfarbig-11099-spielzeug-2766036",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-deal-75-kerbal-space-program-2766048",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-ram-arbeitsspeicher-64gb-32gb-ram-kits-von-lexar-und-kingston-2766298",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/his-herren-baumwolle-boxershorts-3er-packung-fur-1689-eur-m-und-xxl-2766305",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mould-king-11014-motorisierte-achterbahn-3646-teile-2765495",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sc-preussen-munster-heimtrikot-202526-2766268",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jumanji-1995-399eur-4k-hdr-digital-jumanji-willkommen-im-dschungel-the-next-level-je-499eur-hd-digital-at-amazon-vod-sammeldeal-2766506",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/limango-knirps-doppler-taschen-regenschirme-modell-havanna-mehr-versch-farben-extrem-leicht-kompakt-ab-999eurvsk-2766196",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-vodafone-netz-gigakombi-macbook-neo-512gb-im-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-zz-100eur-rnm-120eur-ohne-gk-2766420",
+      "ts": 1776897507921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/joybuy-hermes-h24-herbes-vives-edp-100ml-15ml-2766107",
+      "ts": 1776897507921
     }
   ]
 }
