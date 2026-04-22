@@ -2,7 +2,7 @@
   "date": "2026-04-22",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-9600x-rx-9070xt-16gb-32gb-ddr5-6000-1tb-ssd-b850m-wifi-750w-gold-2764719",
     "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-note-15-pro-4g-8gb-256gb-black-2765543",
     "mydealz|https://www.mydealz.de/deals/adidas-unisex-3-streifen-rubber-x3-basketball-prime-2766031",
-    "mydealz|https://www.mydealz.de/deals/baby-wunschliste-8eur-small-foot-spielkasse-aus-holz-inkl-scanner-kartenlesegerat-spielgeld-und-kreditkarten-mehrfarbig-11099-spielzeug-2766036"
+    "mydealz|https://www.mydealz.de/deals/baby-wunschliste-8eur-small-foot-spielkasse-aus-holz-inkl-scanner-kartenlesegerat-spielgeld-und-kreditkarten-mehrfarbig-11099-spielzeug-2766036",
+    "mydealz|https://www.mydealz.de/deals/gog-deal-75-kerbal-space-program-2766048",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-ram-arbeitsspeicher-64gb-32gb-ram-kits-von-lexar-und-kingston-2766298",
+    "mydealz|https://www.mydealz.de/deals/his-herren-baumwolle-boxershorts-3er-packung-fur-1689-eur-m-und-xxl-2766305",
+    "mydealz|https://www.mydealz.de/deals/mould-king-11014-motorisierte-achterbahn-3646-teile-2765495",
+    "mydealz|https://www.mydealz.de/deals/sc-preussen-munster-heimtrikot-202526-2766268"
   ],
   "postedHistory": [
     {
