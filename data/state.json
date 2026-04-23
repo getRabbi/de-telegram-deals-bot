@@ -2,7 +2,7 @@
   "date": "2026-04-23",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/wiso-mein-geld-365-professional-2026-buhl-download-jahresvertrag-mit-aktualitats-garantie-geld-verwalten-girokonto-kreditkarte-2766602",
     "mydealz|https://www.mydealz.de/deals/andro-holz-gauzy-sl-off-2766605",
     "mydealz|https://www.mydealz.de/deals/edeka-app-spar-5-eur-2766613",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-5-9600x-39-ghz-prozessor-sockel-am5-38-mb-cache-repacked-tray-2766584"
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-5-9600x-39-ghz-prozessor-sockel-am5-38-mb-cache-repacked-tray-2766584",
+    "mydealz|https://www.mydealz.de/deals/philips-luftreiniger-600-serie-ac065010-bis-44-m2-hepa-9997-ultraleise-19-db-app-gesteuert-prime-mymmsaturn-2766594",
+    "mydealz|https://www.mydealz.de/deals/lego-43022-ferrari-lewis-hamilton-helm-vorbestellung-2756360",
+    "mydealz|https://www.mydealz.de/deals/leatherman-skeletool-cx-multitool-2766739",
+    "mydealz|https://www.mydealz.de/deals/mediamarkt-abholung-sonic-superstars-xbox-series-x-2766712",
+    "mydealz|https://www.mydealz.de/deals/samsung-waschmaschine-ww90cgc04aabeg-9-kg-1400-umin-eek-a-mikroplastik-programm-ecobubble-14-programme-wifi-schwarz-2766167"
   ],
   "postedHistory": [
     {
