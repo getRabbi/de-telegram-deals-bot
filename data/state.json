@@ -1,11 +1,18 @@
 {
   "date": "2026-04-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/shoop-5eur-cashback-als-bonus-auf-15eur-mindesteinkaufswert-ohne-versandkosten-einlosbar-fur-7-tage-vermutlich-personalisiert-2766425",
+    "mydealz|https://www.mydealz.de/deals/byodo-bio-perfetto-tomatensauce-11-aktion-gunstigere-sauce-wird-bis-379-eur-erstattet-2747481",
+    "mydealz|https://www.mydealz.de/deals/wiso-mein-geld-365-professional-2026-buhl-download-jahresvertrag-mit-aktualitats-garantie-geld-verwalten-girokonto-kreditkarte-2766602",
+    "mydealz|https://www.mydealz.de/deals/andro-holz-gauzy-sl-off-2766605",
+    "mydealz|https://www.mydealz.de/deals/edeka-app-spar-5-eur-2766613",
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-5-9600x-39-ghz-prozessor-sockel-am5-38-mb-cache-repacked-tray-2766584"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-intel-j4105-inkl-psu-stand-wifi-usb-c-micro-server-f-pihole-jellyfin-proxmox-uvm-2762820",
