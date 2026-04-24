@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
-    "mydealz|https://www.mydealz.de/deals/dream-l40-ultra-a-personalisiert-2766905",
-    "mydealz|https://www.mydealz.de/deals/lokal-globus-baumarkt-app-1x-primaster-bio-universalerde-40-l-torffrei-fur-1-eur-2766909",
-    "mydealz|https://www.mydealz.de/deals/mochtoys-kinderrutsche-12601-rutschlange-198-cm-wasserrutsche-bis-50-kg-grun-2766453",
-    "mydealz|https://www.mydealz.de/deals/apple-iphone-17-weiss-256-gb-physische-sim-esim-zustand-premium-12m-garantie-2760406",
-    "mydealz|https://www.mydealz.de/deals/juskys-sprossenwand-fur-erwachsene-bis-170-kg-2766875",
-    "mydealz|https://www.mydealz.de/deals/samneldeal-erfrischungsgetranke-preiswerter-bei-norma-2762833",
-    "rewe|https://www.mydealz.de/deals/rewe-wochtentlich-neue-bonus-aktionen-2004-25042026-2766405",
-    "mydealz|https://www.mydealz.de/deals/rondo-original-ganze-bohne-1-kg-fur-1149eur-2766392",
-    "mydealz|https://www.mydealz.de/deals/lg-oled48g59ls-48-zoll-oled-fernseher-mit-144hz-euronics-frankfurt-2766960",
-    "mydealz|https://www.mydealz.de/deals/allesfuerzuhausedepokemon-legenden-z-a-nintendo-switch-2-edition-2766924",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-lenovo-156-zoll-casual-topload-laptop-tasche-t210-2767129",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-kanarische-inseln-gran-canariafuerteventuralanzaroteteneriffa-mit-condor-inkl-ruckflug-von-nurnberg-stuttgart-berlin-uvm-2752157",
-    "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-2740518",
-    "mydealz|https://www.mydealz.de/deals/payback-netto-50-fach-punkte-auf-einen-einkauf-vor-ort-25-evtl-personalisiert-2767101"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hummel-fussballschuhe-kinder-schwarz-fur-1590-eur-30-38-2763314",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/by-amazon-house-blend-kaffeebohnen-mittelgerostet-1-kg-rainforest-alliance-zertifiziert-prime-spar-abo-2763258",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-samba-jp-sneaker-in-schwarz-und-weiss-gr-35-bis-43-46-2762960",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-coca-cola-versch-sorten-12x1l-pet-fl-2763059",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aok-bayern-einen-goffel-kostenlos-fur-bayerngabel-und-loffel-in-einem-2763298",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/payback-netto-md-bis-zu-2000-extrapunkte-auf-google-play-geschenkkarten-2763397",
-      "ts": 1776464917275
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/krups-arabica-picto-ea810870-mit-milchduse-lidl-online-mit-gutschein-fur-versandkosten-fur-219-eur-moglich-2763415",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-otto-up-animal-crossing-new-horizons-nintendo-switch-2-edition-2763395",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bohse-onkelz-adios-2x-vinyl-lp-2763347",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-digital-1-tb-2763378",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3x-jack-jones-herren-t-shirts-100-baumwolle-fur-2189-eur-m-xl-2763551",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-oneblade-rasierklingen-3-stk-1-intimate-mir-app-10-2763508",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mould-king-eclipse-super-sternenzerstorer-imperial-star-war-dreadnought-21004-fur-30749-euro-10368-klemmbausteine-ebay-2763535",
-      "ts": 1776464917275
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazonjoybuygalaxussamsung-85-kg-waschtrockner-wd5000t-mit-airwash-eek-c-effektiv-439eur-moglich-2763451",
-      "ts": 1776464917275
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
       "ts": 1776551035019
@@ -382,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/samsung-waschmaschine-ww90cgc04aabeg-9-kg-1400-umin-eek-a-mikroplastik-programm-ecobubble-14-programme-wifi-schwarz-2766167",
       "ts": 1776983660743
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dream-l40-ultra-a-personalisiert-2766905",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-globus-baumarkt-app-1x-primaster-bio-universalerde-40-l-torffrei-fur-1-eur-2766909",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mochtoys-kinderrutsche-12601-rutschlange-198-cm-wasserrutsche-bis-50-kg-grun-2766453",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-17-weiss-256-gb-physische-sim-esim-zustand-premium-12m-garantie-2760406",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/juskys-sprossenwand-fur-erwachsene-bis-170-kg-2766875",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samneldeal-erfrischungsgetranke-preiswerter-bei-norma-2762833",
+      "ts": 1777069917093
+    },
+    {
+      "key": "rewe|https://www.mydealz.de/deals/rewe-wochtentlich-neue-bonus-aktionen-2004-25042026-2766405",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rondo-original-ganze-bohne-1-kg-fur-1149eur-2766392",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-oled48g59ls-48-zoll-oled-fernseher-mit-144hz-euronics-frankfurt-2766960",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/allesfuerzuhausedepokemon-legenden-z-a-nintendo-switch-2-edition-2766924",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-lenovo-156-zoll-casual-topload-laptop-tasche-t210-2767129",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-kanarische-inseln-gran-canariafuerteventuralanzaroteteneriffa-mit-condor-inkl-ruckflug-von-nurnberg-stuttgart-berlin-uvm-2752157",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-2740518",
+      "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/payback-netto-50-fach-punkte-auf-einen-einkauf-vor-ort-25-evtl-personalisiert-2767101",
+      "ts": 1777069917093
     }
   ]
 }
