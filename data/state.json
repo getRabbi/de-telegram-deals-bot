@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
@@ -16,7 +16,11 @@
     "rewe|https://www.mydealz.de/deals/rewe-wochtentlich-neue-bonus-aktionen-2004-25042026-2766405",
     "mydealz|https://www.mydealz.de/deals/rondo-original-ganze-bohne-1-kg-fur-1149eur-2766392",
     "mydealz|https://www.mydealz.de/deals/lg-oled48g59ls-48-zoll-oled-fernseher-mit-144hz-euronics-frankfurt-2766960",
-    "mydealz|https://www.mydealz.de/deals/allesfuerzuhausedepokemon-legenden-z-a-nintendo-switch-2-edition-2766924"
+    "mydealz|https://www.mydealz.de/deals/allesfuerzuhausedepokemon-legenden-z-a-nintendo-switch-2-edition-2766924",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-lenovo-156-zoll-casual-topload-laptop-tasche-t210-2767129",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-kanarische-inseln-gran-canariafuerteventuralanzaroteteneriffa-mit-condor-inkl-ruckflug-von-nurnberg-stuttgart-berlin-uvm-2752157",
+    "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-2740518",
+    "mydealz|https://www.mydealz.de/deals/payback-netto-50-fach-punkte-auf-einen-einkauf-vor-ort-25-evtl-personalisiert-2767101"
   ],
   "postedHistory": [
     {
