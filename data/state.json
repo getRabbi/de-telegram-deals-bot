@@ -1,11 +1,18 @@
 {
   "date": "2026-04-24",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
+    "mydealz|https://www.mydealz.de/deals/dream-l40-ultra-a-personalisiert-2766905",
+    "mydealz|https://www.mydealz.de/deals/lokal-globus-baumarkt-app-1x-primaster-bio-universalerde-40-l-torffrei-fur-1-eur-2766909",
+    "mydealz|https://www.mydealz.de/deals/mochtoys-kinderrutsche-12601-rutschlange-198-cm-wasserrutsche-bis-50-kg-grun-2766453",
+    "mydealz|https://www.mydealz.de/deals/apple-iphone-17-weiss-256-gb-physische-sim-esim-zustand-premium-12m-garantie-2760406",
+    "mydealz|https://www.mydealz.de/deals/juskys-sprossenwand-fur-erwachsene-bis-170-kg-2766875"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-walt-disney-kinder-edition-weiss-fur-2489-eur-30-34-2763323",
