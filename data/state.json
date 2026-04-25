@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
-    "mydealz|https://www.mydealz.de/deals/cupra-born-neues-modell-plus-5861-eu-neuwagen-ohne-tz-somit-berechtigt-fur-die-forderung-2767709",
-    "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-courtblock-schwarzbraun-gummi-cupsohle-zehenschutz-gr-42-47-13-2499eurvsk-2767653",
-    "mydealz|https://www.mydealz.de/deals/lokal-mannheim-tennisschlager-neu-besaiten-inkl-tennisballe-griffband-und-dampfer-fur-1499eur-bei-engelhorn-sports-2767676",
-    "mydealz|https://www.mydealz.de/deals/preisfehler-lg-ds77ty-313-kanal-mit-dolby-atmos-2767934",
-    "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910",
-    "mydealz|https://www.mydealz.de/deals/itchio-kostenlos-lihiman-horror-anime-simulation-pc-2764722",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-mit-steam-spiele-ab-15-cent-bis-maximal-2eur-bis-zu-90-rabatt-fur-pc-mac-steam-deck-2767040",
-    "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-otto-up-plus-2767837",
-    "mydealz|https://www.mydealz.de/deals/veepee-sammeldeal-adidas-terrex-ax4-outdoorschuh-wasserfest-2767902",
-    "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978",
-    "mydealz|https://www.mydealz.de/deals/bundesnetzagentur-geld-zuruck-bei-schlechtem-handy-netz-rechtssicher-dank-offizieller-app-bnetza-messprotokoll-per-app-2768029",
-    "mydealz|https://www.mydealz.de/deals/peter-pane-5-euro-holzfaller-burger-bundesweit-via-neotaste-2767995",
-    "mydealz|https://www.mydealz.de/deals/gratis-pixi-buch-nachts-im-landtag-2768025",
-    "mydealz|https://www.mydealz.de/deals/play-anno-117-pax-romana-kostenlos-spielen-pc-ps5-xbox-series-x-2768008"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/woltu-bartisch-in-vintagebraun-schwarz-60-x-60-x-100-cm-holzwerkstoff-stahl-integrierte-fussstutze-verstellbare-standfusse-2760929",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wmf-flavour-schmorpfanne-28-cm-induktion-servierpfanne-gusseisen-induktion-gusseisen-emailliert-hoher-rand-backofenfest-2764128",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/grundig-si-3550-dampfbugeleisen-2400-w-120-gmin-dampfstoss-25-gmin-dampfleistung-keramik-bugelsohle-220-ml-wassertank-prime-2763974",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/10eur-sofortrabatt-bei-eventim-auf-ticketkauf-mit-wero-ohne-mbw-2764391",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/easyjet-big-orange-sale-bis-zu-20-rabatt-auf-fluge-zb-hamburg-mailand-47eur-roundtrip-400eur-rabatt-auf-pauschalreisen-apr-mar-2764384",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/creality-1kg-hyper-pla-oder-petg-fur-799eur-2764395",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ostmann-gewurze-lets-do-spicy-fruits-wurzmischung-fur-susses-obst-kreiert-von-lalaleluu-scharfes-obst-topping-70-g-prime-spar-abo-2735422",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ack-jones-jungen-hoodie-jjelogo-sweat-hood-prime-2764321",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-gusto-tradizione-italiana-gerostete-kaffeebohnen-mit-wurzigen-aromatischen-noten-ideal-fur-einen-espresso-prime-sparabo-2764319",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fluge-von-brussel-bru-auf-die-seychellen-sez-mit-turkish-airlines-tk-inkl-gepack-nov-dez26-2764486",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/geoid-cc700-gps-fahrradcomputer-28-zoll-farbbildschirm-route-navigation-ant-bluetooth-ipx7-wasserdicht-15-25-std-akkulaufzeit-2737076",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yuma-x-ecoflow-1800w-balkonkraftwerk-mit-stream-ultra-2764484",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/iosipadosmacos-dualcapture-mit-frontback-gleichzeitig-filmenfotografieren-lifetime-premium-gratis-statt-4499eur-2718009",
-      "ts": 1776551035019
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eneba-google-play-guthaben-deal-2764424",
-      "ts": 1776551035019
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
       "ts": 1776637502021
@@ -382,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/payback-netto-50-fach-punkte-auf-einen-einkauf-vor-ort-25-evtl-personalisiert-2767101",
       "ts": 1777069917093
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cupra-born-neues-modell-plus-5861-eu-neuwagen-ohne-tz-somit-berechtigt-fur-die-forderung-2767709",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-courtblock-schwarzbraun-gummi-cupsohle-zehenschutz-gr-42-47-13-2499eurvsk-2767653",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-mannheim-tennisschlager-neu-besaiten-inkl-tennisballe-griffband-und-dampfer-fur-1499eur-bei-engelhorn-sports-2767676",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/preisfehler-lg-ds77ty-313-kanal-mit-dolby-atmos-2767934",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/itchio-kostenlos-lihiman-horror-anime-simulation-pc-2764722",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-mit-steam-spiele-ab-15-cent-bis-maximal-2eur-bis-zu-90-rabatt-fur-pc-mac-steam-deck-2767040",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-otto-up-plus-2767837",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/veepee-sammeldeal-adidas-terrex-ax4-outdoorschuh-wasserfest-2767902",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bundesnetzagentur-geld-zuruck-bei-schlechtem-handy-netz-rechtssicher-dank-offizieller-app-bnetza-messprotokoll-per-app-2768029",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/peter-pane-5-euro-holzfaller-burger-bundesweit-via-neotaste-2767995",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-pixi-buch-nachts-im-landtag-2768025",
+      "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/play-anno-117-pax-romana-kostenlos-spielen-pc-ps5-xbox-series-x-2768008",
+      "ts": 1777155975425
     }
   ]
 }
