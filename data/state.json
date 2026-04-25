@@ -1,11 +1,18 @@
 {
   "date": "2026-04-25",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
+    "mydealz|https://www.mydealz.de/deals/cupra-born-neues-modell-plus-5861-eu-neuwagen-ohne-tz-somit-berechtigt-fur-die-forderung-2767709",
+    "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-courtblock-schwarzbraun-gummi-cupsohle-zehenschutz-gr-42-47-13-2499eurvsk-2767653",
+    "mydealz|https://www.mydealz.de/deals/lokal-mannheim-tennisschlager-neu-besaiten-inkl-tennisballe-griffband-und-dampfer-fur-1499eur-bei-engelhorn-sports-2767676",
+    "mydealz|https://www.mydealz.de/deals/preisfehler-lg-ds77ty-313-kanal-mit-dolby-atmos-2767934",
+    "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-primesparabo-ggf-couponcreatin-monohydrat-pulver-500g-kreatin-monohydrat-in-mikronisierter-qualitat-100-vegan-laborgepruft-2764152",
