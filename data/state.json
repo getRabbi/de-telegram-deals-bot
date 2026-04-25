@@ -2,7 +2,7 @@
   "date": "2026-04-25",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-courtblock-schwarzbraun-gummi-cupsohle-zehenschutz-gr-42-47-13-2499eurvsk-2767653",
     "mydealz|https://www.mydealz.de/deals/lokal-mannheim-tennisschlager-neu-besaiten-inkl-tennisballe-griffband-und-dampfer-fur-1499eur-bei-engelhorn-sports-2767676",
     "mydealz|https://www.mydealz.de/deals/preisfehler-lg-ds77ty-313-kanal-mit-dolby-atmos-2767934",
-    "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910"
+    "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910",
+    "mydealz|https://www.mydealz.de/deals/itchio-kostenlos-lihiman-horror-anime-simulation-pc-2764722",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-mit-steam-spiele-ab-15-cent-bis-maximal-2eur-bis-zu-90-rabatt-fur-pc-mac-steam-deck-2767040",
+    "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-otto-up-plus-2767837",
+    "mydealz|https://www.mydealz.de/deals/veepee-sammeldeal-adidas-terrex-ax4-outdoorschuh-wasserfest-2767902",
+    "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978"
   ],
   "postedHistory": [
     {
