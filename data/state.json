@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/sammeldeal-mit-steam-spiele-ab-15-cent-bis-maximal-2eur-bis-zu-90-rabatt-fur-pc-mac-steam-deck-2767040",
     "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-otto-up-plus-2767837",
     "mydealz|https://www.mydealz.de/deals/veepee-sammeldeal-adidas-terrex-ax4-outdoorschuh-wasserfest-2767902",
-    "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978"
+    "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978",
+    "mydealz|https://www.mydealz.de/deals/bundesnetzagentur-geld-zuruck-bei-schlechtem-handy-netz-rechtssicher-dank-offizieller-app-bnetza-messprotokoll-per-app-2768029",
+    "mydealz|https://www.mydealz.de/deals/peter-pane-5-euro-holzfaller-burger-bundesweit-via-neotaste-2767995",
+    "mydealz|https://www.mydealz.de/deals/gratis-pixi-buch-nachts-im-landtag-2768025",
+    "mydealz|https://www.mydealz.de/deals/play-anno-117-pax-romana-kostenlos-spielen-pc-ps5-xbox-series-x-2768008"
   ],
   "postedHistory": [
     {
