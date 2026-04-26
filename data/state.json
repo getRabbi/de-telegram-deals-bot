@@ -1,11 +1,18 @@
 {
   "date": "2026-04-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
+    "mydealz|https://www.mydealz.de/deals/adidas-essentials-babyset-beanie-body-geschenkset-blau-fur-1489-eur-92-104-2768197",
+    "mydealz|https://www.mydealz.de/deals/20-eur-tankgutschein-fur-960-eur-wasche-2768040",
+    "mydealz|https://www.mydealz.de/deals/amazon-at-spreetailde-arcade1up-pac-man-classic-se-slim-edition-13-spiele-vorinstalliert-wifi-2768137",
+    "mydealz|https://www.mydealz.de/deals/16gb-gainward-geforce-rtx-5070-ti-phoenix-s-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-spiel-pragnata-gratis-2768458",
+    "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
