@@ -1,88 +1,12 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
-    "mydealz|https://www.mydealz.de/deals/adidas-essentials-babyset-beanie-body-geschenkset-blau-fur-1489-eur-92-104-2768197",
-    "mydealz|https://www.mydealz.de/deals/20-eur-tankgutschein-fur-960-eur-wasche-2768040",
-    "mydealz|https://www.mydealz.de/deals/amazon-at-spreetailde-arcade1up-pac-man-classic-se-slim-edition-13-spiele-vorinstalliert-wifi-2768137",
-    "mydealz|https://www.mydealz.de/deals/16gb-gainward-geforce-rtx-5070-ti-phoenix-s-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-spiel-pragnata-gratis-2768458",
-    "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434",
-    "zalando|https://www.mydealz.de/deals/zalando-cb-patagonia-downdrift-daunenjacke-schwarz-xl-2xl-2768421",
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-sony-playstation-5-slim-disc-mit-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-mit-2-controller-18eur-2768429",
-    "mydealz|https://www.mydealz.de/deals/nortiv-8-wasserdichte-low-top-herren-wanderschuhe-gr-40-48-3-farben-outdoor-trekking-schuhe-mit-gummi-zehenkappe-prime-2747645",
-    "mydealz|https://www.mydealz.de/deals/bianchi-sprint-icr-105-carbon-rennrad-84kg-in-celeste-und-weiss-bestpreis-2768408",
-    "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592",
-    "mydealz|https://www.mydealz.de/deals/msi-g255f-245-zoll-fhd-gaming-monitor-1920-x-1080-rapid-ips-panel-180-hz-1-ms-gtg-2768599",
-    "mydealz|https://www.mydealz.de/deals/herne-lokal-forderung-fur-lastenrader-und-fahrradanhanger-30-abzug-bis-maximal-1000eur-2768560",
-    "mydealz|https://www.mydealz.de/deals/infiray-t2l-warmebild-infrarotkamera-fur-android-und-usb-c-anschluss-256x192-pixel-2747948",
-    "mydealz|https://www.mydealz.de/deals/eneba-100eur-playstation-store-guthaben-fur-8199eur-mit-paypal-2768602"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deutschlandcard-ende-beschlossen-punkte-jetzt-einlosen-jedes-produkt-in-jedem-shop-uber-joy-rabatt-babbel-rtl-picturepeople-neotaste-2764674",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/santa-cruz-rucksack-skater-braun-fur-2589-eur-2764702",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-bayern-munchen-retro-fussball-shorts-fur-1789-eur-s-3xl-2764692",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hades-2-2399eur-ps-ps5-playstation-5-psn-store-release-rabatt-2764682",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/privatleasingfiat600-hybrid-business-110ps-fur-165eurmtleff22729eur-lf-055kameranavisitzheizung24-mon10000km1495eurnk-2764926",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikano-tagesgeld-336-pa-3-monate-neukunden-bis-100000eur-schwedische-einlagensicherung-online-ident-2764903",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7590-wlan-router-fritzbox-refurbished-gut-2764885",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/walter-3tlg-sagenset-handsage-508-mm-ruckensage-300-mm-stichsage-150-mm-gehartete-zahne-softgripgriffe-fur-prazise-holzarbeiten-2764848",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/norev-mercedes-b-s-klasse-w222-silber-grau-metallic-limousine-ab-2013-118-183481-2762212",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-succebuy-20-55-liter-tragbarer-kuhlschrank-autokuhlschrank-elektrischer-kompressorkuhler-mit-1224-v-dc-und-110-240-v-ac-2742416",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wmf-durado-wokpfanne-28cm-induktion-antihaft-backofenfest-bis-260c-prime-2741932",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sneaker-sale-zb-skechers-sport-bounder-verkona-40-455-adidas-gazelle-schwarz-36-44-fur-5475eur-uvm-2764908",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/siku-3068-aebi-terratrac-tt211-132-metallmodell-mit-frontmahwerk-ab-3-jahren-muller-abholung-2765030",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/evercross-tech-ev06c-kinder-e-scooter-faltbarer-elektroroller-fur-6-12-jahre-mit-led-2742898",
-      "ts": 1776637502021
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gxtrust-542bm-muta-wireless-controller-im-batman-design-pcswitchandroidios-bluetooth24-ghzusb-75-recycelt-akku-amazon-prime-2765001",
-      "ts": 1776637502021
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/anycubic-refurbishe-anycubic-kobra-s1-combo-3d-drucker-2765205",
       "ts": 1776724436642
@@ -382,6 +306,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/play-anno-117-pax-romana-kostenlos-spielen-pc-ps5-xbox-series-x-2768008",
       "ts": 1777155975425
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-essentials-babyset-beanie-body-geschenkset-blau-fur-1489-eur-92-104-2768197",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/20-eur-tankgutschein-fur-960-eur-wasche-2768040",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-at-spreetailde-arcade1up-pac-man-classic-se-slim-edition-13-spiele-vorinstalliert-wifi-2768137",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/16gb-gainward-geforce-rtx-5070-ti-phoenix-s-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-spiel-pragnata-gratis-2768458",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434",
+      "ts": 1777242475448
+    },
+    {
+      "key": "zalando|https://www.mydealz.de/deals/zalando-cb-patagonia-downdrift-daunenjacke-schwarz-xl-2xl-2768421",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-sony-playstation-5-slim-disc-mit-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-mit-2-controller-18eur-2768429",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nortiv-8-wasserdichte-low-top-herren-wanderschuhe-gr-40-48-3-farben-outdoor-trekking-schuhe-mit-gummi-zehenkappe-prime-2747645",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bianchi-sprint-icr-105-carbon-rennrad-84kg-in-celeste-und-weiss-bestpreis-2768408",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-g255f-245-zoll-fhd-gaming-monitor-1920-x-1080-rapid-ips-panel-180-hz-1-ms-gtg-2768599",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/herne-lokal-forderung-fur-lastenrader-und-fahrradanhanger-30-abzug-bis-maximal-1000eur-2768560",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/infiray-t2l-warmebild-infrarotkamera-fur-android-und-usb-c-anschluss-256x192-pixel-2747948",
+      "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eneba-100eur-playstation-store-guthaben-fur-8199eur-mit-paypal-2768602",
+      "ts": 1777242475448
     }
   ]
 }
