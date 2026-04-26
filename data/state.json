@@ -2,7 +2,7 @@
   "date": "2026-04-26",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/20-eur-tankgutschein-fur-960-eur-wasche-2768040",
     "mydealz|https://www.mydealz.de/deals/amazon-at-spreetailde-arcade1up-pac-man-classic-se-slim-edition-13-spiele-vorinstalliert-wifi-2768137",
     "mydealz|https://www.mydealz.de/deals/16gb-gainward-geforce-rtx-5070-ti-phoenix-s-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-spiel-pragnata-gratis-2768458",
-    "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434"
+    "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434",
+    "zalando|https://www.mydealz.de/deals/zalando-cb-patagonia-downdrift-daunenjacke-schwarz-xl-2xl-2768421",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-sony-playstation-5-slim-disc-mit-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-mit-2-controller-18eur-2768429",
+    "mydealz|https://www.mydealz.de/deals/nortiv-8-wasserdichte-low-top-herren-wanderschuhe-gr-40-48-3-farben-outdoor-trekking-schuhe-mit-gummi-zehenkappe-prime-2747645",
+    "mydealz|https://www.mydealz.de/deals/bianchi-sprint-icr-105-carbon-rennrad-84kg-in-celeste-und-weiss-bestpreis-2768408",
+    "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592"
   ],
   "postedHistory": [
     {
