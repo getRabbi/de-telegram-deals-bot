@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-sony-playstation-5-slim-disc-mit-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-mit-2-controller-18eur-2768429",
     "mydealz|https://www.mydealz.de/deals/nortiv-8-wasserdichte-low-top-herren-wanderschuhe-gr-40-48-3-farben-outdoor-trekking-schuhe-mit-gummi-zehenkappe-prime-2747645",
     "mydealz|https://www.mydealz.de/deals/bianchi-sprint-icr-105-carbon-rennrad-84kg-in-celeste-und-weiss-bestpreis-2768408",
-    "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592"
+    "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592",
+    "mydealz|https://www.mydealz.de/deals/msi-g255f-245-zoll-fhd-gaming-monitor-1920-x-1080-rapid-ips-panel-180-hz-1-ms-gtg-2768599",
+    "mydealz|https://www.mydealz.de/deals/herne-lokal-forderung-fur-lastenrader-und-fahrradanhanger-30-abzug-bis-maximal-1000eur-2768560",
+    "mydealz|https://www.mydealz.de/deals/infiray-t2l-warmebild-infrarotkamera-fur-android-und-usb-c-anschluss-256x192-pixel-2747948",
+    "mydealz|https://www.mydealz.de/deals/eneba-100eur-playstation-store-guthaben-fur-8199eur-mit-paypal-2768602"
   ],
   "postedHistory": [
     {
