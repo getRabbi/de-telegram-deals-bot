@@ -2,10 +2,16 @@
   "date": "2026-04-27",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
+    "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-team-rallye-edition-250-e-bike-gratis-2-e-bike-city-edition-2-x-helme-range-extender-2768683",
+    "mydealz|https://www.mydealz.de/deals/lokal-gratis-pflanzkartoffeln-bei-netto-scottie-in-breitenfelde-schleswig-holstein-2768745",
+    "mydealz|https://www.mydealz.de/deals/lowepro-protactic-bp-350-aw-iii-camera-bag-one-size-2768404",
+    "mydealz|https://www.mydealz.de/deals/heyobi-karcher-hochdruckreiniger-k6-flex-home-160-bar-510-lh-inkl-cashback-fur-30999-eur-2764586"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/anycubic-refurbishe-anycubic-kobra-s1-combo-3d-drucker-2765205",
