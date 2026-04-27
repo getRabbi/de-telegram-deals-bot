@@ -1,38 +1,12 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
-    "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-team-rallye-edition-250-e-bike-gratis-2-e-bike-city-edition-2-x-helme-range-extender-2768683",
-    "mydealz|https://www.mydealz.de/deals/lokal-gratis-pflanzkartoffeln-bei-netto-scottie-in-breitenfelde-schleswig-holstein-2768745",
-    "mydealz|https://www.mydealz.de/deals/lowepro-protactic-bp-350-aw-iii-camera-bag-one-size-2768404",
-    "mydealz|https://www.mydealz.de/deals/heyobi-karcher-hochdruckreiniger-k6-flex-home-160-bar-510-lh-inkl-cashback-fur-30999-eur-2764586",
-    "mydealz|https://www.mydealz.de/deals/3er-set-schneidebrett-edelholz-aus-akazienholz-40x30cm-33x24cm-26x18cm-mit-saftrille-akazienstander-prime-2758721",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-turtle-beach-stealth-pivot-wireless-controller-windows-1011-fur-6217eur-statt-9044eur-2768593",
-    "mydealz|https://www.mydealz.de/deals/nicht-3-fur-ps5-fur-3585eur-inkl-versand-2768905",
-    "mydealz|https://www.mydealz.de/deals/frostpunk-complete-collection-gameseason-pass-3x-dlc-ps4-digital-usk16-strategie-ps-erforderlichohne-ps-674eur-at-ps-store-2768922"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anycubic-refurbishe-anycubic-kobra-s1-combo-3d-drucker-2765205",
-      "ts": 1776724436642
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-balkonkraftwerk-set-mit-4x-500-w-bifacial-solarmodul-und-kabeln-2765228",
-      "ts": 1776724436642
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-elektrisch-hohenverstellbarer-schreibtisch-100-x-60-cm-in-weiss-2765200",
-      "ts": 1776724436642
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/30-eur-bonus-fur-die-eroffnung-eines-derivatekontos-auf-okx-2765072",
-      "ts": 1776724436642
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/songmics-mulleimer-50-l-aus-stahl-15-mullsacke-herausnehmbarer-inneneimer-aus-kunststoff-mit-deckel-griffe-softclose-cremefarben-2750303",
       "ts": 1776810678017
@@ -376,6 +350,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/eneba-100eur-playstation-store-guthaben-fur-8199eur-mit-paypal-2768602",
       "ts": 1777242475448
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-team-rallye-edition-250-e-bike-gratis-2-e-bike-city-edition-2-x-helme-range-extender-2768683",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-gratis-pflanzkartoffeln-bei-netto-scottie-in-breitenfelde-schleswig-holstein-2768745",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lowepro-protactic-bp-350-aw-iii-camera-bag-one-size-2768404",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/heyobi-karcher-hochdruckreiniger-k6-flex-home-160-bar-510-lh-inkl-cashback-fur-30999-eur-2764586",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3er-set-schneidebrett-edelholz-aus-akazienholz-40x30cm-33x24cm-26x18cm-mit-saftrille-akazienstander-prime-2758721",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-turtle-beach-stealth-pivot-wireless-controller-windows-1011-fur-6217eur-statt-9044eur-2768593",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nicht-3-fur-ps5-fur-3585eur-inkl-versand-2768905",
+      "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/frostpunk-complete-collection-gameseason-pass-3x-dlc-ps4-digital-usk16-strategie-ps-erforderlichohne-ps-674eur-at-ps-store-2768922",
+      "ts": 1777329624974
     }
   ]
 }
