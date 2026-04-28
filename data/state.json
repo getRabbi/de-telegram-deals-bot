@@ -1,78 +1,12 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
-    "mydealz|https://www.mydealz.de/deals/pokemon-booster-display-mega-entwicklung-optimale-ordnung-deutsch-2769128",
-    "mydealz|https://www.mydealz.de/gutscheine/10-rabatt-im-lavazza-webshop-versandkostenfrei-ab-30-eur-ww-bald-ist-muttertag-kaffee-kaffeemaschinen-milchaufschaumer-tassen-2769101",
-    "mydealz|https://www.mydealz.de/deals/2x4er-pack-varta-aamignon-akkus-8-stk-ca-068-eur-pro-stk-je-2100-mah-inkl-express-versand-als-joybuy-neukunde-per-app-2769092",
-    "mydealz|https://www.mydealz.de/deals/grillrostset-atlantis-grillstart-im-bauhaus-2769074"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-mulleimer-50-l-aus-stahl-15-mullsacke-herausnehmbarer-inneneimer-aus-kunststoff-mit-deckel-griffe-softclose-cremefarben-2750303",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kichly-glasbehalter-mit-deckel-12-dosen-und-12-deckel-2764338",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/1822direkt-tagesgeld-280-fur-6-monate-40eur-kwk-bis-250000eur-haftungsverbund-der-sparkassen-finanzgruppe-ohne-schufa-2765440",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hp-probook-640-g8-i5-11th-16gb-256gb-fhd-refurbished-fur-287eur-bei-amazon-5-rabatt-bis-so-2765404",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/das-schweigen-der-lammer-1991-anthony-hopkins-5-oscars-imdb-8610-jodie-foster-in-4k-dolby-vision-auf-itunes-apple-tv-2765371",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/benfei-festplattengehause-25-zoll-sata-iii-auf-usb-bis-zu-6-gbps-werkzeugfrei-externes-gehause-fur-ssd-und-hdd-at-prime-2765329",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aoc-27b36x-27-zoll-full-hd-monitor-144-hz-300-nits-ips-schwarz-2765599",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mediamarktsaturn-2750363",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-evnia-34-curved-gaming-monitor-wqhd-180-hz-1-ms-freesync-ambiglow-hohenverstellbar-lautsprecher-amazon-prime-coolblue-2765609",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-ugreen-usb-c-ladegerat-200w-gan-netzteil-8-port-desktop-ladestation-pd-charger-100w-schnellladegerat-2765555",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-smu4hvs14e-serie-4-geschirrspuler-spulmaschine-unterbaufahig-edelstahl-46-db-my-mediamarkt-bosch-smi4hvs14e-teilintegrierbar-42415-2765553",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-75ua75006la-75-zoll-uhd-4k-smart-tv-2765873",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asus-rog-cetra-true-wireless-moonlight-2766007",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/motorola-turbopower-68-w-usb-c-1-m-kabel-2766002",
-      "ts": 1776810678017
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-japan-tetris-effect-connected-metacritic-94-2765989",
-      "ts": 1776810678017
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/einhell-deltaschleifer-tc-ds-19-prime-2765382",
       "ts": 1776897507921
@@ -392,6 +326,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/frostpunk-complete-collection-gameseason-pass-3x-dlc-ps4-digital-usk16-strategie-ps-erforderlichohne-ps-674eur-at-ps-store-2768922",
       "ts": 1777329624974
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
+      "ts": 1777416926926
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-booster-display-mega-entwicklung-optimale-ordnung-deutsch-2769128",
+      "ts": 1777416926926
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/10-rabatt-im-lavazza-webshop-versandkostenfrei-ab-30-eur-ww-bald-ist-muttertag-kaffee-kaffeemaschinen-milchaufschaumer-tassen-2769101",
+      "ts": 1777416926926
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2x4er-pack-varta-aamignon-akkus-8-stk-ca-068-eur-pro-stk-je-2100-mah-inkl-express-versand-als-joybuy-neukunde-per-app-2769092",
+      "ts": 1777416926926
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/grillrostset-atlantis-grillstart-im-bauhaus-2769074",
+      "ts": 1777416926926
     }
   ]
 }
