@@ -2,10 +2,16 @@
   "date": "2026-04-28",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
+    "mydealz|https://www.mydealz.de/deals/pokemon-booster-display-mega-entwicklung-optimale-ordnung-deutsch-2769128",
+    "mydealz|https://www.mydealz.de/gutscheine/10-rabatt-im-lavazza-webshop-versandkostenfrei-ab-30-eur-ww-bald-ist-muttertag-kaffee-kaffeemaschinen-milchaufschaumer-tassen-2769101",
+    "mydealz|https://www.mydealz.de/deals/2x4er-pack-varta-aamignon-akkus-8-stk-ca-068-eur-pro-stk-je-2100-mah-inkl-express-versand-als-joybuy-neukunde-per-app-2769092",
+    "mydealz|https://www.mydealz.de/deals/grillrostset-atlantis-grillstart-im-bauhaus-2769074"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/songmics-mulleimer-50-l-aus-stahl-15-mullsacke-herausnehmbarer-inneneimer-aus-kunststoff-mit-deckel-griffe-softclose-cremefarben-2750303",
