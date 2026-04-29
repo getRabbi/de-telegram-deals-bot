@@ -2,10 +2,16 @@
   "date": "2026-04-29",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-muller-20-auf-alles-uber-app-nurnberg-frankencenter-glogauer-str-2769085",
+    "mydealz|https://www.mydealz.de/deals/magenta-moments-5-eur-ryd-tankgutschein-2769534",
+    "mydealz|https://www.mydealz.de/deals/lg-ultrawide-49u950a-w-curved-monitor-49-zoll-5120x1440-144hz-nano-ips-hdr400-1ms-mbr-3800r-g-sync-freesync-p-usb-c-2759255",
+    "mydealz|https://www.mydealz.de/deals/macbook-neo-512-gb-mit-touchid-699eur-rosa-indigo-2769508",
+    "mydealz|https://www.mydealz.de/deals/30-auf-belantis-tickets-leipzig-per-code-2769522"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/einhell-deltaschleifer-tc-ds-19-prime-2765382",
