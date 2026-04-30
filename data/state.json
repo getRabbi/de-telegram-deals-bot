@@ -3,14 +3,18 @@
   "slots": {
     "morning": false,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/charles-tyrwhitt-shoop-bis-zu-12-cashback-10-rabatt-gratis-versand-2769436",
     "mydealz|https://www.mydealz.de/deals/macbook-neo-256-gb-2769505",
     "mydealz|https://www.mydealz.de/deals/apple-watch-se-3-44mm-gpscellular-bei-mactrade-nur-mit-consors-finanz-6-monate-2769380",
     "mydealz|https://www.mydealz.de/deals/stabilo-pen-68-premium-filzstifte-10er-pack-neonorange-ideal-fur-schule-basteln-markierungen-prime-spar-abo-2769478",
-    "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639"
+    "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639",
+    "mydealz|https://www.mydealz.de/deals/mediamarkt-hier-und-jetzt-deal-bose-smart-soundbar-2769588",
+    "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-fur-4899eur-cyberport-2769619",
+    "mydealz|https://www.mydealz.de/deals/aoc-gaming-27g4hre-27-zoll-full-hd-monitor-200-hz-1-ms-g-sync-comp-hdr10-1920x1080-2x-hdmi-20-displayport-14-schwarz-rot-2769822",
+    "lidl|https://www.mydealz.de/deals/lidl-milbona-h-milch-35-fett-12-stk-a-1l-2769840"
   ],
   "postedHistory": [
     {
