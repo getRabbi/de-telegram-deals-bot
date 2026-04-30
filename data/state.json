@@ -1,66 +1,12 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/charles-tyrwhitt-shoop-bis-zu-12-cashback-10-rabatt-gratis-versand-2769436",
-    "mydealz|https://www.mydealz.de/deals/macbook-neo-256-gb-2769505",
-    "mydealz|https://www.mydealz.de/deals/apple-watch-se-3-44mm-gpscellular-bei-mactrade-nur-mit-consors-finanz-6-monate-2769380",
-    "mydealz|https://www.mydealz.de/deals/stabilo-pen-68-premium-filzstifte-10er-pack-neonorange-ideal-fur-schule-basteln-markierungen-prime-spar-abo-2769478",
-    "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639",
-    "mydealz|https://www.mydealz.de/deals/mediamarkt-hier-und-jetzt-deal-bose-smart-soundbar-2769588",
-    "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-fur-4899eur-cyberport-2769619",
-    "mydealz|https://www.mydealz.de/deals/aoc-gaming-27g4hre-27-zoll-full-hd-monitor-200-hz-1-ms-g-sync-comp-hdr10-1920x1080-2x-hdmi-20-displayport-14-schwarz-rot-2769822",
-    "lidl|https://www.mydealz.de/deals/lidl-milbona-h-milch-35-fett-12-stk-a-1l-2769840"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/shoop-5eur-cashback-als-bonus-auf-15eur-mindesteinkaufswert-ohne-versandkosten-einlosbar-fur-7-tage-vermutlich-personalisiert-2766425",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/byodo-bio-perfetto-tomatensauce-11-aktion-gunstigere-sauce-wird-bis-379-eur-erstattet-2747481",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wiso-mein-geld-365-professional-2026-buhl-download-jahresvertrag-mit-aktualitats-garantie-geld-verwalten-girokonto-kreditkarte-2766602",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/andro-holz-gauzy-sl-off-2766605",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-app-spar-5-eur-2766613",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-5-9600x-39-ghz-prozessor-sockel-am5-38-mb-cache-repacked-tray-2766584",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-luftreiniger-600-serie-ac065010-bis-44-m2-hepa-9997-ultraleise-19-db-app-gesteuert-prime-mymmsaturn-2766594",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-43022-ferrari-lewis-hamilton-helm-vorbestellung-2756360",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/leatherman-skeletool-cx-multitool-2766739",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mediamarkt-abholung-sonic-superstars-xbox-series-x-2766712",
-      "ts": 1776983660743
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-waschmaschine-ww90cgc04aabeg-9-kg-1400-umin-eek-a-mikroplastik-programm-ecobubble-14-programme-wifi-schwarz-2766167",
-      "ts": 1776983660743
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
       "ts": 1777069917093
@@ -316,6 +262,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/30-auf-belantis-tickets-leipzig-per-code-2769522",
       "ts": 1777502765347
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/charles-tyrwhitt-shoop-bis-zu-12-cashback-10-rabatt-gratis-versand-2769436",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/macbook-neo-256-gb-2769505",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-watch-se-3-44mm-gpscellular-bei-mactrade-nur-mit-consors-finanz-6-monate-2769380",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stabilo-pen-68-premium-filzstifte-10er-pack-neonorange-ideal-fur-schule-basteln-markierungen-prime-spar-abo-2769478",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mediamarkt-hier-und-jetzt-deal-bose-smart-soundbar-2769588",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-fur-4899eur-cyberport-2769619",
+      "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aoc-gaming-27g4hre-27-zoll-full-hd-monitor-200-hz-1-ms-g-sync-comp-hdr10-1920x1080-2x-hdmi-20-displayport-14-schwarz-rot-2769822",
+      "ts": 1777588887788
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-milbona-h-milch-35-fett-12-stk-a-1l-2769840",
+      "ts": 1777588887788
     }
   ]
 }
