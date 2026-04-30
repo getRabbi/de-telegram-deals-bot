@@ -2,10 +2,16 @@
   "date": "2026-04-30",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/charles-tyrwhitt-shoop-bis-zu-12-cashback-10-rabatt-gratis-versand-2769436",
+    "mydealz|https://www.mydealz.de/deals/macbook-neo-256-gb-2769505",
+    "mydealz|https://www.mydealz.de/deals/apple-watch-se-3-44mm-gpscellular-bei-mactrade-nur-mit-consors-finanz-6-monate-2769380",
+    "mydealz|https://www.mydealz.de/deals/stabilo-pen-68-premium-filzstifte-10er-pack-neonorange-ideal-fur-schule-basteln-markierungen-prime-spar-abo-2769478",
+    "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/shoop-5eur-cashback-als-bonus-auf-15eur-mindesteinkaufswert-ohne-versandkosten-einlosbar-fur-7-tage-vermutlich-personalisiert-2766425",
