@@ -3,14 +3,18 @@
   "slots": {
     "morning": false,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/my-mcdonalds-app-gratis-mcsundae-eis-pommes-frites-klein-oder-softrink-025-l-2769716",
     "mydealz|https://www.mydealz.de/deals/6er-set-tierfreund-pflanzen-ca-30-60-cm-fur-2639-eur-statt-50-eur-2769722",
     "mydealz|https://www.mydealz.de/deals/aliexpress-teendow-kf-002-eismaschine-mit-8-voreingestellten-programmen-selbstreinigungsfunktion-mix-in-re-spin-funktionen-2768231",
     "mydealz|https://www.mydealz.de/deals/27-ausgaben-auto-motor-sport-jahres-abo-print-magazin-inkl-lieferung-zum-wunschlieferdatum-ideal-als-geschenk-2736674",
-    "mydealz|https://www.mydealz.de/deals/industrielles-endoskop-es01-mit-43-zoll-bildschirm-5-m-1080p-hd-ip67-wasserdichte-videoinspektionskamera-wiederaufladbarer-akku-2769031"
+    "mydealz|https://www.mydealz.de/deals/industrielles-endoskop-es01-mit-43-zoll-bildschirm-5-m-1080p-hd-ip67-wasserdichte-videoinspektionskamera-wiederaufladbarer-akku-2769031",
+    "mydealz|https://www.mydealz.de/deals/toom-offline-anker-solix-solarbank-3-e2700-pro-mit-vorteilskarte-15-gutschein-und-cb-ca-630eur-moglich-2769813",
+    "mydealz|https://www.mydealz.de/deals/weller-zero-smog-shield-lotrauchabsaugung-2769740",
+    "lidl|https://www.mydealz.de/deals/lidl-milbona-deutsche-markenbutter-dauerhaft-reduziert-2769986",
+    "mydealz|https://www.mydealz.de/deals/stanley-1913-adventure-outdoor-cooler-66-liter-polar-camping-kuhlbox-bpa-frei-robuste-isolierbox-ohne-strom-amazon-prime-2770080"
   ],
   "postedHistory": [
     {
