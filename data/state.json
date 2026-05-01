@@ -1,82 +1,12 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/my-mcdonalds-app-gratis-mcsundae-eis-pommes-frites-klein-oder-softrink-025-l-2769716",
-    "mydealz|https://www.mydealz.de/deals/6er-set-tierfreund-pflanzen-ca-30-60-cm-fur-2639-eur-statt-50-eur-2769722",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-teendow-kf-002-eismaschine-mit-8-voreingestellten-programmen-selbstreinigungsfunktion-mix-in-re-spin-funktionen-2768231",
-    "mydealz|https://www.mydealz.de/deals/27-ausgaben-auto-motor-sport-jahres-abo-print-magazin-inkl-lieferung-zum-wunschlieferdatum-ideal-als-geschenk-2736674",
-    "mydealz|https://www.mydealz.de/deals/industrielles-endoskop-es01-mit-43-zoll-bildschirm-5-m-1080p-hd-ip67-wasserdichte-videoinspektionskamera-wiederaufladbarer-akku-2769031",
-    "mydealz|https://www.mydealz.de/deals/toom-offline-anker-solix-solarbank-3-e2700-pro-mit-vorteilskarte-15-gutschein-und-cb-ca-630eur-moglich-2769813",
-    "mydealz|https://www.mydealz.de/deals/weller-zero-smog-shield-lotrauchabsaugung-2769740",
-    "lidl|https://www.mydealz.de/deals/lidl-milbona-deutsche-markenbutter-dauerhaft-reduziert-2769986",
-    "mydealz|https://www.mydealz.de/deals/stanley-1913-adventure-outdoor-cooler-66-liter-polar-camping-kuhlbox-bpa-frei-robuste-isolierbox-ohne-strom-amazon-prime-2770080"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dream-l40-ultra-a-personalisiert-2766905",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-globus-baumarkt-app-1x-primaster-bio-universalerde-40-l-torffrei-fur-1-eur-2766909",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mochtoys-kinderrutsche-12601-rutschlange-198-cm-wasserrutsche-bis-50-kg-grun-2766453",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-17-weiss-256-gb-physische-sim-esim-zustand-premium-12m-garantie-2760406",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/juskys-sprossenwand-fur-erwachsene-bis-170-kg-2766875",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samneldeal-erfrischungsgetranke-preiswerter-bei-norma-2762833",
-      "ts": 1777069917093
-    },
-    {
-      "key": "rewe|https://www.mydealz.de/deals/rewe-wochtentlich-neue-bonus-aktionen-2004-25042026-2766405",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rondo-original-ganze-bohne-1-kg-fur-1149eur-2766392",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-oled48g59ls-48-zoll-oled-fernseher-mit-144hz-euronics-frankfurt-2766960",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/allesfuerzuhausedepokemon-legenden-z-a-nintendo-switch-2-edition-2766924",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-lenovo-156-zoll-casual-topload-laptop-tasche-t210-2767129",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-kanarische-inseln-gran-canariafuerteventuralanzaroteteneriffa-mit-condor-inkl-ruckflug-von-nurnberg-stuttgart-berlin-uvm-2752157",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flaconi-guerlain-habit-rouge-parfum-100ml-2740518",
-      "ts": 1777069917093
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/payback-netto-50-fach-punkte-auf-einen-einkauf-vor-ort-25-evtl-personalisiert-2767101",
-      "ts": 1777069917093
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
       "ts": 1777155975425
@@ -308,6 +238,42 @@
     {
       "key": "lidl|https://www.mydealz.de/deals/lidl-milbona-h-milch-35-fett-12-stk-a-1l-2769840",
       "ts": 1777588887788
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/my-mcdonalds-app-gratis-mcsundae-eis-pommes-frites-klein-oder-softrink-025-l-2769716",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/6er-set-tierfreund-pflanzen-ca-30-60-cm-fur-2639-eur-statt-50-eur-2769722",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-teendow-kf-002-eismaschine-mit-8-voreingestellten-programmen-selbstreinigungsfunktion-mix-in-re-spin-funktionen-2768231",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/27-ausgaben-auto-motor-sport-jahres-abo-print-magazin-inkl-lieferung-zum-wunschlieferdatum-ideal-als-geschenk-2736674",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/industrielles-endoskop-es01-mit-43-zoll-bildschirm-5-m-1080p-hd-ip67-wasserdichte-videoinspektionskamera-wiederaufladbarer-akku-2769031",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toom-offline-anker-solix-solarbank-3-e2700-pro-mit-vorteilskarte-15-gutschein-und-cb-ca-630eur-moglich-2769813",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/weller-zero-smog-shield-lotrauchabsaugung-2769740",
+      "ts": 1777675208879
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-milbona-deutsche-markenbutter-dauerhaft-reduziert-2769986",
+      "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stanley-1913-adventure-outdoor-cooler-66-liter-polar-camping-kuhlbox-bpa-frei-robuste-isolierbox-ohne-strom-amazon-prime-2770080",
+      "ts": 1777675208879
     }
   ]
 }
