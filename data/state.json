@@ -2,10 +2,16 @@
   "date": "2026-05-01",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/my-mcdonalds-app-gratis-mcsundae-eis-pommes-frites-klein-oder-softrink-025-l-2769716",
+    "mydealz|https://www.mydealz.de/deals/6er-set-tierfreund-pflanzen-ca-30-60-cm-fur-2639-eur-statt-50-eur-2769722",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-teendow-kf-002-eismaschine-mit-8-voreingestellten-programmen-selbstreinigungsfunktion-mix-in-re-spin-funktionen-2768231",
+    "mydealz|https://www.mydealz.de/deals/27-ausgaben-auto-motor-sport-jahres-abo-print-magazin-inkl-lieferung-zum-wunschlieferdatum-ideal-als-geschenk-2736674",
+    "mydealz|https://www.mydealz.de/deals/industrielles-endoskop-es01-mit-43-zoll-bildschirm-5-m-1080p-hd-ip67-wasserdichte-videoinspektionskamera-wiederaufladbarer-akku-2769031"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steiff-hoppie-hase-mit-herz-16cm-hellgrau-prime-2766915",
