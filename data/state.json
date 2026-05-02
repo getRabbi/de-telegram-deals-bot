@@ -1,11 +1,18 @@
 {
   "date": "2026-05-02",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
+    "mydealz|https://www.mydealz.de/deals/aeg-einbau-backofen-bss57606bm-serie-7000-mit-pyrolyse-steamcrisp-dampfunterstutzung-kerntemperatursensor-led-touchdisplay-prime-2770070",
+    "mydealz|https://www.mydealz.de/deals/kostenlos-carlos-the-taco-jump-run-windows-pc-drm-frei-jetzt-sichern-und-behalten-indiegala-2770079",
+    "aldi|https://www.mydealz.de/deals/aldi-sud-pizza-stein-oder-zubehor-zb-teigbox-schaufel-schneider-brett-ab-16-mai-im-markt-2770048",
+    "mydealz|https://www.mydealz.de/deals/l20-boost-250w-126-km-hochstgeschwindigkeit-25-kmh-step-thru-e-bike-2763486",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
