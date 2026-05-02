@@ -2,7 +2,7 @@
   "date": "2026-05-02",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/kostenlos-carlos-the-taco-jump-run-windows-pc-drm-frei-jetzt-sichern-und-behalten-indiegala-2770079",
     "aldi|https://www.mydealz.de/deals/aldi-sud-pizza-stein-oder-zubehor-zb-teigbox-schaufel-schneider-brett-ab-16-mai-im-markt-2770048",
     "mydealz|https://www.mydealz.de/deals/l20-boost-250w-126-km-hochstgeschwindigkeit-25-kmh-step-thru-e-bike-2763486",
-    "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055"
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055",
+    "mydealz|https://www.mydealz.de/deals/asos-sale-klamotten-ab-70-rabatt-zb-jack-jones-wollmix-mantel-in-grau-mit-fischgratmuster-grossen-xs-bis-xxl-2749546",
+    "mydealz|https://www.mydealz.de/deals/coc-1-free-chest-2770203",
+    "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-ausgezeichnet-mit-spiel-des-jahres-2025-uber-thalia-kultklub-2770372",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-catania-sizilien-italien-von-berlin-112eur-inkl-ruckflug-easyjet-jun-jul-2770386",
+    "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378"
   ],
   "postedHistory": [
     {
