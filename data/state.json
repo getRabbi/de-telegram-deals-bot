@@ -1,88 +1,12 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
-    "mydealz|https://www.mydealz.de/deals/aeg-einbau-backofen-bss57606bm-serie-7000-mit-pyrolyse-steamcrisp-dampfunterstutzung-kerntemperatursensor-led-touchdisplay-prime-2770070",
-    "mydealz|https://www.mydealz.de/deals/kostenlos-carlos-the-taco-jump-run-windows-pc-drm-frei-jetzt-sichern-und-behalten-indiegala-2770079",
-    "aldi|https://www.mydealz.de/deals/aldi-sud-pizza-stein-oder-zubehor-zb-teigbox-schaufel-schneider-brett-ab-16-mai-im-markt-2770048",
-    "mydealz|https://www.mydealz.de/deals/l20-boost-250w-126-km-hochstgeschwindigkeit-25-kmh-step-thru-e-bike-2763486",
-    "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055",
-    "mydealz|https://www.mydealz.de/deals/asos-sale-klamotten-ab-70-rabatt-zb-jack-jones-wollmix-mantel-in-grau-mit-fischgratmuster-grossen-xs-bis-xxl-2749546",
-    "mydealz|https://www.mydealz.de/deals/coc-1-free-chest-2770203",
-    "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-ausgezeichnet-mit-spiel-des-jahres-2025-uber-thalia-kultklub-2770372",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-catania-sizilien-italien-von-berlin-112eur-inkl-ruckflug-easyjet-jun-jul-2770386",
-    "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378",
-    "mydealz|https://www.mydealz.de/deals/pepsi-125-l-fur-69-cent-2770354",
-    "mydealz|https://www.mydealz.de/deals/google-nest-sprachgesteuerter-lautsprecher-mini-2770373",
-    "mydealz|https://www.mydealz.de/deals/apple-watch-ultra-2-49mm-titan-titan-natur-gps-cellular-zustand-hervorragend-12m-garantie-2768774",
-    "mydealz|https://www.mydealz.de/deals/e-scooter-niu-kqi-300x-10-year-anniversary-limited-edition-deutsche-version-2770500"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/4050-science-fitness-magazin-2767729",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cupra-born-neues-modell-plus-5861-eu-neuwagen-ohne-tz-somit-berechtigt-fur-die-forderung-2767709",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-courtblock-schwarzbraun-gummi-cupsohle-zehenschutz-gr-42-47-13-2499eurvsk-2767653",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-mannheim-tennisschlager-neu-besaiten-inkl-tennisballe-griffband-und-dampfer-fur-1499eur-bei-engelhorn-sports-2767676",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/preisfehler-lg-ds77ty-313-kanal-mit-dolby-atmos-2767934",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mepal-kuhlschrankdose-modula-vorratsdose-mit-deckel-aufbewahrung-kuhlschrankorganizer-550-2000-ml-schwarz-oder-weiss-prime-2767910",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/itchio-kostenlos-lihiman-horror-anime-simulation-pc-2764722",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-mit-steam-spiele-ab-15-cent-bis-maximal-2eur-bis-zu-90-rabatt-fur-pc-mac-steam-deck-2767040",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-otto-up-plus-2767837",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/veepee-sammeldeal-adidas-terrex-ax4-outdoorschuh-wasserfest-2767902",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yakuza-kiwami-2-nintendo-switch-2-gkc-fur-2560eur-amazon-2767978",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bundesnetzagentur-geld-zuruck-bei-schlechtem-handy-netz-rechtssicher-dank-offizieller-app-bnetza-messprotokoll-per-app-2768029",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/peter-pane-5-euro-holzfaller-burger-bundesweit-via-neotaste-2767995",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-pixi-buch-nachts-im-landtag-2768025",
-      "ts": 1777155975425
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/play-anno-117-pax-romana-kostenlos-spielen-pc-ps5-xbox-series-x-2768008",
-      "ts": 1777155975425
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
       "ts": 1777242475448
@@ -290,6 +214,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/stanley-1913-adventure-outdoor-cooler-66-liter-polar-camping-kuhlbox-bpa-frei-robuste-isolierbox-ohne-strom-amazon-prime-2770080",
       "ts": 1777675208879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aeg-einbau-backofen-bss57606bm-serie-7000-mit-pyrolyse-steamcrisp-dampfunterstutzung-kerntemperatursensor-led-touchdisplay-prime-2770070",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenlos-carlos-the-taco-jump-run-windows-pc-drm-frei-jetzt-sichern-und-behalten-indiegala-2770079",
+      "ts": 1777761014519
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-pizza-stein-oder-zubehor-zb-teigbox-schaufel-schneider-brett-ab-16-mai-im-markt-2770048",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/l20-boost-250w-126-km-hochstgeschwindigkeit-25-kmh-step-thru-e-bike-2763486",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asos-sale-klamotten-ab-70-rabatt-zb-jack-jones-wollmix-mantel-in-grau-mit-fischgratmuster-grossen-xs-bis-xxl-2749546",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/coc-1-free-chest-2770203",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-ausgezeichnet-mit-spiel-des-jahres-2025-uber-thalia-kultklub-2770372",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-catania-sizilien-italien-von-berlin-112eur-inkl-ruckflug-easyjet-jun-jul-2770386",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pepsi-125-l-fur-69-cent-2770354",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-nest-sprachgesteuerter-lautsprecher-mini-2770373",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-watch-ultra-2-49mm-titan-titan-natur-gps-cellular-zustand-hervorragend-12m-garantie-2768774",
+      "ts": 1777761014519
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/e-scooter-niu-kqi-300x-10-year-anniversary-limited-edition-deutsche-version-2770500",
+      "ts": 1777761014519
     }
   ]
 }
