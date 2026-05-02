@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/coc-1-free-chest-2770203",
     "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-ausgezeichnet-mit-spiel-des-jahres-2025-uber-thalia-kultklub-2770372",
     "mydealz|https://www.mydealz.de/deals/direktfluge-nach-catania-sizilien-italien-von-berlin-112eur-inkl-ruckflug-easyjet-jun-jul-2770386",
-    "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378"
+    "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378",
+    "mydealz|https://www.mydealz.de/deals/pepsi-125-l-fur-69-cent-2770354",
+    "mydealz|https://www.mydealz.de/deals/google-nest-sprachgesteuerter-lautsprecher-mini-2770373",
+    "mydealz|https://www.mydealz.de/deals/apple-watch-ultra-2-49mm-titan-titan-natur-gps-cellular-zustand-hervorragend-12m-garantie-2768774",
+    "mydealz|https://www.mydealz.de/deals/e-scooter-niu-kqi-300x-10-year-anniversary-limited-edition-deutsche-version-2770500"
   ],
   "postedHistory": [
     {
