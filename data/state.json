@@ -1,82 +1,12 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
-    "mydealz|https://www.mydealz.de/deals/kult-club-x-sense-fs121-rauchwarnmelder-set-12-stuck-plus-zentrale-2770238",
-    "mydealz|https://www.mydealz.de/deals/enders-cicago-next-3-turbo-gasgrill-toom-bm-2770313",
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-schlagbohrschrauber-setgsb-18v-25-in-l-boxx-toom-bm-lokal-2770308",
-    "mydealz|https://www.mydealz.de/deals/lego-botanicals-ganseblumchen-11508-928-euro-noch-bei-thalia-durch-topcashback-moglich-amazon-primethalia-kultclub-2770599",
-    "mydealz|https://www.mydealz.de/deals/prime-kultklub-via-coupon-fruehling-lego-city-60402-blauer-monstertruck-offroad-auto-spielzeug-monster-truck-2770377",
-    "mydealz|https://www.mydealz.de/deals/reobrix-66036-piratenschiff-black-pearl-4708-klemmbausteine-100cm-lang-70-cm-hoch-2761444",
-    "mydealz|https://www.mydealz.de/deals/cada-buckingham-palace-set-c61501w-5604-klemmbausteine-2762918",
-    "mydealz|https://www.mydealz.de/deals/poco-m7-pro-5g-8gb256gb-120-hz-amoled-50-mp-dimensity-7025-ultra-android-14-5110-mah-2771034"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-essentials-babyset-beanie-body-geschenkset-blau-fur-1489-eur-92-104-2768197",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/20-eur-tankgutschein-fur-960-eur-wasche-2768040",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-at-spreetailde-arcade1up-pac-man-classic-se-slim-edition-13-spiele-vorinstalliert-wifi-2768137",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/16gb-gainward-geforce-rtx-5070-ti-phoenix-s-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-spiel-pragnata-gratis-2768458",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/veepee-barfuss-und-wanderschuhe-50-60-unter-uvp-zb-vapor-glove-6-fur-3499-weiss-oder-schwarz-41-bis-50-2768434",
-      "ts": 1777242475448
-    },
-    {
-      "key": "zalando|https://www.mydealz.de/deals/zalando-cb-patagonia-downdrift-daunenjacke-schwarz-xl-2xl-2768421",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-gigakombi-sony-playstation-5-slim-disc-mit-allnetsms-flat-unlimited-5g-fur-2999eurmonat-1eur-mit-2-controller-18eur-2768429",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nortiv-8-wasserdichte-low-top-herren-wanderschuhe-gr-40-48-3-farben-outdoor-trekking-schuhe-mit-gummi-zehenkappe-prime-2747645",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bianchi-sprint-icr-105-carbon-rennrad-84kg-in-celeste-und-weiss-bestpreis-2768408",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msi-mag-272fde-27-fhd-gaming-monitor-ips-200hz-adaptive-sync-300cdm2-05ms-gtg-schwarz-2768592",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msi-g255f-245-zoll-fhd-gaming-monitor-1920-x-1080-rapid-ips-panel-180-hz-1-ms-gtg-2768599",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/herne-lokal-forderung-fur-lastenrader-und-fahrradanhanger-30-abzug-bis-maximal-1000eur-2768560",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/infiray-t2l-warmebild-infrarotkamera-fur-android-und-usb-c-anschluss-256x192-pixel-2747948",
-      "ts": 1777242475448
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eneba-100eur-playstation-store-guthaben-fur-8199eur-mit-paypal-2768602",
-      "ts": 1777242475448
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
       "ts": 1777329624974
@@ -284,6 +214,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/e-scooter-niu-kqi-300x-10-year-anniversary-limited-edition-deutsche-version-2770500",
       "ts": 1777761014519
+    },
+    {
+      "key": "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kult-club-x-sense-fs121-rauchwarnmelder-set-12-stuck-plus-zentrale-2770238",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/enders-cicago-next-3-turbo-gasgrill-toom-bm-2770313",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-schlagbohrschrauber-setgsb-18v-25-in-l-boxx-toom-bm-lokal-2770308",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-botanicals-ganseblumchen-11508-928-euro-noch-bei-thalia-durch-topcashback-moglich-amazon-primethalia-kultclub-2770599",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-kultklub-via-coupon-fruehling-lego-city-60402-blauer-monstertruck-offroad-auto-spielzeug-monster-truck-2770377",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reobrix-66036-piratenschiff-black-pearl-4708-klemmbausteine-100cm-lang-70-cm-hoch-2761444",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cada-buckingham-palace-set-c61501w-5604-klemmbausteine-2762918",
+      "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/poco-m7-pro-5g-8gb256gb-120-hz-amoled-50-mp-dimensity-7025-ultra-android-14-5110-mah-2771034",
+      "ts": 1777847445558
     }
   ]
 }
