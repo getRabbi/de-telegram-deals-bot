@@ -2,10 +2,16 @@
   "date": "2026-05-03",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
+    "mydealz|https://www.mydealz.de/deals/kult-club-x-sense-fs121-rauchwarnmelder-set-12-stuck-plus-zentrale-2770238",
+    "mydealz|https://www.mydealz.de/deals/enders-cicago-next-3-turbo-gasgrill-toom-bm-2770313",
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-schlagbohrschrauber-setgsb-18v-25-in-l-boxx-toom-bm-lokal-2770308",
+    "mydealz|https://www.mydealz.de/deals/lego-botanicals-ganseblumchen-11508-928-euro-noch-bei-thalia-durch-topcashback-moglich-amazon-primethalia-kultclub-2770599"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-netz-gigakombi-samsung-galaxy-s26-256gb-allnetsms-flat-55gb-5g-2499eurmonat-995eur-100eur-wechselbonus-120eur-ohne-gk-2768211",
