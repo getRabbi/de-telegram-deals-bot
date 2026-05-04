@@ -1,54 +1,12 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
-    "mydealz|https://www.mydealz.de/deals/nedis-spannungwandler-230v-1000w-2000w-fur-3999-eur-reine-sinuswelle-230v-1000w-2000w-fur-4999-eur-230v-1700w-3000w-fur-7999-eur-2757291",
-    "mydealz|https://www.mydealz.de/deals/lindt-maitre-chocolatier-schokolade-versch-sorten-je-100g-110g-die-tafel-fur-109-euro-netto-md-2770979",
-    "mydealz|https://www.mydealz.de/deals/lego-star-wars-75452-der-astromech-droide-bb-8-versandkostenfrei-2770898",
-    "mydealz|https://www.mydealz.de/deals/familienfreundliche-4-hotel-adapura-in-wagrain-2nachte-fur-2-personen-ab-398eur-all-inclusive-modernen-zimmern-4-restaur-mai-okt-2771212"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-team-rallye-edition-250-e-bike-gratis-2-e-bike-city-edition-2-x-helme-range-extender-2768683",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-gratis-pflanzkartoffeln-bei-netto-scottie-in-breitenfelde-schleswig-holstein-2768745",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lowepro-protactic-bp-350-aw-iii-camera-bag-one-size-2768404",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/heyobi-karcher-hochdruckreiniger-k6-flex-home-160-bar-510-lh-inkl-cashback-fur-30999-eur-2764586",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3er-set-schneidebrett-edelholz-aus-akazienholz-40x30cm-33x24cm-26x18cm-mit-saftrille-akazienstander-prime-2758721",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-turtle-beach-stealth-pivot-wireless-controller-windows-1011-fur-6217eur-statt-9044eur-2768593",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nicht-3-fur-ps5-fur-3585eur-inkl-versand-2768905",
-      "ts": 1777329624974
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/frostpunk-complete-collection-gameseason-pass-3x-dlc-ps4-digital-usk16-strategie-ps-erforderlichohne-ps-674eur-at-ps-store-2768922",
-      "ts": 1777329624974
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
       "ts": 1777416926926
@@ -256,6 +214,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/poco-m7-pro-5g-8gb256gb-120-hz-amoled-50-mp-dimensity-7025-ultra-android-14-5110-mah-2771034",
       "ts": 1777847445558
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
+      "ts": 1777935455456
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nedis-spannungwandler-230v-1000w-2000w-fur-3999-eur-reine-sinuswelle-230v-1000w-2000w-fur-4999-eur-230v-1700w-3000w-fur-7999-eur-2757291",
+      "ts": 1777935455456
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lindt-maitre-chocolatier-schokolade-versch-sorten-je-100g-110g-die-tafel-fur-109-euro-netto-md-2770979",
+      "ts": 1777935455456
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-75452-der-astromech-droide-bb-8-versandkostenfrei-2770898",
+      "ts": 1777935455456
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/familienfreundliche-4-hotel-adapura-in-wagrain-2nachte-fur-2-personen-ab-398eur-all-inclusive-modernen-zimmern-4-restaur-mai-okt-2771212",
+      "ts": 1777935455456
     }
   ]
 }
