@@ -2,10 +2,16 @@
   "date": "2026-05-04",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
+    "mydealz|https://www.mydealz.de/deals/nedis-spannungwandler-230v-1000w-2000w-fur-3999-eur-reine-sinuswelle-230v-1000w-2000w-fur-4999-eur-230v-1700w-3000w-fur-7999-eur-2757291",
+    "mydealz|https://www.mydealz.de/deals/lindt-maitre-chocolatier-schokolade-versch-sorten-je-100g-110g-die-tafel-fur-109-euro-netto-md-2770979",
+    "mydealz|https://www.mydealz.de/deals/lego-star-wars-75452-der-astromech-droide-bb-8-versandkostenfrei-2770898",
+    "mydealz|https://www.mydealz.de/deals/familienfreundliche-4-hotel-adapura-in-wagrain-2nachte-fur-2-personen-ab-398eur-all-inclusive-modernen-zimmern-4-restaur-mai-okt-2771212"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-3er-packung-logo-herren-t-shirts-100-baumwolle-fur-2089-eur-nur-noch-in-l-2768748",
