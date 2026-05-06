@@ -1,38 +1,12 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/scotch-soda-ralston-herren-jeans-blau-fur-2589-eur-nur-noch-w30-w31-und-w32-2771232",
-    "mydealz|https://www.mydealz.de/deals/ben-sherman-troyer-pullover-100-baumwolle-fur-2089-eur-nur-noch-in-s-und-m-2771227",
-    "mydealz|https://www.mydealz.de/deals/adidas-boxershorts-herren-3er-packung-schwarz-fur-2089-eur-s-m-2771225",
-    "mydealz|https://www.mydealz.de/gutscheine/bvb-trikots-50-rabatt-2771552",
-    "mydealz|https://www.mydealz.de/deals/eachine-p-40-fighter-v2-rc-flugzeug-mit-3-akkus-400-mm-spannweite-24-ghz-4ch-6-achsen-gyro-u-turn-one-key-geeignet-fur-anfanger-2771584"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
-      "ts": 1777416926926
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-booster-display-mega-entwicklung-optimale-ordnung-deutsch-2769128",
-      "ts": 1777416926926
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/10-rabatt-im-lavazza-webshop-versandkostenfrei-ab-30-eur-ww-bald-ist-muttertag-kaffee-kaffeemaschinen-milchaufschaumer-tassen-2769101",
-      "ts": 1777416926926
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x4er-pack-varta-aamignon-akkus-8-stk-ca-068-eur-pro-stk-je-2100-mah-inkl-express-versand-als-joybuy-neukunde-per-app-2769092",
-      "ts": 1777416926926
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/grillrostset-atlantis-grillstart-im-bauhaus-2769074",
-      "ts": 1777416926926
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-muller-20-auf-alles-uber-app-nurnberg-frankencenter-glogauer-str-2769085",
       "ts": 1777502765347
@@ -240,6 +214,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/familienfreundliche-4-hotel-adapura-in-wagrain-2nachte-fur-2-personen-ab-398eur-all-inclusive-modernen-zimmern-4-restaur-mai-okt-2771212",
       "ts": 1777935455456
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/scotch-soda-ralston-herren-jeans-blau-fur-2589-eur-nur-noch-w30-w31-und-w32-2771232",
+      "ts": 1778107161505
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ben-sherman-troyer-pullover-100-baumwolle-fur-2089-eur-nur-noch-in-s-und-m-2771227",
+      "ts": 1778107161505
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-boxershorts-herren-3er-packung-schwarz-fur-2089-eur-s-m-2771225",
+      "ts": 1778107161505
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/bvb-trikots-50-rabatt-2771552",
+      "ts": 1778107161505
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eachine-p-40-fighter-v2-rc-flugzeug-mit-3-akkus-400-mm-spannweite-24-ghz-4ch-6-achsen-gyro-u-turn-one-key-geeignet-fur-anfanger-2771584",
+      "ts": 1778107161505
     }
   ]
 }
