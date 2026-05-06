@@ -2,10 +2,16 @@
   "date": "2026-05-06",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/scotch-soda-ralston-herren-jeans-blau-fur-2589-eur-nur-noch-w30-w31-und-w32-2771232",
+    "mydealz|https://www.mydealz.de/deals/ben-sherman-troyer-pullover-100-baumwolle-fur-2089-eur-nur-noch-in-s-und-m-2771227",
+    "mydealz|https://www.mydealz.de/deals/adidas-boxershorts-herren-3er-packung-schwarz-fur-2089-eur-s-m-2771225",
+    "mydealz|https://www.mydealz.de/gutscheine/bvb-trikots-50-rabatt-2771552",
+    "mydealz|https://www.mydealz.de/deals/eachine-p-40-fighter-v2-rc-flugzeug-mit-3-akkus-400-mm-spannweite-24-ghz-4ch-6-achsen-gyro-u-turn-one-key-geeignet-fur-anfanger-2771584"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cooler-master-hyper-612-apex-cpu-luftkuhler-2768651",
