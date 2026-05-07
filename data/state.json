@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,62 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-muller-20-auf-alles-uber-app-nurnberg-frankencenter-glogauer-str-2769085",
-      "ts": 1777502765347
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/magenta-moments-5-eur-ryd-tankgutschein-2769534",
-      "ts": 1777502765347
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-ultrawide-49u950a-w-curved-monitor-49-zoll-5120x1440-144hz-nano-ips-hdr400-1ms-mbr-3800r-g-sync-freesync-p-usb-c-2759255",
-      "ts": 1777502765347
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/macbook-neo-512-gb-mit-touchid-699eur-rosa-indigo-2769508",
-      "ts": 1777502765347
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/30-auf-belantis-tickets-leipzig-per-code-2769522",
-      "ts": 1777502765347
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/charles-tyrwhitt-shoop-bis-zu-12-cashback-10-rabatt-gratis-versand-2769436",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/macbook-neo-256-gb-2769505",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-watch-se-3-44mm-gpscellular-bei-mactrade-nur-mit-consors-finanz-6-monate-2769380",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stabilo-pen-68-premium-filzstifte-10er-pack-neonorange-ideal-fur-schule-basteln-markierungen-prime-spar-abo-2769478",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/domo-do530fr-heissluft-fritteuse-4-l-edelstahl-1500-w-lcd-anzeige-2745639",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mediamarkt-hier-und-jetzt-deal-bose-smart-soundbar-2769588",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-fur-4899eur-cyberport-2769619",
-      "ts": 1777588887788
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aoc-gaming-27g4hre-27-zoll-full-hd-monitor-200-hz-1-ms-g-sync-comp-hdr10-1920x1080-2x-hdmi-20-displayport-14-schwarz-rot-2769822",
-      "ts": 1777588887788
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-milbona-h-milch-35-fett-12-stk-a-1l-2769840",
-      "ts": 1777588887788
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/my-mcdonalds-app-gratis-mcsundae-eis-pommes-frites-klein-oder-softrink-025-l-2769716",
       "ts": 1777675208879
