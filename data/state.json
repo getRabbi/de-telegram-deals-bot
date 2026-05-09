@@ -1,82 +1,12 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-wireless-gaming-maus-logitech-g502x-plus-2771476",
-    "mydealz|https://www.mydealz.de/deals/b-ware-bernina-bernette-sew-go-5-freiarm-nahmaschine-einfadelhilfe-fadenabschneider-23-nahprogramme-4-nahfusse-neupreis-17997eur-2758303",
-    "zalando|https://www.mydealz.de/deals/zalando-cb-nike-sportswear-air-force-1-07-flyease-sneaker-low-white-grossen-355-44-2772162",
-    "mydealz|https://www.mydealz.de/deals/nescafe-dolce-gusto-12-boxen-fur-nur-46-eur-383eurbox-versandkostenfrei-2772058",
-    "mydealz|https://www.mydealz.de/deals/ottoquelle-nothing-phone-3-12gb-ram256-gb-speicher-667-amoled-120hz-display-dual-sim-5g-weiss-2771942",
-    "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
-    "mydealz|https://www.mydealz.de/deals/mac-book-air-mit-wunschgutscheinen-7191-eur-2772114",
-    "mydealz|https://www.mydealz.de/deals/spartanien-bevestor-robo-advisor-70-eur-fur-sparplan-25-eurm-oder-einmalanlage-500-eur-neukunden-2772710"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aeg-einbau-backofen-bss57606bm-serie-7000-mit-pyrolyse-steamcrisp-dampfunterstutzung-kerntemperatursensor-led-touchdisplay-prime-2770070",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenlos-carlos-the-taco-jump-run-windows-pc-drm-frei-jetzt-sichern-und-behalten-indiegala-2770079",
-      "ts": 1777761014519
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-pizza-stein-oder-zubehor-zb-teigbox-schaufel-schneider-brett-ab-16-mai-im-markt-2770048",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/l20-boost-250w-126-km-hochstgeschwindigkeit-25-kmh-step-thru-e-bike-2763486",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-ecolor-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-15m-kabel-schwarzweiss-prime-2762055",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/asos-sale-klamotten-ab-70-rabatt-zb-jack-jones-wollmix-mantel-in-grau-mit-fischgratmuster-grossen-xs-bis-xxl-2749546",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/coc-1-free-chest-2770203",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-ausgezeichnet-mit-spiel-des-jahres-2025-uber-thalia-kultklub-2770372",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-catania-sizilien-italien-von-berlin-112eur-inkl-ruckflug-easyjet-jun-jul-2770386",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/green-day-dookie-vinyl-lp-prime-2770378",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pepsi-125-l-fur-69-cent-2770354",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-nest-sprachgesteuerter-lautsprecher-mini-2770373",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-watch-ultra-2-49mm-titan-titan-natur-gps-cellular-zustand-hervorragend-12m-garantie-2768774",
-      "ts": 1777761014519
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/e-scooter-niu-kqi-300x-10-year-anniversary-limited-edition-deutsche-version-2770500",
-      "ts": 1777761014519
-    },
     {
       "key": "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
       "ts": 1777847445558
@@ -152,6 +82,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/eachine-p-40-fighter-v2-rc-flugzeug-mit-3-akkus-400-mm-spannweite-24-ghz-4ch-6-achsen-gyro-u-turn-one-key-geeignet-fur-anfanger-2771584",
       "ts": 1778107161505
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-wireless-gaming-maus-logitech-g502x-plus-2771476",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/b-ware-bernina-bernette-sew-go-5-freiarm-nahmaschine-einfadelhilfe-fadenabschneider-23-nahprogramme-4-nahfusse-neupreis-17997eur-2758303",
+      "ts": 1778365987647
+    },
+    {
+      "key": "zalando|https://www.mydealz.de/deals/zalando-cb-nike-sportswear-air-force-1-07-flyease-sneaker-low-white-grossen-355-44-2772162",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nescafe-dolce-gusto-12-boxen-fur-nur-46-eur-383eurbox-versandkostenfrei-2772058",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ottoquelle-nothing-phone-3-12gb-ram256-gb-speicher-667-amoled-120hz-display-dual-sim-5g-weiss-2771942",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mac-book-air-mit-wunschgutscheinen-7191-eur-2772114",
+      "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spartanien-bevestor-robo-advisor-70-eur-fur-sparplan-25-eurm-oder-einmalanlage-500-eur-neukunden-2772710",
+      "ts": 1778365987647
     }
   ]
 }
