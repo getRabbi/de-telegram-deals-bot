@@ -2,10 +2,16 @@
   "date": "2026-05-09",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-wireless-gaming-maus-logitech-g502x-plus-2771476",
+    "mydealz|https://www.mydealz.de/deals/b-ware-bernina-bernette-sew-go-5-freiarm-nahmaschine-einfadelhilfe-fadenabschneider-23-nahprogramme-4-nahfusse-neupreis-17997eur-2758303",
+    "zalando|https://www.mydealz.de/deals/zalando-cb-nike-sportswear-air-force-1-07-flyease-sneaker-low-white-grossen-355-44-2772162",
+    "mydealz|https://www.mydealz.de/deals/nescafe-dolce-gusto-12-boxen-fur-nur-46-eur-383eurbox-versandkostenfrei-2772058"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/ipad-air-m3-2026-128gb-gebraucht-zustand-premium-2770109",
