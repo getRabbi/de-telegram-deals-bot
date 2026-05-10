@@ -1,58 +1,12 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
-    "mydealz|https://www.mydealz.de/deals/16gb-inno3d-geforce-rtx-5080-x3-oc-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-inkl-das-spiel-pragmata-2772771",
-    "mydealz|https://www.mydealz.de/deals/campagnolo-super-record-eps-gruppe-stages-l-powermeter-2x12-fach-hydraulische-scheibenbremse-flat-mount-2772754",
-    "mydealz|https://www.mydealz.de/deals/burger-king-mission-grogu-futtern-sammelfigur-und-tasse-galactic-fries-fur-1-euro-erspielen-2772731",
-    "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972",
-    "mydealz|https://www.mydealz.de/deals/verschiedene-birkenstock-modelle-zb-arizonabostonkay-15-und-versandkostenfrei-zb-kay-fur-68-2772963",
-    "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-aroma-1kg-amazon-sparabo-1359-eur-2745577",
-    "mydealz|https://www.mydealz.de/deals/steam-world-of-warships-marblehead-lima-kostenlos-2772956",
-    "mydealz|https://www.mydealz.de/deals/gratis-damian-brawlerbox-2773360"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kult-club-x-sense-fs121-rauchwarnmelder-set-12-stuck-plus-zentrale-2770238",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/enders-cicago-next-3-turbo-gasgrill-toom-bm-2770313",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-schlagbohrschrauber-setgsb-18v-25-in-l-boxx-toom-bm-lokal-2770308",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-botanicals-ganseblumchen-11508-928-euro-noch-bei-thalia-durch-topcashback-moglich-amazon-primethalia-kultclub-2770599",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-kultklub-via-coupon-fruehling-lego-city-60402-blauer-monstertruck-offroad-auto-spielzeug-monster-truck-2770377",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reobrix-66036-piratenschiff-black-pearl-4708-klemmbausteine-100cm-lang-70-cm-hoch-2761444",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cada-buckingham-palace-set-c61501w-5604-klemmbausteine-2762918",
-      "ts": 1777847445558
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/poco-m7-pro-5g-8gb256gb-120-hz-amoled-50-mp-dimensity-7025-ultra-android-14-5110-mah-2771034",
-      "ts": 1777847445558
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
       "ts": 1777935455456
@@ -128,6 +82,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/spartanien-bevestor-robo-advisor-70-eur-fur-sparplan-25-eurm-oder-einmalanlage-500-eur-neukunden-2772710",
       "ts": 1778365987647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/16gb-inno3d-geforce-rtx-5080-x3-oc-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-inkl-das-spiel-pragmata-2772771",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/campagnolo-super-record-eps-gruppe-stages-l-powermeter-2x12-fach-hydraulische-scheibenbremse-flat-mount-2772754",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/burger-king-mission-grogu-futtern-sammelfigur-und-tasse-galactic-fries-fur-1-euro-erspielen-2772731",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/verschiedene-birkenstock-modelle-zb-arizonabostonkay-15-und-versandkostenfrei-zb-kay-fur-68-2772963",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-aroma-1kg-amazon-sparabo-1359-eur-2745577",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-world-of-warships-marblehead-lima-kostenlos-2772956",
+      "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-damian-brawlerbox-2773360",
+      "ts": 1778452580733
     }
   ]
 }
