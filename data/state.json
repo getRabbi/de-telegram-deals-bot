@@ -3,14 +3,18 @@
   "slots": {
     "morning": false,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
     "mydealz|https://www.mydealz.de/deals/16gb-inno3d-geforce-rtx-5080-x3-oc-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-inkl-das-spiel-pragmata-2772771",
     "mydealz|https://www.mydealz.de/deals/campagnolo-super-record-eps-gruppe-stages-l-powermeter-2x12-fach-hydraulische-scheibenbremse-flat-mount-2772754",
     "mydealz|https://www.mydealz.de/deals/burger-king-mission-grogu-futtern-sammelfigur-und-tasse-galactic-fries-fur-1-euro-erspielen-2772731",
-    "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972"
+    "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972",
+    "mydealz|https://www.mydealz.de/deals/verschiedene-birkenstock-modelle-zb-arizonabostonkay-15-und-versandkostenfrei-zb-kay-fur-68-2772963",
+    "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-aroma-1kg-amazon-sparabo-1359-eur-2745577",
+    "mydealz|https://www.mydealz.de/deals/steam-world-of-warships-marblehead-lima-kostenlos-2772956",
+    "mydealz|https://www.mydealz.de/deals/gratis-damian-brawlerbox-2773360"
   ],
   "postedHistory": [
     {
