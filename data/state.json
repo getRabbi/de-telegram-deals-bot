@@ -2,10 +2,16 @@
   "date": "2026-05-10",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
+    "mydealz|https://www.mydealz.de/deals/16gb-inno3d-geforce-rtx-5080-x3-oc-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-inkl-das-spiel-pragmata-2772771",
+    "mydealz|https://www.mydealz.de/deals/campagnolo-super-record-eps-gruppe-stages-l-powermeter-2x12-fach-hydraulische-scheibenbremse-flat-mount-2772754",
+    "mydealz|https://www.mydealz.de/deals/burger-king-mission-grogu-futtern-sammelfigur-und-tasse-galactic-fries-fur-1-euro-erspielen-2772731",
+    "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972"
+  ],
   "postedHistory": [
     {
       "key": "zalando|https://www.mydealz.de/deals/cb-dealzalando-adidas-originals-handball-spezial-old-dusky-bronze-355-48-2770479",
