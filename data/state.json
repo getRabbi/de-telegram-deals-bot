@@ -1,27 +1,11 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
-    "mydealz|https://www.mydealz.de/deals/rollladenmotor-mit-elektronischen-endschaltern-und-5-jahren-garantie-2773348",
-    "mydealz|https://www.mydealz.de/deals/gardena-gartenpumpe-4100-silent-edelstahl-antriebswelle-und-keramikabdichtung-2773349",
-    "mydealz|https://www.mydealz.de/deals/dm-ivorell-co2-tauschzylinder-universal-oder-quick-connect-auch-fur-sodastream-dm-app-coupon-bis-265-2773310",
-    "mydealz|https://www.mydealz.de/deals/2x-jack-jones-chino-shorts-baumwolle-hosen-in-blau-oder-grun-fur-1889-eur-s-m-2773505",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502",
-    "mydealz|https://www.mydealz.de/deals/voelkner-einhell-2071010-akku-kompressor-ce-cc-18-li-solo-power-25-ah-akku-und-ladegerat-2773494",
-    "mydealz|https://www.mydealz.de/deals/uber-geizhals-10-rabattcoupon-fur-voelkner-handler-bekommen-fur-das-einhell-twin-pack-2-x-4ah-akku-18-v-eventuell-personalisiert-2773499",
-    "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-carbon-rennrad-105-di2-83-kg-2773620",
-    "mydealz|https://www.mydealz.de/deals/shoop-deals-cashback-gutscheine-bei-vielen-shops-u-a-mediamarkt-aliexpress-tui-adidas-tchibo-2773602",
-    "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624",
-    "mydealz|https://www.mydealz.de/deals/tissot-carson-automatic-silver-dial-mens-watch-40mm-powermatic-80-saphirglas-ebenfalls-mit-edelstahlband-fur-314eur-verfugbar-2758059",
-    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-bleu-de-chanel-parfum-150ml-grosser-flakon-parfum-variante-fur-12645-eur-2773604",
-    "mydealz|https://www.mydealz.de/deals/amazon-anker-nano-100w-usb-c-ladegerat-inkl-18m-usb-c-kabel-wahlweise-weiss-oder-schwarz-2773518",
-    "mydealz|https://www.mydealz.de/deals/12gb-zotac-gaming-geforce-rtx-5070-twin-edge-192bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-2773759"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
@@ -134,6 +118,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gratis-damian-brawlerbox-2773360",
       "ts": 1778452580733
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rollladenmotor-mit-elektronischen-endschaltern-und-5-jahren-garantie-2773348",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-gartenpumpe-4100-silent-edelstahl-antriebswelle-und-keramikabdichtung-2773349",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dm-ivorell-co2-tauschzylinder-universal-oder-quick-connect-auch-fur-sodastream-dm-app-coupon-bis-265-2773310",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2x-jack-jones-chino-shorts-baumwolle-hosen-in-blau-oder-grun-fur-1889-eur-s-m-2773505",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/voelkner-einhell-2071010-akku-kompressor-ce-cc-18-li-solo-power-25-ah-akku-und-ladegerat-2773494",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/uber-geizhals-10-rabattcoupon-fur-voelkner-handler-bekommen-fur-das-einhell-twin-pack-2-x-4ah-akku-18-v-eventuell-personalisiert-2773499",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-carbon-rennrad-105-di2-83-kg-2773620",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shoop-deals-cashback-gutscheine-bei-vielen-shops-u-a-mediamarkt-aliexpress-tui-adidas-tchibo-2773602",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tissot-carson-automatic-silver-dial-mens-watch-40mm-powermatic-80-saphirglas-ebenfalls-mit-edelstahlband-fur-314eur-verfugbar-2758059",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-bleu-de-chanel-parfum-150ml-grosser-flakon-parfum-variante-fur-12645-eur-2773604",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-anker-nano-100w-usb-c-ladegerat-inkl-18m-usb-c-kabel-wahlweise-weiss-oder-schwarz-2773518",
+      "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/12gb-zotac-gaming-geforce-rtx-5070-twin-edge-192bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-2773759",
+      "ts": 1778539834428
     }
   ]
 }
