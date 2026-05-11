@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/uber-geizhals-10-rabattcoupon-fur-voelkner-handler-bekommen-fur-das-einhell-twin-pack-2-x-4ah-akku-18-v-eventuell-personalisiert-2773499",
     "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-carbon-rennrad-105-di2-83-kg-2773620",
     "mydealz|https://www.mydealz.de/deals/shoop-deals-cashback-gutscheine-bei-vielen-shops-u-a-mediamarkt-aliexpress-tui-adidas-tchibo-2773602",
-    "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624"
+    "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624",
+    "mydealz|https://www.mydealz.de/deals/tissot-carson-automatic-silver-dial-mens-watch-40mm-powermatic-80-saphirglas-ebenfalls-mit-edelstahlband-fur-314eur-verfugbar-2758059",
+    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-bleu-de-chanel-parfum-150ml-grosser-flakon-parfum-variante-fur-12645-eur-2773604",
+    "mydealz|https://www.mydealz.de/deals/amazon-anker-nano-100w-usb-c-ladegerat-inkl-18m-usb-c-kabel-wahlweise-weiss-oder-schwarz-2773518",
+    "mydealz|https://www.mydealz.de/deals/12gb-zotac-gaming-geforce-rtx-5070-twin-edge-192bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-2773759"
   ],
   "postedHistory": [
     {
