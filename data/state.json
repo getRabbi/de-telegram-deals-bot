@@ -1,11 +1,18 @@
 {
   "date": "2026-05-11",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
+    "mydealz|https://www.mydealz.de/deals/rollladenmotor-mit-elektronischen-endschaltern-und-5-jahren-garantie-2773348",
+    "mydealz|https://www.mydealz.de/deals/gardena-gartenpumpe-4100-silent-edelstahl-antriebswelle-und-keramikabdichtung-2773349",
+    "mydealz|https://www.mydealz.de/deals/dm-ivorell-co2-tauschzylinder-universal-oder-quick-connect-auch-fur-sodastream-dm-app-coupon-bis-265-2773310",
+    "mydealz|https://www.mydealz.de/deals/2x-jack-jones-chino-shorts-baumwolle-hosen-in-blau-oder-grun-fur-1889-eur-s-m-2773505",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
