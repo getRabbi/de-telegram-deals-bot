@@ -2,7 +2,7 @@
   "date": "2026-05-11",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gardena-gartenpumpe-4100-silent-edelstahl-antriebswelle-und-keramikabdichtung-2773349",
     "mydealz|https://www.mydealz.de/deals/dm-ivorell-co2-tauschzylinder-universal-oder-quick-connect-auch-fur-sodastream-dm-app-coupon-bis-265-2773310",
     "mydealz|https://www.mydealz.de/deals/2x-jack-jones-chino-shorts-baumwolle-hosen-in-blau-oder-grun-fur-1889-eur-s-m-2773505",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502"
+    "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502",
+    "mydealz|https://www.mydealz.de/deals/voelkner-einhell-2071010-akku-kompressor-ce-cc-18-li-solo-power-25-ah-akku-und-ladegerat-2773494",
+    "mydealz|https://www.mydealz.de/deals/uber-geizhals-10-rabattcoupon-fur-voelkner-handler-bekommen-fur-das-einhell-twin-pack-2-x-4ah-akku-18-v-eventuell-personalisiert-2773499",
+    "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-carbon-rennrad-105-di2-83-kg-2773620",
+    "mydealz|https://www.mydealz.de/deals/shoop-deals-cashback-gutscheine-bei-vielen-shops-u-a-mediamarkt-aliexpress-tui-adidas-tchibo-2773602",
+    "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624"
   ],
   "postedHistory": [
     {
