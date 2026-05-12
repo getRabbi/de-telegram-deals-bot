@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-ghost-of-a-tale-fur-nintendo-switch-metacritic-75-79-nor-340eur-2773717",
+    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-book-5-pro-16-np964xha-kg3de-historischer-tiefstpreis-laut-idealo-2773426",
+    "mydealz|https://www.mydealz.de/deals/ks-tools-universalschere-143mm-modell-1180013-amazon-prime-2773746",
+    "mydealz|https://www.mydealz.de/deals/stanley-beer-cup-2773682"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
