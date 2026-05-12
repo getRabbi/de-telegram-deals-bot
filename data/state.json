@@ -1,37 +1,12 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-ghost-of-a-tale-fur-nintendo-switch-metacritic-75-79-nor-340eur-2773717",
-    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-book-5-pro-16-np964xha-kg3de-historischer-tiefstpreis-laut-idealo-2773426",
-    "mydealz|https://www.mydealz.de/deals/ks-tools-universalschere-143mm-modell-1180013-amazon-prime-2773746",
-    "mydealz|https://www.mydealz.de/deals/stanley-beer-cup-2773682"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-12v-system-akku-bohrschrauber-gsr-12v-15-inkl-2x20-akku-ladegerat-39tlg-zubehor-set-werkzeugtasche-prime-2771010",
-      "ts": 1777935455456
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nedis-spannungwandler-230v-1000w-2000w-fur-3999-eur-reine-sinuswelle-230v-1000w-2000w-fur-4999-eur-230v-1700w-3000w-fur-7999-eur-2757291",
-      "ts": 1777935455456
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lindt-maitre-chocolatier-schokolade-versch-sorten-je-100g-110g-die-tafel-fur-109-euro-netto-md-2770979",
-      "ts": 1777935455456
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-75452-der-astromech-droide-bb-8-versandkostenfrei-2770898",
-      "ts": 1777935455456
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/familienfreundliche-4-hotel-adapura-in-wagrain-2nachte-fur-2-personen-ab-398eur-all-inclusive-modernen-zimmern-4-restaur-mai-okt-2771212",
-      "ts": 1777935455456
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/scotch-soda-ralston-herren-jeans-blau-fur-2589-eur-nur-noch-w30-w31-und-w32-2771232",
       "ts": 1778107161505
@@ -183,6 +158,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/12gb-zotac-gaming-geforce-rtx-5070-twin-edge-192bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-2773759",
       "ts": 1778539834428
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-ghost-of-a-tale-fur-nintendo-switch-metacritic-75-79-nor-340eur-2773717",
+      "ts": 1778623414825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-galaxy-book-5-pro-16-np964xha-kg3de-historischer-tiefstpreis-laut-idealo-2773426",
+      "ts": 1778623414825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ks-tools-universalschere-143mm-modell-1180013-amazon-prime-2773746",
+      "ts": 1778623414825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stanley-beer-cup-2773682",
+      "ts": 1778623414825
     }
   ]
 }
