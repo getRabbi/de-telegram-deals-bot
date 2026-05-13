@@ -1,11 +1,18 @@
 {
   "date": "2026-05-13",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/decathlon-fahrradschlauch-700-3545-presta-ventil-48-mm-2773833",
+    "mydealz|https://www.mydealz.de/deals/e-scooter-350w-10296eur-leistungsstarker-motor-36v-smart-app-16-25-km-reichweite-mit-doppelbremse-elektroroller-aovopro-tx01-2773836",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-a-short-hike-349eur-nintendo-switch-indie-adventure-neuer-bestpreis-jpn-230eur-2773824",
+    "mydealz|https://www.mydealz.de/deals/fritzbox-5690-pro-2773883",
+    "mydealz|https://www.mydealz.de/deals/kaufland-ab-1405-tesa-packband-strong-gerauscharm-als-3er-promopack-braun-oder-transparent-66-m-x-50-mm-fur-je-499-2774197",
+    "lidl|https://www.mydealz.de/deals/lidl-app-walnusskerne-je-200g-1kg995-2774190"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/scotch-soda-ralston-herren-jeans-blau-fur-2589-eur-nur-noch-w30-w31-und-w32-2771232",
