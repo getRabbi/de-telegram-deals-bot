@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/cybex-solution-g2-2774196",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/mactrade-apple-macbook-neo-13-a18-8-gb-512-gb-ssd-touch-id-zitrus-2026-0-finanzierung-2771959",
     "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-9800x3d-9070xt-16gb-32gb-ddr5-6000-1tb-ssd-b650e-wifi-240mm-rgb-waku-850w-gold-100eur-gamesplanet-gs-2774432",
     "mydealz|https://www.mydealz.de/deals/2x-otto-home-bettwaschen-sets-100-baumwolle-turkis-fur-2389-eur-2774413",
-    "mydealz|https://www.mydealz.de/deals/android-google-playstore-dash-digital-watchface-modern-sportlich-gratis-statt-149-evtl-ein-weiteres-gratis-mach-wahl-siehe-text-2774395"
+    "mydealz|https://www.mydealz.de/deals/android-google-playstore-dash-digital-watchface-modern-sportlich-gratis-statt-149-evtl-ein-weiteres-gratis-mach-wahl-siehe-text-2774395",
+    "mydealz|https://www.mydealz.de/deals/volvo-ex60-p12-ultra-awd680psallrad117kwh-akku810-km-wltpforderfahigeu-neuwagen10-80-in-19-minutenpanoramamatrix-led21-uvm-2774412",
+    "mydealz|https://www.mydealz.de/deals/motion-sitzhocker-stehhocker-hohenverstellbar-ergonomischer-hocker-bis-140kg-cushcloud-polsterung-gasfeder-3d-sitzmechanik-burohocker-2774815",
+    "mydealz|https://www.mydealz.de/deals/comdirect-junior-depot-100-eur-sparplan-pramie-0-eur-depotfuhrung-2774729",
+    "mydealz|https://www.mydealz.de/deals/beats-solo-buds-wireless-earbuds-bluetooth-in-ear-kopfhorer-matte-black-2774780"
   ],
   "postedHistory": [
     {
