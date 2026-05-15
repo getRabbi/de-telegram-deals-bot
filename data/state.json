@@ -1,11 +1,18 @@
 {
   "date": "2026-05-15",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/prime-spar-abo-250ml-old-spice-limitiert-super-mario-galaxy-movie-special-edition-3-in-1-duschgel-haar-und-gesicht-2774802",
+    "mydealz|https://www.mydealz.de/deals/magenta-moments-apple-apple-airpods-4-fur-97-eureur-apple-airpods-4-anc-fur-144eur-2774811",
+    "mydealz|https://www.mydealz.de/deals/muller-kosmos-flip-7-kartenspiel-deutsche-version-1039eur-bei-filiallieferung-2744294",
+    "mydealz|https://www.mydealz.de/deals/rosslann-gl-pril-orange-splash-450ml-12-flaschen-mit-dem-3eur-ab-10eur-coupon-fur-780eur-10-auf-alles-effekt-einzelpreis-058eur-2775837",
+    "mydealz|https://www.mydealz.de/deals/aktionspreis-hotel-gutschein-hilton-dusseldorf-2p-inkl-fruhstuck-kostenloser-parkplatz-2-tage-99eur-3-t-199eur-4-t-299eur-5-t-389eur-2764241",
+    "mydealz|https://www.mydealz.de/deals/stiftung-warentest-stiftung-warentest-finanzen-abo-9-ausgaben-buchpramie-iwv-bis-zu-2990-eur-fur-zusammen-35-eur-zb-rente-aktien-2745588"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
