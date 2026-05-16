@@ -1,58 +1,12 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/john-carpenters-toxic-commando-ps5-oder-xbox-series-x-usk-version-enthalt-dlc-leons-secret-stash-mediamarktsaturn-vsk-frei-2775845",
-    "mydealz|https://www.mydealz.de/deals/reanimal-2999eur-nintendo-switch-2-playstation-5-ps5-xbox-series-x-pc-physisch-usk-version-amazon-mediamarkt-saturn-ebay-2777455",
-    "mydealz|https://www.mydealz.de/deals/neff-b54cr71g0-einbaubackofen-graphite-grey-71-l-a-pyrolyse-easyclean-slidehide-home-connect-air-fry3d-heissluft-2777469",
-    "mydealz|https://www.mydealz.de/deals/kindle-4-englische-kindle-ebooks-gratis-legal-thriller-mystic-romance-highland-romance-crime-thriller-siehe-cover-und-dealtext-2777297",
-    "mydealz|https://www.mydealz.de/deals/lokal-schliessung-sconto-hanau-2777408",
-    "mydealz|https://www.mydealz.de/deals/samsung-nq50t9939bd-infinite-line-kompakt-dampfbackofen-50-l-eek-a-dampfunterstutzung-250-c-wifismartthings-2777464",
-    "mydealz|https://www.mydealz.de/deals/movie-park-26-euro-mit-dem-rabbat-jubi26mpg-2777521",
-    "mydealz|https://www.mydealz.de/deals/prime-silkland-8k-hdmi-21-kabel-2m-4k-at-144hz120hz-8k-at-60hz-earc-hdr10-dolby-atmos-48gbps-hdcp23-2777585",
-    "lidl|https://www.mydealz.de/deals/lidl-nixe-thunfisch-filets-verschiedene-sorten-2777547"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-wireless-gaming-maus-logitech-g502x-plus-2771476",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/b-ware-bernina-bernette-sew-go-5-freiarm-nahmaschine-einfadelhilfe-fadenabschneider-23-nahprogramme-4-nahfusse-neupreis-17997eur-2758303",
-      "ts": 1778365987647
-    },
-    {
-      "key": "zalando|https://www.mydealz.de/deals/zalando-cb-nike-sportswear-air-force-1-07-flyease-sneaker-low-white-grossen-355-44-2772162",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nescafe-dolce-gusto-12-boxen-fur-nur-46-eur-383eurbox-versandkostenfrei-2772058",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ottoquelle-nothing-phone-3-12gb-ram256-gb-speicher-667-amoled-120hz-display-dual-sim-5g-weiss-2771942",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-ultraboost-20-damen-grosse-36-2743741",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mac-book-air-mit-wunschgutscheinen-7191-eur-2772114",
-      "ts": 1778365987647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spartanien-bevestor-robo-advisor-70-eur-fur-sparplan-25-eurm-oder-einmalanlage-500-eur-neukunden-2772710",
-      "ts": 1778365987647
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
       "ts": 1778452580733
@@ -252,6 +206,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/stiftung-warentest-stiftung-warentest-finanzen-abo-9-ausgaben-buchpramie-iwv-bis-zu-2990-eur-fur-zusammen-35-eur-zb-rente-aktien-2745588",
       "ts": 1778885030726
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/john-carpenters-toxic-commando-ps5-oder-xbox-series-x-usk-version-enthalt-dlc-leons-secret-stash-mediamarktsaturn-vsk-frei-2775845",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reanimal-2999eur-nintendo-switch-2-playstation-5-ps5-xbox-series-x-pc-physisch-usk-version-amazon-mediamarkt-saturn-ebay-2777455",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neff-b54cr71g0-einbaubackofen-graphite-grey-71-l-a-pyrolyse-easyclean-slidehide-home-connect-air-fry3d-heissluft-2777469",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kindle-4-englische-kindle-ebooks-gratis-legal-thriller-mystic-romance-highland-romance-crime-thriller-siehe-cover-und-dealtext-2777297",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-schliessung-sconto-hanau-2777408",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-nq50t9939bd-infinite-line-kompakt-dampfbackofen-50-l-eek-a-dampfunterstutzung-250-c-wifismartthings-2777464",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/movie-park-26-euro-mit-dem-rabbat-jubi26mpg-2777521",
+      "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-silkland-8k-hdmi-21-kabel-2m-4k-at-144hz120hz-8k-at-60hz-earc-hdr10-dolby-atmos-48gbps-hdcp23-2777585",
+      "ts": 1778970981255
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-nixe-thunfisch-filets-verschiedene-sorten-2777547",
+      "ts": 1778970981255
     }
   ]
 }
