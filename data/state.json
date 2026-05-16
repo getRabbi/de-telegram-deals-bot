@@ -2,10 +2,16 @@
   "date": "2026-05-16",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/john-carpenters-toxic-commando-ps5-oder-xbox-series-x-usk-version-enthalt-dlc-leons-secret-stash-mediamarktsaturn-vsk-frei-2775845",
+    "mydealz|https://www.mydealz.de/deals/reanimal-2999eur-nintendo-switch-2-playstation-5-ps5-xbox-series-x-pc-physisch-usk-version-amazon-mediamarkt-saturn-ebay-2777455",
+    "mydealz|https://www.mydealz.de/deals/neff-b54cr71g0-einbaubackofen-graphite-grey-71-l-a-pyrolyse-easyclean-slidehide-home-connect-air-fry3d-heissluft-2777469",
+    "mydealz|https://www.mydealz.de/deals/kindle-4-englische-kindle-ebooks-gratis-legal-thriller-mystic-romance-highland-romance-crime-thriller-siehe-cover-und-dealtext-2777297",
+    "mydealz|https://www.mydealz.de/deals/lokal-schliessung-sconto-hanau-2777408"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/schutte-los-angeles-thermostat-duscharmatur-messing-38c-verbruhschutz-brauseschlauchanschluss-inkl-montagematerial-anleitung-2771558",
