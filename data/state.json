@@ -1,11 +1,18 @@
 {
   "date": "2026-05-17",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
+    "mydealz|https://www.mydealz.de/deals/passengers-2017-4k-blu-ray-1644eur-blu-ray-797eur-chris-pratt-jennifer-lawrence-at-prime-2776629",
+    "mydealz|https://www.mydealz.de/deals/spartanien-cashback-30eur-fur-bitpanda-neukunden-2776744",
+    "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-allwetterreifen-2777814",
+    "mydealz|https://www.mydealz.de/deals/bgs-6876-mini-druckluft-ausblaspistole-druckluftpistoleprime-2777838",
+    "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
