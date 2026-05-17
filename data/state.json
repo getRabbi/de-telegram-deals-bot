@@ -2,7 +2,7 @@
   "date": "2026-05-17",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/spartanien-cashback-30eur-fur-bitpanda-neukunden-2776744",
     "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-allwetterreifen-2777814",
     "mydealz|https://www.mydealz.de/deals/bgs-6876-mini-druckluft-ausblaspistole-druckluftpistoleprime-2777838",
-    "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714"
+    "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714",
+    "mydealz|https://www.mydealz.de/deals/funko-pop-bloody-pennywise-welcome-to-derry-it-amazon-prime-2777987",
+    "mydealz|https://www.mydealz.de/deals/nba-2k26-standard-edition-979-eur-humble-store-steam-2777925",
+    "mydealz|https://www.mydealz.de/deals/tonie-schlummerbande-schlummerjaguar-einschlafmelodien-aus-dem-schlummerdschungel-thalia-kultclub-2777970",
+    "mydealz|https://www.mydealz.de/deals/netto-gratis-oreo-oder-uludag-gazoz-2777809",
+    "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895"
   ],
   "postedHistory": [
     {
