@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/nba-2k26-standard-edition-979-eur-humble-store-steam-2777925",
     "mydealz|https://www.mydealz.de/deals/tonie-schlummerbande-schlummerjaguar-einschlafmelodien-aus-dem-schlummerdschungel-thalia-kultclub-2777970",
     "mydealz|https://www.mydealz.de/deals/netto-gratis-oreo-oder-uludag-gazoz-2777809",
-    "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895"
+    "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895",
+    "mydealz|https://www.mydealz.de/deals/ticket-parc-merveilleux-erw-statt-17-euro-nur-12-eur-kind-statt-13-eur-nur-8-eur-2756765",
+    "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-pritt-klebestift-sicherer-und-kinderfreundlicher-bastelkleber-10x43g-pritt-stift-2778237",
+    "mydealz|https://www.mydealz.de/deals/prime-eickhorn-epk-taschenmesser-deals-made-in-solingen-germany-mehrere-modelle-2778238",
+    "mydealz|https://www.mydealz.de/deals/bookbeat-2-freimonate-fur-neukunden-uber-empfehlungsprogramm-2771294"
   ],
   "postedHistory": [
     {
