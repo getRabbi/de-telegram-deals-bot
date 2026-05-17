@@ -1,64 +1,12 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
-    "mydealz|https://www.mydealz.de/deals/passengers-2017-4k-blu-ray-1644eur-blu-ray-797eur-chris-pratt-jennifer-lawrence-at-prime-2776629",
-    "mydealz|https://www.mydealz.de/deals/spartanien-cashback-30eur-fur-bitpanda-neukunden-2776744",
-    "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-allwetterreifen-2777814",
-    "mydealz|https://www.mydealz.de/deals/bgs-6876-mini-druckluft-ausblaspistole-druckluftpistoleprime-2777838",
-    "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714",
-    "mydealz|https://www.mydealz.de/deals/funko-pop-bloody-pennywise-welcome-to-derry-it-amazon-prime-2777987",
-    "mydealz|https://www.mydealz.de/deals/nba-2k26-standard-edition-979-eur-humble-store-steam-2777925",
-    "mydealz|https://www.mydealz.de/deals/tonie-schlummerbande-schlummerjaguar-einschlafmelodien-aus-dem-schlummerdschungel-thalia-kultclub-2777970",
-    "mydealz|https://www.mydealz.de/deals/netto-gratis-oreo-oder-uludag-gazoz-2777809",
-    "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895",
-    "mydealz|https://www.mydealz.de/deals/ticket-parc-merveilleux-erw-statt-17-euro-nur-12-eur-kind-statt-13-eur-nur-8-eur-2756765",
-    "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-pritt-klebestift-sicherer-und-kinderfreundlicher-bastelkleber-10x43g-pritt-stift-2778237",
-    "mydealz|https://www.mydealz.de/deals/prime-eickhorn-epk-taschenmesser-deals-made-in-solingen-germany-mehrere-modelle-2778238",
-    "mydealz|https://www.mydealz.de/deals/bookbeat-2-freimonate-fur-neukunden-uber-empfehlungsprogramm-2771294"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lufthansa-miles-and-more-kreditkarte-der-deutschen-bank-sammeln-sie-jetzt-doppelte-meilen-mit-ihrer-miles-more-kreditkarte-2772768",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/16gb-inno3d-geforce-rtx-5080-x3-oc-256bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-inkl-das-spiel-pragmata-2772771",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/campagnolo-super-record-eps-gruppe-stages-l-powermeter-2x12-fach-hydraulische-scheibenbremse-flat-mount-2772754",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/burger-king-mission-grogu-futtern-sammelfigur-und-tasse-galactic-fries-fur-1-euro-erspielen-2772731",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-rollup-m-inkl-20-m-schlauch-2772972",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/verschiedene-birkenstock-modelle-zb-arizonabostonkay-15-und-versandkostenfrei-zb-kay-fur-68-2772963",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lavazza-crema-e-aroma-1kg-amazon-sparabo-1359-eur-2745577",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-world-of-warships-marblehead-lima-kostenlos-2772956",
-      "ts": 1778452580733
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-damian-brawlerbox-2773360",
-      "ts": 1778452580733
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
       "ts": 1778539834428
@@ -258,6 +206,66 @@
     {
       "key": "lidl|https://www.mydealz.de/deals/lidl-nixe-thunfisch-filets-verschiedene-sorten-2777547",
       "ts": 1778970981255
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/passengers-2017-4k-blu-ray-1644eur-blu-ray-797eur-chris-pratt-jennifer-lawrence-at-prime-2776629",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spartanien-cashback-30eur-fur-bitpanda-neukunden-2776744",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-allwetterreifen-2777814",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bgs-6876-mini-druckluft-ausblaspistole-druckluftpistoleprime-2777838",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/funko-pop-bloody-pennywise-welcome-to-derry-it-amazon-prime-2777987",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nba-2k26-standard-edition-979-eur-humble-store-steam-2777925",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tonie-schlummerbande-schlummerjaguar-einschlafmelodien-aus-dem-schlummerdschungel-thalia-kultclub-2777970",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-gratis-oreo-oder-uludag-gazoz-2777809",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ticket-parc-merveilleux-erw-statt-17-euro-nur-12-eur-kind-statt-13-eur-nur-8-eur-2756765",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-pritt-klebestift-sicherer-und-kinderfreundlicher-bastelkleber-10x43g-pritt-stift-2778237",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-eickhorn-epk-taschenmesser-deals-made-in-solingen-germany-mehrere-modelle-2778238",
+      "ts": 1779057788113
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bookbeat-2-freimonate-fur-neukunden-uber-empfehlungsprogramm-2771294",
+      "ts": 1779057788113
     }
   ]
 }
