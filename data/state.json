@@ -1,11 +1,18 @@
 {
   "date": "2026-05-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2774616",
+    "mydealz|https://www.mydealz.de/deals/hyte-y40-white-pc-gehause-hyte-q60-thicc-240mm-wasserkuhlung-mit-5-ips-display-2777242",
+    "mydealz|https://www.mydealz.de/deals/4x-otto-home-bettwaschen-sets-135-cm-x-200-cm-80-cm-x-80-cm-weiss-fur-3889-eur-100-baumwolle-2778145",
+    "mydealz|https://www.mydealz.de/deals/prime-ks-tools-9072220-klappmesser-mit-arretierung-2778330",
+    "mydealz|https://www.mydealz.de/deals/haribo-fruchtgummi-verschiedene-sorten-750-875g-mit-netto-app-349eur-ohne-netto-app-399eur-2778218",
+    "mydealz|https://www.mydealz.de/deals/meisterhaft-laden-35-titel-35-centkwh-vom-18-27052026-an-allen-bayerischen-audi-charging-hubs-2778371"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
