@@ -1,104 +1,12 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/imperial-dabman-d105-radio-dab-fm-bluetooth-2732810",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-dell-latitude-tablet-7320-detachable-lte-diverse-zustande-zb-a-ware-esim-i7-1180g7-16gb-512gb-13-de-fp-win11-2779054",
-    "aldi|https://www.mydealz.de/deals/aldi-nord-coca-cola-fanta-18-x-330-ml-2779096",
-    "mydealz|https://www.mydealz.de/deals/edeka-bundesweit-nur-noch-diese-woche-landliebe-jogurt-500g-glas-111-eur-statt-2249-eur-015-eur-pfand-2779389",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-staedtler-noris-colour-buntstift-wopex-material-bonus-set-mit-24-brillanten-stiften-im-kartonetui-2779359",
-    "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342",
-    "mydealz|https://www.mydealz.de/deals/dfb-deutschland-lizenz-trikot-2-fur-damen-oder-herren-2779374",
-    "mydealz|https://www.mydealz.de/deals/acer-easy-fit-wireless-maus-4000-dpi-6-tasten-rgb-usbc-24-ghz-funk-usbananoempfanger-plug-play-alza-paketshop-lieferung-2779381",
-    "mydealz|https://www.mydealz.de/deals/ktc-h27t7p-2-gaming-monitor-27-25601440-qhd-210-hz-99srgb-upgrade-vom-ktc-h27t22-2778847",
-    "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrschrauber-ar-2380-18v-mit-2ah-akku-nur-lokal-in-poco-filialen-nicht-online-ca-18-v-2779890",
-    "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369",
-    "mydealz|https://www.mydealz.de/deals/deutschland-banner-wm-083-x-5-meter-fur-170eur-zb-als-sichtschutz-balkon-zaun-11x-knicklicht-leuchten-fur-014eur-einmalig-594eur-vsk-2779913",
-    "mydealz|https://www.mydealz.de/deals/gigabyte-mo32u2-32-qd-oled-4k-240hz-599eur-bei-alternate-2779352",
-    "mydealz|https://www.mydealz.de/deals/rosalia-lux-vinyl-2778533",
-    "mydealz|https://www.mydealz.de/deals/dewalt-gehorschutz-mit-fm-radio-fur-3090-eur-inkl-versand-statt-ca-5550-eur-2779316"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rollladenmotor-mit-elektronischen-endschaltern-und-5-jahren-garantie-2773348",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-gartenpumpe-4100-silent-edelstahl-antriebswelle-und-keramikabdichtung-2773349",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dm-ivorell-co2-tauschzylinder-universal-oder-quick-connect-auch-fur-sodastream-dm-app-coupon-bis-265-2773310",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-jack-jones-chino-shorts-baumwolle-hosen-in-blau-oder-grun-fur-1889-eur-s-m-2773505",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-fleece-jacke-herren-sweatshirt-fur-1289-eur-xs-m-2773502",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/voelkner-einhell-2071010-akku-kompressor-ce-cc-18-li-solo-power-25-ah-akku-und-ladegerat-2773494",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/uber-geizhals-10-rabattcoupon-fur-voelkner-handler-bekommen-fur-das-einhell-twin-pack-2-x-4ah-akku-18-v-eventuell-personalisiert-2773499",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmc-teammachine-slr-three-carbon-rennrad-105-di2-83-kg-2773620",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/shoop-deals-cashback-gutscheine-bei-vielen-shops-u-a-mediamarkt-aliexpress-tui-adidas-tchibo-2773602",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marc-opolo-herren-t-shirt-bequemes-oberteil-aus-bio-baumwolle-verschiedene-grossen-und-farben-ab-1584eur-2773624",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tissot-carson-automatic-silver-dial-mens-watch-40mm-powermatic-80-saphirglas-ebenfalls-mit-edelstahlband-fur-314eur-verfugbar-2758059",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-bleu-de-chanel-parfum-150ml-grosser-flakon-parfum-variante-fur-12645-eur-2773604",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-anker-nano-100w-usb-c-ladegerat-inkl-18m-usb-c-kabel-wahlweise-weiss-oder-schwarz-2773518",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/12gb-zotac-gaming-geforce-rtx-5070-twin-edge-192bit-gddr7-hdmi-3x-dp-pcie-50-x16-grafikkarte-2773759",
-      "ts": 1778539834428
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-ghost-of-a-tale-fur-nintendo-switch-metacritic-75-79-nor-340eur-2773717",
-      "ts": 1778623414825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-galaxy-book-5-pro-16-np964xha-kg3de-historischer-tiefstpreis-laut-idealo-2773426",
-      "ts": 1778623414825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ks-tools-universalschere-143mm-modell-1180013-amazon-prime-2773746",
-      "ts": 1778623414825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stanley-beer-cup-2773682",
-      "ts": 1778623414825
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/decathlon-fahrradschlauch-700-3545-presta-ventil-48-mm-2773833",
       "ts": 1778713017710
@@ -326,6 +234,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/10l-bio-leinol-fur-pferde-fur-3580-eur-inkl-versand-2779031",
       "ts": 1779144524778
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/imperial-dabman-d105-radio-dab-fm-bluetooth-2732810",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-dell-latitude-tablet-7320-detachable-lte-diverse-zustande-zb-a-ware-esim-i7-1180g7-16gb-512gb-13-de-fp-win11-2779054",
+      "ts": 1779228384890
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-coca-cola-fanta-18-x-330-ml-2779096",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-bundesweit-nur-noch-diese-woche-landliebe-jogurt-500g-glas-111-eur-statt-2249-eur-015-eur-pfand-2779389",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-staedtler-noris-colour-buntstift-wopex-material-bonus-set-mit-24-brillanten-stiften-im-kartonetui-2779359",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dfb-deutschland-lizenz-trikot-2-fur-damen-oder-herren-2779374",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/acer-easy-fit-wireless-maus-4000-dpi-6-tasten-rgb-usbc-24-ghz-funk-usbananoempfanger-plug-play-alza-paketshop-lieferung-2779381",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ktc-h27t7p-2-gaming-monitor-27-25601440-qhd-210-hz-99srgb-upgrade-vom-ktc-h27t22-2778847",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrschrauber-ar-2380-18v-mit-2ah-akku-nur-lokal-in-poco-filialen-nicht-online-ca-18-v-2779890",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deutschland-banner-wm-083-x-5-meter-fur-170eur-zb-als-sichtschutz-balkon-zaun-11x-knicklicht-leuchten-fur-014eur-einmalig-594eur-vsk-2779913",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gigabyte-mo32u2-32-qd-oled-4k-240hz-599eur-bei-alternate-2779352",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rosalia-lux-vinyl-2778533",
+      "ts": 1779228384890
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dewalt-gehorschutz-mit-fm-radio-fur-3090-eur-inkl-versand-statt-ca-5550-eur-2779316",
+      "ts": 1779228384890
     }
   ]
 }
