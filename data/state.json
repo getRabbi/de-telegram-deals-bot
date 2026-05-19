@@ -1,11 +1,18 @@
 {
   "date": "2026-05-19",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/imperial-dabman-d105-radio-dab-fm-bluetooth-2732810",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-dell-latitude-tablet-7320-detachable-lte-diverse-zustande-zb-a-ware-esim-i7-1180g7-16gb-512gb-13-de-fp-win11-2779054",
+    "aldi|https://www.mydealz.de/deals/aldi-nord-coca-cola-fanta-18-x-330-ml-2779096",
+    "mydealz|https://www.mydealz.de/deals/edeka-bundesweit-nur-noch-diese-woche-landliebe-jogurt-500g-glas-111-eur-statt-2249-eur-015-eur-pfand-2779389",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-staedtler-noris-colour-buntstift-wopex-material-bonus-set-mit-24-brillanten-stiften-im-kartonetui-2779359",
+    "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/japansage-von-wolfcraft-zum-guten-kurs-2773353",
