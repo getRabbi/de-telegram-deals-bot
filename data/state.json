@@ -2,7 +2,7 @@
   "date": "2026-05-19",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "aldi|https://www.mydealz.de/deals/aldi-nord-coca-cola-fanta-18-x-330-ml-2779096",
     "mydealz|https://www.mydealz.de/deals/edeka-bundesweit-nur-noch-diese-woche-landliebe-jogurt-500g-glas-111-eur-statt-2249-eur-015-eur-pfand-2779389",
     "mydealz|https://www.mydealz.de/deals/amazon-prime-staedtler-noris-colour-buntstift-wopex-material-bonus-set-mit-24-brillanten-stiften-im-kartonetui-2779359",
-    "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342"
+    "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342",
+    "mydealz|https://www.mydealz.de/deals/dfb-deutschland-lizenz-trikot-2-fur-damen-oder-herren-2779374",
+    "mydealz|https://www.mydealz.de/deals/acer-easy-fit-wireless-maus-4000-dpi-6-tasten-rgb-usbc-24-ghz-funk-usbananoempfanger-plug-play-alza-paketshop-lieferung-2779381",
+    "mydealz|https://www.mydealz.de/deals/ktc-h27t7p-2-gaming-monitor-27-25601440-qhd-210-hz-99srgb-upgrade-vom-ktc-h27t22-2778847",
+    "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrschrauber-ar-2380-18v-mit-2ah-akku-nur-lokal-in-poco-filialen-nicht-online-ca-18-v-2779890",
+    "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369"
   ],
   "postedHistory": [
     {
