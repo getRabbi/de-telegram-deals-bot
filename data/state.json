@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/imperial-dabman-d105-radio-dab-fm-bluetooth-2732810",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/acer-easy-fit-wireless-maus-4000-dpi-6-tasten-rgb-usbc-24-ghz-funk-usbananoempfanger-plug-play-alza-paketshop-lieferung-2779381",
     "mydealz|https://www.mydealz.de/deals/ktc-h27t7p-2-gaming-monitor-27-25601440-qhd-210-hz-99srgb-upgrade-vom-ktc-h27t22-2778847",
     "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrschrauber-ar-2380-18v-mit-2ah-akku-nur-lokal-in-poco-filialen-nicht-online-ca-18-v-2779890",
-    "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369"
+    "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369",
+    "mydealz|https://www.mydealz.de/deals/deutschland-banner-wm-083-x-5-meter-fur-170eur-zb-als-sichtschutz-balkon-zaun-11x-knicklicht-leuchten-fur-014eur-einmalig-594eur-vsk-2779913",
+    "mydealz|https://www.mydealz.de/deals/gigabyte-mo32u2-32-qd-oled-4k-240hz-599eur-bei-alternate-2779352",
+    "mydealz|https://www.mydealz.de/deals/rosalia-lux-vinyl-2778533",
+    "mydealz|https://www.mydealz.de/deals/dewalt-gehorschutz-mit-fm-radio-fur-3090-eur-inkl-versand-statt-ca-5550-eur-2779316"
   ],
   "postedHistory": [
     {
