@@ -1,11 +1,18 @@
 {
   "date": "2026-05-20",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/apple-iphone-air-bumper-alle-farbe-b-ware-zustand-a-wie-neu-2780186",
+    "rewe|https://www.mydealz.de/deals/rewe-ritter-sport-bunte-vielfalt-099-eur-010-rewe-bonus-2780201",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-estilo-sofasteckdose-2xusb-1xflachstecker-2780108",
+    "mydealz|https://www.mydealz.de/deals/netto-plus-md-h-milch-35-2780127",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-thalia-apple-ein-erlesener-mord-ein-toskanischer-weingarten-cozy-krimi-horbuch-ebook-abgeschlossener-fall-2780462",
+    "lidl|https://www.mydealz.de/deals/persil-gel-pulver-discs-2105-bis-2305-bei-lidl-2780229"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/decathlon-fahrradschlauch-700-3545-presta-ventil-48-mm-2773833",
