@@ -2,7 +2,7 @@
   "date": "2026-05-20",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/brennenstuhl-estilo-sofasteckdose-2xusb-1xflachstecker-2780108",
     "mydealz|https://www.mydealz.de/deals/netto-plus-md-h-milch-35-2780127",
     "mydealz|https://www.mydealz.de/deals/amazon-kindle-thalia-apple-ein-erlesener-mord-ein-toskanischer-weingarten-cozy-krimi-horbuch-ebook-abgeschlossener-fall-2780462",
-    "lidl|https://www.mydealz.de/deals/persil-gel-pulver-discs-2105-bis-2305-bei-lidl-2780229"
+    "lidl|https://www.mydealz.de/deals/persil-gel-pulver-discs-2105-bis-2305-bei-lidl-2780229",
+    "mydealz|https://www.mydealz.de/deals/eterna-insolvenzausverkauf-lokal-je-hemdbluse-25eur-bundesweit-2780277",
+    "mydealz|https://www.mydealz.de/deals/dell-pro-qcm1250-intel-core-ultra-7-265t-16-gb-ddr5-sdram-512-gb-ssd-windows-11-pro-micro-pc-mini-pc-schwarz-2780457",
+    "mydealz|https://www.mydealz.de/deals/alina-cosmetics-montblanc-explorer-eau-de-parfum-geschenkset-60ml-eau-de-parfum-100ml-duschgel-fur-3316-eur-inkl-gratisversand-2765090",
+    "mydealz|https://www.mydealz.de/deals/aboheld-6-hefte-spiegel-stern-auto-motor-sport-horzu-gala-oder-brigitte-fur-795eur-ohne-kundigung-oder-bankdaten-2748042",
+    "mydealz|https://www.mydealz.de/deals/arcteryx-rush-bib-3-l-gore-tex-pants-women-wassersaule-28000-mm-2780897"
   ],
   "postedHistory": [
     {
