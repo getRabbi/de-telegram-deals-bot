@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/apple-iphone-air-bumper-alle-farbe-b-ware-zustand-a-wie-neu-2780186",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/dell-pro-qcm1250-intel-core-ultra-7-265t-16-gb-ddr5-sdram-512-gb-ssd-windows-11-pro-micro-pc-mini-pc-schwarz-2780457",
     "mydealz|https://www.mydealz.de/deals/alina-cosmetics-montblanc-explorer-eau-de-parfum-geschenkset-60ml-eau-de-parfum-100ml-duschgel-fur-3316-eur-inkl-gratisversand-2765090",
     "mydealz|https://www.mydealz.de/deals/aboheld-6-hefte-spiegel-stern-auto-motor-sport-horzu-gala-oder-brigitte-fur-795eur-ohne-kundigung-oder-bankdaten-2748042",
-    "mydealz|https://www.mydealz.de/deals/arcteryx-rush-bib-3-l-gore-tex-pants-women-wassersaule-28000-mm-2780897"
+    "mydealz|https://www.mydealz.de/deals/arcteryx-rush-bib-3-l-gore-tex-pants-women-wassersaule-28000-mm-2780897",
+    "mydealz|https://www.mydealz.de/deals/msc-last-minute-angebote-7-nachte-mittelmeer-kreuzfahrt-ab-361eur-pp-7n-alaska-ab-523eur-7n-nordeuropa-697eur-vollpension-apr-jun-2780994",
+    "mydealz|https://www.mydealz.de/deals/deuter-durascent-4210-sl-glaciergraphite-wasserdichter-trekkingrucksack-2780980",
+    "mydealz|https://www.mydealz.de/deals/goliath-die-verrater-vertraue-niemandem-gesellschaftsspiele-fur-4-6-spieler-prime-2739728",
+    "mydealz|https://www.mydealz.de/deals/ok-ord-101btb3-tragbares-dabukwdigitalradio-mit-bluetooth-weckfunktion-mono-schwarz-versandkostenfrei-mediamarktsaturn-2780943"
   ],
   "postedHistory": [
     {
