@@ -1,11 +1,18 @@
 {
   "date": "2026-05-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-lieferando-x-mediamarkt-sony-inzone-h3-gaming-headset-effektiv-28eur-360-spatial-sound-fur-spiele-pcplaystation5-gratisartikel-2781054",
+    "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-faber-castell-castle-buntstifte-set-60-farben-2781066",
+    "mydealz|https://www.mydealz.de/deals/ecooter-e2s-e-roller-45-kmh-deal-des-monats-tcs-testsieder-2781086",
+    "mydealz|https://www.mydealz.de/deals/i-am-jesus-christ-1124eur-einfuhrungsrabatt-oster-angebot-simulation-steam-2758356",
+    "mydealz|https://www.mydealz.de/deals/navimow-i2-lidar-pro-mahroboter-mit-navimow-garage-m-2781361",
+    "lidl|https://www.mydealz.de/deals/norwegisches-lachsfilet-mit-haut-kilo-kg1599-eur-8-x-125-g-lidl-offline-2781354"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/cybex-solution-g2-2774196",
