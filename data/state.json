@@ -2,7 +2,7 @@
   "date": "2026-05-21",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/ecooter-e2s-e-roller-45-kmh-deal-des-monats-tcs-testsieder-2781086",
     "mydealz|https://www.mydealz.de/deals/i-am-jesus-christ-1124eur-einfuhrungsrabatt-oster-angebot-simulation-steam-2758356",
     "mydealz|https://www.mydealz.de/deals/navimow-i2-lidar-pro-mahroboter-mit-navimow-garage-m-2781361",
-    "lidl|https://www.mydealz.de/deals/norwegisches-lachsfilet-mit-haut-kilo-kg1599-eur-8-x-125-g-lidl-offline-2781354"
+    "lidl|https://www.mydealz.de/deals/norwegisches-lachsfilet-mit-haut-kilo-kg1599-eur-8-x-125-g-lidl-offline-2781354",
+    "mydealz|https://www.mydealz.de/deals/weihenstephan-butter-099-eur-250-gramm-uber-edeka-app-edeka-offline-2781368",
+    "mydealz|https://www.mydealz.de/deals/sony-xr-65a84l-bravia-oled-tv-65-zoll-164-cm-4k-uhd-45-topcashback-effektiv-957-expert-melle-oder-idealo-link-2781326",
+    "mydealz|https://www.mydealz.de/deals/netto-md-netto-plus-app-gratis-haribo-pico-balla-sortiert-160g-2781215",
+    "mydealz|https://www.mydealz.de/deals/pepsi-verschiedene-sorten-125l-fur-69-cent-2781308",
+    "mydealz|https://www.mydealz.de/deals/le-creuset-kone-wasserkessel-mit-pfeife-emaillierter-stahl-16-l-shell-pink-2781423"
   ],
   "postedHistory": [
     {
