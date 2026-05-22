@@ -1,11 +1,18 @@
 {
   "date": "2026-05-22",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/smartbroker-depot-eroffnen-5-trades-ausfuhren-und-einen-anteilswert-des-msci-world-etf-im-wert-von-80-eur-erhalten-2781503",
+    "mydealz|https://www.mydealz.de/deals/zeller-buchenholzkiste-stapelbar-lackiert-40-x-30-x-21cm-2-stuck-ohne-porto-3798-euro-2781486",
+    "mydealz|https://www.mydealz.de/deals/belkin-boostcharge-2-in-1-induktive-ladestation-mit-qi2-15w-magsafe-kompatibles-ladegerat-kabellose-kompakte-verstellbare-fur-prime-2780952",
+    "mydealz|https://www.mydealz.de/deals/arena-the-one-anti-fog-schwimmbrille-unisex-fur-erwachsene-schwimmbrille-mit-breiten-glasern-uv-schutz-ab-1099eur-at-prime-2781436",
+    "mydealz|https://www.mydealz.de/gutscheine/bis-zu-60-rabatt-max-28-eur-vom-flughafen-berlin-brandenburg-mit-uber-fur-neue-user-gultig-bis-31-dez-2026-bei-kartenzahlung-2781890",
+    "mydealz|https://www.mydealz.de/deals/mixoo-stylus-pen-fur-ipad-inkl-3-ersatzspitzen-apple-pencil-alternative-2781821"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-250ml-old-spice-limitiert-super-mario-galaxy-movie-special-edition-3-in-1-duschgel-haar-und-gesicht-2774802",
