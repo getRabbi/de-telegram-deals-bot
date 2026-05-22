@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/smartbroker-depot-eroffnen-5-trades-ausfuhren-und-einen-anteilswert-des-msci-world-etf-im-wert-von-80-eur-erhalten-2781503",
@@ -16,7 +16,11 @@
     "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-prime-spar-aborossmann-2757325",
     "mydealz|https://www.mydealz.de/deals/iscooter-e9tmax-500w-10ah-36v-akku-10-reifen-e-scooter-mit-strassenzulassung-abe-ekfv-40km-reichweite-20kmh-120kg-tragfahigkeit-2781881",
     "mydealz|https://www.mydealz.de/deals/lg-gmv860epde-slim-multi-door-kuhlschrank-mit-instaview-530l-total-no-frost-smart-inverter-kompressor-eek-e-2781858",
-    "mydealz|https://www.mydealz.de/deals/lego-creator-3in1-roter-drache-31145-prime-2781741"
+    "mydealz|https://www.mydealz.de/deals/lego-creator-3in1-roter-drache-31145-prime-2781741",
+    "mydealz|https://www.mydealz.de/deals/ariel-waschmittel-pods-all-in-1-flussigwaschmittel-kapseln-fur-100-waschladungen-universal-2781992",
+    "mydealz|https://www.mydealz.de/deals/vileda-175775-h2pro-flat-mop-bodenwischer-1st-2781979",
+    "mydealz|https://www.mydealz.de/deals/oukitel-p800e-tragbare-powerstation-800w-512wh-lifepo4-eff-119eur-moglich-shoop-20-2782010",
+    "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-ps4-playstation-4-ps-store-874eur-oder-624eur-mit-ps-2781716"
   ],
   "postedHistory": [
     {
