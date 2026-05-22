@@ -2,7 +2,7 @@
   "date": "2026-05-22",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/belkin-boostcharge-2-in-1-induktive-ladestation-mit-qi2-15w-magsafe-kompatibles-ladegerat-kabellose-kompakte-verstellbare-fur-prime-2780952",
     "mydealz|https://www.mydealz.de/deals/arena-the-one-anti-fog-schwimmbrille-unisex-fur-erwachsene-schwimmbrille-mit-breiten-glasern-uv-schutz-ab-1099eur-at-prime-2781436",
     "mydealz|https://www.mydealz.de/gutscheine/bis-zu-60-rabatt-max-28-eur-vom-flughafen-berlin-brandenburg-mit-uber-fur-neue-user-gultig-bis-31-dez-2026-bei-kartenzahlung-2781890",
-    "mydealz|https://www.mydealz.de/deals/mixoo-stylus-pen-fur-ipad-inkl-3-ersatzspitzen-apple-pencil-alternative-2781821"
+    "mydealz|https://www.mydealz.de/deals/mixoo-stylus-pen-fur-ipad-inkl-3-ersatzspitzen-apple-pencil-alternative-2781821",
+    "mydealz|https://www.mydealz.de/deals/nioh-3-steelbook-launch-edition-playstation-5-fur-4088eur-alza-2781847",
+    "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-prime-spar-aborossmann-2757325",
+    "mydealz|https://www.mydealz.de/deals/iscooter-e9tmax-500w-10ah-36v-akku-10-reifen-e-scooter-mit-strassenzulassung-abe-ekfv-40km-reichweite-20kmh-120kg-tragfahigkeit-2781881",
+    "mydealz|https://www.mydealz.de/deals/lg-gmv860epde-slim-multi-door-kuhlschrank-mit-instaview-530l-total-no-frost-smart-inverter-kompressor-eek-e-2781858",
+    "mydealz|https://www.mydealz.de/deals/lego-creator-3in1-roter-drache-31145-prime-2781741"
   ],
   "postedHistory": [
     {
