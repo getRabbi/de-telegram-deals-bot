@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/xiaomi-tv-stick-4k-2nd-gen-2773520",
     "mydealz|https://www.mydealz.de/deals/parmigiano-reggiano-bis-zu-15-rabatt-auf-ausgewahlte-reifegrade-2782436",
     "mydealz|https://www.mydealz.de/deals/exklusive-dm-cashback-aktion-von-nuk-kaufe-2-nuk-babyflaschen-bei-dm-und-bekomme-die-gunstigere-gratis-27-apr-30-juni-2026-2782435",
-    "mydealz|https://www.mydealz.de/deals/foxwell-gt60-obd2-automotivo-scanner-24-reset-abs-sas-tpms-reset-odb-2-obd2-scanner-bluetooth-alle-systemdiagnosetool-kfz-diagnosegerat-2764816"
+    "mydealz|https://www.mydealz.de/deals/foxwell-gt60-obd2-automotivo-scanner-24-reset-abs-sas-tpms-reset-odb-2-obd2-scanner-bluetooth-alle-systemdiagnosetool-kfz-diagnosegerat-2764816",
+    "mydealz|https://www.mydealz.de/deals/gratis-contour-next-blutzuckermesssystem-testen-inkl-messgerat-uber-ascensia-fur-diabetiker-2782548",
+    "rossmann|https://www.mydealz.de/deals/rossmann-10-coupon-gultig-bis-31082026-2782555",
+    "mydealz|https://www.mydealz.de/deals/roba-kinder-outdoor-garten-artikel-sonnenliege-kindersitzgruppe-und-doppelliege-amazon-sammeldeal-prime-2782480",
+    "mydealz|https://www.mydealz.de/deals/lego-technic-jeep-wrangler-rubicon-gelandewagen-modellbau-mit-v6-motor-lenkung-federung-ab-10-jahren-42227-2779072"
   ],
   "postedHistory": [
     {
