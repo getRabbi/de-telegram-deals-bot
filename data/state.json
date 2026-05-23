@@ -1,59 +1,12 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
-    "mydealz|https://www.mydealz.de/deals/vw-bank-festgeldsparbrief-30-pa-1-jahr-310-pa-2-3-jahre-neu-und-bestandskunden-2782474",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-tv-stick-4k-2nd-gen-2773520",
-    "mydealz|https://www.mydealz.de/deals/parmigiano-reggiano-bis-zu-15-rabatt-auf-ausgewahlte-reifegrade-2782436",
-    "mydealz|https://www.mydealz.de/deals/exklusive-dm-cashback-aktion-von-nuk-kaufe-2-nuk-babyflaschen-bei-dm-und-bekomme-die-gunstigere-gratis-27-apr-30-juni-2026-2782435",
-    "mydealz|https://www.mydealz.de/deals/foxwell-gt60-obd2-automotivo-scanner-24-reset-abs-sas-tpms-reset-odb-2-obd2-scanner-bluetooth-alle-systemdiagnosetool-kfz-diagnosegerat-2764816",
-    "mydealz|https://www.mydealz.de/deals/gratis-contour-next-blutzuckermesssystem-testen-inkl-messgerat-uber-ascensia-fur-diabetiker-2782548",
-    "rossmann|https://www.mydealz.de/deals/rossmann-10-coupon-gultig-bis-31082026-2782555",
-    "mydealz|https://www.mydealz.de/deals/roba-kinder-outdoor-garten-artikel-sonnenliege-kindersitzgruppe-und-doppelliege-amazon-sammeldeal-prime-2782480",
-    "mydealz|https://www.mydealz.de/deals/lego-technic-jeep-wrangler-rubicon-gelandewagen-modellbau-mit-v6-motor-lenkung-federung-ab-10-jahren-42227-2779072"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/john-carpenters-toxic-commando-ps5-oder-xbox-series-x-usk-version-enthalt-dlc-leons-secret-stash-mediamarktsaturn-vsk-frei-2775845",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reanimal-2999eur-nintendo-switch-2-playstation-5-ps5-xbox-series-x-pc-physisch-usk-version-amazon-mediamarkt-saturn-ebay-2777455",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neff-b54cr71g0-einbaubackofen-graphite-grey-71-l-a-pyrolyse-easyclean-slidehide-home-connect-air-fry3d-heissluft-2777469",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kindle-4-englische-kindle-ebooks-gratis-legal-thriller-mystic-romance-highland-romance-crime-thriller-siehe-cover-und-dealtext-2777297",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-schliessung-sconto-hanau-2777408",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-nq50t9939bd-infinite-line-kompakt-dampfbackofen-50-l-eek-a-dampfunterstutzung-250-c-wifismartthings-2777464",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/movie-park-26-euro-mit-dem-rabbat-jubi26mpg-2777521",
-      "ts": 1778970981255
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-silkland-8k-hdmi-21-kabel-2m-4k-at-144hz120hz-8k-at-60hz-earc-hdr10-dolby-atmos-48gbps-hdcp23-2777585",
-      "ts": 1778970981255
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-nixe-thunfisch-filets-verschiedene-sorten-2777547",
-      "ts": 1778970981255
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
       "ts": 1779057788113
@@ -397,6 +350,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-ps4-playstation-4-ps-store-874eur-oder-624eur-mit-ps-2781716",
       "ts": 1779490567585
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vw-bank-festgeldsparbrief-30-pa-1-jahr-310-pa-2-3-jahre-neu-und-bestandskunden-2782474",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-tv-stick-4k-2nd-gen-2773520",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parmigiano-reggiano-bis-zu-15-rabatt-auf-ausgewahlte-reifegrade-2782436",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/exklusive-dm-cashback-aktion-von-nuk-kaufe-2-nuk-babyflaschen-bei-dm-und-bekomme-die-gunstigere-gratis-27-apr-30-juni-2026-2782435",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/foxwell-gt60-obd2-automotivo-scanner-24-reset-abs-sas-tpms-reset-odb-2-obd2-scanner-bluetooth-alle-systemdiagnosetool-kfz-diagnosegerat-2764816",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-contour-next-blutzuckermesssystem-testen-inkl-messgerat-uber-ascensia-fur-diabetiker-2782548",
+      "ts": 1779576135346
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/rossmann-10-coupon-gultig-bis-31082026-2782555",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/roba-kinder-outdoor-garten-artikel-sonnenliege-kindersitzgruppe-und-doppelliege-amazon-sammeldeal-prime-2782480",
+      "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-technic-jeep-wrangler-rubicon-gelandewagen-modellbau-mit-v6-motor-lenkung-federung-ab-10-jahren-42227-2779072",
+      "ts": 1779576135346
     }
   ]
 }
