@@ -1,83 +1,12 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
-    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-intel-ultra-250kf-plus-rx-9070-16gb-16gb-ddr5-5600-1tb-ssd-b860-wifi-650w-gold-2782671",
-    "mydealz|https://www.mydealz.de/deals/tefal-ice-force-santoku-messer-18-cm-klinge-korrosionsschutz-handschutz-edelstahlschwarz-k23206-kochmesser-prime-2782711",
-    "mydealz|https://www.mydealz.de/deals/gratis-vasen-im-wert-von-63eur-bei-abschluss-eines-blumenabos-bei-freddies-flowers-wwwfreddiesflowersde-2782372",
-    "mydealz|https://www.mydealz.de/deals/lokal-witten-steak-doner-299eur-2782529",
-    "mydealz|https://www.mydealz.de/deals/solstice-bundle-ab-095eur-zb-world-racing-2-champion-edition-the-hong-kong-massacre-the-falconeer-uvm-fanatical-steam-deck-2782987",
-    "mydealz|https://www.mydealz.de/deals/mammut-ultimate-viii-so-hooded-jacket-men-in-l-2782992",
-    "mydealz|https://www.mydealz.de/deals/kreta-griechenland-7-nachte-im-4-hotel-16-mit-halbpension-flugen-gepack-transfers-ab-596eur-pp-sep-okt-2736684",
-    "mydealz|https://www.mydealz.de/deals/refurbed-laptop-14-lenovo-thinkpad-l14-gen3-win-11-amd-5675u-ab-16gb512gb-2782986",
-    "mydealz|https://www.mydealz.de/deals/muji-30-rabatt-auf-alles-aus-leinen-i-20-rabatt-auf-lounge-kissen-i-20-rabatt-auf-raumduft-beim-kauf-von-2-oder-mehr-artikeln-2782952"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/passengers-2017-4k-blu-ray-1644eur-blu-ray-797eur-chris-pratt-jennifer-lawrence-at-prime-2776629",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spartanien-cashback-30eur-fur-bitpanda-neukunden-2776744",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/goodyear-vector-4seasons-gen-3-22545-r17-94w-xl-ms-allwetterreifen-2777814",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bgs-6876-mini-druckluft-ausblaspistole-druckluftpistoleprime-2777838",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/silent-hill-townfall-inkl-steelbook-ps5-fur-4999eur-vorbestellen-mediamarktsaturn-2777714",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/funko-pop-bloody-pennywise-welcome-to-derry-it-amazon-prime-2777987",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nba-2k26-standard-edition-979-eur-humble-store-steam-2777925",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tonie-schlummerbande-schlummerjaguar-einschlafmelodien-aus-dem-schlummerdschungel-thalia-kultclub-2777970",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-gratis-oreo-oder-uludag-gazoz-2777809",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aoc-q27g4sru-27-zoll-wqhd-320-hz-1ms-ips-450-cdm2-hohenverstellbar-2776895",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ticket-parc-merveilleux-erw-statt-17-euro-nur-12-eur-kind-statt-13-eur-nur-8-eur-2756765",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-pritt-klebestift-sicherer-und-kinderfreundlicher-bastelkleber-10x43g-pritt-stift-2778237",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-eickhorn-epk-taschenmesser-deals-made-in-solingen-germany-mehrere-modelle-2778238",
-      "ts": 1779057788113
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bookbeat-2-freimonate-fur-neukunden-uber-empfehlungsprogramm-2771294",
-      "ts": 1779057788113
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2774616",
       "ts": 1779144524778
@@ -401,6 +330,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-technic-jeep-wrangler-rubicon-gelandewagen-modellbau-mit-v6-motor-lenkung-federung-ab-10-jahren-42227-2779072",
       "ts": 1779576135346
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-intel-ultra-250kf-plus-rx-9070-16gb-16gb-ddr5-5600-1tb-ssd-b860-wifi-650w-gold-2782671",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tefal-ice-force-santoku-messer-18-cm-klinge-korrosionsschutz-handschutz-edelstahlschwarz-k23206-kochmesser-prime-2782711",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-vasen-im-wert-von-63eur-bei-abschluss-eines-blumenabos-bei-freddies-flowers-wwwfreddiesflowersde-2782372",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-witten-steak-doner-299eur-2782529",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/solstice-bundle-ab-095eur-zb-world-racing-2-champion-edition-the-hong-kong-massacre-the-falconeer-uvm-fanatical-steam-deck-2782987",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mammut-ultimate-viii-so-hooded-jacket-men-in-l-2782992",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kreta-griechenland-7-nachte-im-4-hotel-16-mit-halbpension-flugen-gepack-transfers-ab-596eur-pp-sep-okt-2736684",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/refurbed-laptop-14-lenovo-thinkpad-l14-gen3-win-11-amd-5675u-ab-16gb512gb-2782986",
+      "ts": 1779662813944
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muji-30-rabatt-auf-alles-aus-leinen-i-20-rabatt-auf-lounge-kissen-i-20-rabatt-auf-raumduft-beim-kauf-von-2-oder-mehr-artikeln-2782952",
+      "ts": 1779662813944
     }
   ]
 }
