@@ -1,11 +1,18 @@
 {
   "date": "2026-05-24",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
+    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-intel-ultra-250kf-plus-rx-9070-16gb-16gb-ddr5-5600-1tb-ssd-b860-wifi-650w-gold-2782671",
+    "mydealz|https://www.mydealz.de/deals/tefal-ice-force-santoku-messer-18-cm-klinge-korrosionsschutz-handschutz-edelstahlschwarz-k23206-kochmesser-prime-2782711",
+    "mydealz|https://www.mydealz.de/deals/gratis-vasen-im-wert-von-63eur-bei-abschluss-eines-blumenabos-bei-freddies-flowers-wwwfreddiesflowersde-2782372",
+    "mydealz|https://www.mydealz.de/deals/lokal-witten-steak-doner-299eur-2782529",
+    "mydealz|https://www.mydealz.de/deals/solstice-bundle-ab-095eur-zb-world-racing-2-champion-edition-the-hong-kong-massacre-the-falconeer-uvm-fanatical-steam-deck-2782987"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-brathering-interruptus-wodka-uber-londoner-eis-die-ratten-von-frankfurt-humor-thriller-dystopie-ebook-gratis-2777577",
