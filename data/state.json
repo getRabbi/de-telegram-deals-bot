@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/original-einhell-bandmass-5-m-autolock-nylonbeschichtung-magnet-endhaken-doppelseitige-skalierung-stossfestes-gehause-primeobi-abholung-2782990",
+    "mydealz|https://www.mydealz.de/deals/foundation-2279-eur-statt-3399-eur-33-drm-frei-bei-gog-2741132",
+    "mydealz|https://www.mydealz.de/deals/cyberpunk-2077-ultimate-16eur-gog-vpn-moldova-2764574",
+    "mydealz|https://www.mydealz.de/deals/dreame-a1-pro-mit-garage-2783026"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2774616",
