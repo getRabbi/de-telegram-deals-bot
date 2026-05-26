@@ -1,123 +1,12 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/2-nachte-fur-2-personen-inkl-fruhstuck-20eur-netto-filialgutschein-zb-munchen-berlin-frankfurt-oberhof-bayerischer-wald-9998eur-2783078",
-    "mydealz|https://www.mydealz.de/gutscheine/lieferando-bestandskunden-10eur-gutschein-20eur-mbw-2783096",
-    "mydealz|https://www.mydealz.de/deals/hsn-evohydro-20-hydro-whey-blitzangebot-2783226",
-    "mydealz|https://www.mydealz.de/deals/smallrig-71-kamera-stativ-faltbares-aluminium-stativ-einbeinstativ-nutzlast-15kg-33lb-71in180cm-2783128",
-    "mydealz|https://www.mydealz.de/deals/prime-songmics-abtropfgestell-geschirr-ausziehbar-360-drehbarer-und-ausziehbarer-ablauf-stahl-302-465-x-296-x-14-cm-2783115",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-lego-city-go-karts-mit-rennfahrern-set-mit-2-rennfahrer-minifiguren-und-rennautos-auto-spielzeug-ab-5-jahren-2783170"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2774616",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hyte-y40-white-pc-gehause-hyte-q60-thicc-240mm-wasserkuhlung-mit-5-ips-display-2777242",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/4x-otto-home-bettwaschen-sets-135-cm-x-200-cm-80-cm-x-80-cm-weiss-fur-3889-eur-100-baumwolle-2778145",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-ks-tools-9072220-klappmesser-mit-arretierung-2778330",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/haribo-fruchtgummi-verschiedene-sorten-750-875g-mit-netto-app-349eur-ohne-netto-app-399eur-2778218",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/meisterhaft-laden-35-titel-35-centkwh-vom-18-27052026-an-allen-bayerischen-audi-charging-hubs-2778371",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-gasgrill-napoleon-phantom-freestyle-pro-2778563",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/beutelloser-staubsauger-mit-staubbox-philips-powerpro-active-fc955509-2778581",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-philips-sonicare-3100-elektrische-zahnburste-schallzahnburste-andruckkontrolle-und-timer-weiss-2er-pack-modell-hx367513-2778190",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/foursun-55l-kompressor-kuhlbox-mit-gefrierfunktion-fur-auto-camping-nur-13319eur-statt-14919eur-mit-code-2778355",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10l-bio-leinol-fur-pferde-fur-3580-eur-inkl-versand-2779031",
-      "ts": 1779144524778
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/imperial-dabman-d105-radio-dab-fm-bluetooth-2732810",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-dell-latitude-tablet-7320-detachable-lte-diverse-zustande-zb-a-ware-esim-i7-1180g7-16gb-512gb-13-de-fp-win11-2779054",
-      "ts": 1779228384890
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-coca-cola-fanta-18-x-330-ml-2779096",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-bundesweit-nur-noch-diese-woche-landliebe-jogurt-500g-glas-111-eur-statt-2249-eur-015-eur-pfand-2779389",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-staedtler-noris-colour-buntstift-wopex-material-bonus-set-mit-24-brillanten-stiften-im-kartonetui-2779359",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lets-sing-2026-mit-deutschen-hits-ps5-nintendo-switch-amazon-prime-mediamarktsaturn-abholung-2779342",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dfb-deutschland-lizenz-trikot-2-fur-damen-oder-herren-2779374",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/acer-easy-fit-wireless-maus-4000-dpi-6-tasten-rgb-usbc-24-ghz-funk-usbananoempfanger-plug-play-alza-paketshop-lieferung-2779381",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ktc-h27t7p-2-gaming-monitor-27-25601440-qhd-210-hz-99srgb-upgrade-vom-ktc-h27t22-2778847",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrschrauber-ar-2380-18v-mit-2ah-akku-nur-lokal-in-poco-filialen-nicht-online-ca-18-v-2779890",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gerade-e-mail-push-bekommen-huawei-fit-5-bundle-freebuds-se-4-jetzt-fur-nur-189eur-2779369",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deutschland-banner-wm-083-x-5-meter-fur-170eur-zb-als-sichtschutz-balkon-zaun-11x-knicklicht-leuchten-fur-014eur-einmalig-594eur-vsk-2779913",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gigabyte-mo32u2-32-qd-oled-4k-240hz-599eur-bei-alternate-2779352",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rosalia-lux-vinyl-2778533",
-      "ts": 1779228384890
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dewalt-gehorschutz-mit-fm-radio-fur-3090-eur-inkl-versand-statt-ca-5550-eur-2779316",
-      "ts": 1779228384890
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-air-bumper-alle-farbe-b-ware-zustand-a-wie-neu-2780186",
       "ts": 1779318264081
@@ -393,6 +282,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/dreame-a1-pro-mit-garage-2783026",
       "ts": 1779746506485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2-nachte-fur-2-personen-inkl-fruhstuck-20eur-netto-filialgutschein-zb-munchen-berlin-frankfurt-oberhof-bayerischer-wald-9998eur-2783078",
+      "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/lieferando-bestandskunden-10eur-gutschein-20eur-mbw-2783096",
+      "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hsn-evohydro-20-hydro-whey-blitzangebot-2783226",
+      "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/smallrig-71-kamera-stativ-faltbares-aluminium-stativ-einbeinstativ-nutzlast-15kg-33lb-71in180cm-2783128",
+      "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-songmics-abtropfgestell-geschirr-ausziehbar-360-drehbarer-und-ausziehbarer-ablauf-stahl-302-465-x-296-x-14-cm-2783115",
+      "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-lego-city-go-karts-mit-rennfahrern-set-mit-2-rennfahrer-minifiguren-und-rennautos-auto-spielzeug-ab-5-jahren-2783170",
+      "ts": 1779836450518
     }
   ]
 }
