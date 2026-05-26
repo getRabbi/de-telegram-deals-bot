@@ -1,11 +1,18 @@
 {
   "date": "2026-05-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/2-nachte-fur-2-personen-inkl-fruhstuck-20eur-netto-filialgutschein-zb-munchen-berlin-frankfurt-oberhof-bayerischer-wald-9998eur-2783078",
+    "mydealz|https://www.mydealz.de/gutscheine/lieferando-bestandskunden-10eur-gutschein-20eur-mbw-2783096",
+    "mydealz|https://www.mydealz.de/deals/hsn-evohydro-20-hydro-whey-blitzangebot-2783226",
+    "mydealz|https://www.mydealz.de/deals/smallrig-71-kamera-stativ-faltbares-aluminium-stativ-einbeinstativ-nutzlast-15kg-33lb-71in180cm-2783128",
+    "mydealz|https://www.mydealz.de/deals/prime-songmics-abtropfgestell-geschirr-ausziehbar-360-drehbarer-und-ausziehbarer-ablauf-stahl-302-465-x-296-x-14-cm-2783115",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-lego-city-go-karts-mit-rennfahrern-set-mit-2-rennfahrer-minifiguren-und-rennautos-auto-spielzeug-ab-5-jahren-2783170"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/landlust-abo-6-ausgaben-fur-1770-eur-2774616",
