@@ -1,84 +1,12 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "slots": {
-    "morning": true,
-    "noon": true,
+    "morning": false,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/blitzwill-bwl-fl5-12w-led-stehlampe-1000lm-einstellbar-27006500k-cct-dimmbar-speicherfunktion-magnetische-fernbedienung-eu-stecker-2783427",
-    "mydealz|https://www.mydealz.de/deals/24mx-xlmoto-rennzelt-pavillon-mit-und-ohne-wande-festival-motorrad-2783441",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-munzshop-geeetech-petg-2kg-fur-1075eur-1kg-538eur-2783430",
-    "mydealz|https://www.mydealz.de/deals/ml2u-139-ml2u-126-watch-face-wearos-watchfacegoogle-play-store-2783447",
-    "mydealz|https://www.mydealz.de/deals/trollkids-matschhose-odda-im-sale-limango-family-2783445",
-    "mydealz|https://www.mydealz.de/deals/citizen-promaster-sky-herren-funkuhr-saphirglas-at8304-57w-fur-35996eur-ebay-2783428",
-    "mydealz|https://www.mydealz.de/deals/costa-kreuzfahrten-summer-sales-bis-zu-300eur-rabatt-zb-mittelmeer-nordeuropa-ab-599eur-pp-kinder-kostenlos-alleinreisende-ab-599eur-2783597",
-    "mydealz|https://www.mydealz.de/deals/paypal-freundinnen-einladen-10eur-cashback-1000p-fur-dich-10eur-fur-deine-freundinnen-bei-5eur-umsatz-bis-zu-100eur-moglich-personalisiert-2783589",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-moonstone-island-zum-bestpreis-fur-nintendo-switch-1-2-metacritic-80-76-pol-749-zaf-766eur-2757882",
-    "mydealz|https://www.mydealz.de/deals/proxxon-bohrstander-micromot-bfb-2000-arbeitshohe-max-65mm-fur-alle-bohrmaschinen-mit-43-mm-spindelhals-2783471",
-    "mydealz|https://www.mydealz.de/deals/denimfy-brand-shirts-ab-749-eur-gratis-versand-t-shirts-badehosen-socken-etc-2783508"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-air-bumper-alle-farbe-b-ware-zustand-a-wie-neu-2780186",
-      "ts": 1779318264081
-    },
-    {
-      "key": "rewe|https://www.mydealz.de/deals/rewe-ritter-sport-bunte-vielfalt-099-eur-010-rewe-bonus-2780201",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-estilo-sofasteckdose-2xusb-1xflachstecker-2780108",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-plus-md-h-milch-35-2780127",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-thalia-apple-ein-erlesener-mord-ein-toskanischer-weingarten-cozy-krimi-horbuch-ebook-abgeschlossener-fall-2780462",
-      "ts": 1779318264081
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/persil-gel-pulver-discs-2105-bis-2305-bei-lidl-2780229",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eterna-insolvenzausverkauf-lokal-je-hemdbluse-25eur-bundesweit-2780277",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-pro-qcm1250-intel-core-ultra-7-265t-16-gb-ddr5-sdram-512-gb-ssd-windows-11-pro-micro-pc-mini-pc-schwarz-2780457",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/alina-cosmetics-montblanc-explorer-eau-de-parfum-geschenkset-60ml-eau-de-parfum-100ml-duschgel-fur-3316-eur-inkl-gratisversand-2765090",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aboheld-6-hefte-spiegel-stern-auto-motor-sport-horzu-gala-oder-brigitte-fur-795eur-ohne-kundigung-oder-bankdaten-2748042",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/arcteryx-rush-bib-3-l-gore-tex-pants-women-wassersaule-28000-mm-2780897",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msc-last-minute-angebote-7-nachte-mittelmeer-kreuzfahrt-ab-361eur-pp-7n-alaska-ab-523eur-7n-nordeuropa-697eur-vollpension-apr-jun-2780994",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/deuter-durascent-4210-sl-glaciergraphite-wasserdichter-trekkingrucksack-2780980",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/goliath-die-verrater-vertraue-niemandem-gesellschaftsspiele-fur-4-6-spieler-prime-2739728",
-      "ts": 1779318264081
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ok-ord-101btb3-tragbares-dabukwdigitalradio-mit-bluetooth-weckfunktion-mono-schwarz-versandkostenfrei-mediamarktsaturn-2780943",
-      "ts": 1779318264081
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-lieferando-x-mediamarkt-sony-inzone-h3-gaming-headset-effektiv-28eur-360-spatial-sound-fur-spiele-pcplaystation5-gratisartikel-2781054",
       "ts": 1779401472178
@@ -318,6 +246,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-lego-city-go-karts-mit-rennfahrern-set-mit-2-rennfahrer-minifiguren-und-rennautos-auto-spielzeug-ab-5-jahren-2783170",
       "ts": 1779836450518
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/blitzwill-bwl-fl5-12w-led-stehlampe-1000lm-einstellbar-27006500k-cct-dimmbar-speicherfunktion-magnetische-fernbedienung-eu-stecker-2783427",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/24mx-xlmoto-rennzelt-pavillon-mit-und-ohne-wande-festival-motorrad-2783441",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-munzshop-geeetech-petg-2kg-fur-1075eur-1kg-538eur-2783430",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ml2u-139-ml2u-126-watch-face-wearos-watchfacegoogle-play-store-2783447",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trollkids-matschhose-odda-im-sale-limango-family-2783445",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/citizen-promaster-sky-herren-funkuhr-saphirglas-at8304-57w-fur-35996eur-ebay-2783428",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/costa-kreuzfahrten-summer-sales-bis-zu-300eur-rabatt-zb-mittelmeer-nordeuropa-ab-599eur-pp-kinder-kostenlos-alleinreisende-ab-599eur-2783597",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/paypal-freundinnen-einladen-10eur-cashback-1000p-fur-dich-10eur-fur-deine-freundinnen-bei-5eur-umsatz-bis-zu-100eur-moglich-personalisiert-2783589",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-moonstone-island-zum-bestpreis-fur-nintendo-switch-1-2-metacritic-80-76-pol-749-zaf-766eur-2757882",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/proxxon-bohrstander-micromot-bfb-2000-arbeitshohe-max-65mm-fur-alle-bohrmaschinen-mit-43-mm-spindelhals-2783471",
+      "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/denimfy-brand-shirts-ab-749-eur-gratis-versand-t-shirts-badehosen-socken-etc-2783508",
+      "ts": 1779923761059
     }
   ]
 }
