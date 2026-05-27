@@ -2,7 +2,7 @@
   "date": "2026-05-27",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/aliexpress-munzshop-geeetech-petg-2kg-fur-1075eur-1kg-538eur-2783430",
     "mydealz|https://www.mydealz.de/deals/ml2u-139-ml2u-126-watch-face-wearos-watchfacegoogle-play-store-2783447",
     "mydealz|https://www.mydealz.de/deals/trollkids-matschhose-odda-im-sale-limango-family-2783445",
-    "mydealz|https://www.mydealz.de/deals/citizen-promaster-sky-herren-funkuhr-saphirglas-at8304-57w-fur-35996eur-ebay-2783428"
+    "mydealz|https://www.mydealz.de/deals/citizen-promaster-sky-herren-funkuhr-saphirglas-at8304-57w-fur-35996eur-ebay-2783428",
+    "mydealz|https://www.mydealz.de/deals/costa-kreuzfahrten-summer-sales-bis-zu-300eur-rabatt-zb-mittelmeer-nordeuropa-ab-599eur-pp-kinder-kostenlos-alleinreisende-ab-599eur-2783597",
+    "mydealz|https://www.mydealz.de/deals/paypal-freundinnen-einladen-10eur-cashback-1000p-fur-dich-10eur-fur-deine-freundinnen-bei-5eur-umsatz-bis-zu-100eur-moglich-personalisiert-2783589",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-moonstone-island-zum-bestpreis-fur-nintendo-switch-1-2-metacritic-80-76-pol-749-zaf-766eur-2757882",
+    "mydealz|https://www.mydealz.de/deals/proxxon-bohrstander-micromot-bfb-2000-arbeitshohe-max-65mm-fur-alle-bohrmaschinen-mit-43-mm-spindelhals-2783471",
+    "mydealz|https://www.mydealz.de/deals/denimfy-brand-shirts-ab-749-eur-gratis-versand-t-shirts-badehosen-socken-etc-2783508"
   ],
   "postedHistory": [
     {
