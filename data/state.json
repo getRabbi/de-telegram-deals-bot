@@ -1,11 +1,18 @@
 {
   "date": "2026-05-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/blitzwill-bwl-fl5-12w-led-stehlampe-1000lm-einstellbar-27006500k-cct-dimmbar-speicherfunktion-magnetische-fernbedienung-eu-stecker-2783427",
+    "mydealz|https://www.mydealz.de/deals/24mx-xlmoto-rennzelt-pavillon-mit-und-ohne-wande-festival-motorrad-2783441",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-munzshop-geeetech-petg-2kg-fur-1075eur-1kg-538eur-2783430",
+    "mydealz|https://www.mydealz.de/deals/ml2u-139-ml2u-126-watch-face-wearos-watchfacegoogle-play-store-2783447",
+    "mydealz|https://www.mydealz.de/deals/trollkids-matschhose-odda-im-sale-limango-family-2783445",
+    "mydealz|https://www.mydealz.de/deals/citizen-promaster-sky-herren-funkuhr-saphirglas-at8304-57w-fur-35996eur-ebay-2783428"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-air-bumper-alle-farbe-b-ware-zustand-a-wie-neu-2780186",
