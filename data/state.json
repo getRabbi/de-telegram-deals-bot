@@ -1,11 +1,18 @@
 {
   "date": "2026-05-28",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/meridol-zahnfleischschutz-mundspulung-4x400ml-versandkostenfrei-fur-prime-2783615",
+    "mydealz|https://www.mydealz.de/deals/saugroboter-dreame-l40-ultra-a-bestpreis-bodenwischer-24000-pa-automatische-staubentleerung-anti-verknotung-2783732",
+    "mydealz|https://www.mydealz.de/deals/gardena-akku-rasenmaher-handymower-2218v-p4a-akku-starter-set-kostenlos-2783470",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-watch-11-300eur-bonus-tankrabatt-mit-freenet-allnetsms-flat-unlimited-5g-schweiz-roaming-fur-2995eurmonat-2995eur-2783695",
+    "mydealz|https://www.mydealz.de/deals/cooler-master-ga2711-27-wqhd-2560x1440-ips-1ms-100hz-2784006",
+    "mydealz|https://www.mydealz.de/deals/prime-mattel-games-uno-platin-edition-kartenspiel-2775353"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-lieferando-x-mediamarkt-sony-inzone-h3-gaming-headset-effektiv-28eur-360-spatial-sound-fur-spiele-pcplaystation5-gratisartikel-2781054",
