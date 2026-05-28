@@ -2,7 +2,7 @@
   "date": "2026-05-28",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gardena-akku-rasenmaher-handymower-2218v-p4a-akku-starter-set-kostenlos-2783470",
     "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-watch-11-300eur-bonus-tankrabatt-mit-freenet-allnetsms-flat-unlimited-5g-schweiz-roaming-fur-2995eurmonat-2995eur-2783695",
     "mydealz|https://www.mydealz.de/deals/cooler-master-ga2711-27-wqhd-2560x1440-ips-1ms-100hz-2784006",
-    "mydealz|https://www.mydealz.de/deals/prime-mattel-games-uno-platin-edition-kartenspiel-2775353"
+    "mydealz|https://www.mydealz.de/deals/prime-mattel-games-uno-platin-edition-kartenspiel-2775353",
+    "mydealz|https://www.mydealz.de/deals/motorrad-touren-reifen-hinterrad-18055zr17-73-w-continental-contiroadattack-4-2783867",
+    "mydealz|https://www.mydealz.de/deals/kaufland-xtra-ben-jerrys-eis-verschiedene-sorten-2783818",
+    "mydealz|https://www.mydealz.de/deals/sportinator-3-zonen-massageliege-fur-5264eur-inklusive-versand-2783831",
+    "mydealz|https://www.mydealz.de/deals/dyson-am07-air-multiplier-rotorfreier-turmventilator-in-silber-fur-189eur-statt-262eur-neu-refurbished-mit-garantie-2783830",
+    "mydealz|https://www.mydealz.de/deals/forza-horizon-6-standard-edition-xbox-series-xs-pc-l-xbox-live-key-2784105"
   ],
   "postedHistory": [
     {
