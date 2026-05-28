@@ -1,84 +1,12 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "slots": {
-    "morning": true,
-    "noon": true,
+    "morning": false,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/meridol-zahnfleischschutz-mundspulung-4x400ml-versandkostenfrei-fur-prime-2783615",
-    "mydealz|https://www.mydealz.de/deals/saugroboter-dreame-l40-ultra-a-bestpreis-bodenwischer-24000-pa-automatische-staubentleerung-anti-verknotung-2783732",
-    "mydealz|https://www.mydealz.de/deals/gardena-akku-rasenmaher-handymower-2218v-p4a-akku-starter-set-kostenlos-2783470",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-watch-11-300eur-bonus-tankrabatt-mit-freenet-allnetsms-flat-unlimited-5g-schweiz-roaming-fur-2995eurmonat-2995eur-2783695",
-    "mydealz|https://www.mydealz.de/deals/cooler-master-ga2711-27-wqhd-2560x1440-ips-1ms-100hz-2784006",
-    "mydealz|https://www.mydealz.de/deals/prime-mattel-games-uno-platin-edition-kartenspiel-2775353",
-    "mydealz|https://www.mydealz.de/deals/motorrad-touren-reifen-hinterrad-18055zr17-73-w-continental-contiroadattack-4-2783867",
-    "mydealz|https://www.mydealz.de/deals/kaufland-xtra-ben-jerrys-eis-verschiedene-sorten-2783818",
-    "mydealz|https://www.mydealz.de/deals/sportinator-3-zonen-massageliege-fur-5264eur-inklusive-versand-2783831",
-    "mydealz|https://www.mydealz.de/deals/dyson-am07-air-multiplier-rotorfreier-turmventilator-in-silber-fur-189eur-statt-262eur-neu-refurbished-mit-garantie-2783830",
-    "mydealz|https://www.mydealz.de/deals/forza-horizon-6-standard-edition-xbox-series-xs-pc-l-xbox-live-key-2784105"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-lieferando-x-mediamarkt-sony-inzone-h3-gaming-headset-effektiv-28eur-360-spatial-sound-fur-spiele-pcplaystation5-gratisartikel-2781054",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-faber-castell-castle-buntstifte-set-60-farben-2781066",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ecooter-e2s-e-roller-45-kmh-deal-des-monats-tcs-testsieder-2781086",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/i-am-jesus-christ-1124eur-einfuhrungsrabatt-oster-angebot-simulation-steam-2758356",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/navimow-i2-lidar-pro-mahroboter-mit-navimow-garage-m-2781361",
-      "ts": 1779401472178
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/norwegisches-lachsfilet-mit-haut-kilo-kg1599-eur-8-x-125-g-lidl-offline-2781354",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/weihenstephan-butter-099-eur-250-gramm-uber-edeka-app-edeka-offline-2781368",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sony-xr-65a84l-bravia-oled-tv-65-zoll-164-cm-4k-uhd-45-topcashback-effektiv-957-expert-melle-oder-idealo-link-2781326",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-md-netto-plus-app-gratis-haribo-pico-balla-sortiert-160g-2781215",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pepsi-verschiedene-sorten-125l-fur-69-cent-2781308",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/le-creuset-kone-wasserkessel-mit-pfeife-emaillierter-stahl-16-l-shell-pink-2781423",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/montblanc-rollerball-sehr-gute-angebote-2781428",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/speisekartoffeln-de-kg067-eur-5-kilogramm-kg-sack-netto-md-offline-deutschland-ver-schiedene-koch-eigenschaften-5-kg-sack-067kg-2781390",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/silent-hunter-2-2001-pc-gog-2781271",
-      "ts": 1779401472178
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/animal-crossing-new-horizons-happy-home-paradise-dlc-bundle-nintendo-switch-us-eshop-code-digital-at-walmart-2781274",
-      "ts": 1779401472178
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/smartbroker-depot-eroffnen-5-trades-ausfuhren-und-einen-anteilswert-des-msci-world-etf-im-wert-von-80-eur-erhalten-2781503",
       "ts": 1779490567585
@@ -302,6 +230,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/denimfy-brand-shirts-ab-749-eur-gratis-versand-t-shirts-badehosen-socken-etc-2783508",
       "ts": 1779923761059
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/meridol-zahnfleischschutz-mundspulung-4x400ml-versandkostenfrei-fur-prime-2783615",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/saugroboter-dreame-l40-ultra-a-bestpreis-bodenwischer-24000-pa-automatische-staubentleerung-anti-verknotung-2783732",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-akku-rasenmaher-handymower-2218v-p4a-akku-starter-set-kostenlos-2783470",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-apple-watch-11-300eur-bonus-tankrabatt-mit-freenet-allnetsms-flat-unlimited-5g-schweiz-roaming-fur-2995eurmonat-2995eur-2783695",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cooler-master-ga2711-27-wqhd-2560x1440-ips-1ms-100hz-2784006",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-mattel-games-uno-platin-edition-kartenspiel-2775353",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/motorrad-touren-reifen-hinterrad-18055zr17-73-w-continental-contiroadattack-4-2783867",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-xtra-ben-jerrys-eis-verschiedene-sorten-2783818",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sportinator-3-zonen-massageliege-fur-5264eur-inklusive-versand-2783831",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dyson-am07-air-multiplier-rotorfreier-turmventilator-in-silber-fur-189eur-statt-262eur-neu-refurbished-mit-garantie-2783830",
+      "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/forza-horizon-6-standard-edition-xbox-series-xs-pc-l-xbox-live-key-2784105",
+      "ts": 1780007187041
     }
   ]
 }
