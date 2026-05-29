@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
+    "mydealz|https://www.mydealz.de/deals/hongda-magisches-huoluo-schloss-diy-miniaturhaus-aus-holz-inkl-beleuchtung-kleber-holzleim-werkzeug-enthalten-alibaba-neukunden-2784097",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-dating-wahnsinn-in-fackenreuth-fackenreuth-krimi-8-ebook-abgeschlossener-fall-41910-bewertungen-2784098",
+    "mydealz|https://www.mydealz.de/deals/magentatv-euroleague-final-four-2026-gratis-ohne-login-streamen-halbfinals-finale-2784063"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/smartbroker-depot-eroffnen-5-trades-ausfuhren-und-einen-anteilswert-des-msci-world-etf-im-wert-von-80-eur-erhalten-2781503",
