@@ -1,77 +1,12 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
-    "mydealz|https://www.mydealz.de/deals/hongda-magisches-huoluo-schloss-diy-miniaturhaus-aus-holz-inkl-beleuchtung-kleber-holzleim-werkzeug-enthalten-alibaba-neukunden-2784097",
-    "mydealz|https://www.mydealz.de/deals/amazon-kindle-dating-wahnsinn-in-fackenreuth-fackenreuth-krimi-8-ebook-abgeschlossener-fall-41910-bewertungen-2784098",
-    "mydealz|https://www.mydealz.de/deals/magentatv-euroleague-final-four-2026-gratis-ohne-login-streamen-halbfinals-finale-2784063"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/smartbroker-depot-eroffnen-5-trades-ausfuhren-und-einen-anteilswert-des-msci-world-etf-im-wert-von-80-eur-erhalten-2781503",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zeller-buchenholzkiste-stapelbar-lackiert-40-x-30-x-21cm-2-stuck-ohne-porto-3798-euro-2781486",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/belkin-boostcharge-2-in-1-induktive-ladestation-mit-qi2-15w-magsafe-kompatibles-ladegerat-kabellose-kompakte-verstellbare-fur-prime-2780952",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/arena-the-one-anti-fog-schwimmbrille-unisex-fur-erwachsene-schwimmbrille-mit-breiten-glasern-uv-schutz-ab-1099eur-at-prime-2781436",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/bis-zu-60-rabatt-max-28-eur-vom-flughafen-berlin-brandenburg-mit-uber-fur-neue-user-gultig-bis-31-dez-2026-bei-kartenzahlung-2781890",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mixoo-stylus-pen-fur-ipad-inkl-3-ersatzspitzen-apple-pencil-alternative-2781821",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nioh-3-steelbook-launch-edition-playstation-5-fur-4088eur-alza-2781847",
-      "ts": 1779490567585
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-prime-spar-aborossmann-2757325",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/iscooter-e9tmax-500w-10ah-36v-akku-10-reifen-e-scooter-mit-strassenzulassung-abe-ekfv-40km-reichweite-20kmh-120kg-tragfahigkeit-2781881",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-gmv860epde-slim-multi-door-kuhlschrank-mit-instaview-530l-total-no-frost-smart-inverter-kompressor-eek-e-2781858",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-creator-3in1-roter-drache-31145-prime-2781741",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ariel-waschmittel-pods-all-in-1-flussigwaschmittel-kapseln-fur-100-waschladungen-universal-2781992",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vileda-175775-h2pro-flat-mop-bodenwischer-1st-2781979",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/oukitel-p800e-tragbare-powerstation-800w-512wh-lifepo4-eff-119eur-moglich-shoop-20-2782010",
-      "ts": 1779490567585
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-ps4-playstation-4-ps-store-874eur-oder-624eur-mit-ps-2781716",
-      "ts": 1779490567585
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
       "ts": 1779576135346
@@ -279,6 +214,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/forza-horizon-6-standard-edition-xbox-series-xs-pc-l-xbox-live-key-2784105",
       "ts": 1780007187041
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
+      "ts": 1780095780629
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hongda-magisches-huoluo-schloss-diy-miniaturhaus-aus-holz-inkl-beleuchtung-kleber-holzleim-werkzeug-enthalten-alibaba-neukunden-2784097",
+      "ts": 1780095780629
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-dating-wahnsinn-in-fackenreuth-fackenreuth-krimi-8-ebook-abgeschlossener-fall-41910-bewertungen-2784098",
+      "ts": 1780095780629
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/magentatv-euroleague-final-four-2026-gratis-ohne-login-streamen-halbfinals-finale-2784063",
+      "ts": 1780095780629
     }
   ]
 }
