@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/27-samsung-odyssey-g5-g53f-wqhd-2560-x-1440-200-hz-ips-1ms-300-cdm2-schwarz-2784129",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/kinder-cards-5er-pack-5-x-2-kekswaffeln-insgesamt-128g-spar-abo-prime-2784222",
     "mydealz|https://www.mydealz.de/deals/hisense-rb327n4add-kuhl-gefrier-kombination-eek-d-total-nofrost-amazon-2784226",
     "lidl|https://www.mydealz.de/deals/bei-lidl-fur-027-cent-schnellladen-2784416",
-    "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364"
+    "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364",
+    "mydealz|https://www.mydealz.de/deals/norco-ottawa-satteltasche-2784380",
+    "mydealz|https://www.mydealz.de/deals/toom-lokal-midea-portasplit-35-kw-12000-btu-mobile-split-klimaanlage-selbstabholer-2784392",
+    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-pro-controller-resident-evil-requiem-lieferung-in-den-dhl-paketshop-fur-099-eur-2784389",
+    "mydealz|https://www.mydealz.de/deals/bestsecret-adidas-duramo-10-laufschuh-41-13-46-23-und-viele-weitere-artikel-mit-20-extra-rabatt-2784390"
   ],
   "postedHistory": [
     {
