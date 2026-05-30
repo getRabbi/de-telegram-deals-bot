@@ -1,11 +1,18 @@
 {
   "date": "2026-05-30",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/27-samsung-odyssey-g5-g53f-wqhd-2560-x-1440-200-hz-ips-1ms-300-cdm2-schwarz-2784129",
+    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-skyline-bucket-angler-hut-mutze-fur-2189-eur-2784231",
+    "mydealz|https://www.mydealz.de/deals/kinder-cards-5er-pack-5-x-2-kekswaffeln-insgesamt-128g-spar-abo-prime-2784222",
+    "mydealz|https://www.mydealz.de/deals/hisense-rb327n4add-kuhl-gefrier-kombination-eek-d-total-nofrost-amazon-2784226",
+    "lidl|https://www.mydealz.de/deals/bei-lidl-fur-027-cent-schnellladen-2784416",
+    "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
