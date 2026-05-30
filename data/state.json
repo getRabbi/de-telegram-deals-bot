@@ -1,63 +1,12 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/27-samsung-odyssey-g5-g53f-wqhd-2560-x-1440-200-hz-ips-1ms-300-cdm2-schwarz-2784129",
-    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-skyline-bucket-angler-hut-mutze-fur-2189-eur-2784231",
-    "mydealz|https://www.mydealz.de/deals/kinder-cards-5er-pack-5-x-2-kekswaffeln-insgesamt-128g-spar-abo-prime-2784222",
-    "mydealz|https://www.mydealz.de/deals/hisense-rb327n4add-kuhl-gefrier-kombination-eek-d-total-nofrost-amazon-2784226",
-    "lidl|https://www.mydealz.de/deals/bei-lidl-fur-027-cent-schnellladen-2784416",
-    "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364",
-    "mydealz|https://www.mydealz.de/deals/norco-ottawa-satteltasche-2784380",
-    "mydealz|https://www.mydealz.de/deals/toom-lokal-midea-portasplit-35-kw-12000-btu-mobile-split-klimaanlage-selbstabholer-2784392",
-    "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-pro-controller-resident-evil-requiem-lieferung-in-den-dhl-paketshop-fur-099-eur-2784389",
-    "mydealz|https://www.mydealz.de/deals/bestsecret-adidas-duramo-10-laufschuh-41-13-46-23-und-viele-weitere-artikel-mit-20-extra-rabatt-2784390"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/iphone-17-neu-0-ladezyklen-aber-aktiviert-differenzbesteuert-indisches-gerat-mit-shoop-67989-eur-2782465",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vw-bank-festgeldsparbrief-30-pa-1-jahr-310-pa-2-3-jahre-neu-und-bestandskunden-2782474",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-tv-stick-4k-2nd-gen-2773520",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/parmigiano-reggiano-bis-zu-15-rabatt-auf-ausgewahlte-reifegrade-2782436",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/exklusive-dm-cashback-aktion-von-nuk-kaufe-2-nuk-babyflaschen-bei-dm-und-bekomme-die-gunstigere-gratis-27-apr-30-juni-2026-2782435",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/foxwell-gt60-obd2-automotivo-scanner-24-reset-abs-sas-tpms-reset-odb-2-obd2-scanner-bluetooth-alle-systemdiagnosetool-kfz-diagnosegerat-2764816",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-contour-next-blutzuckermesssystem-testen-inkl-messgerat-uber-ascensia-fur-diabetiker-2782548",
-      "ts": 1779576135346
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/rossmann-10-coupon-gultig-bis-31082026-2782555",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/roba-kinder-outdoor-garten-artikel-sonnenliege-kindersitzgruppe-und-doppelliege-amazon-sammeldeal-prime-2782480",
-      "ts": 1779576135346
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-technic-jeep-wrangler-rubicon-gelandewagen-modellbau-mit-v6-motor-lenkung-federung-ab-10-jahren-42227-2779072",
-      "ts": 1779576135346
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
       "ts": 1779662813944
@@ -241,6 +190,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/magentatv-euroleague-final-four-2026-gratis-ohne-login-streamen-halbfinals-finale-2784063",
       "ts": 1780095780629
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/27-samsung-odyssey-g5-g53f-wqhd-2560-x-1440-200-hz-ips-1ms-300-cdm2-schwarz-2784129",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-skyline-bucket-angler-hut-mutze-fur-2189-eur-2784231",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kinder-cards-5er-pack-5-x-2-kekswaffeln-insgesamt-128g-spar-abo-prime-2784222",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hisense-rb327n4add-kuhl-gefrier-kombination-eek-d-total-nofrost-amazon-2784226",
+      "ts": 1780181266033
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/bei-lidl-fur-027-cent-schnellladen-2784416",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/norco-ottawa-satteltasche-2784380",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toom-lokal-midea-portasplit-35-kw-12000-btu-mobile-split-klimaanlage-selbstabholer-2784392",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-pro-controller-resident-evil-requiem-lieferung-in-den-dhl-paketshop-fur-099-eur-2784389",
+      "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestsecret-adidas-duramo-10-laufschuh-41-13-46-23-und-viele-weitere-artikel-mit-20-extra-rabatt-2784390",
+      "ts": 1780181266033
     }
   ]
 }
