@@ -1,63 +1,12 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/deuter-junior-bike-kinder-fahrrad-rucksack-2784373",
-    "mydealz|https://www.mydealz.de/deals/kaufland-pokemon-ewige-rivalen-booster-lokal-berlim-2784401",
-    "mydealz|https://www.mydealz.de/deals/einhell-freelexo-1200-lcd-bt-mahroboter-bis-1200m2-inkl-52-ah-akku-zubehor-2737352",
-    "mydealz|https://www.mydealz.de/deals/zombie-land-doppelt-halt-besser-4k-apple-tv-2784353",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-10a-20-gutschein-per-e-mail-personalisiert-2784732",
-    "mydealz|https://www.mydealz.de/deals/rennrad-stevens-super-prestige-carbonultegra-di2-2x12sp79kg-2026-58cm-2784680",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-playstation-xbox-spiele-ab-99-cent-bis-maximal-2eur-bis-zu-90-rabatt-im-playstation-ps4ps5-xbox-store-oneseries-2784730",
-    "mydealz|https://www.mydealz.de/deals/best-secret-6er-pack-tommy-hilfiger-langarmshirtunterhemd-100-baumwolle-1013-eur-pro-shirt-grossen-s-xxl-schwarzgrauweiss-2784649",
-    "mydealz|https://www.mydealz.de/deals/asus-proart-pa279crv-27-3840-x-2160-96-w-usb-c-32656-inkl-asus-cashback-2784721",
-    "mydealz|https://www.mydealz.de/deals/best-secret-adidas-terrex-climawarm-insulated-jacke-essentilas-xs-xl-auch-in-schwarz-4792-eur-2784645"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-intel-ultra-250kf-plus-rx-9070-16gb-16gb-ddr5-5600-1tb-ssd-b860-wifi-650w-gold-2782671",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tefal-ice-force-santoku-messer-18-cm-klinge-korrosionsschutz-handschutz-edelstahlschwarz-k23206-kochmesser-prime-2782711",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-vasen-im-wert-von-63eur-bei-abschluss-eines-blumenabos-bei-freddies-flowers-wwwfreddiesflowersde-2782372",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-witten-steak-doner-299eur-2782529",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/solstice-bundle-ab-095eur-zb-world-racing-2-champion-edition-the-hong-kong-massacre-the-falconeer-uvm-fanatical-steam-deck-2782987",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mammut-ultimate-viii-so-hooded-jacket-men-in-l-2782992",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kreta-griechenland-7-nachte-im-4-hotel-16-mit-halbpension-flugen-gepack-transfers-ab-596eur-pp-sep-okt-2736684",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/refurbed-laptop-14-lenovo-thinkpad-l14-gen3-win-11-amd-5675u-ab-16gb512gb-2782986",
-      "ts": 1779662813944
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/muji-30-rabatt-auf-alles-aus-leinen-i-20-rabatt-auf-lounge-kissen-i-20-rabatt-auf-raumduft-beim-kauf-von-2-oder-mehr-artikeln-2782952",
-      "ts": 1779662813944
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/original-einhell-bandmass-5-m-autolock-nylonbeschichtung-magnet-endhaken-doppelseitige-skalierung-stossfestes-gehause-primeobi-abholung-2782990",
       "ts": 1779746506485
@@ -241,6 +190,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/bestsecret-adidas-duramo-10-laufschuh-41-13-46-23-und-viele-weitere-artikel-mit-20-extra-rabatt-2784390",
       "ts": 1780181266033
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deuter-junior-bike-kinder-fahrrad-rucksack-2784373",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-pokemon-ewige-rivalen-booster-lokal-berlim-2784401",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/einhell-freelexo-1200-lcd-bt-mahroboter-bis-1200m2-inkl-52-ah-akku-zubehor-2737352",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zombie-land-doppelt-halt-besser-4k-apple-tv-2784353",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-10a-20-gutschein-per-e-mail-personalisiert-2784732",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rennrad-stevens-super-prestige-carbonultegra-di2-2x12sp79kg-2026-58cm-2784680",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-playstation-xbox-spiele-ab-99-cent-bis-maximal-2eur-bis-zu-90-rabatt-im-playstation-ps4ps5-xbox-store-oneseries-2784730",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/best-secret-6er-pack-tommy-hilfiger-langarmshirtunterhemd-100-baumwolle-1013-eur-pro-shirt-grossen-s-xxl-schwarzgrauweiss-2784649",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asus-proart-pa279crv-27-3840-x-2160-96-w-usb-c-32656-inkl-asus-cashback-2784721",
+      "ts": 1780267780286
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/best-secret-adidas-terrex-climawarm-insulated-jacke-essentilas-xs-xl-auch-in-schwarz-4792-eur-2784645",
+      "ts": 1780267780286
     }
   ]
 }
