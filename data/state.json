@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/deuter-junior-bike-kinder-fahrrad-rucksack-2784373",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/einhell-freelexo-1200-lcd-bt-mahroboter-bis-1200m2-inkl-52-ah-akku-zubehor-2737352",
     "mydealz|https://www.mydealz.de/deals/zombie-land-doppelt-halt-besser-4k-apple-tv-2784353",
     "mydealz|https://www.mydealz.de/deals/google-pixel-10a-20-gutschein-per-e-mail-personalisiert-2784732",
-    "mydealz|https://www.mydealz.de/deals/rennrad-stevens-super-prestige-carbonultegra-di2-2x12sp79kg-2026-58cm-2784680"
+    "mydealz|https://www.mydealz.de/deals/rennrad-stevens-super-prestige-carbonultegra-di2-2x12sp79kg-2026-58cm-2784680",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-playstation-xbox-spiele-ab-99-cent-bis-maximal-2eur-bis-zu-90-rabatt-im-playstation-ps4ps5-xbox-store-oneseries-2784730",
+    "mydealz|https://www.mydealz.de/deals/best-secret-6er-pack-tommy-hilfiger-langarmshirtunterhemd-100-baumwolle-1013-eur-pro-shirt-grossen-s-xxl-schwarzgrauweiss-2784649",
+    "mydealz|https://www.mydealz.de/deals/asus-proart-pa279crv-27-3840-x-2160-96-w-usb-c-32656-inkl-asus-cashback-2784721",
+    "mydealz|https://www.mydealz.de/deals/best-secret-adidas-terrex-climawarm-insulated-jacke-essentilas-xs-xl-auch-in-schwarz-4792-eur-2784645"
   ],
   "postedHistory": [
     {
