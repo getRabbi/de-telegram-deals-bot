@@ -1,11 +1,18 @@
 {
   "date": "2026-05-31",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/deuter-junior-bike-kinder-fahrrad-rucksack-2784373",
+    "mydealz|https://www.mydealz.de/deals/kaufland-pokemon-ewige-rivalen-booster-lokal-berlim-2784401",
+    "mydealz|https://www.mydealz.de/deals/einhell-freelexo-1200-lcd-bt-mahroboter-bis-1200m2-inkl-52-ah-akku-zubehor-2737352",
+    "mydealz|https://www.mydealz.de/deals/zombie-land-doppelt-halt-besser-4k-apple-tv-2784353",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-10a-20-gutschein-per-e-mail-personalisiert-2784732",
+    "mydealz|https://www.mydealz.de/deals/rennrad-stevens-super-prestige-carbonultegra-di2-2x12sp79kg-2026-58cm-2784680"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/berlin-alle-kaffeegetranke-fur-1eur-bei-paskal-choux-mitte-bis-zum-10-juni-2782391",
