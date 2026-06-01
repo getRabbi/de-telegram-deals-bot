@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,22 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/original-einhell-bandmass-5-m-autolock-nylonbeschichtung-magnet-endhaken-doppelseitige-skalierung-stossfestes-gehause-primeobi-abholung-2782990",
-      "ts": 1779746506485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/foundation-2279-eur-statt-3399-eur-33-drm-frei-bei-gog-2741132",
-      "ts": 1779746506485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cyberpunk-2077-ultimate-16eur-gog-vpn-moldova-2764574",
-      "ts": 1779746506485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dreame-a1-pro-mit-garage-2783026",
-      "ts": 1779746506485
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/2-nachte-fur-2-personen-inkl-fruhstuck-20eur-netto-filialgutschein-zb-munchen-berlin-frankfurt-oberhof-bayerischer-wald-9998eur-2783078",
       "ts": 1779836450518
