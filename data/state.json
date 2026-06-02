@@ -2,10 +2,16 @@
   "date": "2026-06-02",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/shiva-vase-von-ettore-sottsass-bd-barcelona-2784899",
+    "mydealz|https://www.mydealz.de/deals/mtb-fahrradhelm-poc-tectal-race-mips-aramidmips-integra385g-sm-2784904",
+    "mydealz|https://www.mydealz.de/deals/2x-tefal-santoku-edelstahl-messer-german-stainless-steel-18-cm-fur-2589-eur-2784878",
+    "mydealz|https://www.mydealz.de/deals/google-play-guthaben-karte-50-100eur-2784769",
+    "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-chino-shorts-baumwolle-hellblau-beige-oder-creme-fur-1889-eur-32-38-2785308"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/2-nachte-fur-2-personen-inkl-fruhstuck-20eur-netto-filialgutschein-zb-munchen-berlin-frankfurt-oberhof-bayerischer-wald-9998eur-2783078",
