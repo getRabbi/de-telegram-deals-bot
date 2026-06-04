@@ -3,14 +3,18 @@
   "slots": {
     "morning": false,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-schnellladegerat-gan-ii-prime-2778150",
     "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-thin-client-4gb-ram-16gb-emmc-fur-57eur-2785285",
     "mydealz|https://www.mydealz.de/deals/lego-diverse-blumen-sets-glucks-bambus-10344chrysantheme-10368-1499eursommerstrauss-10347-oder-pflaumenblute-10369-je-1589eur-ebay-2785300",
     "mydealz|https://www.mydealz.de/deals/gen3-x4-nvme-500gb-ssd-fur-wenig-geld-offenbar-preisfehler-aktuell-nur-bestellbar-2785664",
-    "mydealz|https://www.mydealz.de/deals/zendure-solarflow-2400-pro-2774606"
+    "mydealz|https://www.mydealz.de/deals/zendure-solarflow-2400-pro-2774606",
+    "mydealz|https://www.mydealz.de/deals/outdoorchef-5-teiler-edelstahl-pinzette-wender-silikon-handschuhe-pizzaschneider-pinsel-eu-ware-zum-grillen-netto-wunschpreis-2781820",
+    "mydealz|https://www.mydealz.de/deals/solarway-balkonkraftwerk-1000w-envertech-evt-800-2785576",
+    "mydealz|https://www.mydealz.de/deals/cb-telekom-prepaid-allnetsms-flat-33gb-5g-fur-796eur4-wochen-schweiz-roaming-hotspot-flat-2778952",
+    "aldi|https://www.mydealz.de/deals/lokal-aldi-sud-barissimo-ganze-bohne-caffe-cremaaroma-espresso-classico-etc-2785605"
   ],
   "postedHistory": [
     {
