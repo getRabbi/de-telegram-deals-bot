@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/shelly-pro-3em-3-phasen-energiezahler-inkl-3x-120a-klemmen-2785835",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/prime-victorinox-schweizer-taschenmesser-super-tinker-swiss-army-knife-multitool-14-funktionen-2776147",
     "mydealz|https://www.mydealz.de/deals/eloh-musikalisches-puzzlespiel-android-google-play-store-2785812",
     "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-pro-5g-256gb-27eur-vs-idealo-allnetsms-flat-6gb-35gb-45gb-399eurmonat-11999eur-zuzahlung-2786157",
-    "mydealz|https://www.mydealz.de/deals/vodafone-prepaid-erhoht-datenvolumen-bei-callya-tarifen-callya-allnet-flat-l-115-gb-2785973"
+    "mydealz|https://www.mydealz.de/deals/vodafone-prepaid-erhoht-datenvolumen-bei-callya-tarifen-callya-allnet-flat-l-115-gb-2785973",
+    "mydealz|https://www.mydealz.de/deals/balsam-fur-die-augen-swim-essentials-frame-pool-260x160x65cm-im-dezenten-beige-ton-2786523",
+    "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-wireless-controller-chroma-indigo-2786507",
+    "mydealz|https://www.mydealz.de/deals/aida-fan-cruise-5un-innenkabine-ab-399-p-p-uber-ehoi-vom-37-bis-87-ab-warnemunde-2786534",
+    "mydealz|https://www.mydealz.de/deals/hortensus-teleskop-waschburste-46-m-alu-mit-wasseranschluss-pv-und-terrassendachreiniger-2747862"
   ],
   "postedHistory": [
     {
