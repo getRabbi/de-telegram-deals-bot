@@ -1,27 +1,11 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/shelly-pro-3em-3-phasen-energiezahler-inkl-3x-120a-klemmen-2785835",
-    "mydealz|https://www.mydealz.de/deals/dyson-cool-cf1-tischventilator-370ls-air-multiplier-rotorlos-10-stufen-29-42-db-sleep-modus-30w-70-schwenk-fernbedienung-2785715",
-    "lidl|https://www.mydealz.de/deals/lidltronic-mobiles-klimagerat-2786056",
-    "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-premium-line-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-18m-kabel-schwarz-2786036",
-    "mydealz|https://www.mydealz.de/deals/echos-46-cm-metall-bodenventilator-100w-hochleistung-3-stufen-90-neigbar-starker-luftstrom-102-m3min-prime-2786012",
-    "mydealz|https://www.mydealz.de/deals/cobi-maserati-mc20-24335-lizenziertes-112-supersportwagen-baustenset-mit-2269-teilen-offnenden-turen-2786063",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-kopenhagen-halifax-kanada-eur184-hin-und-zuuck-2786132",
-    "mydealz|https://www.mydealz.de/deals/prime-victorinox-schweizer-taschenmesser-super-tinker-swiss-army-knife-multitool-14-funktionen-2776147",
-    "mydealz|https://www.mydealz.de/deals/eloh-musikalisches-puzzlespiel-android-google-play-store-2785812",
-    "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-pro-5g-256gb-27eur-vs-idealo-allnetsms-flat-6gb-35gb-45gb-399eurmonat-11999eur-zuzahlung-2786157",
-    "mydealz|https://www.mydealz.de/deals/vodafone-prepaid-erhoht-datenvolumen-bei-callya-tarifen-callya-allnet-flat-l-115-gb-2785973",
-    "mydealz|https://www.mydealz.de/deals/balsam-fur-die-augen-swim-essentials-frame-pool-260x160x65cm-im-dezenten-beige-ton-2786523",
-    "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-wireless-controller-chroma-indigo-2786507",
-    "mydealz|https://www.mydealz.de/deals/aida-fan-cruise-5un-innenkabine-ab-399-p-p-uber-ehoi-vom-37-bis-87-ab-warnemunde-2786534",
-    "mydealz|https://www.mydealz.de/deals/hortensus-teleskop-waschburste-46-m-alu-mit-wasseranschluss-pv-und-terrassendachreiniger-2747862"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
@@ -174,6 +158,66 @@
     {
       "key": "aldi|https://www.mydealz.de/deals/lokal-aldi-sud-barissimo-ganze-bohne-caffe-cremaaroma-espresso-classico-etc-2785605",
       "ts": 1780614051649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shelly-pro-3em-3-phasen-energiezahler-inkl-3x-120a-klemmen-2785835",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dyson-cool-cf1-tischventilator-370ls-air-multiplier-rotorlos-10-stufen-29-42-db-sleep-modus-30w-70-schwenk-fernbedienung-2785715",
+      "ts": 1780697315333
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidltronic-mobiles-klimagerat-2786056",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-premium-line-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-18m-kabel-schwarz-2786036",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/echos-46-cm-metall-bodenventilator-100w-hochleistung-3-stufen-90-neigbar-starker-luftstrom-102-m3min-prime-2786012",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cobi-maserati-mc20-24335-lizenziertes-112-supersportwagen-baustenset-mit-2269-teilen-offnenden-turen-2786063",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-kopenhagen-halifax-kanada-eur184-hin-und-zuuck-2786132",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-victorinox-schweizer-taschenmesser-super-tinker-swiss-army-knife-multitool-14-funktionen-2776147",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eloh-musikalisches-puzzlespiel-android-google-play-store-2785812",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-xiaomi-redmi-note-15-pro-5g-256gb-27eur-vs-idealo-allnetsms-flat-6gb-35gb-45gb-399eurmonat-11999eur-zuzahlung-2786157",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-prepaid-erhoht-datenvolumen-bei-callya-tarifen-callya-allnet-flat-l-115-gb-2785973",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/balsam-fur-die-augen-swim-essentials-frame-pool-260x160x65cm-im-dezenten-beige-ton-2786523",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-wireless-controller-chroma-indigo-2786507",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aida-fan-cruise-5un-innenkabine-ab-399-p-p-uber-ehoi-vom-37-bis-87-ab-warnemunde-2786534",
+      "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hortensus-teleskop-waschburste-46-m-alu-mit-wasseranschluss-pv-und-terrassendachreiniger-2747862",
+      "ts": 1780697315333
     }
   ]
 }
