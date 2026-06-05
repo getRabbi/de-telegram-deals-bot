@@ -1,11 +1,18 @@
 {
   "date": "2026-06-05",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/shelly-pro-3em-3-phasen-energiezahler-inkl-3x-120a-klemmen-2785835",
+    "mydealz|https://www.mydealz.de/deals/dyson-cool-cf1-tischventilator-370ls-air-multiplier-rotorlos-10-stufen-29-42-db-sleep-modus-30w-70-schwenk-fernbedienung-2785715",
+    "lidl|https://www.mydealz.de/deals/lidltronic-mobiles-klimagerat-2786056",
+    "mydealz|https://www.mydealz.de/deals/prime-brennenstuhl-premium-line-steckdosenleiste-4-fach-mehrfachsteckdose-mit-schalter-und-18m-kabel-schwarz-2786036",
+    "mydealz|https://www.mydealz.de/deals/echos-46-cm-metall-bodenventilator-100w-hochleistung-3-stufen-90-neigbar-starker-luftstrom-102-m3min-prime-2786012",
+    "mydealz|https://www.mydealz.de/deals/cobi-maserati-mc20-24335-lizenziertes-112-supersportwagen-baustenset-mit-2269-teilen-offnenden-turen-2786063"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
