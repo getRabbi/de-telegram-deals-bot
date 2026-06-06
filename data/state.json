@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/gutscheine/20-rabatt-auf-alle-originalen-apple-produkte-hullen-apple-watch-armbander-ladegerate-uvm-zb-bumper-case-furs-iphone-air-fur-2399-eur-2786493",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/cybex-platinum-solution-t-i-fix-adac-testsieger-1023-kindersitz-sepia-black-gratis-summercover-im-wer-2786628",
     "mydealz|https://www.mydealz.de/deals/snakebyte-nintendo-switch-2-power-charge-s2-ladegerat-fur-nintendo-switch-2-mediamarktsaturn-abholung-2786621",
     "mydealz|https://www.mydealz.de/deals/klimaanlage-klimasplitgerat-midea-portasplit-12000-btu-lokal-berlin-weissensee-671eur-minus-7-mit-cb-2786625",
-    "mydealz|https://www.mydealz.de/deals/hyperkin-power-beacon-ladeturm-fur-nintendo-switch-2-ladt-bis-zu-4-joycons-gleichzeitig-mit-ledstatusanzeige-lieferung-paketshop-2762917"
+    "mydealz|https://www.mydealz.de/deals/hyperkin-power-beacon-ladeturm-fur-nintendo-switch-2-ladt-bis-zu-4-joycons-gleichzeitig-mit-ledstatusanzeige-lieferung-paketshop-2762917",
+    "mydealz|https://www.mydealz.de/deals/pokemon-mini-tin-151-erhabene-helden-2786640",
+    "mydealz|https://www.mydealz.de/deals/nilkreuzfahrt-comfort-class-7-nachte-komfort-schiff-7-nachte-im-4-sterne-hotel-vollpension-all-inclusive-ab-887eur-p-p-netto-reisen-2787199",
+    "mydealz|https://www.mydealz.de/deals/cb-deal-tommy-jeans-flag-hoodie-xs-m-tommy-hilfiger-original-loungewear-hoodie-xs-xxl-2787158",
+    "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-special-edition-exklusiv-bei-mediamarkt-und-saturn-playstation-5-1999-bei-abholung-im-markt-mmsat-2787150"
   ],
   "postedHistory": [
     {
