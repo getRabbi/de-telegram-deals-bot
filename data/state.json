@@ -1,79 +1,12 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/gutscheine/20-rabatt-auf-alle-originalen-apple-produkte-hullen-apple-watch-armbander-ladegerate-uvm-zb-bumper-case-furs-iphone-air-fur-2399-eur-2786493",
-    "mydealz|https://www.mydealz.de/deals/neue-anker-solix-4-e-5000-pro-bp-5000-4-x-500-watt-module-smart-meter-gen2-4-x-4mm2-5m-ac-kabel-3m-2786436",
-    "mydealz|https://www.mydealz.de/deals/cybex-platinum-solution-t-i-fix-adac-testsieger-1023-kindersitz-sepia-black-gratis-summercover-im-wer-2786628",
-    "mydealz|https://www.mydealz.de/deals/snakebyte-nintendo-switch-2-power-charge-s2-ladegerat-fur-nintendo-switch-2-mediamarktsaturn-abholung-2786621",
-    "mydealz|https://www.mydealz.de/deals/klimaanlage-klimasplitgerat-midea-portasplit-12000-btu-lokal-berlin-weissensee-671eur-minus-7-mit-cb-2786625",
-    "mydealz|https://www.mydealz.de/deals/hyperkin-power-beacon-ladeturm-fur-nintendo-switch-2-ladt-bis-zu-4-joycons-gleichzeitig-mit-ledstatusanzeige-lieferung-paketshop-2762917",
-    "mydealz|https://www.mydealz.de/deals/pokemon-mini-tin-151-erhabene-helden-2786640",
-    "mydealz|https://www.mydealz.de/deals/nilkreuzfahrt-comfort-class-7-nachte-komfort-schiff-7-nachte-im-4-sterne-hotel-vollpension-all-inclusive-ab-887eur-p-p-netto-reisen-2787199",
-    "mydealz|https://www.mydealz.de/deals/cb-deal-tommy-jeans-flag-hoodie-xs-m-tommy-hilfiger-original-loungewear-hoodie-xs-xxl-2787158",
-    "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-special-edition-exklusiv-bei-mediamarkt-und-saturn-playstation-5-1999-bei-abholung-im-markt-mmsat-2787150"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-bluetooth-party-lautsprecher-30w-20cm-woofer-tws-karaoke-63mm-dynamic-bass-boost-partybeleuchtung-7h-akku-usb-c-tax220810-2784100",
-      "ts": 1780095780629
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hongda-magisches-huoluo-schloss-diy-miniaturhaus-aus-holz-inkl-beleuchtung-kleber-holzleim-werkzeug-enthalten-alibaba-neukunden-2784097",
-      "ts": 1780095780629
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-dating-wahnsinn-in-fackenreuth-fackenreuth-krimi-8-ebook-abgeschlossener-fall-41910-bewertungen-2784098",
-      "ts": 1780095780629
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/magentatv-euroleague-final-four-2026-gratis-ohne-login-streamen-halbfinals-finale-2784063",
-      "ts": 1780095780629
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/27-samsung-odyssey-g5-g53f-wqhd-2560-x-1440-200-hz-ips-1ms-300-cdm2-schwarz-2784129",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-skyline-bucket-angler-hut-mutze-fur-2189-eur-2784231",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kinder-cards-5er-pack-5-x-2-kekswaffeln-insgesamt-128g-spar-abo-prime-2784222",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hisense-rb327n4add-kuhl-gefrier-kombination-eek-d-total-nofrost-amazon-2784226",
-      "ts": 1780181266033
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/bei-lidl-fur-027-cent-schnellladen-2784416",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/grosser-houe-sale-bei-veepee-stylische-gartenmobel-aus-danemark-mit-60-rabatt-2784364",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/norco-ottawa-satteltasche-2784380",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/toom-lokal-midea-portasplit-35-kw-12000-btu-mobile-split-klimaanlage-selbstabholer-2784392",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-switch-2-pro-controller-resident-evil-requiem-lieferung-in-den-dhl-paketshop-fur-099-eur-2784389",
-      "ts": 1780181266033
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestsecret-adidas-duramo-10-laufschuh-41-13-46-23-und-viele-weitere-artikel-mit-20-extra-rabatt-2784390",
-      "ts": 1780181266033
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/deuter-junior-bike-kinder-fahrrad-rucksack-2784373",
       "ts": 1780267780286
@@ -229,6 +162,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/hortensus-teleskop-waschburste-46-m-alu-mit-wasseranschluss-pv-und-terrassendachreiniger-2747862",
       "ts": 1780697315333
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/20-rabatt-auf-alle-originalen-apple-produkte-hullen-apple-watch-armbander-ladegerate-uvm-zb-bumper-case-furs-iphone-air-fur-2399-eur-2786493",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neue-anker-solix-4-e-5000-pro-bp-5000-4-x-500-watt-module-smart-meter-gen2-4-x-4mm2-5m-ac-kabel-3m-2786436",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cybex-platinum-solution-t-i-fix-adac-testsieger-1023-kindersitz-sepia-black-gratis-summercover-im-wer-2786628",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/snakebyte-nintendo-switch-2-power-charge-s2-ladegerat-fur-nintendo-switch-2-mediamarktsaturn-abholung-2786621",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/klimaanlage-klimasplitgerat-midea-portasplit-12000-btu-lokal-berlin-weissensee-671eur-minus-7-mit-cb-2786625",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hyperkin-power-beacon-ladeturm-fur-nintendo-switch-2-ladt-bis-zu-4-joycons-gleichzeitig-mit-ledstatusanzeige-lieferung-paketshop-2762917",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-mini-tin-151-erhabene-helden-2786640",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nilkreuzfahrt-comfort-class-7-nachte-komfort-schiff-7-nachte-im-4-sterne-hotel-vollpension-all-inclusive-ab-887eur-p-p-netto-reisen-2787199",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-tommy-jeans-flag-hoodie-xs-m-tommy-hilfiger-original-loungewear-hoodie-xs-xxl-2787158",
+      "ts": 1780786665349
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-special-edition-exklusiv-bei-mediamarkt-und-saturn-playstation-5-1999-bei-abholung-im-markt-mmsat-2787150",
+      "ts": 1780786665349
     }
   ]
 }
