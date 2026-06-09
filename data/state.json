@@ -2,7 +2,7 @@
   "date": "2026-06-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/beurer-bitex-travel-insektenstichheiler-br-10-prime-2787293",
     "mydealz|https://www.mydealz.de/deals/prime-2x-nachttisch-2er-set-beistelltisch-mit-steckdose-usb-c-anschluss-kleiner-tisch-holz-metall-schwarz-oder-weiss-2787294",
     "mydealz|https://www.mydealz.de/deals/mymuesli-50-rabatt-auf-alles-personalisiert-2786230",
-    "mydealz|https://www.mydealz.de/deals/penny-10-cashback-auf-apple-geschenkkarten-in-form-von-einkaufscoupons-nur-mit-penny-app-2786545"
+    "mydealz|https://www.mydealz.de/deals/penny-10-cashback-auf-apple-geschenkkarten-in-form-von-einkaufscoupons-nur-mit-penny-app-2786545",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-samsung-galaxy-s26-ultra-im-otelo-allnetsms-flat-50gb-5g-fur-1999eurmonat-429eur-0eur-ag-10eur-wechselbonus-2787311",
+    "mydealz|https://www.mydealz.de/deals/costa-kreuzfahrten-kanaren-inkl-getrankepaket-myitalien-flug-2787498",
+    "mydealz|https://www.mydealz.de/deals/hrs-deals-osterreich-erlebnishotel-fendels-tirol-dz-halbpension-ab-93-euro-pro-zimmer-2787493",
+    "mydealz|https://www.mydealz.de/deals/edeka-app-bens-express-reis-fur-19-cent-mit-coupon-2787499",
+    "mydealz|https://www.mydealz.de/deals/moonrise-fall-kostenlos-steam-2787505"
   ],
   "postedHistory": [
     {
