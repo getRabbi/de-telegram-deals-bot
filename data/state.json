@@ -1,11 +1,18 @@
 {
   "date": "2026-06-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lego-room-copenhagen-storage-head-mini-skelett-girl-je-599eur-lego-keramiktasse-grunes-skelett-fur-999eur-zzgl-799eur-versand-2787124",
+    "mydealz|https://www.mydealz.de/deals/twister-1996-blu-ray-at-amazon-prime-2787187",
+    "mydealz|https://www.mydealz.de/deals/beurer-bitex-travel-insektenstichheiler-br-10-prime-2787293",
+    "mydealz|https://www.mydealz.de/deals/prime-2x-nachttisch-2er-set-beistelltisch-mit-steckdose-usb-c-anschluss-kleiner-tisch-holz-metall-schwarz-oder-weiss-2787294",
+    "mydealz|https://www.mydealz.de/deals/mymuesli-50-rabatt-auf-alles-personalisiert-2786230",
+    "mydealz|https://www.mydealz.de/deals/penny-10-cashback-auf-apple-geschenkkarten-in-form-von-einkaufscoupons-nur-mit-penny-app-2786545"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/shiva-vase-von-ettore-sottsass-bd-barcelona-2784899",
