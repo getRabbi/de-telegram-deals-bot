@@ -2,7 +2,7 @@
   "date": "2026-06-10",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/3x-otto-home-bettwasche-set-40x80-cm-135x200-cm-sterne-fur-2689-eur-100-baumwolle-2787882",
     "mydealz|https://www.mydealz.de/deals/jack-jones-herren-slipper-slip-on-sneakers-weiss-fur-1289-eur-41-45-2787874",
     "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-5700x-rtx-5070-12gb-16gb-ddr4-3200-1tb-ssd-b550m-700w-gold-2787877",
-    "mydealz|https://www.mydealz.de/deals/vip-mr-balcan-idle-2787444"
+    "mydealz|https://www.mydealz.de/deals/vip-mr-balcan-idle-2787444",
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-kettensagenol-1-liter-prime-2789062",
+    "mydealz|https://www.mydealz.de/deals/adidas-herren-fussball-poloshirt-fur-1390-eur-nur-noch-in-m-und-l-2781706",
+    "mydealz|https://www.mydealz.de/deals/3-monate-audible-standard-gratis-fur-ausgew-prime-mitglieder-mind-30-tage-kein-audble-abo-2788797",
+    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemusemesser-set-mit-sparschaler-fur-gemuse-und-obst-2-teilig-extra-scharfe-klinge-rot-prime-2788120",
+    "mydealz|https://www.mydealz.de/deals/kos-griechenland-7-nachte-im-4-hotel-inkl-fruhstuck-flug-transfers-ab-373eur-pp-auch-familien-alleinreisende-588eur-juni-2789069"
   ],
   "postedHistory": [
     {
