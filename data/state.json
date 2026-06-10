@@ -1,11 +1,18 @@
 {
   "date": "2026-06-10",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gigakombi-iphone-17-pro-256gb-deutschland-trikot-vodafone-smart-lite-80gb-5g-inkl-allnet-fur-2999-eur-mtl-599-eur-zz-150eur-boni-2786557",
+    "mydealz|https://www.mydealz.de/deals/giant-tcr-advanced-pro-1-sram-rival-axs-carbon-rennrad-powermeter-77-kg-gesamt-127kg-modell-2026-2787678",
+    "mydealz|https://www.mydealz.de/deals/3x-otto-home-bettwasche-set-40x80-cm-135x200-cm-sterne-fur-2689-eur-100-baumwolle-2787882",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-slipper-slip-on-sneakers-weiss-fur-1289-eur-41-45-2787874",
+    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-5700x-rtx-5070-12gb-16gb-ddr4-3200-1tb-ssd-b550m-700w-gold-2787877",
+    "mydealz|https://www.mydealz.de/deals/vip-mr-balcan-idle-2787444"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/shiva-vase-von-ettore-sottsass-bd-barcelona-2784899",
