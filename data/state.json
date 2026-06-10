@@ -1,44 +1,12 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "slots": {
-    "morning": true,
-    "noon": true,
+    "morning": false,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/gigakombi-iphone-17-pro-256gb-deutschland-trikot-vodafone-smart-lite-80gb-5g-inkl-allnet-fur-2999-eur-mtl-599-eur-zz-150eur-boni-2786557",
-    "mydealz|https://www.mydealz.de/deals/giant-tcr-advanced-pro-1-sram-rival-axs-carbon-rennrad-powermeter-77-kg-gesamt-127kg-modell-2026-2787678",
-    "mydealz|https://www.mydealz.de/deals/3x-otto-home-bettwasche-set-40x80-cm-135x200-cm-sterne-fur-2689-eur-100-baumwolle-2787882",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-slipper-slip-on-sneakers-weiss-fur-1289-eur-41-45-2787874",
-    "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-5700x-rtx-5070-12gb-16gb-ddr4-3200-1tb-ssd-b550m-700w-gold-2787877",
-    "mydealz|https://www.mydealz.de/deals/vip-mr-balcan-idle-2787444",
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-kettensagenol-1-liter-prime-2789062",
-    "mydealz|https://www.mydealz.de/deals/adidas-herren-fussball-poloshirt-fur-1390-eur-nur-noch-in-m-und-l-2781706",
-    "mydealz|https://www.mydealz.de/deals/3-monate-audible-standard-gratis-fur-ausgew-prime-mitglieder-mind-30-tage-kein-audble-abo-2788797",
-    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemusemesser-set-mit-sparschaler-fur-gemuse-und-obst-2-teilig-extra-scharfe-klinge-rot-prime-2788120",
-    "mydealz|https://www.mydealz.de/deals/kos-griechenland-7-nachte-im-4-hotel-inkl-fruhstuck-flug-transfers-ab-373eur-pp-auch-familien-alleinreisende-588eur-juni-2789069"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/shiva-vase-von-ettore-sottsass-bd-barcelona-2784899",
-      "ts": 1780442820145
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mtb-fahrradhelm-poc-tectal-race-mips-aramidmips-integra385g-sm-2784904",
-      "ts": 1780442820145
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-tefal-santoku-edelstahl-messer-german-stainless-steel-18-cm-fur-2589-eur-2784878",
-      "ts": 1780442820145
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-play-guthaben-karte-50-100eur-2784769",
-      "ts": 1780442820145
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-chino-shorts-baumwolle-hellblau-beige-oder-creme-fur-1889-eur-32-38-2785308",
-      "ts": 1780442820145
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-schnellladegerat-gan-ii-prime-2778150",
       "ts": 1780614051649
@@ -234,6 +202,50 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/eintracht-frankfurt-restgrossen-im-sale-heimtrikot-kinder-ab-2519eur-herren-ab-3150eur-2787597",
       "ts": 1781046630649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gigakombi-iphone-17-pro-256gb-deutschland-trikot-vodafone-smart-lite-80gb-5g-inkl-allnet-fur-2999-eur-mtl-599-eur-zz-150eur-boni-2786557",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/giant-tcr-advanced-pro-1-sram-rival-axs-carbon-rennrad-powermeter-77-kg-gesamt-127kg-modell-2026-2787678",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-otto-home-bettwasche-set-40x80-cm-135x200-cm-sterne-fur-2689-eur-100-baumwolle-2787882",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-slipper-slip-on-sneakers-weiss-fur-1289-eur-41-45-2787874",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-konfigurierbar-ryzen-5700x-rtx-5070-12gb-16gb-ddr4-3200-1tb-ssd-b550m-700w-gold-2787877",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vip-mr-balcan-idle-2787444",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-kettensagenol-1-liter-prime-2789062",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-fussball-poloshirt-fur-1390-eur-nur-noch-in-m-und-l-2781706",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3-monate-audible-standard-gratis-fur-ausgew-prime-mitglieder-mind-30-tage-kein-audble-abo-2788797",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-gemusemesser-set-mit-sparschaler-fur-gemuse-und-obst-2-teilig-extra-scharfe-klinge-rot-prime-2788120",
+      "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kos-griechenland-7-nachte-im-4-hotel-inkl-fruhstuck-flug-transfers-ab-373eur-pp-auch-familien-alleinreisende-588eur-juni-2789069",
+      "ts": 1781131598951
     }
   ]
 }
