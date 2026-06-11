@@ -1,54 +1,12 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/xbox-wireless-controller-robot-white-2790148",
-    "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-820-1-jahr-gratis-via-chipde-2790142",
-    "mydealz|https://www.mydealz.de/deals/simucube-2-sport-direct-drive-17-nm-22bit-sensor-amazon-prime-2790169",
-    "mydealz|https://www.mydealz.de/deals/bosch-35x-extra-hard-schrauberbit-und-pro-wood-bohrer-set-35tlg-197-x-1105-mm-professional-prime-2790170",
-    "mydealz|https://www.mydealz.de/deals/apple-airpods-4-weiss-telekom-2790190"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-schnellladegerat-gan-ii-prime-2778150",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-wyse-5070-mini-pc-thin-client-4gb-ram-16gb-emmc-fur-57eur-2785285",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-diverse-blumen-sets-glucks-bambus-10344chrysantheme-10368-1499eursommerstrauss-10347-oder-pflaumenblute-10369-je-1589eur-ebay-2785300",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gen3-x4-nvme-500gb-ssd-fur-wenig-geld-offenbar-preisfehler-aktuell-nur-bestellbar-2785664",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zendure-solarflow-2400-pro-2774606",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/outdoorchef-5-teiler-edelstahl-pinzette-wender-silikon-handschuhe-pizzaschneider-pinsel-eu-ware-zum-grillen-netto-wunschpreis-2781820",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/solarway-balkonkraftwerk-1000w-envertech-evt-800-2785576",
-      "ts": 1780614051649
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-telekom-prepaid-allnetsms-flat-33gb-5g-fur-796eur4-wochen-schweiz-roaming-hotspot-flat-2778952",
-      "ts": 1780614051649
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/lokal-aldi-sud-barissimo-ganze-bohne-caffe-cremaaroma-espresso-classico-etc-2785605",
-      "ts": 1780614051649
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/shelly-pro-3em-3-phasen-energiezahler-inkl-3x-120a-klemmen-2785835",
       "ts": 1780697315333
@@ -252,6 +210,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/kos-griechenland-7-nachte-im-4-hotel-inkl-fruhstuck-flug-transfers-ab-373eur-pp-auch-familien-alleinreisende-588eur-juni-2789069",
       "ts": 1781131598951
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xbox-wireless-controller-robot-white-2790148",
+      "ts": 1781219634649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-820-1-jahr-gratis-via-chipde-2790142",
+      "ts": 1781219634649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/simucube-2-sport-direct-drive-17-nm-22bit-sensor-amazon-prime-2790169",
+      "ts": 1781219634649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-35x-extra-hard-schrauberbit-und-pro-wood-bohrer-set-35tlg-197-x-1105-mm-professional-prime-2790170",
+      "ts": 1781219634649
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-airpods-4-weiss-telekom-2790190",
+      "ts": 1781219634649
     }
   ]
 }
