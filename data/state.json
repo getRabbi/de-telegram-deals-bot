@@ -2,10 +2,16 @@
   "date": "2026-06-11",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/xbox-wireless-controller-robot-white-2790148",
+    "mydealz|https://www.mydealz.de/deals/aomei-backupper-pro-820-1-jahr-gratis-via-chipde-2790142",
+    "mydealz|https://www.mydealz.de/deals/simucube-2-sport-direct-drive-17-nm-22bit-sensor-amazon-prime-2790169",
+    "mydealz|https://www.mydealz.de/deals/bosch-35x-extra-hard-schrauberbit-und-pro-wood-bohrer-set-35tlg-197-x-1105-mm-professional-prime-2790170",
+    "mydealz|https://www.mydealz.de/deals/apple-airpods-4-weiss-telekom-2790190"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-schnellladegerat-gan-ii-prime-2778150",
