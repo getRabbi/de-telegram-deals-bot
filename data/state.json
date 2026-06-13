@@ -1,11 +1,18 @@
 {
   "date": "2026-06-13",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/agypten-1-woche-im-5-hilton-marsa-alam-ab-708eur-pp-mit-all-inclusive-flugen-und-transfers-2788902",
+    "mydealz|https://www.mydealz.de/deals/soundboks-mix-2789812",
+    "mydealz|https://www.mydealz.de/deals/iron-brothers-whey-protein-4x908g-2175eurkg-2790350",
+    "mydealz|https://www.mydealz.de/deals/regensburg-fest-der-demokratie-sonderausstellung-am-haus-der-bayerischen-geschichte-freier-eintritt-vom-24-26-juli-2026-2790404",
+    "mydealz|https://www.mydealz.de/deals/stahlrahmenpool-set-ca-366x100-cm-inklusive-filterpumpe-filterkartusche-leiter-8814-liter-99eur-20549eur-52-2790161",
+    "mydealz|https://www.mydealz.de/deals/siemens-sn63hx03te-iq300-spulmaschine-vollintegriert-smart-wifi-home-connect-3-schneller-46-db-leise-eek-c-aquastop-primemymms-2790715"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/gutscheine/20-rabatt-auf-alle-originalen-apple-produkte-hullen-apple-watch-armbander-ladegerate-uvm-zb-bumper-case-furs-iphone-air-fur-2399-eur-2786493",
