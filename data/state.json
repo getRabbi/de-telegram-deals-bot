@@ -1,18 +1,11 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
-    "mydealz|https://www.mydealz.de/deals/apple-homepod-2-gen-smart-speaker-moglicherweise-lokal-2790705",
-    "mydealz|https://www.mydealz.de/deals/cb-samsung-galaxy-s26-ultra-512-gb-2790643",
-    "mydealz|https://www.mydealz.de/deals/anycubic-kobra-s1-3d-drucker-eff-259eur-topcashback-600mms-druckgeschwindigkeit-druckgrosse-250x250x250-mm-mit-app-fur-ios-android-2790661",
-    "mydealz|https://www.mydealz.de/deals/carnival-firenze-10-nachte-karibik-ab-miami-26022027-inkl-vollpension-ab-443eur-pp-innenkabine-2790897",
-    "aldi|https://www.mydealz.de/deals/aldi-nord-langnese-magnum-stieleis-8-stuck-770800-ml-2790505"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-room-copenhagen-storage-head-mini-skelett-girl-je-599eur-lego-keramiktasse-grunes-skelett-fur-999eur-zzgl-799eur-versand-2787124",
@@ -161,6 +154,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/siemens-sn63hx03te-iq300-spulmaschine-vollintegriert-smart-wifi-home-connect-3-schneller-46-db-leise-eek-c-aquastop-primemymms-2790715",
       "ts": 1781391233260
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
+      "ts": 1781564141481
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-homepod-2-gen-smart-speaker-moglicherweise-lokal-2790705",
+      "ts": 1781564141481
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-galaxy-s26-ultra-512-gb-2790643",
+      "ts": 1781564141481
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anycubic-kobra-s1-3d-drucker-eff-259eur-topcashback-600mms-druckgeschwindigkeit-druckgrosse-250x250x250-mm-mit-app-fur-ios-android-2790661",
+      "ts": 1781564141481
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/carnival-firenze-10-nachte-karibik-ab-miami-26022027-inkl-vollpension-ab-443eur-pp-innenkabine-2790897",
+      "ts": 1781564141481
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-langnese-magnum-stieleis-8-stuck-770800-ml-2790505",
+      "ts": 1781564141481
     }
   ]
 }
