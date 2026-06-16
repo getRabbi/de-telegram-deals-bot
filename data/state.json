@@ -1,11 +1,18 @@
 {
   "date": "2026-06-16",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lokal-dresden-gratis-budweiser-00-alkfrei-im-e-center-dresden-provianthofstrasse-2790827",
+    "mydealz|https://www.mydealz.de/deals/domyos-rudergerat-500b-120eur-gunstiger-2790612",
+    "mydealz|https://www.mydealz.de/deals/doppelpack-cherry-xtrfy-m8-wireless-gaming-maus-kabellose-maus-55-g-pixart-3395-sensor-kailh-gm-80-2790786",
+    "mydealz|https://www.mydealz.de/deals/redline-racing-7-spiele-assetto-corsa-competizione-mudrunner-descenders-trail-out-drift-ce-uvm-steam-humble-bundle-2791038",
+    "mydealz|https://www.mydealz.de/deals/korres-griechische-hautpflege-bis-zu-30-rabatt-auf-sets-korpermilch-edt-2790912",
+    "mydealz|https://www.mydealz.de/deals/10fach-payback-ab-20eur-bei-trinkgut-2790998"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-room-copenhagen-storage-head-mini-skelett-girl-je-599eur-lego-keramiktasse-grunes-skelett-fur-999eur-zzgl-799eur-versand-2787124",
