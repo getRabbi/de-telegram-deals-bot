@@ -1,11 +1,18 @@
 {
   "date": "2026-06-17",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mulltonnenbox-anthrazit-und-modulare-erweiterbar-oder-gleich-die-2-er-3-er-oder-4-er-kombi-2790982",
+    "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1806-parkside-performance-20-v-akku-kombihammer-pkhap-2034-li-b1-ohne-akku-und-ladegerat-inc-zubehor-fur-3999eur-2791218",
+    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-s26-ultra-256gb-89910eur-512gb-100710eur-1tb-121410eur-2791101",
+    "mydealz|https://www.mydealz.de/deals/cb-eon-stromtarif-mit-bis-zu-500eur-neukundenbonus-und-kwh-24ct-2791209",
+    "mydealz|https://www.mydealz.de/deals/siemens-iq300-glaskeramik-kochfeld-60-cm-made-in-germany-touchcontrol-braterzone-21-cm-zweikreiszone-prime-mymediamarktsaturn-2791235",
+    "mydealz|https://www.mydealz.de/deals/funko-pop-star-wars-darth-vader-pocket-schlusselanhanger-filialabholung-2791206"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/lego-room-copenhagen-storage-head-mini-skelett-girl-je-599eur-lego-keramiktasse-grunes-skelett-fur-999eur-zzgl-799eur-versand-2787124",
