@@ -1,11 +1,18 @@
 {
   "date": "2026-06-22",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
+    "mydealz|https://www.mydealz.de/deals/lego-icons-40824-liebesbote-tweety-40824-looney-tunes-baufigur-412-teile-2-verschiedene-bauvarianten-2792628",
+    "mydealz|https://www.mydealz.de/deals/hisense-rs5p528stie-side-by-side-kuhlschrank-mit-eis-wasserspender-528l-edelstahl-eek-e-connectlife-supercool-amazon-2792745",
+    "mydealz|https://www.mydealz.de/deals/ikea-lokal-midsommar-sammeldeal-2789706",
+    "mydealz|https://www.mydealz.de/deals/lokal-paderborn-lego-fifa-pokal-gratis-2792784",
+    "mydealz|https://www.mydealz.de/deals/firsty-esim-unlimited-datenflat-mit-300kb-fur-europa-und-usa-2319425"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
