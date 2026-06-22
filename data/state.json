@@ -1,18 +1,11 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
-    "mydealz|https://www.mydealz.de/deals/lego-icons-40824-liebesbote-tweety-40824-looney-tunes-baufigur-412-teile-2-verschiedene-bauvarianten-2792628",
-    "mydealz|https://www.mydealz.de/deals/hisense-rs5p528stie-side-by-side-kuhlschrank-mit-eis-wasserspender-528l-edelstahl-eek-e-connectlife-supercool-amazon-2792745",
-    "mydealz|https://www.mydealz.de/deals/ikea-lokal-midsommar-sammeldeal-2789706",
-    "mydealz|https://www.mydealz.de/deals/lokal-paderborn-lego-fifa-pokal-gratis-2792784",
-    "mydealz|https://www.mydealz.de/deals/firsty-esim-unlimited-datenflat-mit-300kb-fur-europa-und-usa-2319425"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
@@ -121,6 +114,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/preisfehler-ecoflow-heatguard-solarfolie-2792691",
       "ts": 1781826024610
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
+      "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-icons-40824-liebesbote-tweety-40824-looney-tunes-baufigur-412-teile-2-verschiedene-bauvarianten-2792628",
+      "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hisense-rs5p528stie-side-by-side-kuhlschrank-mit-eis-wasserspender-528l-edelstahl-eek-e-connectlife-supercool-amazon-2792745",
+      "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-lokal-midsommar-sammeldeal-2789706",
+      "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-paderborn-lego-fifa-pokal-gratis-2792784",
+      "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/firsty-esim-unlimited-datenflat-mit-300kb-fur-europa-und-usa-2319425",
+      "ts": 1782168106490
     }
   ]
 }
