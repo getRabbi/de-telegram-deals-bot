@@ -1,70 +1,12 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bmw-ix3-40neues-modell-320-ps-826kwh-637-wltp-oder-50-xdrive-469-ps-109-kwh-805-km-wltp-400-kw-dc-dt-neuwagenforderfahig-2792797",
-    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-weste-steppweste-schwarz-fur-2089-eur-nur-noch-in-s-2792961",
-    "mydealz|https://www.mydealz.de/deals/amazon-tefal-dampfglattersteamer-fur-kleidung-kompakt-schnell-einsatzbereit-2792810",
-    "mydealz|https://www.mydealz.de/deals/fur-alle-naspa-kunden-am-168-fur-5eur-pp-ins-taunus-wunderland-2792930",
-    "mydealz|https://www.mydealz.de/deals/revell-u-boot-das-boot-u-96-brick-system-00960-13775-euro-durch-topcashback-moglich-6483-klemmbausteine-thalia-neukunde-2792946",
-    "mydealz|https://www.mydealz.de/gutscheine/lieblingsfotode-80-rabatt-auf-personalisierte-fussmatten-ab-eur-1699-2793270",
-    "mydealz|https://www.mydealz.de/deals/haz-zur-wm-6-monate-fur-199-bestpreis-hannover-2793197",
-    "mydealz|https://www.mydealz.de/deals/cineplex-neckarsulm-kinosessel-geschenkt-2793272",
-    "mydealz|https://www.mydealz.de/deals/akko-3084b-plus-black-gold-kabellose-mechanische-tastatur-75-iso-de-v3-creamy-blue-pro-doubleshot-pbt-keycaps-hot-swap-rgb-2793277"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
-      "ts": 1781564141481
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-homepod-2-gen-smart-speaker-moglicherweise-lokal-2790705",
-      "ts": 1781564141481
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-galaxy-s26-ultra-512-gb-2790643",
-      "ts": 1781564141481
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anycubic-kobra-s1-3d-drucker-eff-259eur-topcashback-600mms-druckgeschwindigkeit-druckgrosse-250x250x250-mm-mit-app-fur-ios-android-2790661",
-      "ts": 1781564141481
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/carnival-firenze-10-nachte-karibik-ab-miami-26022027-inkl-vollpension-ab-443eur-pp-innenkabine-2790897",
-      "ts": 1781564141481
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-langnese-magnum-stieleis-8-stuck-770800-ml-2790505",
-      "ts": 1781564141481
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-dresden-gratis-budweiser-00-alkfrei-im-e-center-dresden-provianthofstrasse-2790827",
-      "ts": 1781650045122
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/domyos-rudergerat-500b-120eur-gunstiger-2790612",
-      "ts": 1781650045122
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/doppelpack-cherry-xtrfy-m8-wireless-gaming-maus-kabellose-maus-55-g-pixart-3395-sensor-kailh-gm-80-2790786",
-      "ts": 1781650045122
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/redline-racing-7-spiele-assetto-corsa-competizione-mudrunner-descenders-trail-out-drift-ce-uvm-steam-humble-bundle-2791038",
-      "ts": 1781650045122
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/korres-griechische-hautpflege-bis-zu-30-rabatt-auf-sets-korpermilch-edt-2790912",
-      "ts": 1781650045122
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10fach-payback-ab-20eur-bei-trinkgut-2790998",
-      "ts": 1781650045122
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mulltonnenbox-anthrazit-und-modulare-erweiterbar-oder-gleich-die-2-er-3-er-oder-4-er-kombi-2790982",
       "ts": 1781733846896
@@ -148,6 +90,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/firsty-esim-unlimited-datenflat-mit-300kb-fur-europa-und-usa-2319425",
       "ts": 1782168106490
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bmw-ix3-40neues-modell-320-ps-826kwh-637-wltp-oder-50-xdrive-469-ps-109-kwh-805-km-wltp-400-kw-dc-dt-neuwagenforderfahig-2792797",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-weste-steppweste-schwarz-fur-2089-eur-nur-noch-in-s-2792961",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-tefal-dampfglattersteamer-fur-kleidung-kompakt-schnell-einsatzbereit-2792810",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fur-alle-naspa-kunden-am-168-fur-5eur-pp-ins-taunus-wunderland-2792930",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/revell-u-boot-das-boot-u-96-brick-system-00960-13775-euro-durch-topcashback-moglich-6483-klemmbausteine-thalia-neukunde-2792946",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/lieblingsfotode-80-rabatt-auf-personalisierte-fussmatten-ab-eur-1699-2793270",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/haz-zur-wm-6-monate-fur-199-bestpreis-hannover-2793197",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cineplex-neckarsulm-kinosessel-geschenkt-2793272",
+      "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/akko-3084b-plus-black-gold-kabellose-mechanische-tastatur-75-iso-de-v3-creamy-blue-pro-doubleshot-pbt-keycaps-hot-swap-rgb-2793277",
+      "ts": 1782255556810
     }
   ]
 }
