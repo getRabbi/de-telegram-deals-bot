@@ -2,10 +2,16 @@
   "date": "2026-06-23",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bmw-ix3-40neues-modell-320-ps-826kwh-637-wltp-oder-50-xdrive-469-ps-109-kwh-805-km-wltp-400-kw-dc-dt-neuwagenforderfahig-2792797",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-weste-steppweste-schwarz-fur-2089-eur-nur-noch-in-s-2792961",
+    "mydealz|https://www.mydealz.de/deals/amazon-tefal-dampfglattersteamer-fur-kleidung-kompakt-schnell-einsatzbereit-2792810",
+    "mydealz|https://www.mydealz.de/deals/fur-alle-naspa-kunden-am-168-fur-5eur-pp-ins-taunus-wunderland-2792930",
+    "mydealz|https://www.mydealz.de/deals/revell-u-boot-das-boot-u-96-brick-system-00960-13775-euro-durch-topcashback-moglich-6483-klemmbausteine-thalia-neukunde-2792946"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/got2b-strand-matte-strandmatte-matt-paste-2790667",
