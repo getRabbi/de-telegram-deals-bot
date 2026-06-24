@@ -1,46 +1,12 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/25-extra-rabatt-asics-birkenstock-nike-new-balance-zb-adidas-mallorca-37-13-48-adidas-gazelle-indoor-41-13-48-2793259",
-    "mydealz|https://www.mydealz.de/deals/hogwarts-legacy-nintendo-switch-2-gkc-fur-33eur-inkl-versand-amazoncom-2793248",
-    "mydealz|https://www.mydealz.de/gutscheine/sixt-share-5eur-gutschein-nur-zwischen-montag-bis-freitag-2793255",
-    "mydealz|https://www.mydealz.de/deals/hyperkin-ultrabeam-ii-charging-handles-fur-4-nintendo-switch-2-joycon-mit-projektionslicht-ladeschiene-alza-lieferung-paketshop-2786655",
-    "mydealz|https://www.mydealz.de/deals/cb-nike-elemental-rucksack-fur-nur-850eur-mit-cb-1000eur-ohne-cb-2792347",
-    "mydealz|https://www.mydealz.de/deals/nici-kuscheltier-faultier-izzy-icetumbler-mit-mutze-35cm-prime-2793321",
-    "mydealz|https://www.mydealz.de/deals/2-stuck-baofeng-v12d-gmsk-digital-und-analog-dualmodus-walkie-talkie-gerauschunterdruckung-drahtloser-frequenzkopie-uhf-neukunden-2793339",
-    "mydealz|https://www.mydealz.de/deals/mario-vs-donkey-kong-3499eur-nintendo-switch-nintendo-eshop-demo-verfugbar-2793807",
-    "mydealz|https://www.mydealz.de/deals/prime-jack-jones-kapuzenpullover-grosse-s-xxl-farbe-schwarz-moonbeam-grosse-s-l-farbe-light-grey-corriander-2729206"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mulltonnenbox-anthrazit-und-modulare-erweiterbar-oder-gleich-die-2-er-3-er-oder-4-er-kombi-2790982",
-      "ts": 1781733846896
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-card-ab-1806-parkside-performance-20-v-akku-kombihammer-pkhap-2034-li-b1-ohne-akku-und-ladegerat-inc-zubehor-fur-3999eur-2791218",
-      "ts": 1781733846896
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-galaxy-s26-ultra-256gb-89910eur-512gb-100710eur-1tb-121410eur-2791101",
-      "ts": 1781733846896
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-eon-stromtarif-mit-bis-zu-500eur-neukundenbonus-und-kwh-24ct-2791209",
-      "ts": 1781733846896
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/siemens-iq300-glaskeramik-kochfeld-60-cm-made-in-germany-touchcontrol-braterzone-21-cm-zweikreiszone-prime-mymediamarktsaturn-2791235",
-      "ts": 1781733846896
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/funko-pop-star-wars-darth-vader-pocket-schlusselanhanger-filialabholung-2791206",
-      "ts": 1781733846896
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/osram-night-breaker-led-smart-h7-bis-zu-330-mehr-helligkeit-6000k-b-ware-2791173",
       "ts": 1781826024610
@@ -136,6 +102,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/akko-3084b-plus-black-gold-kabellose-mechanische-tastatur-75-iso-de-v3-creamy-blue-pro-doubleshot-pbt-keycaps-hot-swap-rgb-2793277",
       "ts": 1782255556810
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/25-extra-rabatt-asics-birkenstock-nike-new-balance-zb-adidas-mallorca-37-13-48-adidas-gazelle-indoor-41-13-48-2793259",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hogwarts-legacy-nintendo-switch-2-gkc-fur-33eur-inkl-versand-amazoncom-2793248",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/sixt-share-5eur-gutschein-nur-zwischen-montag-bis-freitag-2793255",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hyperkin-ultrabeam-ii-charging-handles-fur-4-nintendo-switch-2-joycon-mit-projektionslicht-ladeschiene-alza-lieferung-paketshop-2786655",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-nike-elemental-rucksack-fur-nur-850eur-mit-cb-1000eur-ohne-cb-2792347",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nici-kuscheltier-faultier-izzy-icetumbler-mit-mutze-35cm-prime-2793321",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2-stuck-baofeng-v12d-gmsk-digital-und-analog-dualmodus-walkie-talkie-gerauschunterdruckung-drahtloser-frequenzkopie-uhf-neukunden-2793339",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mario-vs-donkey-kong-3499eur-nintendo-switch-nintendo-eshop-demo-verfugbar-2793807",
+      "ts": 1782338829580
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-jack-jones-kapuzenpullover-grosse-s-xxl-farbe-schwarz-moonbeam-grosse-s-l-farbe-light-grey-corriander-2729206",
+      "ts": 1782338829580
     }
   ]
 }
