@@ -2,10 +2,16 @@
   "date": "2026-06-24",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/25-extra-rabatt-asics-birkenstock-nike-new-balance-zb-adidas-mallorca-37-13-48-adidas-gazelle-indoor-41-13-48-2793259",
+    "mydealz|https://www.mydealz.de/deals/hogwarts-legacy-nintendo-switch-2-gkc-fur-33eur-inkl-versand-amazoncom-2793248",
+    "mydealz|https://www.mydealz.de/gutscheine/sixt-share-5eur-gutschein-nur-zwischen-montag-bis-freitag-2793255",
+    "mydealz|https://www.mydealz.de/deals/hyperkin-ultrabeam-ii-charging-handles-fur-4-nintendo-switch-2-joycon-mit-projektionslicht-ladeschiene-alza-lieferung-paketshop-2786655",
+    "mydealz|https://www.mydealz.de/deals/cb-nike-elemental-rucksack-fur-nur-850eur-mit-cb-1000eur-ohne-cb-2792347"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/mulltonnenbox-anthrazit-und-modulare-erweiterbar-oder-gleich-die-2-er-3-er-oder-4-er-kombi-2790982",
