@@ -2,10 +2,16 @@
   "date": "2026-06-25",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/champion-sport-sonnenbrille-polarisiert-kat-3-uv400-schwarzgrau-modell-cu512801-2747812",
+    "mydealz|https://www.mydealz.de/deals/flexispot-oc4-ergonomischer-burostuhl-netz-135-neigbar-3d-kopfstutze-verstellbare-lendenstutze-fussstutze-amazon-prime-2764428",
+    "mydealz|https://www.mydealz.de/deals/soul-of-the-dungeon-rogue-lite-actionspiel-seit-heute-kostenlos-steam-pc-mac-linux-2793835",
+    "mydealz|https://www.mydealz.de/deals/young-5eur-gewinn-nach-ankauf-original-telekom-netz-google-pixel-10-256gb-allnetsms-flat-30gb-1995eurmonat-495eur-zuzahlung-2794659",
+    "mydealz|https://www.mydealz.de/deals/playstation-5-pro-disc-laufwerk-stellar-blade-set-2794642"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/osram-night-breaker-led-smart-h7-bis-zu-330-mehr-helligkeit-6000k-b-ware-2791173",
