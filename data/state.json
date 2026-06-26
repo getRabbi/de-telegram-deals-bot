@@ -2,7 +2,7 @@
   "date": "2026-06-26",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/payback-div-p-coupons-barcodes-aus-prospekten-kw2626-fur-netto-m6-2795664",
     "mydealz|https://www.mydealz.de/deals/google-fitbit-charge-6-aktivitatstracker-verschiedene-farben-2795431",
     "mydealz|https://www.mydealz.de/deals/gigakombi-samsung-galaxy-s26-256gb-adidas-heimtrikot-139eur-vs-idealo-flat-im-vodafone-netz-80gb-2999eurmnt-1eur-zz-120eur-ohne-gk-2795670",
-    "mydealz|https://www.mydealz.de/deals/beko-waschmaschine-warmepumpentrockner-fur-gesamt-599-eur-inkl-vsk-waschmaschine-8kg-mit-1400-umin-trockner-8kg-2795707"
+    "mydealz|https://www.mydealz.de/deals/beko-waschmaschine-warmepumpentrockner-fur-gesamt-599-eur-inkl-vsk-waschmaschine-8kg-mit-1400-umin-trockner-8kg-2795707",
+    "mydealz|https://www.mydealz.de/deals/alpina-d4-gran-coupe-355-ps-allrad-automatik-360-grad-head-up-disp-harman-kardon-colorverglasung-led-uvm-dt-neufahrzeug-2796272",
+    "mydealz|https://www.mydealz.de/deals/costa-toscana-kreuzfahrt-mittelmeer-4-nachte-fur-ca-eur-227-pp-auch-singles-tlw-ferienzeit-2796193",
+    "mydealz|https://www.mydealz.de/deals/spartanien-hanseatic-bank-goldcard-110eur-pramie-2796295",
+    "mydealz|https://www.mydealz.de/deals/rammstein-zick-zack-single-heft-6-poster-xxl-plakat-30-sticker-cd-prime-2796158",
+    "mydealz|https://www.mydealz.de/deals/pieper-chanel-bleu-de-chanel-eau-de-parfum-150ml-grosser-flakon-fur-11610-eur-10050ml-fur-92656745-eur-2796165"
   ],
   "postedHistory": [
     {
