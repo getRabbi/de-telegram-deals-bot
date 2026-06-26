@@ -1,11 +1,18 @@
 {
   "date": "2026-06-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/septima-brettspiel-bestpreis-bei-milan-spiele-2795510",
+    "mydealz|https://www.mydealz.de/deals/netto-md-1kg-bananen-fur-1eur-2795692",
+    "mydealz|https://www.mydealz.de/deals/payback-div-p-coupons-barcodes-aus-prospekten-kw2626-fur-netto-m6-2795664",
+    "mydealz|https://www.mydealz.de/deals/google-fitbit-charge-6-aktivitatstracker-verschiedene-farben-2795431",
+    "mydealz|https://www.mydealz.de/deals/gigakombi-samsung-galaxy-s26-256gb-adidas-heimtrikot-139eur-vs-idealo-flat-im-vodafone-netz-80gb-2999eurmnt-1eur-zz-120eur-ohne-gk-2795670",
+    "mydealz|https://www.mydealz.de/deals/beko-waschmaschine-warmepumpentrockner-fur-gesamt-599-eur-inkl-vsk-waschmaschine-8kg-mit-1400-umin-trockner-8kg-2795707"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/osram-night-breaker-led-smart-h7-bis-zu-330-mehr-helligkeit-6000k-b-ware-2791173",
