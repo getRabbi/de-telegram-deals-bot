@@ -1,64 +1,12 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/septima-brettspiel-bestpreis-bei-milan-spiele-2795510",
-    "mydealz|https://www.mydealz.de/deals/netto-md-1kg-bananen-fur-1eur-2795692",
-    "mydealz|https://www.mydealz.de/deals/payback-div-p-coupons-barcodes-aus-prospekten-kw2626-fur-netto-m6-2795664",
-    "mydealz|https://www.mydealz.de/deals/google-fitbit-charge-6-aktivitatstracker-verschiedene-farben-2795431",
-    "mydealz|https://www.mydealz.de/deals/gigakombi-samsung-galaxy-s26-256gb-adidas-heimtrikot-139eur-vs-idealo-flat-im-vodafone-netz-80gb-2999eurmnt-1eur-zz-120eur-ohne-gk-2795670",
-    "mydealz|https://www.mydealz.de/deals/beko-waschmaschine-warmepumpentrockner-fur-gesamt-599-eur-inkl-vsk-waschmaschine-8kg-mit-1400-umin-trockner-8kg-2795707",
-    "mydealz|https://www.mydealz.de/deals/alpina-d4-gran-coupe-355-ps-allrad-automatik-360-grad-head-up-disp-harman-kardon-colorverglasung-led-uvm-dt-neufahrzeug-2796272",
-    "mydealz|https://www.mydealz.de/deals/costa-toscana-kreuzfahrt-mittelmeer-4-nachte-fur-ca-eur-227-pp-auch-singles-tlw-ferienzeit-2796193",
-    "mydealz|https://www.mydealz.de/deals/spartanien-hanseatic-bank-goldcard-110eur-pramie-2796295",
-    "mydealz|https://www.mydealz.de/deals/rammstein-zick-zack-single-heft-6-poster-xxl-plakat-30-sticker-cd-prime-2796158",
-    "mydealz|https://www.mydealz.de/deals/pieper-chanel-bleu-de-chanel-eau-de-parfum-150ml-grosser-flakon-fur-11610-eur-10050ml-fur-92656745-eur-2796165",
-    "mydealz|https://www.mydealz.de/deals/midea-leiser-standventilator-mit-horizontal-und-vertikal-funktion-prime-etwas-gunstiger-2796171",
-    "mydealz|https://www.mydealz.de/deals/vevor-230v-elektrische-seilwinde-125kg-bis-250kg-2796818",
-    "mydealz|https://www.mydealz.de/deals/2021-mclaren-sabre-kostenlos-forza-horizon-6-2796820",
-    "mydealz|https://www.mydealz.de/deals/ugreen-80gbps-m2-nvme-ssd-gehause-mit-passivem-kuhlsystem-kompatibel-mit-thunderbolt-5-4-usb4-bis-zu-7000mbs-inkl-50cm-kabel-2796755"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/osram-night-breaker-led-smart-h7-bis-zu-330-mehr-helligkeit-6000k-b-ware-2791173",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-towerfall-fur-nintendo-switch-metacritic-82-zaf-341eur-nor-360eur-2763038",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-winmau-blade-x-dartscheibe-2791364",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kia-ev5-air-218-ps-814-kwh-530km-wltp-7-jahre-garantie-auch-awd-als-earth-gt-line-oder-gt-dt-bestellfzg-mit-kurz-2791428",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/napoleon-gasgrill-rogue-pro-425-charcoal-grau-plancha-tool-set-2025-2791405",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/20eur-spartanien-cashback-100eur-fc-bayern-gutschein-auch-fur-dfl-trikot-2792643",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/blacklist-mafia-gratis-bei-indiegala-2792647",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/blitzwolf-bw-s33-420w-8-ports-desktop-ladestation-2750627",
-      "ts": 1781826024610
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/preisfehler-ecoflow-heatguard-solarfolie-2792691",
-      "ts": 1781826024610
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
       "ts": 1782168106490
@@ -190,6 +138,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/7-wonders-edifice-erweiterung-kennerspiel-strategiespiel-prime-2794516",
       "ts": 1782428841800
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/septima-brettspiel-bestpreis-bei-milan-spiele-2795510",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-1kg-bananen-fur-1eur-2795692",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/payback-div-p-coupons-barcodes-aus-prospekten-kw2626-fur-netto-m6-2795664",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-fitbit-charge-6-aktivitatstracker-verschiedene-farben-2795431",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gigakombi-samsung-galaxy-s26-256gb-adidas-heimtrikot-139eur-vs-idealo-flat-im-vodafone-netz-80gb-2999eurmnt-1eur-zz-120eur-ohne-gk-2795670",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/beko-waschmaschine-warmepumpentrockner-fur-gesamt-599-eur-inkl-vsk-waschmaschine-8kg-mit-1400-umin-trockner-8kg-2795707",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/alpina-d4-gran-coupe-355-ps-allrad-automatik-360-grad-head-up-disp-harman-kardon-colorverglasung-led-uvm-dt-neufahrzeug-2796272",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/costa-toscana-kreuzfahrt-mittelmeer-4-nachte-fur-ca-eur-227-pp-auch-singles-tlw-ferienzeit-2796193",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spartanien-hanseatic-bank-goldcard-110eur-pramie-2796295",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rammstein-zick-zack-single-heft-6-poster-xxl-plakat-30-sticker-cd-prime-2796158",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pieper-chanel-bleu-de-chanel-eau-de-parfum-150ml-grosser-flakon-fur-11610-eur-10050ml-fur-92656745-eur-2796165",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/midea-leiser-standventilator-mit-horizontal-und-vertikal-funktion-prime-etwas-gunstiger-2796171",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vevor-230v-elektrische-seilwinde-125kg-bis-250kg-2796818",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2021-mclaren-sabre-kostenlos-forza-horizon-6-2796820",
+      "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ugreen-80gbps-m2-nvme-ssd-gehause-mit-passivem-kuhlsystem-kompatibel-mit-thunderbolt-5-4-usb4-bis-zu-7000mbs-inkl-50cm-kabel-2796755",
+      "ts": 1782511348161
     }
   ]
 }
