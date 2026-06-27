@@ -1,22 +1,11 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/sony-playstation-5-slim-825gb-digital-edition-cfi-2116-b01y-1-controller-b-ware-2794237",
-    "mydealz|https://www.mydealz.de/deals/formula-1-die-ausstellung-in-munchen-hotel-inkl-fruhstuck-ab-118eur-fur-2-personen-2796688",
-    "mydealz|https://www.mydealz.de/deals/pokemon-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte-prime-einladung-2796792",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-10a-eff-30410eur-mit-trade-inn-mein-pixel-app-2797457",
-    "mydealz|https://www.mydealz.de/deals/steam-stray-fur-1159eur-at-loaded-2762850",
-    "mydealz|https://www.mydealz.de/deals/spin-master-games-jumanji-familienspiel-2-4-spieler-ab-8-jahren-mit-100-challenge-karten-gruner-kuppel-zum-reime-dechiffrieren-prime-2797437",
-    "mydealz|https://www.mydealz.de/deals/cube-litening-air-c68x-race-2026-56-ultegra-di2-powermeter-newmen-streem-a49a54-carbon-73-kg-2797435",
-    "mydealz|https://www.mydealz.de/deals/victorinox-spartan-wood-amazon-prime-2797374",
-    "mydealz|https://www.mydealz.de/deals/eneba-40eur-netflix-guthabenkarte-geschenkkarte-25eur-50eur-auch-zum-guten-kurs-2797658",
-    "mydealz|https://www.mydealz.de/deals/buture-vc90-600w-55kpa-saugleistung-akku-staubsauger-mit-mehreren-aufsatzen-5-stufiges-fitersystem-inkl-hepa-filter-2795517"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
@@ -209,6 +198,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ugreen-80gbps-m2-nvme-ssd-gehause-mit-passivem-kuhlsystem-kompatibel-mit-thunderbolt-5-4-usb4-bis-zu-7000mbs-inkl-50cm-kabel-2796755",
       "ts": 1782511348161
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sony-playstation-5-slim-825gb-digital-edition-cfi-2116-b01y-1-controller-b-ware-2794237",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/formula-1-die-ausstellung-in-munchen-hotel-inkl-fruhstuck-ab-118eur-fur-2-personen-2796688",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte-prime-einladung-2796792",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-10a-eff-30410eur-mit-trade-inn-mein-pixel-app-2797457",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-stray-fur-1159eur-at-loaded-2762850",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spin-master-games-jumanji-familienspiel-2-4-spieler-ab-8-jahren-mit-100-challenge-karten-gruner-kuppel-zum-reime-dechiffrieren-prime-2797437",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cube-litening-air-c68x-race-2026-56-ultegra-di2-powermeter-newmen-streem-a49a54-carbon-73-kg-2797435",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-spartan-wood-amazon-prime-2797374",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eneba-40eur-netflix-guthabenkarte-geschenkkarte-25eur-50eur-auch-zum-guten-kurs-2797658",
+      "ts": 1782600864484
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/buture-vc90-600w-55kpa-saugleistung-akku-staubsauger-mit-mehreren-aufsatzen-5-stufiges-fitersystem-inkl-hepa-filter-2795517",
+      "ts": 1782600864484
     }
   ]
 }
