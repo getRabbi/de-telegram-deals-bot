@@ -1,11 +1,18 @@
 {
   "date": "2026-06-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/sony-playstation-5-slim-825gb-digital-edition-cfi-2116-b01y-1-controller-b-ware-2794237",
+    "mydealz|https://www.mydealz.de/deals/formula-1-die-ausstellung-in-munchen-hotel-inkl-fruhstuck-ab-118eur-fur-2-personen-2796688",
+    "mydealz|https://www.mydealz.de/deals/pokemon-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte-prime-einladung-2796792",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-10a-eff-30410eur-mit-trade-inn-mein-pixel-app-2797457",
+    "mydealz|https://www.mydealz.de/deals/steam-stray-fur-1159eur-at-loaded-2762850",
+    "mydealz|https://www.mydealz.de/deals/spin-master-games-jumanji-familienspiel-2-4-spieler-ab-8-jahren-mit-100-challenge-karten-gruner-kuppel-zum-reime-dechiffrieren-prime-2797437"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
