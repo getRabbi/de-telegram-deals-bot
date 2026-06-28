@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/thalia-neukunde-lego-speed-champions-zeitmaschine-aus-zuruck-in-die-zukunft-77256-gratis-versand-uber-kultklub-oder-clickcollect-2797587",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/schiesser-shorts-5er-pack-dunkelblau-955-in-xl-und-xxl-2799420",
     "mydealz|https://www.mydealz.de/deals/yale-smart-lock-l2-lite-mit-keypad-fur-14107-eur-auch-l2-mit-fingerprint-keypad-fur-24165-eur-yale-summer-sale-smart-locks-2799354",
     "mydealz|https://www.mydealz.de/deals/lg-db476txs-vollintegrierbarer-einbaugeschirrspuler-60-cm-14-massgedecke-95l-43-db-quadwash-truesteam-fernstart-eek-a-primemms-2799389",
-    "mydealz|https://www.mydealz.de/deals/wiso-steuer-abo-steuererklarung-2025-fur-2299-eur-statt-3599-eur-im-ersten-jahr-bei-buhl-mit-gutscheincode-2796674"
+    "mydealz|https://www.mydealz.de/deals/wiso-steuer-abo-steuererklarung-2025-fur-2299-eur-statt-3599-eur-im-ersten-jahr-bei-buhl-mit-gutscheincode-2796674",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-video-kanal-paramount-standard-ohne-werbung-fur-299eurmonat-fur-2-monate-2799387",
+    "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-optimale-ordnung-3er-blister-1599eur-booster-bundle-2994eur-ttb-5299eur-display-8992eur-prime-einladung-2799412",
+    "mydealz|https://www.mydealz.de/deals/ecoflow-delta-3-classic-mit-stream-mikrowechselrichter-2800723",
+    "mydealz|https://www.mydealz.de/deals/obb-sommer-ticket-30-tage-unbegrenzt-bahn-fahren-durch-osterreich-u20-fur-62eur-20-26j-fur-83eur-inkl-vorteilscard-jul-sep-2800705"
   ],
   "postedHistory": [
     {
