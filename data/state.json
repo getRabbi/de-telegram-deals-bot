@@ -1,11 +1,18 @@
 {
   "date": "2026-06-28",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/thalia-neukunde-lego-speed-champions-zeitmaschine-aus-zuruck-in-die-zukunft-77256-gratis-versand-uber-kultklub-oder-clickcollect-2797587",
+    "mydealz|https://www.mydealz.de/deals/hotshot-racing-xbox-oneseries-xs-fur-254eur-gratis-dlc-is-store-arcade-racer-4-spieler-splitscreen-2797598",
+    "mydealz|https://www.mydealz.de/deals/schiesser-shorts-5er-pack-dunkelblau-955-in-xl-und-xxl-2799420",
+    "mydealz|https://www.mydealz.de/deals/yale-smart-lock-l2-lite-mit-keypad-fur-14107-eur-auch-l2-mit-fingerprint-keypad-fur-24165-eur-yale-summer-sale-smart-locks-2799354",
+    "mydealz|https://www.mydealz.de/deals/lg-db476txs-vollintegrierbarer-einbaugeschirrspuler-60-cm-14-massgedecke-95l-43-db-quadwash-truesteam-fernstart-eek-a-primemms-2799389",
+    "mydealz|https://www.mydealz.de/deals/wiso-steuer-abo-steuererklarung-2025-fur-2299-eur-statt-3599-eur-im-ersten-jahr-bei-buhl-mit-gutscheincode-2796674"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
