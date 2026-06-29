@@ -1,42 +1,12 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tcl-75c7k-75-zoll-qd-mini-led-google-tv-144hz-bang-olufsen-sound-2800658",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-deskspace-deal-days-verschiedene-schreibtische-burostuhle-im-angebot-on-top-mit-gs-15-rabatt-zb-pro-gestell-ab-16915eur-2800625",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-day-ugreen-hitune-max5c-kopfhorer-over-ear-hybrid-anc-hi-res-audio-ldac-75h-akku-bluetooth-54-spatial-audio-2800235",
-    "mydealz|https://www.mydealz.de/deals/3x-otto-home-baumwolle-bettwasche-set-40x80-cm-135x200-cm-grau-weiss-fur-2889-eur-2800950",
-    "mydealz|https://www.mydealz.de/deals/huawei-4g-cpe-5s-b320-router-cat4-lte-200-mbits-wifi-4-300-mbits-lanwan-bis-32-gerate-hpue-fur-30-reichweite-prime-2800839"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
-      "ts": 1782168106490
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-icons-40824-liebesbote-tweety-40824-looney-tunes-baufigur-412-teile-2-verschiedene-bauvarianten-2792628",
-      "ts": 1782168106490
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hisense-rs5p528stie-side-by-side-kuhlschrank-mit-eis-wasserspender-528l-edelstahl-eek-e-connectlife-supercool-amazon-2792745",
-      "ts": 1782168106490
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-lokal-midsommar-sammeldeal-2789706",
-      "ts": 1782168106490
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-paderborn-lego-fifa-pokal-gratis-2792784",
-      "ts": 1782168106490
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/firsty-esim-unlimited-datenflat-mit-300kb-fur-europa-und-usa-2319425",
-      "ts": 1782168106490
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-ix3-40neues-modell-320-ps-826kwh-637-wltp-oder-50-xdrive-469-ps-109-kwh-805-km-wltp-400-kw-dc-dt-neuwagenforderfahig-2792797",
       "ts": 1782255556810
@@ -284,6 +254,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/obb-sommer-ticket-30-tage-unbegrenzt-bahn-fahren-durch-osterreich-u20-fur-62eur-20-26j-fur-83eur-inkl-vorteilscard-jul-sep-2800705",
       "ts": 1782687241116
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tcl-75c7k-75-zoll-qd-mini-led-google-tv-144hz-bang-olufsen-sound-2800658",
+      "ts": 1782773136751
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-deskspace-deal-days-verschiedene-schreibtische-burostuhle-im-angebot-on-top-mit-gs-15-rabatt-zb-pro-gestell-ab-16915eur-2800625",
+      "ts": 1782773136751
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-day-ugreen-hitune-max5c-kopfhorer-over-ear-hybrid-anc-hi-res-audio-ldac-75h-akku-bluetooth-54-spatial-audio-2800235",
+      "ts": 1782773136751
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-otto-home-baumwolle-bettwasche-set-40x80-cm-135x200-cm-grau-weiss-fur-2889-eur-2800950",
+      "ts": 1782773136751
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/huawei-4g-cpe-5s-b320-router-cat4-lte-200-mbits-wifi-4-300-mbits-lanwan-bis-32-gerate-hpue-fur-30-reichweite-prime-2800839",
+      "ts": 1782773136751
     }
   ]
 }
