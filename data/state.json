@@ -2,10 +2,16 @@
   "date": "2026-06-29",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/tcl-75c7k-75-zoll-qd-mini-led-google-tv-144hz-bang-olufsen-sound-2800658",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-deskspace-deal-days-verschiedene-schreibtische-burostuhle-im-angebot-on-top-mit-gs-15-rabatt-zb-pro-gestell-ab-16915eur-2800625",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-day-ugreen-hitune-max5c-kopfhorer-over-ear-hybrid-anc-hi-res-audio-ldac-75h-akku-bluetooth-54-spatial-audio-2800235",
+    "mydealz|https://www.mydealz.de/deals/3x-otto-home-baumwolle-bettwasche-set-40x80-cm-135x200-cm-grau-weiss-fur-2889-eur-2800950",
+    "mydealz|https://www.mydealz.de/deals/huawei-4g-cpe-5s-b320-router-cat4-lte-200-mbits-wifi-4-300-mbits-lanwan-bis-32-gerate-hpue-fur-30-reichweite-prime-2800839"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bosch-glm40-laser-entfernungsmesser-40-meter-hochpraziser-laser-entfernungsmesser-2764671",
