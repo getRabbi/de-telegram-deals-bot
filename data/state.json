@@ -1,11 +1,18 @@
 {
   "date": "2026-06-30",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bosch-universalimpact-730-schlagbohrmaschine-mit-koffer-730-w-14-mm-in-mauerwerk-30-mm-in-holz-amazon-prime-2800860",
+    "mydealz|https://www.mydealz.de/deals/bosch-unlimited-9-bks931ba-akku-staubsauger-microclean-hepa-staubkomprimierung-led-display-30-ah-akku-amazon-prime-2800872",
+    "mydealz|https://www.mydealz.de/deals/urlaubspiraten-osterreich-zauchensee-magic-mountains-salzburger-hof-4-sterne-2-nachte-ab-189-pp-vp-1200-qm-sky-spa-2798671",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-outdoor-kabeltrommel-300-ku-4110-40m-bremaxx-kabel-ip44-spritzwasserschutz-5-steckdosen-made-in-germany-prime-2801500",
+    "mydealz|https://www.mydealz.de/deals/cb-lg-oled-tv-42-zoll-c5-oled42c5elb-zahlung-paypal-2801514",
+    "mydealz|https://www.mydealz.de/deals/corsair-nautilus-240-rs-lcd-aio-wasserkuhlung-schwarz-240mm-21-ips-lcd-mit-giphy-2x-rs120-lufter-daisy-chain-lga-18511700-am5am4-2801417"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bmw-ix3-40neues-modell-320-ps-826kwh-637-wltp-oder-50-xdrive-469-ps-109-kwh-805-km-wltp-400-kw-dc-dt-neuwagenforderfahig-2792797",
