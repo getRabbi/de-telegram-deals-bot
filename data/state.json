@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/bosch-universalimpact-730-schlagbohrmaschine-mit-koffer-730-w-14-mm-in-mauerwerk-30-mm-in-holz-amazon-prime-2800860",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/gregory-border-reiserucksack-30l-amazon-it-2801717",
     "mydealz|https://www.mydealz.de/deals/myhome-andas-tee-becher-4er-set-trinkset-bruddesta-350ml-weiss-fur-1989-eur-2801742",
     "mydealz|https://www.mydealz.de/deals/kesser-solar-poolabdeckung-pool-abdeckplane-rund-o305cm-poolplane-200gm2-auch-andere-grossen-stark-reduziert-2774773",
-    "mydealz|https://www.mydealz.de/deals/prime-day-bosch-professional-kantenfrase-glf-55-6-550w-33000-min1-2801249"
+    "mydealz|https://www.mydealz.de/deals/prime-day-bosch-professional-kantenfrase-glf-55-6-550w-33000-min1-2801249",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-brothers-a-tale-of-two-sons-fur-nintendo-switch-preisgekrontes-adventure-metacritic-79-83-uk-230eur-zaf-248eur-2757889",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-watch-2-smartwatch-wear-os-143-amoled-466x466-snapdragon-w5-gen-1-2gb32gb-160-sportmodi-gnss-l1l5-bis-65-h-akku-5atm-2802244",
+    "mydealz|https://www.mydealz.de/deals/deuter-bike-rucksack-race-16-alu-greystone-2802111",
+    "mydealz|https://www.mydealz.de/deals/tapo-tp-link-smart-wlan-steckdose-p110-mit-energieverbrauchsmesser-smart-home-alexa-steckdose-mini-4-pack-2802160"
   ],
   "postedHistory": [
     {
