@@ -2,7 +2,7 @@
   "date": "2026-06-30",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/urlaubspiraten-osterreich-zauchensee-magic-mountains-salzburger-hof-4-sterne-2-nachte-ab-189-pp-vp-1200-qm-sky-spa-2798671",
     "mydealz|https://www.mydealz.de/deals/brennenstuhl-outdoor-kabeltrommel-300-ku-4110-40m-bremaxx-kabel-ip44-spritzwasserschutz-5-steckdosen-made-in-germany-prime-2801500",
     "mydealz|https://www.mydealz.de/deals/cb-lg-oled-tv-42-zoll-c5-oled42c5elb-zahlung-paypal-2801514",
-    "mydealz|https://www.mydealz.de/deals/corsair-nautilus-240-rs-lcd-aio-wasserkuhlung-schwarz-240mm-21-ips-lcd-mit-giphy-2x-rs120-lufter-daisy-chain-lga-18511700-am5am4-2801417"
+    "mydealz|https://www.mydealz.de/deals/corsair-nautilus-240-rs-lcd-aio-wasserkuhlung-schwarz-240mm-21-ips-lcd-mit-giphy-2x-rs120-lufter-daisy-chain-lga-18511700-am5am4-2801417",
+    "mydealz|https://www.mydealz.de/deals/magentatv-flex-paramount-oder-rtl-premium-5-monate-gratis-dazn-super-sports-dauerhaft-fur-999eur-statt-2499eur-ohne-vertragslaufzeit-2801355",
+    "mydealz|https://www.mydealz.de/deals/gregory-border-reiserucksack-30l-amazon-it-2801717",
+    "mydealz|https://www.mydealz.de/deals/myhome-andas-tee-becher-4er-set-trinkset-bruddesta-350ml-weiss-fur-1989-eur-2801742",
+    "mydealz|https://www.mydealz.de/deals/kesser-solar-poolabdeckung-pool-abdeckplane-rund-o305cm-poolplane-200gm2-auch-andere-grossen-stark-reduziert-2774773",
+    "mydealz|https://www.mydealz.de/deals/prime-day-bosch-professional-kantenfrase-glf-55-6-550w-33000-min1-2801249"
   ],
   "postedHistory": [
     {
