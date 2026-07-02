@@ -1,11 +1,18 @@
 {
   "date": "2026-07-02",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/prime-spar-abo-adidas-ice-dive-after-shave-zitrusnote-und-aromatischem-patschuli-100-ml-2802149",
+    "mydealz|https://www.mydealz.de/deals/aktuelle-usenet-angebote-sommer-2026-2802341",
+    "mydealz|https://www.mydealz.de/deals/steam-the-binding-of-isaac-rebirth-complete-bundle-2802465",
+    "mydealz|https://www.mydealz.de/deals/garmin-vivoactive-5-42mm-gps-smartwatch-2802278",
+    "mydealz|https://www.mydealz.de/deals/zimmer-orkan-gegen-hitze-edm-ventilator-100w-o45cm-3-geschwindigkeiten-65-db-2802282",
+    "mydealz|https://www.mydealz.de/deals/switchbot-art-frame-73-e-ink-bilderrahmen-w8402000-6-farben-spectra-6-800480-2000mah-bis-2-jahre-wlan-ki-kunst-alexa-kabellos-2795755"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/champion-sport-sonnenbrille-polarisiert-kat-3-uv400-schwarzgrau-modell-cu512801-2747812",
