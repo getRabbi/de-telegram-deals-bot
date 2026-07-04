@@ -1,11 +1,18 @@
 {
   "date": "2026-07-04",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
+    "mydealz|https://www.mydealz.de/deals/clash-royale-emote-goblin-gratis-im-supercell-store-2802764",
+    "mydealz|https://www.mydealz.de/deals/otto-up-neukunde-5402eur-casio-armbanduhr-mtp-b190d-7bvef-2795196",
+    "mydealz|https://www.mydealz.de/deals/system-of-a-down-mezmerize-vinyl-prime-2802706",
+    "mydealz|https://www.mydealz.de/deals/hybrid-zanes-watch-face-google-playstore-2759718",
+    "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-gold-edition-xbox-series-x-fur-1565eur-amazonfr-2802861"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/sony-playstation-5-slim-825gb-digital-edition-cfi-2116-b01y-1-controller-b-ware-2794237",
