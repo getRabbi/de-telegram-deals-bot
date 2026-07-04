@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/otto-up-neukunde-5402eur-casio-armbanduhr-mtp-b190d-7bvef-2795196",
     "mydealz|https://www.mydealz.de/deals/system-of-a-down-mezmerize-vinyl-prime-2802706",
     "mydealz|https://www.mydealz.de/deals/hybrid-zanes-watch-face-google-playstore-2759718",
-    "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-gold-edition-xbox-series-x-fur-1565eur-amazonfr-2802861"
+    "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-gold-edition-xbox-series-x-fur-1565eur-amazonfr-2802861",
+    "mydealz|https://www.mydealz.de/deals/songmics-camping-und-strandstuhl-rot-weiss-klappbar-4-stufig-verstellbar-bis-180-150-kg-belastbarkeit-schultergurte-2802296",
+    "mydealz|https://www.mydealz.de/deals/netto-oatly-barista-2802461",
+    "mydealz|https://www.mydealz.de/deals/comfee-midena-mini-tischgeschirrspuler-6-programme-3-geschirrsets-babyfunktion-verzogerungsstart-wassertank-weiss-2802515",
+    "mydealz|https://www.mydealz.de/deals/viofo-a119m-pro-mit-code-ddg5-und-2-vorkasse-2802571"
   ],
   "postedHistory": [
     {
