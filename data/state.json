@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/amazon-intel-core-ultra-5-245kf-14-kerne-6-p-cores-8-e-cores-bis-zu-52-ghz-2802995",
@@ -11,7 +11,11 @@
     "mydealz|https://www.mydealz.de/deals/burger-king-pommes-small-oder-kaffee-gratis-2802971",
     "mydealz|https://www.mydealz.de/deals/creality-k2-se-3d-drucker-2026-500-mms-corexy-autoleveling-mehrfarbdruck-kompatibel-cfs-nicht-enthalten-220x215x245mm-bauraum-prime-2802784",
     "mydealz|https://www.mydealz.de/deals/50eur-lieferando-guthaben-bei-kinguin-2803176",
-    "mydealz|https://www.mydealz.de/deals/sommerhose-easy-hose-leinenmix-fur-damen-von-uniqlo-2803159"
+    "mydealz|https://www.mydealz.de/deals/sommerhose-easy-hose-leinenmix-fur-damen-von-uniqlo-2803159",
+    "mydealz|https://www.mydealz.de/deals/wochenende-sammeldeal-angebot-steam-sommeraktion-nintendo-switch-playstation-4-playstation-5-xbox-gog-epic-games-pc-kostenloses-2803162",
+    "mydealz|https://www.mydealz.de/deals/prime-kompaktes-belkin-45w-usb-c-power-delivery-31-ladegerat-2803105",
+    "mydealz|https://www.mydealz.de/deals/kia-pv5-7-sitzer-passengerneues-modell515kwh-7-sitzer-mit-712kwh-fur-34721eurauch-als-pluselitedeutsche-bestellfahrzeuge-mit-kurz-2803149",
+    "mydealz|https://www.mydealz.de/deals/magic-life-fuerteventura-im-september-deutlich-reduziert-2803065"
   ],
   "postedHistory": [
     {
