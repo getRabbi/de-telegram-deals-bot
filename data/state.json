@@ -1,63 +1,12 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/amazon-intel-core-ultra-5-245kf-14-kerne-6-p-cores-8-e-cores-bis-zu-52-ghz-2802995",
-    "mydealz|https://www.mydealz.de/deals/saupiquet-rio-mare-tuna-fillets-in-olive-oil-finest-olive-oil-real-italian-flavour-24-x-80-g-2803024",
-    "mydealz|https://www.mydealz.de/deals/burger-king-pommes-small-oder-kaffee-gratis-2802971",
-    "mydealz|https://www.mydealz.de/deals/creality-k2-se-3d-drucker-2026-500-mms-corexy-autoleveling-mehrfarbdruck-kompatibel-cfs-nicht-enthalten-220x215x245mm-bauraum-prime-2802784",
-    "mydealz|https://www.mydealz.de/deals/50eur-lieferando-guthaben-bei-kinguin-2803176",
-    "mydealz|https://www.mydealz.de/deals/sommerhose-easy-hose-leinenmix-fur-damen-von-uniqlo-2803159",
-    "mydealz|https://www.mydealz.de/deals/wochenende-sammeldeal-angebot-steam-sommeraktion-nintendo-switch-playstation-4-playstation-5-xbox-gog-epic-games-pc-kostenloses-2803162",
-    "mydealz|https://www.mydealz.de/deals/prime-kompaktes-belkin-45w-usb-c-power-delivery-31-ladegerat-2803105",
-    "mydealz|https://www.mydealz.de/deals/kia-pv5-7-sitzer-passengerneues-modell515kwh-7-sitzer-mit-712kwh-fur-34721eurauch-als-pluselitedeutsche-bestellfahrzeuge-mit-kurz-2803149",
-    "mydealz|https://www.mydealz.de/deals/magic-life-fuerteventura-im-september-deutlich-reduziert-2803065"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sony-playstation-5-slim-825gb-digital-edition-cfi-2116-b01y-1-controller-b-ware-2794237",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/formula-1-die-ausstellung-in-munchen-hotel-inkl-fruhstuck-ab-118eur-fur-2-personen-2796688",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte-prime-einladung-2796792",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-10a-eff-30410eur-mit-trade-inn-mein-pixel-app-2797457",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-stray-fur-1159eur-at-loaded-2762850",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spin-master-games-jumanji-familienspiel-2-4-spieler-ab-8-jahren-mit-100-challenge-karten-gruner-kuppel-zum-reime-dechiffrieren-prime-2797437",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cube-litening-air-c68x-race-2026-56-ultegra-di2-powermeter-newmen-streem-a49a54-carbon-73-kg-2797435",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/victorinox-spartan-wood-amazon-prime-2797374",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eneba-40eur-netflix-guthabenkarte-geschenkkarte-25eur-50eur-auch-zum-guten-kurs-2797658",
-      "ts": 1782600864484
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/buture-vc90-600w-55kpa-saugleistung-akku-staubsauger-mit-mehreren-aufsatzen-5-stufiges-fitersystem-inkl-hepa-filter-2795517",
-      "ts": 1782600864484
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/thalia-neukunde-lego-speed-champions-zeitmaschine-aus-zuruck-in-die-zukunft-77256-gratis-versand-uber-kultklub-oder-clickcollect-2797587",
       "ts": 1782687241116
@@ -241,6 +190,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/viofo-a119m-pro-mit-code-ddg5-und-2-vorkasse-2802571",
       "ts": 1783205229409
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-intel-core-ultra-5-245kf-14-kerne-6-p-cores-8-e-cores-bis-zu-52-ghz-2802995",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/saupiquet-rio-mare-tuna-fillets-in-olive-oil-finest-olive-oil-real-italian-flavour-24-x-80-g-2803024",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/burger-king-pommes-small-oder-kaffee-gratis-2802971",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/creality-k2-se-3d-drucker-2026-500-mms-corexy-autoleveling-mehrfarbdruck-kompatibel-cfs-nicht-enthalten-220x215x245mm-bauraum-prime-2802784",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/50eur-lieferando-guthaben-bei-kinguin-2803176",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sommerhose-easy-hose-leinenmix-fur-damen-von-uniqlo-2803159",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wochenende-sammeldeal-angebot-steam-sommeraktion-nintendo-switch-playstation-4-playstation-5-xbox-gog-epic-games-pc-kostenloses-2803162",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-kompaktes-belkin-45w-usb-c-power-delivery-31-ladegerat-2803105",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kia-pv5-7-sitzer-passengerneues-modell515kwh-7-sitzer-mit-712kwh-fur-34721eurauch-als-pluselitedeutsche-bestellfahrzeuge-mit-kurz-2803149",
+      "ts": 1783291931950
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/magic-life-fuerteventura-im-september-deutlich-reduziert-2803065",
+      "ts": 1783291931950
     }
   ]
 }
