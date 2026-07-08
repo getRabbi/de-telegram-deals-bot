@@ -2,10 +2,16 @@
   "date": "2026-07-08",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gaming-pc-asus-prime-rx-9070-xt-ryzen-7-7800x3d-32gb-ddr5-ram-1tb-ssd-konfigurierbar-2803311",
+    "mydealz|https://www.mydealz.de/deals/apple-airtags-2-gen-4er-pack-2803308",
+    "mydealz|https://www.mydealz.de/deals/queens-danish-butter-cookies-traditionelle-danische-butterkekse-500g-prime-spar-abo-2803301",
+    "mydealz|https://www.mydealz.de/deals/kostenlose-quietscheente-im-lufthansa-worldshio-2803304",
+    "mydealz|https://www.mydealz.de/deals/bio-pinguin-sommer-pantoletten-braun-mit-ergonomischem-fussbett-2803554"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-adidas-ice-dive-after-shave-zitrusnote-und-aromatischem-patschuli-100-ml-2802149",
