@@ -2,7 +2,7 @@
   "date": "2026-07-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "zalando|https://www.mydealz.de/deals/zalando-cb-birkenstock-arizona-bf-golds-narrow-riemensandalette-gold-grossen-35-41-2803452",
     "lidl|https://www.mydealz.de/deals/lidl-connect-2026gb-datenvolumen-fur-die-ersten-28-tage-bei-neuaktivierung-der-tarife-smart-sml-vom-2906-1907-2803410",
     "mydealz|https://www.mydealz.de/deals/netto-md-rabattcodes-kw27-2906-0407-bundesweit-einsetzbar-nicht-an-sb-kassen-2803534",
-    "mydealz|https://www.mydealz.de/deals/casio-g-shock-gw-m5610u-1er-tough-solar-20-bar-6-band-funkuhr-auch-negative-display-2803633"
+    "mydealz|https://www.mydealz.de/deals/casio-g-shock-gw-m5610u-1er-tough-solar-20-bar-6-band-funkuhr-auch-negative-display-2803633",
+    "mydealz|https://www.mydealz.de/deals/puma-herren-fussballschuhe-ultra-5-match-mg-wm-2026-lila-fur-2589-eur-nur-noch-in-42-2803703",
+    "mydealz|https://www.mydealz.de/deals/urlaubspiraten-flash-sale-osterreich-heinrichshof-hochkonig-5-nachte-ab-299-euro-pp-2-kinder-bis-jahre-frei-all-inklusive-2803691",
+    "mydealz|https://www.mydealz.de/deals/adidas-basketball-3g-tank-tops-trainingsshirt-fur-1389-eur-xs-xxl-2803704",
+    "mydealz|https://www.mydealz.de/deals/hogwarts-legacy-playstation-4-fur-1398eur-fnac-2804020",
+    "mydealz|https://www.mydealz.de/deals/pokemon-erwachsenenpuzzle-40320-teile-2804063"
   ],
   "postedHistory": [
     {
