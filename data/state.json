@@ -1,11 +1,18 @@
 {
   "date": "2026-07-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/shoop-am-290626-fur-jedes-deutsche-tor-050eur-2803522",
+    "mydealz|https://www.mydealz.de/deals/casio-g-shock-dw-5600ww-7er-alarm-chronograph-200m-wasserdicht-5-jahre-batterie-mineralglas-2801726",
+    "zalando|https://www.mydealz.de/deals/zalando-cb-birkenstock-arizona-bf-golds-narrow-riemensandalette-gold-grossen-35-41-2803452",
+    "lidl|https://www.mydealz.de/deals/lidl-connect-2026gb-datenvolumen-fur-die-ersten-28-tage-bei-neuaktivierung-der-tarife-smart-sml-vom-2906-1907-2803410",
+    "mydealz|https://www.mydealz.de/deals/netto-md-rabattcodes-kw27-2906-0407-bundesweit-einsetzbar-nicht-an-sb-kassen-2803534",
+    "mydealz|https://www.mydealz.de/deals/casio-g-shock-gw-m5610u-1er-tough-solar-20-bar-6-band-funkuhr-auch-negative-display-2803633"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-adidas-ice-dive-after-shave-zitrusnote-und-aromatischem-patschuli-100-ml-2802149",
