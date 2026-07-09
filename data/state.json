@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/shoop-am-290626-fur-jedes-deutsche-tor-050eur-2803522",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/urlaubspiraten-flash-sale-osterreich-heinrichshof-hochkonig-5-nachte-ab-299-euro-pp-2-kinder-bis-jahre-frei-all-inklusive-2803691",
     "mydealz|https://www.mydealz.de/deals/adidas-basketball-3g-tank-tops-trainingsshirt-fur-1389-eur-xs-xxl-2803704",
     "mydealz|https://www.mydealz.de/deals/hogwarts-legacy-playstation-4-fur-1398eur-fnac-2804020",
-    "mydealz|https://www.mydealz.de/deals/pokemon-erwachsenenpuzzle-40320-teile-2804063"
+    "mydealz|https://www.mydealz.de/deals/pokemon-erwachsenenpuzzle-40320-teile-2804063",
+    "mydealz|https://www.mydealz.de/deals/tkt-schwerlastregale-180cm-x-90cm-x-40cm-mit-160kg-fachlast-2803995",
+    "zalando|https://www.mydealz.de/deals/cb-deal-levis-511-slim-fit-jeans-where-the-wind-blows-w29-w32-veschiedene-langen-ca-103eur-zalando-restguthaben-2804029",
+    "mydealz|https://www.mydealz.de/deals/tales-of-grace-f-remastered-nintendo-switch-fur-2092eur-fnac-2803972",
+    "mydealz|https://www.mydealz.de/deals/ninja-detect-power-pro-tb201eu-1200w-blender-fur-10872-eur-inkl-versand-bei-amazonit-statt-13390-eur-2804253"
   ],
   "postedHistory": [
     {
