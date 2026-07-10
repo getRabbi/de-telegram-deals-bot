@@ -1,52 +1,12 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
-    "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-12tb-nas-festplatte-2804325",
-    "mydealz|https://www.mydealz.de/deals/vevor-40l-kompressor-kuhlbox-1224v-230v-fur-12911-eur-statt-14569-eur-2804330",
-    "mydealz|https://www.mydealz.de/deals/hisense-rb3n300ne-kuhl-gefrierkombi-in-inox-oder-dark-inox-314l-a-nofrost-35-db-1873-cm-poco-2804327",
-    "mydealz|https://www.mydealz.de/deals/ml2u-99-ml2u-59-watch-face-wearos-watchfacegoogle-play-store-2804332",
-    "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359",
-    "mydealz|https://www.mydealz.de/deals/intercity-mips-s-pedelec-helm-nta-8776-mit-visier-und-licht-grosse-l-5861-490g-2804389",
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-monatlich-kundbar-45gb-5glte-allmobil-allnet-flat-pro-45-flex-fur-899eur-mtl-0eur-zz-10eur-cashback-2804365",
-    "mydealz|https://www.mydealz.de/deals/the-north-face-vault-26l-rucksack-46-x-28-x-22-cm-077-kg-black-2804426",
-    "mydealz|https://www.mydealz.de/deals/personalisiert-miele-ultraphase-waschmittel-neuer-webshop-20eur-rabatt-15-2804339",
-    "mydealz|https://www.mydealz.de/deals/kons-rove-275-gravelbike-2804575",
-    "mydealz|https://www.mydealz.de/deals/cb-adidas-originals-superstar-ii-unisex-sneaker-in-3-varianten-und-vielen-grossen-2784992",
-    "mydealz|https://www.mydealz.de/deals/xr-creator-con-2026-finals-conference-vip-package-kostenlos-2804581",
-    "mydealz|https://www.mydealz.de/deals/msi-34-pro-mp341cq-office-monitor-3440x1440-curved-1500r-va-100hz-300cdm2-116srgb-2804401",
-    "mydealz|https://www.mydealz.de/deals/vileda-cashback-aktion-bis-zu-20-euro-zuruck-2805274"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-adidas-ice-dive-after-shave-zitrusnote-und-aromatischem-patschuli-100-ml-2802149",
-      "ts": 1783033659308
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aktuelle-usenet-angebote-sommer-2026-2802341",
-      "ts": 1783033659308
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-the-binding-of-isaac-rebirth-complete-bundle-2802465",
-      "ts": 1783033659308
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/garmin-vivoactive-5-42mm-gps-smartwatch-2802278",
-      "ts": 1783033659308
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zimmer-orkan-gegen-hitze-edm-ventilator-100w-o45cm-3-geschwindigkeiten-65-db-2802282",
-      "ts": 1783033659308
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/switchbot-art-frame-73-e-ink-bilderrahmen-w8402000-6-farben-spectra-6-800480-2000mah-bis-2-jahre-wlan-ki-kunst-alexa-kabellos-2795755",
-      "ts": 1783033659308
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
       "ts": 1783205229409
@@ -206,6 +166,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ninja-detect-power-pro-tb201eu-1200w-blender-fur-10872-eur-inkl-versand-bei-amazonit-statt-13390-eur-2804253",
       "ts": 1783635174613
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-12tb-nas-festplatte-2804325",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vevor-40l-kompressor-kuhlbox-1224v-230v-fur-12911-eur-statt-14569-eur-2804330",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hisense-rb3n300ne-kuhl-gefrierkombi-in-inox-oder-dark-inox-314l-a-nofrost-35-db-1873-cm-poco-2804327",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ml2u-99-ml2u-59-watch-face-wearos-watchfacegoogle-play-store-2804332",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/intercity-mips-s-pedelec-helm-nta-8776-mit-visier-und-licht-grosse-l-5861-490g-2804389",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-monatlich-kundbar-45gb-5glte-allmobil-allnet-flat-pro-45-flex-fur-899eur-mtl-0eur-zz-10eur-cashback-2804365",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-vault-26l-rucksack-46-x-28-x-22-cm-077-kg-black-2804426",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/personalisiert-miele-ultraphase-waschmittel-neuer-webshop-20eur-rabatt-15-2804339",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kons-rove-275-gravelbike-2804575",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-adidas-originals-superstar-ii-unisex-sneaker-in-3-varianten-und-vielen-grossen-2784992",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xr-creator-con-2026-finals-conference-vip-package-kostenlos-2804581",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-34-pro-mp341cq-office-monitor-3440x1440-curved-1500r-va-100hz-300cdm2-116srgb-2804401",
+      "ts": 1783723819666
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vileda-cashback-aktion-bis-zu-20-euro-zuruck-2805274",
+      "ts": 1783723819666
     }
   ]
 }
