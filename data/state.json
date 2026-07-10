@@ -1,11 +1,18 @@
 {
   "date": "2026-07-10",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
+    "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-12tb-nas-festplatte-2804325",
+    "mydealz|https://www.mydealz.de/deals/vevor-40l-kompressor-kuhlbox-1224v-230v-fur-12911-eur-statt-14569-eur-2804330",
+    "mydealz|https://www.mydealz.de/deals/hisense-rb3n300ne-kuhl-gefrierkombi-in-inox-oder-dark-inox-314l-a-nofrost-35-db-1873-cm-poco-2804327",
+    "mydealz|https://www.mydealz.de/deals/ml2u-99-ml2u-59-watch-face-wearos-watchfacegoogle-play-store-2804332",
+    "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-adidas-ice-dive-after-shave-zitrusnote-und-aromatischem-patschuli-100-ml-2802149",
