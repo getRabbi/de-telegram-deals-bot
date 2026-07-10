@@ -2,7 +2,7 @@
   "date": "2026-07-10",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/vevor-40l-kompressor-kuhlbox-1224v-230v-fur-12911-eur-statt-14569-eur-2804330",
     "mydealz|https://www.mydealz.de/deals/hisense-rb3n300ne-kuhl-gefrierkombi-in-inox-oder-dark-inox-314l-a-nofrost-35-db-1873-cm-poco-2804327",
     "mydealz|https://www.mydealz.de/deals/ml2u-99-ml2u-59-watch-face-wearos-watchfacegoogle-play-store-2804332",
-    "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359"
+    "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359",
+    "mydealz|https://www.mydealz.de/deals/intercity-mips-s-pedelec-helm-nta-8776-mit-visier-und-licht-grosse-l-5861-490g-2804389",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-monatlich-kundbar-45gb-5glte-allmobil-allnet-flat-pro-45-flex-fur-899eur-mtl-0eur-zz-10eur-cashback-2804365",
+    "mydealz|https://www.mydealz.de/deals/the-north-face-vault-26l-rucksack-46-x-28-x-22-cm-077-kg-black-2804426",
+    "mydealz|https://www.mydealz.de/deals/personalisiert-miele-ultraphase-waschmittel-neuer-webshop-20eur-rabatt-15-2804339",
+    "mydealz|https://www.mydealz.de/deals/kons-rove-275-gravelbike-2804575"
   ],
   "postedHistory": [
     {
