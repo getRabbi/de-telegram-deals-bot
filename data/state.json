@@ -2,10 +2,16 @@
   "date": "2026-07-11",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/benefitbuddy-air-max-alpha-6-trainingsschuh-whitelight-lemon-twist-4050eur-bis-gr-495-tattooobsidian-45eur-2805314",
+    "mydealz|https://www.mydealz.de/deals/poco-f8-pro-5g-smartphone-12gb256gb-659-120hz-amoled-snapdragon-8-elite-50mp-dreifachkamera-mit-ois-6210-mah-100w-sound-by-bose-2804846",
+    "mydealz|https://www.mydealz.de/deals/lego-technic-42241-gruner-bugatti-chiron-pur-hypersportwagen-771-teile-lenkbar-uber-dach-knauf-w16-motor-offnende-turen-motorhaube-2805319",
+    "mydealz|https://www.mydealz.de/deals/thule-force-3-xl-2805341",
+    "mydealz|https://www.mydealz.de/deals/bosch-hnd271as64-einbau-herdset-serie-24-a-71-l-pyrolyse-heissluft-60-cm-ceran-elektrokochfeld-mit-brater-und-zweikreiskochzone-2805331"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
