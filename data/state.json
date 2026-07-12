@@ -1,57 +1,12 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
-    "mydealz|https://www.mydealz.de/deals/fuxtec-35-rabatt-zb-bollerwagen-fx-ct350-2806271",
-    "mydealz|https://www.mydealz.de/deals/playmobil-novelmore-piratenschiff-71023-2806389",
-    "mydealz|https://www.mydealz.de/deals/nu3-vegan-protein-probierpaket-schoko-vanille-2x-1kg-fur-eur-2797-1399-eur-je-kg-2806521"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/clash-royale-emote-goblin-gratis-im-supercell-store-2802764",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/otto-up-neukunde-5402eur-casio-armbanduhr-mtp-b190d-7bvef-2795196",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/system-of-a-down-mezmerize-vinyl-prime-2802706",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hybrid-zanes-watch-face-google-playstore-2759718",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/star-wars-outlaws-gold-edition-xbox-series-x-fur-1565eur-amazonfr-2802861",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-camping-und-strandstuhl-rot-weiss-klappbar-4-stufig-verstellbar-bis-180-150-kg-belastbarkeit-schultergurte-2802296",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-oatly-barista-2802461",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/comfee-midena-mini-tischgeschirrspuler-6-programme-3-geschirrsets-babyfunktion-verzogerungsstart-wassertank-weiss-2802515",
-      "ts": 1783205229409
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/viofo-a119m-pro-mit-code-ddg5-und-2-vorkasse-2802571",
-      "ts": 1783205229409
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-intel-core-ultra-5-245kf-14-kerne-6-p-cores-8-e-cores-bis-zu-52-ghz-2802995",
       "ts": 1783291931950
@@ -267,6 +222,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/focal-vestia-no-2-standlautsprecher-paarpreis-in-nussbaum-2806319",
       "ts": 1783809409241
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
+      "ts": 1783895860847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fuxtec-35-rabatt-zb-bollerwagen-fx-ct350-2806271",
+      "ts": 1783895860847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playmobil-novelmore-piratenschiff-71023-2806389",
+      "ts": 1783895860847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nu3-vegan-protein-probierpaket-schoko-vanille-2x-1kg-fur-eur-2797-1399-eur-je-kg-2806521",
+      "ts": 1783895860847
     }
   ]
 }
