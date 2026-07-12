@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
+    "mydealz|https://www.mydealz.de/deals/fuxtec-35-rabatt-zb-bollerwagen-fx-ct350-2806271",
+    "mydealz|https://www.mydealz.de/deals/playmobil-novelmore-piratenschiff-71023-2806389",
+    "mydealz|https://www.mydealz.de/deals/nu3-vegan-protein-probierpaket-schoko-vanille-2x-1kg-fur-eur-2797-1399-eur-je-kg-2806521"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-macbook-air-13-m5-2026-fur-942eur-2802608",
