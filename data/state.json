@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,46 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-intel-core-ultra-5-245kf-14-kerne-6-p-cores-8-e-cores-bis-zu-52-ghz-2802995",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/saupiquet-rio-mare-tuna-fillets-in-olive-oil-finest-olive-oil-real-italian-flavour-24-x-80-g-2803024",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/burger-king-pommes-small-oder-kaffee-gratis-2802971",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/creality-k2-se-3d-drucker-2026-500-mms-corexy-autoleveling-mehrfarbdruck-kompatibel-cfs-nicht-enthalten-220x215x245mm-bauraum-prime-2802784",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/50eur-lieferando-guthaben-bei-kinguin-2803176",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sommerhose-easy-hose-leinenmix-fur-damen-von-uniqlo-2803159",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wochenende-sammeldeal-angebot-steam-sommeraktion-nintendo-switch-playstation-4-playstation-5-xbox-gog-epic-games-pc-kostenloses-2803162",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-kompaktes-belkin-45w-usb-c-power-delivery-31-ladegerat-2803105",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kia-pv5-7-sitzer-passengerneues-modell515kwh-7-sitzer-mit-712kwh-fur-34721eurauch-als-pluselitedeutsche-bestellfahrzeuge-mit-kurz-2803149",
-      "ts": 1783291931950
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/magic-life-fuerteventura-im-september-deutlich-reduziert-2803065",
-      "ts": 1783291931950
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/gaming-pc-asus-prime-rx-9070-xt-ryzen-7-7800x3d-32gb-ddr5-ram-1tb-ssd-konfigurierbar-2803311",
       "ts": 1783552241354
