@@ -1,16 +1,11 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
-    "lidl|https://www.mydealz.de/deals/bayernkrone-butter-250-g-fur-099-eur-bei-lidl-ab-0607-60-rabatt-2806526",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-nintendo-switch-spiele-ab-99-cent-bis-maximal-2eur-im-nintendo-eshop-2806731",
-    "mydealz|https://www.mydealz.de/deals/boss-herren-trunks-5er-pack-in-xl-fur-2628-eur-526-eurstuck-amazon-2806633"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
@@ -123,6 +118,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/nu3-vegan-protein-probierpaket-schoko-vanille-2x-1kg-fur-eur-2797-1399-eur-je-kg-2806521",
       "ts": 1783895860847
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
+      "ts": 1784327896975
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/bayernkrone-butter-250-g-fur-099-eur-bei-lidl-ab-0607-60-rabatt-2806526",
+      "ts": 1784327896975
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-nintendo-switch-spiele-ab-99-cent-bis-maximal-2eur-im-nintendo-eshop-2806731",
+      "ts": 1784327896975
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/boss-herren-trunks-5er-pack-in-xl-fur-2628-eur-526-eurstuck-amazon-2806633",
+      "ts": 1784327896975
     }
   ]
 }
