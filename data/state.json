@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
+    "lidl|https://www.mydealz.de/deals/bayernkrone-butter-250-g-fur-099-eur-bei-lidl-ab-0607-60-rabatt-2806526",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-nintendo-switch-spiele-ab-99-cent-bis-maximal-2eur-im-nintendo-eshop-2806731",
+    "mydealz|https://www.mydealz.de/deals/boss-herren-trunks-5er-pack-in-xl-fur-2628-eur-526-eurstuck-amazon-2806633"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
