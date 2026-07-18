@@ -1,11 +1,18 @@
 {
   "date": "2026-07-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
+    "mydealz|https://www.mydealz.de/deals/corsair-hx1200i-2025-atx-31-netzteil-2806605",
+    "mydealz|https://www.mydealz.de/deals/babbel-lifetime-lebenslanger-zugang-zu-allen-sprachen-fur-20399eur-statt-29999eur-2765097",
+    "mydealz|https://www.mydealz.de/deals/amazon-eneloop-aaamicro-8er-pack-800mah-nimh-bis-2100-ladezyklen-ready-to-use-spar-abo-15-coupon-nur-1452eur-182eurstuck-2806727",
+    "mydealz|https://www.mydealz.de/deals/oura-ring-4-geburstetes-silber-size-11-2806978",
+    "mydealz|https://www.mydealz.de/deals/miles-more-kreditkarten-mit-guthabenverzinsung-von-21-pa-bis-zum-30112026-2806984"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
