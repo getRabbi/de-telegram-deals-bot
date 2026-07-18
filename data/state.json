@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/20-extra-rabatt-auf-kinderartikel-zb-nike-air-force-1-low-junior-reebok-club-c-pb-junior-1999eur-vsk-frei-mit-click-collect-2806333",
     "mydealz|https://www.mydealz.de/deals/the-north-face-simple-dome-crew-herren-sweatshirt-in-schwarz-gr-s-2xl-68-baumwolle-geburstete-innenseite-fur-2999eurvsk-2805367",
     "mydealz|https://www.mydealz.de/deals/lg-member-days-sound-suite-immersive-suite-7-soundbar-h7-und-2-x-m7-lautsprecher-fur-137429eur-bei-paypal-zahlung-2808085",
-    "mydealz|https://www.mydealz.de/deals/knipex-drahtseilschere-auch-fur-hochfeste-drahtseile-auf-sb-karte-mit-mehrkomponenten-hullen-160-mm-95-62-190-sb-2808338"
+    "mydealz|https://www.mydealz.de/deals/knipex-drahtseilschere-auch-fur-hochfeste-drahtseile-auf-sb-karte-mit-mehrkomponenten-hullen-160-mm-95-62-190-sb-2808338",
+    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-watch7-bt-40-mm-smartwatch-aluminium-nitrilkautschuk-85-110-mm-cream-2808344",
+    "mydealz|https://www.mydealz.de/deals/ugreen-sammeldeal-bluetooth-24-ghz-kabellose-maus-fur-1399-eur-maus-mit-trackball-fur-3599-eur-revodok-pro-fur-1099-eur-prime-2808279",
+    "mydealz|https://www.mydealz.de/deals/hakle-feucht-kamille-aloe-vera-12x42-blatt-das-erfrischende-gefuhl-amazon-prime-spar-abo-2808789",
+    "mydealz|https://www.mydealz.de/deals/guthaben-deal-zb-100eur-psn-50eur-google-play-50eur-lieferando-50eur-ikea-guthabenkarten-fur-gaming-shopping-streaming-gunstiger-2807190"
   ],
   "postedHistory": [
     {
