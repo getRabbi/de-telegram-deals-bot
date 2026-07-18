@@ -1,124 +1,12 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
-    "mydealz|https://www.mydealz.de/deals/corsair-hx1200i-2025-atx-31-netzteil-2806605",
-    "mydealz|https://www.mydealz.de/deals/babbel-lifetime-lebenslanger-zugang-zu-allen-sprachen-fur-20399eur-statt-29999eur-2765097",
-    "mydealz|https://www.mydealz.de/deals/amazon-eneloop-aaamicro-8er-pack-800mah-nimh-bis-2100-ladezyklen-ready-to-use-spar-abo-15-coupon-nur-1452eur-182eurstuck-2806727",
-    "mydealz|https://www.mydealz.de/deals/oura-ring-4-geburstetes-silber-size-11-2806978",
-    "mydealz|https://www.mydealz.de/deals/miles-more-kreditkarten-mit-guthabenverzinsung-von-21-pa-bis-zum-30112026-2806984",
-    "mydealz|https://www.mydealz.de/deals/segafredo-zanetti-intermezzo-ganze-bohnen-1-kg-samstagskracher-netto-markendiscount-2806912",
-    "mydealz|https://www.mydealz.de/deals/20-extra-rabatt-auf-kinderartikel-zb-nike-air-force-1-low-junior-reebok-club-c-pb-junior-1999eur-vsk-frei-mit-click-collect-2806333",
-    "mydealz|https://www.mydealz.de/deals/the-north-face-simple-dome-crew-herren-sweatshirt-in-schwarz-gr-s-2xl-68-baumwolle-geburstete-innenseite-fur-2999eurvsk-2805367",
-    "mydealz|https://www.mydealz.de/deals/lg-member-days-sound-suite-immersive-suite-7-soundbar-h7-und-2-x-m7-lautsprecher-fur-137429eur-bei-paypal-zahlung-2808085",
-    "mydealz|https://www.mydealz.de/deals/knipex-drahtseilschere-auch-fur-hochfeste-drahtseile-auf-sb-karte-mit-mehrkomponenten-hullen-160-mm-95-62-190-sb-2808338",
-    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-watch7-bt-40-mm-smartwatch-aluminium-nitrilkautschuk-85-110-mm-cream-2808344",
-    "mydealz|https://www.mydealz.de/deals/ugreen-sammeldeal-bluetooth-24-ghz-kabellose-maus-fur-1399-eur-maus-mit-trackball-fur-3599-eur-revodok-pro-fur-1099-eur-prime-2808279",
-    "mydealz|https://www.mydealz.de/deals/hakle-feucht-kamille-aloe-vera-12x42-blatt-das-erfrischende-gefuhl-amazon-prime-spar-abo-2808789",
-    "mydealz|https://www.mydealz.de/deals/guthaben-deal-zb-100eur-psn-50eur-google-play-50eur-lieferando-50eur-ikea-guthabenkarten-fur-gaming-shopping-streaming-gunstiger-2807190"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/unparallel-up-link-damen-fahrrad-schuhe-mit-eva-sohle-gr-37-40-mtb-schuhe-all-mountain-einsatz-klicksystemkompatibel-fur-1499eurvsk-2804340",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/seagate-ironwolf-12tb-nas-festplatte-2804325",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vevor-40l-kompressor-kuhlbox-1224v-230v-fur-12911-eur-statt-14569-eur-2804330",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hisense-rb3n300ne-kuhl-gefrierkombi-in-inox-oder-dark-inox-314l-a-nofrost-35-db-1873-cm-poco-2804327",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ml2u-99-ml2u-59-watch-face-wearos-watchfacegoogle-play-store-2804332",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sena-s-smart-rennradhelm-gr-l-meshintercom-integrierte-lautsprecher-mikro-bluetoothsmartphone-ledrucklicht-sprachsteuerung-prime-2804359",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/intercity-mips-s-pedelec-helm-nta-8776-mit-visier-und-licht-grosse-l-5861-490g-2804389",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-monatlich-kundbar-45gb-5glte-allmobil-allnet-flat-pro-45-flex-fur-899eur-mtl-0eur-zz-10eur-cashback-2804365",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-vault-26l-rucksack-46-x-28-x-22-cm-077-kg-black-2804426",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/personalisiert-miele-ultraphase-waschmittel-neuer-webshop-20eur-rabatt-15-2804339",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kons-rove-275-gravelbike-2804575",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-adidas-originals-superstar-ii-unisex-sneaker-in-3-varianten-und-vielen-grossen-2784992",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/xr-creator-con-2026-finals-conference-vip-package-kostenlos-2804581",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/msi-34-pro-mp341cq-office-monitor-3440x1440-curved-1500r-va-100hz-300cdm2-116srgb-2804401",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vileda-cashback-aktion-bis-zu-20-euro-zuruck-2805274",
-      "ts": 1783723819666
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/benefitbuddy-air-max-alpha-6-trainingsschuh-whitelight-lemon-twist-4050eur-bis-gr-495-tattooobsidian-45eur-2805314",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/poco-f8-pro-5g-smartphone-12gb256gb-659-120hz-amoled-snapdragon-8-elite-50mp-dreifachkamera-mit-ois-6210-mah-100w-sound-by-bose-2804846",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-technic-42241-gruner-bugatti-chiron-pur-hypersportwagen-771-teile-lenkbar-uber-dach-knauf-w16-motor-offnende-turen-motorhaube-2805319",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thule-force-3-xl-2805341",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-hnd271as64-einbau-herdset-serie-24-a-71-l-pyrolyse-heissluft-60-cm-ceran-elektrokochfeld-mit-brater-und-zweikreiskochzone-2805331",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ultje-ofen-erdnusse-gesalzen-180g-prime-spar-abo-2806253",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/alnatura-10-rabatt-kiel-vielleicht-auch-woanders-2806224",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/carrera-d124-fahrzeuge-ab-5299-eur-mit-cb-ab-3974-eur-2806301",
-      "ts": 1783809409241
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/focal-vestia-no-2-standlautsprecher-paarpreis-in-nussbaum-2806319",
-      "ts": 1783809409241
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
       "ts": 1783895860847
@@ -150,6 +38,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/boss-herren-trunks-5er-pack-in-xl-fur-2628-eur-526-eurstuck-amazon-2806633",
       "ts": 1784327896975
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/corsair-hx1200i-2025-atx-31-netzteil-2806605",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/babbel-lifetime-lebenslanger-zugang-zu-allen-sprachen-fur-20399eur-statt-29999eur-2765097",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-eneloop-aaamicro-8er-pack-800mah-nimh-bis-2100-ladezyklen-ready-to-use-spar-abo-15-coupon-nur-1452eur-182eurstuck-2806727",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oura-ring-4-geburstetes-silber-size-11-2806978",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/miles-more-kreditkarten-mit-guthabenverzinsung-von-21-pa-bis-zum-30112026-2806984",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/segafredo-zanetti-intermezzo-ganze-bohnen-1-kg-samstagskracher-netto-markendiscount-2806912",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/20-extra-rabatt-auf-kinderartikel-zb-nike-air-force-1-low-junior-reebok-club-c-pb-junior-1999eur-vsk-frei-mit-click-collect-2806333",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-simple-dome-crew-herren-sweatshirt-in-schwarz-gr-s-2xl-68-baumwolle-geburstete-innenseite-fur-2999eurvsk-2805367",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-member-days-sound-suite-immersive-suite-7-soundbar-h7-und-2-x-m7-lautsprecher-fur-137429eur-bei-paypal-zahlung-2808085",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/knipex-drahtseilschere-auch-fur-hochfeste-drahtseile-auf-sb-karte-mit-mehrkomponenten-hullen-160-mm-95-62-190-sb-2808338",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-galaxy-watch7-bt-40-mm-smartwatch-aluminium-nitrilkautschuk-85-110-mm-cream-2808344",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ugreen-sammeldeal-bluetooth-24-ghz-kabellose-maus-fur-1399-eur-maus-mit-trackball-fur-3599-eur-revodok-pro-fur-1099-eur-prime-2808279",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hakle-feucht-kamille-aloe-vera-12x42-blatt-das-erfrischende-gefuhl-amazon-prime-spar-abo-2808789",
+      "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/guthaben-deal-zb-100eur-psn-50eur-google-play-50eur-lieferando-50eur-ikea-guthabenkarten-fur-gaming-shopping-streaming-gunstiger-2807190",
+      "ts": 1784414290704
     }
   ]
 }
