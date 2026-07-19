@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/gutscheine/decathlon-24-stunden-15-rabatt-auf-bekleidung-zubehor-von-van-rysel-2808803",
+    "mydealz|https://www.mydealz.de/deals/ekoi-leichte-fahrradjacke-windjacke-90g-winddicht-100-rennrad-alle-grossen-2776287",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-100gb-5g-klarmobil-telekom-mit-telefonie-sms-flat-fur-1499eur-keine-anschlussgebuhr-2808277",
+    "mydealz|https://www.mydealz.de/deals/hultafors-outdoor-klappmesser-okf-2806188"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
