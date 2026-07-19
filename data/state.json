@@ -1,33 +1,12 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/gutscheine/decathlon-24-stunden-15-rabatt-auf-bekleidung-zubehor-von-van-rysel-2808803",
-    "mydealz|https://www.mydealz.de/deals/ekoi-leichte-fahrradjacke-windjacke-90g-winddicht-100-rennrad-alle-grossen-2776287",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-100gb-5g-klarmobil-telekom-mit-telefonie-sms-flat-fur-1499eur-keine-anschlussgebuhr-2808277",
-    "mydealz|https://www.mydealz.de/deals/hultafors-outdoor-klappmesser-okf-2806188"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/linga-al-speak-practice-sprachen-lernen-mit-ki-ios-2806269",
-      "ts": 1783895860847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fuxtec-35-rabatt-zb-bollerwagen-fx-ct350-2806271",
-      "ts": 1783895860847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playmobil-novelmore-piratenschiff-71023-2806389",
-      "ts": 1783895860847
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nu3-vegan-protein-probierpaket-schoko-vanille-2x-1kg-fur-eur-2797-1399-eur-je-kg-2806521",
-      "ts": 1783895860847
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
       "ts": 1784327896975
@@ -103,6 +82,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/guthaben-deal-zb-100eur-psn-50eur-google-play-50eur-lieferando-50eur-ikea-guthabenkarten-fur-gaming-shopping-streaming-gunstiger-2807190",
       "ts": 1784414290704
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/decathlon-24-stunden-15-rabatt-auf-bekleidung-zubehor-von-van-rysel-2808803",
+      "ts": 1784500853326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ekoi-leichte-fahrradjacke-windjacke-90g-winddicht-100-rennrad-alle-grossen-2776287",
+      "ts": 1784500853326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-100gb-5g-klarmobil-telekom-mit-telefonie-sms-flat-fur-1499eur-keine-anschlussgebuhr-2808277",
+      "ts": 1784500853326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hultafors-outdoor-klappmesser-okf-2806188",
+      "ts": 1784500853326
     }
   ]
 }
