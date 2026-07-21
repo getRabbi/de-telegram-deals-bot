@@ -1,21 +1,11 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
-    "mydealz|https://www.mydealz.de/deals/fluge-manila-philippinen-sep-nov-ab-amsterdam-mit-saudia-inkl-23-kg-gepack-ab-480eur-fur-hin-ruckflug-2808952",
-    "mydealz|https://www.mydealz.de/deals/msi-cyborg-15-gaming-laptop-b13wfkg-827-1920x1080-core-i5-13420h-16gb512gb-rtx-5060-2808854",
-    "mydealz|https://www.mydealz.de/deals/foursun-21l-tragbarer-kompressor-kuhlschrank-fur-camping-reisen-zuhause-dc-12v24v-ac-100-240v-2808815",
-    "mydealz|https://www.mydealz.de/deals/magenta-moment-bestandskunden-mobilfunk-telekom-handtuch-kostenlos-2808967",
-    "mydealz|https://www.mydealz.de/deals/levis-herren-poloshirt-t-shirt-baumwolle-gelb-fur-1889-eur-m-xl-2809097",
-    "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-a37-256gb-32eur-vs-idealo-allnetsms-flat-15gb-999eurmonat-1eur-zuzahlung-freenet-2808663",
-    "mydealz|https://www.mydealz.de/deals/adidas-response-runner-2-grossen-36-42-46-49-13-primeaboutyou-2809058",
-    "mydealz|https://www.mydealz.de/deals/prime-bl-tune-305-c-kopfhorer-kabelgebundene-in-ear-kopfhorer-mit-jbl-pure-bass-sound-mikrofon-und-usb-c-anschluss-blau-2807647"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
@@ -108,6 +98,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/hultafors-outdoor-klappmesser-okf-2806188",
       "ts": 1784500853326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
+      "ts": 1784673854864
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-manila-philippinen-sep-nov-ab-amsterdam-mit-saudia-inkl-23-kg-gepack-ab-480eur-fur-hin-ruckflug-2808952",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/msi-cyborg-15-gaming-laptop-b13wfkg-827-1920x1080-core-i5-13420h-16gb512gb-rtx-5060-2808854",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/foursun-21l-tragbarer-kompressor-kuhlschrank-fur-camping-reisen-zuhause-dc-12v24v-ac-100-240v-2808815",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/magenta-moment-bestandskunden-mobilfunk-telekom-handtuch-kostenlos-2808967",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/levis-herren-poloshirt-t-shirt-baumwolle-gelb-fur-1889-eur-m-xl-2809097",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-a37-256gb-32eur-vs-idealo-allnetsms-flat-15gb-999eurmonat-1eur-zuzahlung-freenet-2808663",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-response-runner-2-grossen-36-42-46-49-13-primeaboutyou-2809058",
+      "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-bl-tune-305-c-kopfhorer-kabelgebundene-in-ear-kopfhorer-mit-jbl-pure-bass-sound-mikrofon-und-usb-c-anschluss-blau-2807647",
+      "ts": 1784673854865
     }
   ]
 }
