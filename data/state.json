@@ -2,10 +2,16 @@
   "date": "2026-07-21",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
+    "mydealz|https://www.mydealz.de/deals/fluge-manila-philippinen-sep-nov-ab-amsterdam-mit-saudia-inkl-23-kg-gepack-ab-480eur-fur-hin-ruckflug-2808952",
+    "mydealz|https://www.mydealz.de/deals/msi-cyborg-15-gaming-laptop-b13wfkg-827-1920x1080-core-i5-13420h-16gb512gb-rtx-5060-2808854",
+    "mydealz|https://www.mydealz.de/deals/foursun-21l-tragbarer-kompressor-kuhlschrank-fur-camping-reisen-zuhause-dc-12v24v-ac-100-240v-2808815",
+    "mydealz|https://www.mydealz.de/deals/magenta-moment-bestandskunden-mobilfunk-telekom-handtuch-kostenlos-2808967"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
