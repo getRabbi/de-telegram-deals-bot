@@ -1,21 +1,11 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/limango-aevor-pinqponq-taschenrucksacke-rucksacke-ab-4294-eur-umhangetaschen-ab-1694-eur-shopper-ab-3394-eur-inkl-vsk-2809323",
-    "mydealz|https://www.mydealz.de/deals/10-rabatt-auf-generaluberholte-ninja-produkte-2809329",
-    "mydealz|https://www.mydealz.de/deals/pokemon-go-kostenloser-raid-pass-zum-go-fest-2026-2809307",
-    "mydealz|https://www.mydealz.de/deals/lego-minifiguren-serien-bei-proshop-stark-reduziert-serie-28-serie-29-2809273",
-    "mydealz|https://www.mydealz.de/deals/jbl-stage-220p-subwoofer-in-weiss-250w-rms-500w-spitze-2809315",
-    "mydealz|https://www.mydealz.de/deals/severin-at-2509-doppel-langschlitztoaster-4-scheiben-1400-w-brotchenaufsatz-edelstahl-geburstetschwarz-2809316",
-    "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-android-ios-2809415",
-    "mydealz|https://www.mydealz.de/deals/cb-samsung-rs80f65kdfef-side-by-side-mit-autom-turoffnung-und-wassertank-eek-d-2809373",
-    "mydealz|https://www.mydealz.de/deals/barebells-proteinriegel-sunny-strawberry-078-eur-pro-riegel-2809435"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
@@ -144,6 +134,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-bl-tune-305-c-kopfhorer-kabelgebundene-in-ear-kopfhorer-mit-jbl-pure-bass-sound-mikrofon-und-usb-c-anschluss-blau-2807647",
       "ts": 1784673854865
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/limango-aevor-pinqponq-taschenrucksacke-rucksacke-ab-4294-eur-umhangetaschen-ab-1694-eur-shopper-ab-3394-eur-inkl-vsk-2809323",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/10-rabatt-auf-generaluberholte-ninja-produkte-2809329",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-go-kostenloser-raid-pass-zum-go-fest-2026-2809307",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-minifiguren-serien-bei-proshop-stark-reduziert-serie-28-serie-29-2809273",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jbl-stage-220p-subwoofer-in-weiss-250w-rms-500w-spitze-2809315",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/severin-at-2509-doppel-langschlitztoaster-4-scheiben-1400-w-brotchenaufsatz-edelstahl-geburstetschwarz-2809316",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-android-ios-2809415",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-rs80f65kdfef-side-by-side-mit-autom-turoffnung-und-wassertank-eek-d-2809373",
+      "ts": 1784760948816
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/barebells-proteinriegel-sunny-strawberry-078-eur-pro-riegel-2809435",
+      "ts": 1784760948816
     }
   ]
 }
