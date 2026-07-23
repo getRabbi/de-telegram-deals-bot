@@ -2,10 +2,16 @@
   "date": "2026-07-23",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/instant-pot-duo-30-multikocher-3l-edelstahl-silber-2809295",
+    "mydealz|https://www.mydealz.de/deals/cb-dehner-sunlounger-miami-doppelliege-ca-168x172x220cm-alupolyrattan-bis-260-kg-inkl-polster-5-kissen-lieferung-montiert-2809404",
+    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-damen-poloshirt-baumwolle-blau-fur-2089-eur-xs-s-2809576",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-surfer-t-shirt-100-baumwolle-fur-1389-eur-m-xl-2809579",
+    "mydealz|https://www.mydealz.de/deals/aida-zb-7-nachte-griechenland-ab-korfu-2908-0509-ab-749eur-pp-norwegen-ab-kiel-0509-120926-ab-899eur-inkl-vp-trinkgeld-2809517"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
