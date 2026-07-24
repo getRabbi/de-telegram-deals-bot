@@ -2,10 +2,16 @@
   "date": "2026-07-24",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ikea-saarlouis-kostenloses-goodie-bag-fur-schulkinder-bis-12-jahre-und-angehende-erstklassler-am-0108-2809524",
+    "mydealz|https://www.mydealz.de/deals/gratis-lancome-la-vie-est-belle-lelixir-very-cherry-eau-de-parfum-probe-12-ml-gewinnspiel-20000-proben-via-newsletter-2809849",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-wolf-garten-rasenpflege-reduziert-bei-amazon-rasensaat-nachsaat-sowie-2-in-1-unkrautvernichter-rasendunger-2809790",
+    "mydealz|https://www.mydealz.de/deals/balkonkraftwerk-2000w-4-ja-solar-500w-full-black-bifacial-glas-glasmarstek-mi2000w-wifi-2-marstek-b2500-d-speicherdrosselbar-600800w-2809832",
+    "mydealz|https://www.mydealz.de/deals/adidas-spezial-handball-leopardenmuster-2803944"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
