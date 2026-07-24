@@ -1,34 +1,12 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/ikea-saarlouis-kostenloses-goodie-bag-fur-schulkinder-bis-12-jahre-und-angehende-erstklassler-am-0108-2809524",
-    "mydealz|https://www.mydealz.de/deals/gratis-lancome-la-vie-est-belle-lelixir-very-cherry-eau-de-parfum-probe-12-ml-gewinnspiel-20000-proben-via-newsletter-2809849",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-wolf-garten-rasenpflege-reduziert-bei-amazon-rasensaat-nachsaat-sowie-2-in-1-unkrautvernichter-rasendunger-2809790",
-    "mydealz|https://www.mydealz.de/deals/balkonkraftwerk-2000w-4-ja-solar-500w-full-black-bifacial-glas-glasmarstek-mi2000w-wifi-2-marstek-b2500-d-speicherdrosselbar-600800w-2809832",
-    "mydealz|https://www.mydealz.de/deals/adidas-spezial-handball-leopardenmuster-2803944"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/media-markt-xiaomi-17t-256-gb-smartphone-effektiv-fur-326eur-2806535",
-      "ts": 1784327896975
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/bayernkrone-butter-250-g-fur-099-eur-bei-lidl-ab-0607-60-rabatt-2806526",
-      "ts": 1784327896975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-nintendo-switch-spiele-ab-99-cent-bis-maximal-2eur-im-nintendo-eshop-2806731",
-      "ts": 1784327896975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/boss-herren-trunks-5er-pack-in-xl-fur-2628-eur-526-eurstuck-amazon-2806633",
-      "ts": 1784327896975
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
       "ts": 1784414290704
@@ -196,6 +174,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/aida-zb-7-nachte-griechenland-ab-korfu-2908-0509-ab-749eur-pp-norwegen-ab-kiel-0509-120926-ab-899eur-inkl-vp-trinkgeld-2809517",
       "ts": 1784846992599
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-saarlouis-kostenloses-goodie-bag-fur-schulkinder-bis-12-jahre-und-angehende-erstklassler-am-0108-2809524",
+      "ts": 1784933637687
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-lancome-la-vie-est-belle-lelixir-very-cherry-eau-de-parfum-probe-12-ml-gewinnspiel-20000-proben-via-newsletter-2809849",
+      "ts": 1784933637687
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-wolf-garten-rasenpflege-reduziert-bei-amazon-rasensaat-nachsaat-sowie-2-in-1-unkrautvernichter-rasendunger-2809790",
+      "ts": 1784933637687
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/balkonkraftwerk-2000w-4-ja-solar-500w-full-black-bifacial-glas-glasmarstek-mi2000w-wifi-2-marstek-b2500-d-speicherdrosselbar-600800w-2809832",
+      "ts": 1784933637687
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-spezial-handball-leopardenmuster-2803944",
+      "ts": 1784933637687
     }
   ]
 }
