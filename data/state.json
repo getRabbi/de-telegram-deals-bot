@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/arzopa-a1-tragbarer-monitor-156-396-cm-full-hd-ips-60hz-hdr-usb-c-mini-hdmi-2809819",
+    "mydealz|https://www.mydealz.de/deals/tcl-65q8c-65-4k-qd-mini-led-tv-144hz-4500-nits-bang-olufsen-sound-zeroborder-whva-panel-google-tv-2809947",
+    "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-standard-edition-playstation-5-vorbestellung-veroffentlichung-28-juli-2026-amazonfr-2809956",
+    "mydealz|https://www.mydealz.de/deals/lenovo-l27q-4a-27-wqhd-ips-monitor-100-hz-hohenverstellbar-pivot-fur-14499-eur-inkl-versand-2809940"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/toom-bietet-nur-heute-20-auf-ausgewahlte-highlights-an-2806648",
