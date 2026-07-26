@@ -1,38 +1,12 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/gratis-vinyl-zu-deinem-neuen-sony-plattenspieler-2809934",
-    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-jeans-polo-shirt-damen-baumwolle-rot-fur-1889-eur-xs-xl-2809996",
-    "mydealz|https://www.mydealz.de/deals/cb-lg-oled-65-evo-oled65g59ls-ai-g5-4k-smart-tv-2-payback-135112-2810336",
-    "mydealz|https://www.mydealz.de/deals/toverland-freizeitpark-bei-venlo-nl-bis-zu-40-euro-magischer-rabatt-durch-kaufland-coupon-2810277",
-    "mydealz|https://www.mydealz.de/deals/pampers-baby-dry-pants-grosse-5-180-stuck-sparabo-mit-10eur-coupon-2810301",
-    "mydealz|https://www.mydealz.de/deals/lokal-hornbach-bosch-32tlg-bitset-extra-hart-fur-449eur-durch-tiefpreisgarantie-2812898",
-    "mydealz|https://www.mydealz.de/deals/vgi-gratis-eis-fur-schuler-im-grossraum-ingolstadt-versch-aktionstage-ingolstadt-eichstatt-neuburg-und-weitere-lokal-2812912",
-    "mydealz|https://www.mydealz.de/deals/kaufland-xtra-funny-frisch-knuspersnack-versch-sorten-2812735",
-    "mydealz|https://www.mydealz.de/deals/corsair-mm250-champion-series-xl-premium-gaming-mauspad-fur-10eur-amazon-prime-2812815"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/decathlon-24-stunden-15-rabatt-auf-bekleidung-zubehor-von-van-rysel-2808803",
-      "ts": 1784500853326
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ekoi-leichte-fahrradjacke-windjacke-90g-winddicht-100-rennrad-alle-grossen-2776287",
-      "ts": 1784500853326
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-100gb-5g-klarmobil-telekom-mit-telefonie-sms-flat-fur-1499eur-keine-anschlussgebuhr-2808277",
-      "ts": 1784500853326
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hultafors-outdoor-klappmesser-okf-2806188",
-      "ts": 1784500853326
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
       "ts": 1784673854864
@@ -160,6 +134,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lenovo-l27q-4a-27-wqhd-ips-monitor-100-hz-hohenverstellbar-pivot-fur-14499-eur-inkl-versand-2809940",
       "ts": 1785019369027
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-vinyl-zu-deinem-neuen-sony-plattenspieler-2809934",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-jeans-polo-shirt-damen-baumwolle-rot-fur-1889-eur-xs-xl-2809996",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-lg-oled-65-evo-oled65g59ls-ai-g5-4k-smart-tv-2-payback-135112-2810336",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/toverland-freizeitpark-bei-venlo-nl-bis-zu-40-euro-magischer-rabatt-durch-kaufland-coupon-2810277",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pampers-baby-dry-pants-grosse-5-180-stuck-sparabo-mit-10eur-coupon-2810301",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-hornbach-bosch-32tlg-bitset-extra-hart-fur-449eur-durch-tiefpreisgarantie-2812898",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vgi-gratis-eis-fur-schuler-im-grossraum-ingolstadt-versch-aktionstage-ingolstadt-eichstatt-neuburg-und-weitere-lokal-2812912",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-xtra-funny-frisch-knuspersnack-versch-sorten-2812735",
+      "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/corsair-mm250-champion-series-xl-premium-gaming-mauspad-fur-10eur-amazon-prime-2812815",
+      "ts": 1785106208573
     }
   ]
 }
