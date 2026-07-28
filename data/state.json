@@ -1,17 +1,11 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/joseph-joseph-abfalleimer-arc-easy-push-fur-4995eur-895eur-vsk-30-liter-soft-close-deckel-integr-beutelfach-2-farbvarianten-verfugbar-2789227",
-    "mydealz|https://www.mydealz.de/deals/alf-1986-90-komplette-serie-sd-digital-nur-ov-at-apple-tv-itunes-us-2813029",
-    "lidl|https://www.mydealz.de/deals/lidl-filiale-esmara-men-5-paar-sneakersocken-fur-nur-199-euro-bei-lidl-nur-040-euro-pro-paar-2811139",
-    "mydealz|https://www.mydealz.de/deals/magnetische-bausteine-my-world-set-t50-80-teile-2-cm-magnetwurfel-6-seitig-magnetisch-abs-kunststoff-inkl-3-figuren-alibaba-nk-2812232",
-    "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-damen-sneaker-weiss-gr-355-bis-395-auch-in-schwarz-fur-4543eur-2812542"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
@@ -176,6 +170,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/corsair-mm250-champion-series-xl-premium-gaming-mauspad-fur-10eur-amazon-prime-2812815",
       "ts": 1785106208573
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/joseph-joseph-abfalleimer-arc-easy-push-fur-4995eur-895eur-vsk-30-liter-soft-close-deckel-integr-beutelfach-2-farbvarianten-verfugbar-2789227",
+      "ts": 1785276203971
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/alf-1986-90-komplette-serie-sd-digital-nur-ov-at-apple-tv-itunes-us-2813029",
+      "ts": 1785276203971
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-filiale-esmara-men-5-paar-sneakersocken-fur-nur-199-euro-bei-lidl-nur-040-euro-pro-paar-2811139",
+      "ts": 1785276203971
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/magnetische-bausteine-my-world-set-t50-80-teile-2-cm-magnetwurfel-6-seitig-magnetisch-abs-kunststoff-inkl-3-figuren-alibaba-nk-2812232",
+      "ts": 1785276203971
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-originals-stan-smith-damen-sneaker-weiss-gr-355-bis-395-auch-in-schwarz-fur-4543eur-2812542",
+      "ts": 1785276203971
     }
   ]
 }
