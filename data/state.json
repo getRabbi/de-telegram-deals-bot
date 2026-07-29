@@ -2,10 +2,16 @@
   "date": "2026-07-29",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-ecovacs-goat-a1600-lidar-pro-fur-79112eur-2811330",
+    "mydealz|https://www.mydealz.de/deals/gardena-kleidung-ca-80-unter-uvp-2813117",
+    "mydealz|https://www.mydealz.de/deals/fear-2-project-origin-399eur-361eur-no-mit-uncut-anl-shooter-metacritic-79-xbox-one-xbox-series-xs-xbox-360-xbox-store-2813105",
+    "mydealz|https://www.mydealz.de/deals/cb-samsung-65-zoll-the-frame-pro-tv-120hz-inkl-connect-box-gratis-montage-250-eur-cb-bei-kauf-soundbar-zb-hw-b660gf-169eur-eff-720eur-2813100",
+    "mydealz|https://www.mydealz.de/deals/tchibo-fahrradtool-nur-heute-versandkostenfrei-18-funktionenua-reifenheber-2813015"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/on-cloud-6-versa-black-in-gr-40-42-47-bei-about-you-fur-eur9450-2808971",
