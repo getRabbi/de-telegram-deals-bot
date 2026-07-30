@@ -1,74 +1,12 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/netto-marktangebot-einhell-schmutzwasserpumpe-gh-dp-7835-2813070",
-    "mydealz|https://www.mydealz.de/deals/tecbears-pla-filament-175-mm-bundle-4kg-2813228",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-nintendo-switch-2-im-magenta-s-allnetsms-flat-30gb-5g-bis-300mbits-ch-roaming-3995eurmonat-240eur-bonus-2813091",
-    "mydealz|https://www.mydealz.de/deals/the-women-of-def-jam-3lp-vinyl-2813232",
-    "rossmann|https://www.mydealz.de/deals/zewa-wischweg-smart-bei-rossmann-nur-112-eur-statt-319-eur-ab-27072026-2813246"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/limango-aevor-pinqponq-taschenrucksacke-rucksacke-ab-4294-eur-umhangetaschen-ab-1694-eur-shopper-ab-3394-eur-inkl-vsk-2809323",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10-rabatt-auf-generaluberholte-ninja-produkte-2809329",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-go-kostenloser-raid-pass-zum-go-fest-2026-2809307",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-minifiguren-serien-bei-proshop-stark-reduziert-serie-28-serie-29-2809273",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jbl-stage-220p-subwoofer-in-weiss-250w-rms-500w-spitze-2809315",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/severin-at-2509-doppel-langschlitztoaster-4-scheiben-1400-w-brotchenaufsatz-edelstahl-geburstetschwarz-2809316",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/streets-of-rage-4-android-ios-2809415",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-rs80f65kdfef-side-by-side-mit-autom-turoffnung-und-wassertank-eek-d-2809373",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/barebells-proteinriegel-sunny-strawberry-078-eur-pro-riegel-2809435",
-      "ts": 1784760948816
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/instant-pot-duo-30-multikocher-3l-edelstahl-silber-2809295",
-      "ts": 1784846992599
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-dehner-sunlounger-miami-doppelliege-ca-168x172x220cm-alupolyrattan-bis-260-kg-inkl-polster-5-kissen-lieferung-montiert-2809404",
-      "ts": 1784846992599
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-damen-poloshirt-baumwolle-blau-fur-2089-eur-xs-s-2809576",
-      "ts": 1784846992599
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-surfer-t-shirt-100-baumwolle-fur-1389-eur-m-xl-2809579",
-      "ts": 1784846992599
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aida-zb-7-nachte-griechenland-ab-korfu-2908-0509-ab-749eur-pp-norwegen-ab-kiel-0509-120926-ab-899eur-inkl-vp-trinkgeld-2809517",
-      "ts": 1784846992599
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/ikea-saarlouis-kostenloses-goodie-bag-fur-schulkinder-bis-12-jahre-und-angehende-erstklassler-am-0108-2809524",
       "ts": 1784933637687
@@ -180,6 +118,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/tchibo-fahrradtool-nur-heute-versandkostenfrei-18-funktionenua-reifenheber-2813015",
       "ts": 1785365389941
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-marktangebot-einhell-schmutzwasserpumpe-gh-dp-7835-2813070",
+      "ts": 1785452894922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tecbears-pla-filament-175-mm-bundle-4kg-2813228",
+      "ts": 1785452894922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-nintendo-switch-2-im-magenta-s-allnetsms-flat-30gb-5g-bis-300mbits-ch-roaming-3995eurmonat-240eur-bonus-2813091",
+      "ts": 1785452894922
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-women-of-def-jam-3lp-vinyl-2813232",
+      "ts": 1785452894922
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/zewa-wischweg-smart-bei-rossmann-nur-112-eur-statt-319-eur-ab-27072026-2813246",
+      "ts": 1785452894922
     }
   ]
 }
