@@ -2,10 +2,16 @@
   "date": "2026-07-30",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/netto-marktangebot-einhell-schmutzwasserpumpe-gh-dp-7835-2813070",
+    "mydealz|https://www.mydealz.de/deals/tecbears-pla-filament-175-mm-bundle-4kg-2813228",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-nintendo-switch-2-im-magenta-s-allnetsms-flat-30gb-5g-bis-300mbits-ch-roaming-3995eurmonat-240eur-bonus-2813091",
+    "mydealz|https://www.mydealz.de/deals/the-women-of-def-jam-3lp-vinyl-2813232",
+    "rossmann|https://www.mydealz.de/deals/zewa-wischweg-smart-bei-rossmann-nur-112-eur-statt-319-eur-ab-27072026-2813246"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/limango-aevor-pinqponq-taschenrucksacke-rucksacke-ab-4294-eur-umhangetaschen-ab-1694-eur-shopper-ab-3394-eur-inkl-vsk-2809323",
