@@ -2,10 +2,16 @@
   "date": "2026-08-01",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
+    "mydealz|https://www.mydealz.de/deals/sommerfest-aktion-gratis-aktionspaket-fur-kindergarten-kita-schulen-zb-tombola-kinderschminken-basteln-od-flussigkreide-gratis-2813616",
+    "mydealz|https://www.mydealz.de/deals/tepro-wurstbrater-mit-grillrost-60-x-48-cm-grill-2813363",
+    "mydealz|https://www.mydealz.de/deals/wmf-besteckset-60-tlg-boston-2813600",
+    "mydealz|https://www.mydealz.de/deals/meta-quest-aktuell-kostenlose-spiele-100-rabatt-aktualisiert-am-21072026-2814364"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/arzopa-a1-tragbarer-monitor-156-396-cm-full-hd-ips-60hz-hdr-usb-c-mini-hdmi-2809819",
