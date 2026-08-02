@@ -2,10 +2,16 @@
   "date": "2026-08-02",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/fichtelgebirge-familienurlaub-3-nachte-inkl-fruhstuck-ab-212eur-fur-2-erwachsene-2-kinder-2809064",
+    "mydealz|https://www.mydealz.de/deals/korfu-griechenland-1-woche-im-4-bostonia-village-ab-640eur-pp-mit-fruhstuck-flugen-transfers-oktober-2026-2814540",
+    "mydealz|https://www.mydealz.de/deals/nina-chuba-exklusiv-konzert-am-2708-in-monchengladbach-fur-34eur-code-benotigt-2814504",
+    "mydealz|https://www.mydealz.de/deals/cb-unidays-sony-wh-1000xm6-kabellose-noise-cancelling-kopfhorer-anc-2814528",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-mustang-slim-fit-herren-5-pocket-jeans-style-oregon-1220eur-w29l32-2814856"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/gratis-vinyl-zu-deinem-neuen-sony-plattenspieler-2809934",
