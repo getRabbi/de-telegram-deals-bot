@@ -1,11 +1,18 @@
 {
   "date": "2026-08-04",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/2x-reebok-herren-clyde-performance-zweierpack-t-shirts-fur-1589-eur-s-l-2815041",
+    "mydealz|https://www.mydealz.de/deals/jack-jones-herren-vesterbro-side-sweatshirt-schwarzweiss-fur-1389-eur-nur-noch-in-m-2815040",
+    "lidl|https://www.mydealz.de/deals/ad-blue-kanister-10-liter-lidl-2813089",
+    "mydealz|https://www.mydealz.de/deals/lokal-expert-leverkusen-pdp-nintendo-switch-afterglow-wave-wireless-controller-in-grau-oder-blau-fur-je-15eur-2814667",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-hundert-verfluchte-lichtjahre-science-fiction-ebook-45550-bewertungen-2815352",
+    "mydealz|https://www.mydealz.de/deals/imo-car-wash-gratis-wasche-2815348"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/joseph-joseph-abfalleimer-arc-easy-push-fur-4995eur-895eur-vsk-30-liter-soft-close-deckel-integr-beutelfach-2-farbvarianten-verfugbar-2789227",
