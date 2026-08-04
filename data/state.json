@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": false,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/2x-reebok-herren-clyde-performance-zweierpack-t-shirts-fur-1589-eur-s-l-2815041",
@@ -11,7 +11,11 @@
     "lidl|https://www.mydealz.de/deals/ad-blue-kanister-10-liter-lidl-2813089",
     "mydealz|https://www.mydealz.de/deals/lokal-expert-leverkusen-pdp-nintendo-switch-afterglow-wave-wireless-controller-in-grau-oder-blau-fur-je-15eur-2814667",
     "mydealz|https://www.mydealz.de/deals/amazon-kindle-hundert-verfluchte-lichtjahre-science-fiction-ebook-45550-bewertungen-2815352",
-    "mydealz|https://www.mydealz.de/deals/imo-car-wash-gratis-wasche-2815348"
+    "mydealz|https://www.mydealz.de/deals/imo-car-wash-gratis-wasche-2815348",
+    "mydealz|https://www.mydealz.de/deals/acer-predator-x34-x5-oled-340-zoll-qhd-gaming-monitor-001-ms-reaktionszeit-240-hz-2812396",
+    "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-nintendo-switch-2-konsole-mit-allnetsms-flat-60gb-5g-fur-1999eurmonat-120eur-ohne-gk-2815309",
+    "mydealz|https://www.mydealz.de/deals/paris-70-minuten-seine-bootsfahrt-bateaux-mouches-fur-1239eur-erwachsene-bzw-899eur-kinder-2815315",
+    "mydealz|https://www.mydealz.de/deals/kurzurlaub-in-osterreich-2-nachte-mit-halbpension-in-der-katschbergstubn-ab-328eur-fur-2-erwachsene-2-kinder-bis-10-j-2815779"
   ],
   "postedHistory": [
     {
