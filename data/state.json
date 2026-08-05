@@ -2,10 +2,16 @@
   "date": "2026-08-05",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/arctic-senza-silent-under-desk-pc-amd-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2815793",
+    "mydealz|https://www.mydealz.de/deals/victron-energy-blue-smart-ip65-batterie-ladegerat-12-volt-15-ampere-230v-autobatterie-2815724",
+    "mydealz|https://www.mydealz.de/deals/ikea-wuppertal-b-ware-skaftsarv-2815763",
+    "mydealz|https://www.mydealz.de/deals/telekom-unlimited-datenvolumen-kostenlos-fur-alle-kunden-via-moments-29072026-01082026-telekom-at-woa-wacken-2026-2815783",
+    "mydealz|https://www.mydealz.de/deals/lohr-doner-399eur-lokal-koblenz-2816238"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/joseph-joseph-abfalleimer-arc-easy-push-fur-4995eur-895eur-vsk-30-liter-soft-close-deckel-integr-beutelfach-2-farbvarianten-verfugbar-2789227",
