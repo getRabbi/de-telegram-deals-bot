@@ -1,58 +1,12 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allmobil-allnetsms-flat-35gb-5g-fur-dauerhaft-699eurmonat-15eur-amazon-monatlich-kundbar-keine-anschlussgebuhr-2816267",
-    "mydealz|https://www.mydealz.de/deals/arctic-senza-under-desk-mini-pc-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2816271",
-    "mydealz|https://www.mydealz.de/deals/the-complete-maus-art-spiegelmann-englisch-taschenbuch-at-thalia-app-2816075",
-    "mydealz|https://www.mydealz.de/deals/honor-magicpad-2-12gb256gb-2816395",
-    "mydealz|https://www.mydealz.de/deals/dji-avata-2-fly-smart-combo-3-akkus-goggles-n3-und-rc-motion-3-fpv-drohne-4k-kamera-97-kmh-377-g-flugzeit-23-min-ce-klasse-c1-2814900"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-ecovacs-goat-a1600-lidar-pro-fur-79112eur-2811330",
-      "ts": 1785365389941
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-kleidung-ca-80-unter-uvp-2813117",
-      "ts": 1785365389941
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fear-2-project-origin-399eur-361eur-no-mit-uncut-anl-shooter-metacritic-79-xbox-one-xbox-series-xs-xbox-360-xbox-store-2813105",
-      "ts": 1785365389941
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-65-zoll-the-frame-pro-tv-120hz-inkl-connect-box-gratis-montage-250-eur-cb-bei-kauf-soundbar-zb-hw-b660gf-169eur-eff-720eur-2813100",
-      "ts": 1785365389941
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tchibo-fahrradtool-nur-heute-versandkostenfrei-18-funktionenua-reifenheber-2813015",
-      "ts": 1785365389941
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/netto-marktangebot-einhell-schmutzwasserpumpe-gh-dp-7835-2813070",
-      "ts": 1785452894922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tecbears-pla-filament-175-mm-bundle-4kg-2813228",
-      "ts": 1785452894922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-nintendo-switch-2-im-magenta-s-allnetsms-flat-30gb-5g-bis-300mbits-ch-roaming-3995eurmonat-240eur-bonus-2813091",
-      "ts": 1785452894922
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-women-of-def-jam-3lp-vinyl-2813232",
-      "ts": 1785452894922
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/zewa-wischweg-smart-bei-rossmann-nur-112-eur-statt-319-eur-ab-27072026-2813246",
-      "ts": 1785452894922
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
       "ts": 1785624219855
@@ -184,6 +138,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lohr-doner-399eur-lokal-koblenz-2816238",
       "ts": 1785967644860
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allmobil-allnetsms-flat-35gb-5g-fur-dauerhaft-699eurmonat-15eur-amazon-monatlich-kundbar-keine-anschlussgebuhr-2816267",
+      "ts": 1786060133791
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/arctic-senza-under-desk-mini-pc-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2816271",
+      "ts": 1786060133791
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-complete-maus-art-spiegelmann-englisch-taschenbuch-at-thalia-app-2816075",
+      "ts": 1786060133791
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/honor-magicpad-2-12gb256gb-2816395",
+      "ts": 1786060133791
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-avata-2-fly-smart-combo-3-akkus-goggles-n3-und-rc-motion-3-fpv-drohne-4k-kamera-97-kmh-377-g-flugzeit-23-min-ce-klasse-c1-2814900",
+      "ts": 1786060133791
     }
   ]
 }
