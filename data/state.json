@@ -2,10 +2,16 @@
   "date": "2026-08-06",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allmobil-allnetsms-flat-35gb-5g-fur-dauerhaft-699eurmonat-15eur-amazon-monatlich-kundbar-keine-anschlussgebuhr-2816267",
+    "mydealz|https://www.mydealz.de/deals/arctic-senza-under-desk-mini-pc-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2816271",
+    "mydealz|https://www.mydealz.de/deals/the-complete-maus-art-spiegelmann-englisch-taschenbuch-at-thalia-app-2816075",
+    "mydealz|https://www.mydealz.de/deals/honor-magicpad-2-12gb256gb-2816395",
+    "mydealz|https://www.mydealz.de/deals/dji-avata-2-fly-smart-combo-3-akkus-goggles-n3-und-rc-motion-3-fpv-drohne-4k-kamera-97-kmh-377-g-flugzeit-23-min-ce-klasse-c1-2814900"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bauhaus-tpg-ecovacs-goat-a1600-lidar-pro-fur-79112eur-2811330",
