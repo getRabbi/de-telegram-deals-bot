@@ -1,11 +1,18 @@
 {
   "date": "2026-08-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/eureka-pura-r-zweikreiser-siebtragermaschine-2816490",
+    "mydealz|https://www.mydealz.de/deals/olymp-sale-mit-bis-zu-50-rabatt-auf-business-freizeithemden-z-b-luxor-level-five-ab-3995eur-casual-ab-3495eur-10eur-nl-2816508",
+    "mydealz|https://www.mydealz.de/deals/ibood-philips-sonicare-diamondclean-9000-schallzahnburste-schwarz-od-rosa-2816472",
+    "mydealz|https://www.mydealz.de/deals/iphone-17-vodafone-smart-m-spezial-2816649",
+    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-z-flip8-9995-eur-vodafone-smart-lite-young-2999-euro-mit-kombivorteil-2499eur-2816657",
+    "mydealz|https://www.mydealz.de/deals/berlin-hellersdorf-my-doner-neueroffnung-299eur-277-38-pizza-38-78-chinapfanne-78-118-helle-mitte-2816655"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
