@@ -2,7 +2,7 @@
   "date": "2026-08-07",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/ibood-philips-sonicare-diamondclean-9000-schallzahnburste-schwarz-od-rosa-2816472",
     "mydealz|https://www.mydealz.de/deals/iphone-17-vodafone-smart-m-spezial-2816649",
     "mydealz|https://www.mydealz.de/deals/samsung-galaxy-z-flip8-9995-eur-vodafone-smart-lite-young-2999-euro-mit-kombivorteil-2499eur-2816657",
-    "mydealz|https://www.mydealz.de/deals/berlin-hellersdorf-my-doner-neueroffnung-299eur-277-38-pizza-38-78-chinapfanne-78-118-helle-mitte-2816655"
+    "mydealz|https://www.mydealz.de/deals/berlin-hellersdorf-my-doner-neueroffnung-299eur-277-38-pizza-38-78-chinapfanne-78-118-helle-mitte-2816655",
+    "mydealz|https://www.mydealz.de/deals/delmao-herren-leinen-55-leinen-45-baumwolle-chino-hose-sommer-pants-fur-1889-eur-m-xxxl-2816659",
+    "mydealz|https://www.mydealz.de/deals/cleptomanicx-summer-sale-bis-zu-50zb-port-coat-jacke-2817426",
+    "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-young-gigakombi-samsung-galaxy-s25-edge-im-allnetsms-flat-60gb-5g-fur-1999eurmonat-495eur-mit-tablet-75eur-2817412",
+    "mydealz|https://www.mydealz.de/deals/bad-boys-ii-2003-4k-blu-ray-will-smith-at-amazon-prime-2817310",
+    "mydealz|https://www.mydealz.de/deals/columbia-steens-mountain-full-zip-20-herren-fleecejacke-gr-s-l-xxl-stehkragen-reissverschlusstaschen-in-grun-fur-2299-eurvsk-2817370"
   ],
   "postedHistory": [
     {
