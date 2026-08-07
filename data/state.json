@@ -1,27 +1,11 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/eureka-pura-r-zweikreiser-siebtragermaschine-2816490",
-    "mydealz|https://www.mydealz.de/deals/olymp-sale-mit-bis-zu-50-rabatt-auf-business-freizeithemden-z-b-luxor-level-five-ab-3995eur-casual-ab-3495eur-10eur-nl-2816508",
-    "mydealz|https://www.mydealz.de/deals/ibood-philips-sonicare-diamondclean-9000-schallzahnburste-schwarz-od-rosa-2816472",
-    "mydealz|https://www.mydealz.de/deals/iphone-17-vodafone-smart-m-spezial-2816649",
-    "mydealz|https://www.mydealz.de/deals/samsung-galaxy-z-flip8-9995-eur-vodafone-smart-lite-young-2999-euro-mit-kombivorteil-2499eur-2816657",
-    "mydealz|https://www.mydealz.de/deals/berlin-hellersdorf-my-doner-neueroffnung-299eur-277-38-pizza-38-78-chinapfanne-78-118-helle-mitte-2816655",
-    "mydealz|https://www.mydealz.de/deals/delmao-herren-leinen-55-leinen-45-baumwolle-chino-hose-sommer-pants-fur-1889-eur-m-xxxl-2816659",
-    "mydealz|https://www.mydealz.de/deals/cleptomanicx-summer-sale-bis-zu-50zb-port-coat-jacke-2817426",
-    "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-young-gigakombi-samsung-galaxy-s25-edge-im-allnetsms-flat-60gb-5g-fur-1999eurmonat-495eur-mit-tablet-75eur-2817412",
-    "mydealz|https://www.mydealz.de/deals/bad-boys-ii-2003-4k-blu-ray-will-smith-at-amazon-prime-2817310",
-    "mydealz|https://www.mydealz.de/deals/columbia-steens-mountain-full-zip-20-herren-fleecejacke-gr-s-l-xxl-stehkragen-reissverschlusstaschen-in-grun-fur-2299-eurvsk-2817370",
-    "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-edge-galaxy-tab-s10-fe-im-allnetsms-flat-unlimited-5g-fur-2999eurmonat-995eur-nach-ankauf-228eurmonat-2817387",
-    "mydealz|https://www.mydealz.de/deals/persil-waschmittel-16-wl-pulver-20-wl-gel-fur-359-eur-18c-pro-wl-mit-20-10-app-coupon-2817920",
-    "mydealz|https://www.mydealz.de/deals/wwe-2k26-playstation-5-fur-3928-eur-inkl-vk-2817896",
-    "mydealz|https://www.mydealz.de/deals/dji-avata-2-nur-drohne-fpv-drohne-mit-4k-kamera-2813573"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
@@ -174,6 +158,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/dji-avata-2-fly-smart-combo-3-akkus-goggles-n3-und-rc-motion-3-fpv-drohne-4k-kamera-97-kmh-377-g-flugzeit-23-min-ce-klasse-c1-2814900",
       "ts": 1786060133791
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eureka-pura-r-zweikreiser-siebtragermaschine-2816490",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/olymp-sale-mit-bis-zu-50-rabatt-auf-business-freizeithemden-z-b-luxor-level-five-ab-3995eur-casual-ab-3495eur-10eur-nl-2816508",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ibood-philips-sonicare-diamondclean-9000-schallzahnburste-schwarz-od-rosa-2816472",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iphone-17-vodafone-smart-m-spezial-2816649",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-galaxy-z-flip8-9995-eur-vodafone-smart-lite-young-2999-euro-mit-kombivorteil-2499eur-2816657",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/berlin-hellersdorf-my-doner-neueroffnung-299eur-277-38-pizza-38-78-chinapfanne-78-118-helle-mitte-2816655",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/delmao-herren-leinen-55-leinen-45-baumwolle-chino-hose-sommer-pants-fur-1889-eur-m-xxxl-2816659",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cleptomanicx-summer-sale-bis-zu-50zb-port-coat-jacke-2817426",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gewinn-vodafone-young-gigakombi-samsung-galaxy-s25-edge-im-allnetsms-flat-60gb-5g-fur-1999eurmonat-495eur-mit-tablet-75eur-2817412",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bad-boys-ii-2003-4k-blu-ray-will-smith-at-amazon-prime-2817310",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/columbia-steens-mountain-full-zip-20-herren-fleecejacke-gr-s-l-xxl-stehkragen-reissverschlusstaschen-in-grun-fur-2299-eurvsk-2817370",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-samsung-galaxy-s25-edge-galaxy-tab-s10-fe-im-allnetsms-flat-unlimited-5g-fur-2999eurmonat-995eur-nach-ankauf-228eurmonat-2817387",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/persil-waschmittel-16-wl-pulver-20-wl-gel-fur-359-eur-18c-pro-wl-mit-20-10-app-coupon-2817920",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wwe-2k26-playstation-5-fur-3928-eur-inkl-vk-2817896",
+      "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-avata-2-nur-drohne-fpv-drohne-mit-4k-kamera-2813573",
+      "ts": 1786141469849
     }
   ]
 }
