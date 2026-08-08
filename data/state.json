@@ -2,7 +2,7 @@
   "date": "2026-08-08",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/vans-henderson-herren-piloten-sonnenbrille-fur-2189-eur-2817687",
     "mydealz|https://www.mydealz.de/deals/warframe-unaufhaltbarer-clem-paket-gratis-fur-ps-inkl-platinum-2817986",
     "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-zusatzlich-auf-alle-marken-eisartikel-im-gesamten-august-2818109",
-    "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985"
+    "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985",
+    "mydealz|https://www.mydealz.de/deals/besiege-steam-ps5-fur-599-eur-2818177",
+    "mydealz|https://www.mydealz.de/deals/august-special-cinemaxx-kinogutschein-nur-600-eur-mit-cb-corporate-benefits-httpsihremitarbeiterangebotede-corporate-benefits-2819125",
+    "mydealz|https://www.mydealz.de/deals/marstek-venus-a-all-in-one-balkonkraftwerk-speicher-solarspeicher-batterie-212kwh-bis-zu-1272-kwh-2818987",
+    "mydealz|https://www.mydealz.de/deals/aral-supercard-cb-35-rabatt-50eur-fur-4825eur-2819185",
+    "mydealz|https://www.mydealz.de/deals/hoymiles-hibattery-4020-x-balkonkraftwerk-speicher-4020-wh-2818635"
   ],
   "postedHistory": [
     {
