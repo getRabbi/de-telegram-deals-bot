@@ -1,11 +1,18 @@
 {
   "date": "2026-08-08",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/et-silent-kabelloses-tastatur-maus-set-de-qwertz-full-size-leise-tasten-mit-handballenauflage-65-g-maus-bis-1600-dpi-pc132-2817883",
+    "mydealz|https://www.mydealz.de/deals/philips-hue-white-e2795w-1100lm-ww-lampe-929002469202-fur-13eur-amazon-prime-2817831",
+    "mydealz|https://www.mydealz.de/deals/vans-henderson-herren-piloten-sonnenbrille-fur-2189-eur-2817687",
+    "mydealz|https://www.mydealz.de/deals/warframe-unaufhaltbarer-clem-paket-gratis-fur-ps-inkl-platinum-2817986",
+    "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-zusatzlich-auf-alle-marken-eisartikel-im-gesamten-august-2818109",
+    "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
