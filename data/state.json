@@ -1,27 +1,11 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/et-silent-kabelloses-tastatur-maus-set-de-qwertz-full-size-leise-tasten-mit-handballenauflage-65-g-maus-bis-1600-dpi-pc132-2817883",
-    "mydealz|https://www.mydealz.de/deals/philips-hue-white-e2795w-1100lm-ww-lampe-929002469202-fur-13eur-amazon-prime-2817831",
-    "mydealz|https://www.mydealz.de/deals/vans-henderson-herren-piloten-sonnenbrille-fur-2189-eur-2817687",
-    "mydealz|https://www.mydealz.de/deals/warframe-unaufhaltbarer-clem-paket-gratis-fur-ps-inkl-platinum-2817986",
-    "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-zusatzlich-auf-alle-marken-eisartikel-im-gesamten-august-2818109",
-    "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985",
-    "mydealz|https://www.mydealz.de/deals/besiege-steam-ps5-fur-599-eur-2818177",
-    "mydealz|https://www.mydealz.de/deals/august-special-cinemaxx-kinogutschein-nur-600-eur-mit-cb-corporate-benefits-httpsihremitarbeiterangebotede-corporate-benefits-2819125",
-    "mydealz|https://www.mydealz.de/deals/marstek-venus-a-all-in-one-balkonkraftwerk-speicher-solarspeicher-batterie-212kwh-bis-zu-1272-kwh-2818987",
-    "mydealz|https://www.mydealz.de/deals/aral-supercard-cb-35-rabatt-50eur-fur-4825eur-2819185",
-    "mydealz|https://www.mydealz.de/deals/hoymiles-hibattery-4020-x-balkonkraftwerk-speicher-4020-wh-2818635",
-    "mydealz|https://www.mydealz.de/deals/linda-apotheken-im-august-fur-kinder-ein-kostenloses-lindani-lineal-in-der-linda-apotheke-abholen-2819083",
-    "mydealz|https://www.mydealz.de/deals/side-1-woche-im-5-linda-sunny-beach-hotel-spa-ab-675eur-pp-mit-all-inclusive-plus-flugen-transfers-oktober-2026-2813790",
-    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-sommer-shorts-sweat-pants-rosa-fur-2089-eur-nur-noch-in-xxl-und-xxxl-2819330",
-    "mydealz|https://www.mydealz.de/deals/poco-f8-ultra-zum-schnappchenpreis-2819299"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
@@ -234,6 +218,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/dji-avata-2-nur-drohne-fpv-drohne-mit-4k-kamera-2813573",
       "ts": 1786141469849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/et-silent-kabelloses-tastatur-maus-set-de-qwertz-full-size-leise-tasten-mit-handballenauflage-65-g-maus-bis-1600-dpi-pc132-2817883",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/philips-hue-white-e2795w-1100lm-ww-lampe-929002469202-fur-13eur-amazon-prime-2817831",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vans-henderson-herren-piloten-sonnenbrille-fur-2189-eur-2817687",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/warframe-unaufhaltbarer-clem-paket-gratis-fur-ps-inkl-platinum-2817986",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-zusatzlich-auf-alle-marken-eisartikel-im-gesamten-august-2818109",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/besiege-steam-ps5-fur-599-eur-2818177",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/august-special-cinemaxx-kinogutschein-nur-600-eur-mit-cb-corporate-benefits-httpsihremitarbeiterangebotede-corporate-benefits-2819125",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marstek-venus-a-all-in-one-balkonkraftwerk-speicher-solarspeicher-batterie-212kwh-bis-zu-1272-kwh-2818987",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aral-supercard-cb-35-rabatt-50eur-fur-4825eur-2819185",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hoymiles-hibattery-4020-x-balkonkraftwerk-speicher-4020-wh-2818635",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/linda-apotheken-im-august-fur-kinder-ein-kostenloses-lindani-lineal-in-der-linda-apotheke-abholen-2819083",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/side-1-woche-im-5-linda-sunny-beach-hotel-spa-ab-675eur-pp-mit-all-inclusive-plus-flugen-transfers-oktober-2026-2813790",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-sommer-shorts-sweat-pants-rosa-fur-2089-eur-nur-noch-in-xxl-und-xxxl-2819330",
+      "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/poco-f8-ultra-zum-schnappchenpreis-2819299",
+      "ts": 1786227473130
     }
   ]
 }
