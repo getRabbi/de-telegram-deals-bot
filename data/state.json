@@ -1,11 +1,18 @@
 {
   "date": "2026-08-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
+    "mydealz|https://www.mydealz.de/deals/adidas-performance-damen-sweatshirt-fitness-rot-fur-1989-eur-nur-noch-in-s-2819573",
+    "mydealz|https://www.mydealz.de/deals/gude-gartenwagen-set-ggw-250-inkl-aufsatzplane-kippfunktion-bis-250kg-75l-wanne-luftbereifte-rader-fur-4999eur-versand-2813706",
+    "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-4x43g-pritt-stifte-2819536",
+    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-zb-vans-old-skool-36-dan-green-adidas-sb-glenburn-adidas-sb-busenitz-indoor-super-2809019",
+    "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
