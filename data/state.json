@@ -2,7 +2,7 @@
   "date": "2026-08-09",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gude-gartenwagen-set-ggw-250-inkl-aufsatzplane-kippfunktion-bis-250kg-75l-wanne-luftbereifte-rader-fur-4999eur-versand-2813706",
     "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-4x43g-pritt-stifte-2819536",
     "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-zb-vans-old-skool-36-dan-green-adidas-sb-glenburn-adidas-sb-busenitz-indoor-super-2809019",
-    "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487"
+    "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487",
+    "mydealz|https://www.mydealz.de/deals/puma-king-pro-fg-ag-classic-wm-fussballschuhe-fur-3389-eur-43-46-2819677",
+    "mydealz|https://www.mydealz.de/deals/forvert-melange-laptop-louis-backpack-rucksack-grau-fur-2089-eur-2819680",
+    "mydealz|https://www.mydealz.de/deals/adidas-3er-packung-active-flex-baumwolle-3er-pack-slips-fur-1589-eur-s-m-2819685",
+    "lidl|https://www.mydealz.de/deals/lidl-plus-filiale-ab-1708-uno-kartenspiel-minecraft-oder-super-mario-fur-je-nur-499eur-2819404",
+    "mydealz|https://www.mydealz.de/deals/rennrad-trek-madone-sl-5-gen-8-carbon-rahmenss10586kg-2026-2-farben-mmll-2820374"
   ],
   "postedHistory": [
     {
