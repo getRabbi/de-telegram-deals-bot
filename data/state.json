@@ -1,64 +1,12 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
-    "mydealz|https://www.mydealz.de/deals/adidas-performance-damen-sweatshirt-fitness-rot-fur-1989-eur-nur-noch-in-s-2819573",
-    "mydealz|https://www.mydealz.de/deals/gude-gartenwagen-set-ggw-250-inkl-aufsatzplane-kippfunktion-bis-250kg-75l-wanne-luftbereifte-rader-fur-4999eur-versand-2813706",
-    "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-4x43g-pritt-stifte-2819536",
-    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-zb-vans-old-skool-36-dan-green-adidas-sb-glenburn-adidas-sb-busenitz-indoor-super-2809019",
-    "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487",
-    "mydealz|https://www.mydealz.de/deals/puma-king-pro-fg-ag-classic-wm-fussballschuhe-fur-3389-eur-43-46-2819677",
-    "mydealz|https://www.mydealz.de/deals/forvert-melange-laptop-louis-backpack-rucksack-grau-fur-2089-eur-2819680",
-    "mydealz|https://www.mydealz.de/deals/adidas-3er-packung-active-flex-baumwolle-3er-pack-slips-fur-1589-eur-s-m-2819685",
-    "lidl|https://www.mydealz.de/deals/lidl-plus-filiale-ab-1708-uno-kartenspiel-minecraft-oder-super-mario-fur-je-nur-499eur-2819404",
-    "mydealz|https://www.mydealz.de/deals/rennrad-trek-madone-sl-5-gen-8-carbon-rahmenss10586kg-2026-2-farben-mmll-2820374",
-    "mydealz|https://www.mydealz.de/deals/gothic-remake-pc-steam-key-2820413",
-    "mydealz|https://www.mydealz.de/deals/dbb-basketball-europameister-2025-shirt-wagner-schroder-co-2820417",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-steam-festival-der-cyberpunk-spiele-vom-0308-1008-pc-mac-deck-geforce-now-2820423",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-unmetal-fur-nintendo-switch-metacritic-77-84-jap-267eur-2820326"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-hose-baumwolle-chino-beige-fur-1789-eur-nur-noch-in-32-34-2813610",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sommerfest-aktion-gratis-aktionspaket-fur-kindergarten-kita-schulen-zb-tombola-kinderschminken-basteln-od-flussigkreide-gratis-2813616",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tepro-wurstbrater-mit-grillrost-60-x-48-cm-grill-2813363",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wmf-besteckset-60-tlg-boston-2813600",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/meta-quest-aktuell-kostenlose-spiele-100-rabatt-aktualisiert-am-21072026-2814364",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lenovo-thinkpad-t14-gen-1-14-fhd-laptop-core-i5-10310u-16gb-ram-128gb-ssd-ips-mattes-display-refurbished-notebook-gut-2814319",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/6er-pack-basicbox-premium-cushion-tennissocken-i-sportsocken-i-atmungsaktiv-i-gerippt-i-baumwolle-i-diverse-farben-i-34-3838-4242-46-2796981",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bonusaktion-anker-smart-ladegerat-anker-nano-45w-usb-c-gratis-zugabe-uber-amazon-2814351",
-      "ts": 1785624219855
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/6er-pack-utopia-towels-handtucher-set-aus-100-baumwolle-ultraweich-und-sehr-saugfahig-41x71cm-versch-farben-im-angebot-prime-2802032",
-      "ts": 1785624219855
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/fichtelgebirge-familienurlaub-3-nachte-inkl-fruhstuck-ab-212eur-fur-2-erwachsene-2-kinder-2809064",
       "ts": 1785710678267
@@ -294,6 +242,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/poco-f8-ultra-zum-schnappchenpreis-2819299",
       "ts": 1786227473130
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-performance-damen-sweatshirt-fitness-rot-fur-1989-eur-nur-noch-in-s-2819573",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gude-gartenwagen-set-ggw-250-inkl-aufsatzplane-kippfunktion-bis-250kg-75l-wanne-luftbereifte-rader-fur-4999eur-versand-2813706",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-4x43g-pritt-stifte-2819536",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-zb-vans-old-skool-36-dan-green-adidas-sb-glenburn-adidas-sb-busenitz-indoor-super-2809019",
+      "ts": 1786313939274
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/puma-king-pro-fg-ag-classic-wm-fussballschuhe-fur-3389-eur-43-46-2819677",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/forvert-melange-laptop-louis-backpack-rucksack-grau-fur-2089-eur-2819680",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-3er-packung-active-flex-baumwolle-3er-pack-slips-fur-1589-eur-s-m-2819685",
+      "ts": 1786313939274
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-plus-filiale-ab-1708-uno-kartenspiel-minecraft-oder-super-mario-fur-je-nur-499eur-2819404",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rennrad-trek-madone-sl-5-gen-8-carbon-rahmenss10586kg-2026-2-farben-mmll-2820374",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gothic-remake-pc-steam-key-2820413",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dbb-basketball-europameister-2025-shirt-wagner-schroder-co-2820417",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-steam-festival-der-cyberpunk-spiele-vom-0308-1008-pc-mac-deck-geforce-now-2820423",
+      "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-unmetal-fur-nintendo-switch-metacritic-77-84-jap-267eur-2820326",
+      "ts": 1786313939274
     }
   ]
 }
