@@ -2,10 +2,16 @@
   "date": "2026-08-10",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-hauptstadtkoffer-blnbag-m3-handgepack-rucksack-35-liter-2820695",
+    "mydealz|https://www.mydealz.de/deals/flaconi-yves-saint-laurent-y-lelixir-parfum-60ml-2820676",
+    "mydealz|https://www.mydealz.de/deals/400-ml-old-spice-rockstar-3-in-1-duschgel-fur-haar-gesicht-und-korper-langanhaltende-frische-duft-von-parfumqualitat-spar-abo-primejoyb-2818536",
+    "mydealz|https://www.mydealz.de/deals/indie-tipp-big-red-machine-big-red-machine-vnyl-lp-bon-iver-the-national-leute-2820668"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/fichtelgebirge-familienurlaub-3-nachte-inkl-fruhstuck-ab-212eur-fur-2-erwachsene-2-kinder-2809064",
