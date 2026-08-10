@@ -1,58 +1,12 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-hauptstadtkoffer-blnbag-m3-handgepack-rucksack-35-liter-2820695",
-    "mydealz|https://www.mydealz.de/deals/flaconi-yves-saint-laurent-y-lelixir-parfum-60ml-2820676",
-    "mydealz|https://www.mydealz.de/deals/400-ml-old-spice-rockstar-3-in-1-duschgel-fur-haar-gesicht-und-korper-langanhaltende-frische-duft-von-parfumqualitat-spar-abo-primejoyb-2818536",
-    "mydealz|https://www.mydealz.de/deals/indie-tipp-big-red-machine-big-red-machine-vnyl-lp-bon-iver-the-national-leute-2820668",
-    "mydealz|https://www.mydealz.de/deals/pny-geforce-rtx-5080-argb-epic-x-rgb-nach-cb-115957eur-moglich-2821014",
-    "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-bluetooth-lautsprecher-ipx7-tragbarer-powerbank-usb-2820482",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-8a-128gb-5g-obsidian-sehr-gut-refurbished-pvg-243eur-2819084",
-    "mydealz|https://www.mydealz.de/deals/primor-prada-paradigme-neue-le-parfum-variante-150ml-refill-fur-8479-eur-inkl-versand-2820422"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fichtelgebirge-familienurlaub-3-nachte-inkl-fruhstuck-ab-212eur-fur-2-erwachsene-2-kinder-2809064",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/korfu-griechenland-1-woche-im-4-bostonia-village-ab-640eur-pp-mit-fruhstuck-flugen-transfers-oktober-2026-2814540",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nina-chuba-exklusiv-konzert-am-2708-in-monchengladbach-fur-34eur-code-benotigt-2814504",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-unidays-sony-wh-1000xm6-kabellose-noise-cancelling-kopfhorer-anc-2814528",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-mustang-slim-fit-herren-5-pocket-jeans-style-oregon-1220eur-w29l32-2814856",
-      "ts": 1785710678267
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/18x-cola-fanta-cola-zero-fanta-exotic-lidl-2814901",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/16gb-afox-gaming-black-ddr4-3200-dimm-cl16-dual-kit-2814892",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenloser-eintritt-lwl-freilichtmuseum-hagen-2814449",
-      "ts": 1785710678267
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-store-google-pixel-10a-128-gb-gratis-case-40410-eur-29918-eur-moglich-2814865",
-      "ts": 1785710678267
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/2x-reebok-herren-clyde-performance-zweierpack-t-shirts-fur-1589-eur-s-l-2815041",
       "ts": 1785880994301
@@ -312,6 +266,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-unmetal-fur-nintendo-switch-metacritic-77-84-jap-267eur-2820326",
       "ts": 1786313939274
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-hauptstadtkoffer-blnbag-m3-handgepack-rucksack-35-liter-2820695",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-yves-saint-laurent-y-lelixir-parfum-60ml-2820676",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/400-ml-old-spice-rockstar-3-in-1-duschgel-fur-haar-gesicht-und-korper-langanhaltende-frische-duft-von-parfumqualitat-spar-abo-primejoyb-2818536",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/indie-tipp-big-red-machine-big-red-machine-vnyl-lp-bon-iver-the-national-leute-2820668",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pny-geforce-rtx-5080-argb-epic-x-rgb-nach-cb-115957eur-moglich-2821014",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-bluetooth-lautsprecher-ipx7-tragbarer-powerbank-usb-2820482",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-8a-128gb-5g-obsidian-sehr-gut-refurbished-pvg-243eur-2819084",
+      "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/primor-prada-paradigme-neue-le-parfum-variante-150ml-refill-fur-8479-eur-inkl-versand-2820422",
+      "ts": 1786400753628
     }
   ]
 }
