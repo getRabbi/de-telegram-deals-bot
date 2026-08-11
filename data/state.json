@@ -1,11 +1,18 @@
 {
   "date": "2026-08-11",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
+    "mydealz|https://www.mydealz.de/deals/e-mtb-leicht-focus-jam2-sl-88-carbonfazua-430wh197kg-lxl-cb-moglich-2821403",
+    "mydealz|https://www.mydealz.de/deals/jede-autowasche-bei-allen-teilnehmenden-total-tankstellen-bis-1208-nur-799-2821446",
+    "mydealz|https://www.mydealz.de/deals/dji-flip-fly-more-combo-mit-rc-2-bildschirmfernsteuerung-3-akkus-fur-93-min-flugzeit-drohne-mit-4k-uhd-kamera-2813640",
+    "mydealz|https://www.mydealz.de/deals/kubler-image-dress-new-design-workwear-je-1495eurvsk-hose-jacke-o-latzhose-funktionale-kleidung-verstarkte-baumwolle-viel-stauraum-2821445",
+    "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/2x-reebok-herren-clyde-performance-zweierpack-t-shirts-fur-1589-eur-s-l-2815041",
