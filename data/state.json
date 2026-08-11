@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-metacritic-88-gog-2811845",
     "mydealz|https://www.mydealz.de/deals/gog-opus-echo-of-starsong-full-bloom-edition-pcmac-fur-839eur-metacritic-90-emotionales-sci-fi-abenteuer-2814445",
     "mydealz|https://www.mydealz.de/deals/best-secret-adidas-adizero-boston-13-laufschuhe-gr-37-bis-47-fur-7999eur-oder-pureboost-23-fur-5839eur-gr-41-bis-47-2821712",
-    "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803"
+    "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803",
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-jack-move-zum-tiefstpreis-fur-switch-metacritic-87-74-nor-185eur-2789818",
+    "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-set-gbh-18v-26-pro-hammerbohren-kit-9-tlg-ohne-akku-und-ladegerat-2821887",
+    "mydealz|https://www.mydealz.de/deals/elektronische-parkscheibe-kaufland-wolfsburg-lokal-2821896",
+    "aldi|https://www.mydealz.de/deals/aldi-nord-filiale-ambiano-standventilator-gt-sf-vt-02-50w-fernbedienung-oszillierend-timer-funktion-2821874"
   ],
   "postedHistory": [
     {
