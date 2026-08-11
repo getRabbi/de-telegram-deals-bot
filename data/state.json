@@ -2,7 +2,7 @@
   "date": "2026-08-11",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/jede-autowasche-bei-allen-teilnehmenden-total-tankstellen-bis-1208-nur-799-2821446",
     "mydealz|https://www.mydealz.de/deals/dji-flip-fly-more-combo-mit-rc-2-bildschirmfernsteuerung-3-akkus-fur-93-min-flugzeit-drohne-mit-4k-uhd-kamera-2813640",
     "mydealz|https://www.mydealz.de/deals/kubler-image-dress-new-design-workwear-je-1495eurvsk-hose-jacke-o-latzhose-funktionale-kleidung-verstarkte-baumwolle-viel-stauraum-2821445",
-    "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424"
+    "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424",
+    "mydealz|https://www.mydealz.de/deals/centerparks-gutscheine-mit-15-rabatt-allianz-vorteilswelt-auch-ohne-allianzvertrag-moglich-2821783",
+    "mydealz|https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-metacritic-88-gog-2811845",
+    "mydealz|https://www.mydealz.de/deals/gog-opus-echo-of-starsong-full-bloom-edition-pcmac-fur-839eur-metacritic-90-emotionales-sci-fi-abenteuer-2814445",
+    "mydealz|https://www.mydealz.de/deals/best-secret-adidas-adizero-boston-13-laufschuhe-gr-37-bis-47-fur-7999eur-oder-pureboost-23-fur-5839eur-gr-41-bis-47-2821712",
+    "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803"
   ],
   "postedHistory": [
     {
