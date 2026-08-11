@@ -1,68 +1,12 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
-    "mydealz|https://www.mydealz.de/deals/e-mtb-leicht-focus-jam2-sl-88-carbonfazua-430wh197kg-lxl-cb-moglich-2821403",
-    "mydealz|https://www.mydealz.de/deals/jede-autowasche-bei-allen-teilnehmenden-total-tankstellen-bis-1208-nur-799-2821446",
-    "mydealz|https://www.mydealz.de/deals/dji-flip-fly-more-combo-mit-rc-2-bildschirmfernsteuerung-3-akkus-fur-93-min-flugzeit-drohne-mit-4k-uhd-kamera-2813640",
-    "mydealz|https://www.mydealz.de/deals/kubler-image-dress-new-design-workwear-je-1495eurvsk-hose-jacke-o-latzhose-funktionale-kleidung-verstarkte-baumwolle-viel-stauraum-2821445",
-    "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424",
-    "mydealz|https://www.mydealz.de/deals/centerparks-gutscheine-mit-15-rabatt-allianz-vorteilswelt-auch-ohne-allianzvertrag-moglich-2821783",
-    "mydealz|https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-metacritic-88-gog-2811845",
-    "mydealz|https://www.mydealz.de/deals/gog-opus-echo-of-starsong-full-bloom-edition-pcmac-fur-839eur-metacritic-90-emotionales-sci-fi-abenteuer-2814445",
-    "mydealz|https://www.mydealz.de/deals/best-secret-adidas-adizero-boston-13-laufschuhe-gr-37-bis-47-fur-7999eur-oder-pureboost-23-fur-5839eur-gr-41-bis-47-2821712",
-    "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-jack-move-zum-tiefstpreis-fur-switch-metacritic-87-74-nor-185eur-2789818",
-    "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-set-gbh-18v-26-pro-hammerbohren-kit-9-tlg-ohne-akku-und-ladegerat-2821887",
-    "mydealz|https://www.mydealz.de/deals/elektronische-parkscheibe-kaufland-wolfsburg-lokal-2821896",
-    "aldi|https://www.mydealz.de/deals/aldi-nord-filiale-ambiano-standventilator-gt-sf-vt-02-50w-fernbedienung-oszillierend-timer-funktion-2821874"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/2x-reebok-herren-clyde-performance-zweierpack-t-shirts-fur-1589-eur-s-l-2815041",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jack-jones-herren-vesterbro-side-sweatshirt-schwarzweiss-fur-1389-eur-nur-noch-in-m-2815040",
-      "ts": 1785880994301
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/ad-blue-kanister-10-liter-lidl-2813089",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-expert-leverkusen-pdp-nintendo-switch-afterglow-wave-wireless-controller-in-grau-oder-blau-fur-je-15eur-2814667",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-hundert-verfluchte-lichtjahre-science-fiction-ebook-45550-bewertungen-2815352",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/imo-car-wash-gratis-wasche-2815348",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/acer-predator-x34-x5-oled-340-zoll-qhd-gaming-monitor-001-ms-reaktionszeit-240-hz-2812396",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-nintendo-switch-2-konsole-mit-allnetsms-flat-60gb-5g-fur-1999eurmonat-120eur-ohne-gk-2815309",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/paris-70-minuten-seine-bootsfahrt-bateaux-mouches-fur-1239eur-erwachsene-bzw-899eur-kinder-2815315",
-      "ts": 1785880994301
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kurzurlaub-in-osterreich-2-nachte-mit-halbpension-in-der-katschbergstubn-ab-328eur-fur-2-erwachsene-2-kinder-bis-10-j-2815779",
-      "ts": 1785880994301
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/arctic-senza-silent-under-desk-pc-amd-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2815793",
       "ts": 1785967644860
@@ -318,6 +262,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/primor-prada-paradigme-neue-le-parfum-variante-150ml-refill-fur-8479-eur-inkl-versand-2820422",
       "ts": 1786400753628
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-leicht-focus-jam2-sl-88-carbonfazua-430wh197kg-lxl-cb-moglich-2821403",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jede-autowasche-bei-allen-teilnehmenden-total-tankstellen-bis-1208-nur-799-2821446",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-flip-fly-more-combo-mit-rc-2-bildschirmfernsteuerung-3-akkus-fur-93-min-flugzeit-drohne-mit-4k-uhd-kamera-2813640",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kubler-image-dress-new-design-workwear-je-1495eurvsk-hose-jacke-o-latzhose-funktionale-kleidung-verstarkte-baumwolle-viel-stauraum-2821445",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/centerparks-gutscheine-mit-15-rabatt-allianz-vorteilswelt-auch-ohne-allianzvertrag-moglich-2821783",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-metacritic-88-gog-2811845",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gog-opus-echo-of-starsong-full-bloom-edition-pcmac-fur-839eur-metacritic-90-emotionales-sci-fi-abenteuer-2814445",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/best-secret-adidas-adizero-boston-13-laufschuhe-gr-37-bis-47-fur-7999eur-oder-pureboost-23-fur-5839eur-gr-41-bis-47-2821712",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-jack-move-zum-tiefstpreis-fur-switch-metacritic-87-74-nor-185eur-2789818",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-set-gbh-18v-26-pro-hammerbohren-kit-9-tlg-ohne-akku-und-ladegerat-2821887",
+      "ts": 1786487485676
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/elektronische-parkscheibe-kaufland-wolfsburg-lokal-2821896",
+      "ts": 1786487485676
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-filiale-ambiano-standventilator-gt-sf-vt-02-50w-fernbedienung-oszillierend-timer-funktion-2821874",
+      "ts": 1786487485676
     }
   ]
 }
