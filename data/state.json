@@ -2,10 +2,16 @@
   "date": "2026-08-12",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/hmk-ad039-watchface-google-playstore-2821920",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-rosenblut-ein-edel-stein-thriller-ebook-abgeschlossener-fall-berlin-krimi-423660-2781482",
+    "mydealz|https://www.mydealz.de/deals/tankrast-und-serways-autobahn-fur-familien-gratis-kids-box-499-eur-zum-hauptgericht-ab-999-eur-kids-bis-12-j-mitnehmen-2822108",
+    "mydealz|https://www.mydealz.de/deals/amazon-4-teiliges-bettwasche-set-bedsure-100-baumwolle-2x-135x200-cm-2x-80x80-cm-anthrazit-fur-2178-eur-statt-4356-eur-2822066",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-dragon-age-the-veilguard-deluxe-edition-playstation-5-2788784"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/arctic-senza-silent-under-desk-pc-amd-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2815793",
