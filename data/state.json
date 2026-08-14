@@ -2,10 +2,16 @@
   "date": "2026-08-14",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/jil-sander-damen-brille-brillengestell-havanna-oliver-j2001-fur-2589-eur-2822442",
+    "mydealz|https://www.mydealz.de/deals/vans-old-skool-ua-damen-kinder-lachs-fur-2489-eur-36-38-2822446",
+    "mydealz|https://www.mydealz.de/deals/kaufland-neuware-nur-offline-parkside-20-v-mahroboter-pamrc-250-a1-city-mit-akku-und-ladestation-2822434",
+    "mydealz|https://www.mydealz.de/deals/glasbehalter-mit-deckel-20-teilig-borosilikatglas-mikrowellengeeignet-gefriergeeignet-prime-2822568",
+    "mydealz|https://www.mydealz.de/deals/sensecap-card-tracker-t1000-e-gps-tracking-ganz-ohne-sim-mobilfunkvertrag-per-meshtastic-funknetz-ip65-700-mah-akku-versand-aus-de-2820347"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allmobil-allnetsms-flat-35gb-5g-fur-dauerhaft-699eurmonat-15eur-amazon-monatlich-kundbar-keine-anschlussgebuhr-2816267",
