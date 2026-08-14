@@ -1,42 +1,12 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/jil-sander-damen-brille-brillengestell-havanna-oliver-j2001-fur-2589-eur-2822442",
-    "mydealz|https://www.mydealz.de/deals/vans-old-skool-ua-damen-kinder-lachs-fur-2489-eur-36-38-2822446",
-    "mydealz|https://www.mydealz.de/deals/kaufland-neuware-nur-offline-parkside-20-v-mahroboter-pamrc-250-a1-city-mit-akku-und-ladestation-2822434",
-    "mydealz|https://www.mydealz.de/deals/glasbehalter-mit-deckel-20-teilig-borosilikatglas-mikrowellengeeignet-gefriergeeignet-prime-2822568",
-    "mydealz|https://www.mydealz.de/deals/sensecap-card-tracker-t1000-e-gps-tracking-ganz-ohne-sim-mobilfunkvertrag-per-meshtastic-funknetz-ip65-700-mah-akku-versand-aus-de-2820347",
-    "mydealz|https://www.mydealz.de/deals/dji-osmo-360-essential-combo-2x-akku-12-m-selfie-stick-1-zoll-360-kamera-bis-zu-100-minuten-8k-360-video-120mp-360-foto-2822562",
-    "mydealz|https://www.mydealz.de/deals/birkenstock-sammeldeal-birkenstock-arizona-bf-narrow-arizona-leve-oysters-arizona-leve-pink-regular-personalisiert-2822540",
-    "mydealz|https://www.mydealz.de/deals/15-rabatt-auf-alle-design-klassiker-dieses-mal-auch-vitra-eames-lounge-chair-ottoman-in-santos-palisander-von-c-und-r-eames-markanto-2822579",
-    "mydealz|https://www.mydealz.de/deals/marke-pakicetus-aufblasbares-dachfensterzelt-4-6-personen-luxus-familienzelt-fur-den-aussenbereich-2820859"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-sim-only-allmobil-allnetsms-flat-35gb-5g-fur-dauerhaft-699eurmonat-15eur-amazon-monatlich-kundbar-keine-anschlussgebuhr-2816267",
-      "ts": 1786060133791
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/arctic-senza-under-desk-mini-pc-ryzen-7-5700g-32-gb-ram-1-tb-ssd-passiv-gekuhlt-fur-399-eur-2816271",
-      "ts": 1786060133791
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-complete-maus-art-spiegelmann-englisch-taschenbuch-at-thalia-app-2816075",
-      "ts": 1786060133791
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/honor-magicpad-2-12gb256gb-2816395",
-      "ts": 1786060133791
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-avata-2-fly-smart-combo-3-akkus-goggles-n3-und-rc-motion-3-fpv-drohne-4k-kamera-97-kmh-377-g-flugzeit-23-min-ce-klasse-c1-2814900",
-      "ts": 1786060133791
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/eureka-pura-r-zweikreiser-siebtragermaschine-2816490",
       "ts": 1786141469849
@@ -376,6 +346,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/24x-apollo-no-show-socken-packung-sneaker-fusslinge-baumwolle-schwarz-fur-2789-eur-36-41-42-47-2822448",
       "ts": 1786660211752
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/jil-sander-damen-brille-brillengestell-havanna-oliver-j2001-fur-2589-eur-2822442",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vans-old-skool-ua-damen-kinder-lachs-fur-2489-eur-36-38-2822446",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-neuware-nur-offline-parkside-20-v-mahroboter-pamrc-250-a1-city-mit-akku-und-ladestation-2822434",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/glasbehalter-mit-deckel-20-teilig-borosilikatglas-mikrowellengeeignet-gefriergeeignet-prime-2822568",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sensecap-card-tracker-t1000-e-gps-tracking-ganz-ohne-sim-mobilfunkvertrag-per-meshtastic-funknetz-ip65-700-mah-akku-versand-aus-de-2820347",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-360-essential-combo-2x-akku-12-m-selfie-stick-1-zoll-360-kamera-bis-zu-100-minuten-8k-360-video-120mp-360-foto-2822562",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/birkenstock-sammeldeal-birkenstock-arizona-bf-narrow-arizona-leve-oysters-arizona-leve-pink-regular-personalisiert-2822540",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/15-rabatt-auf-alle-design-klassiker-dieses-mal-auch-vitra-eames-lounge-chair-ottoman-in-santos-palisander-von-c-und-r-eames-markanto-2822579",
+      "ts": 1786745512485
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/marke-pakicetus-aufblasbares-dachfensterzelt-4-6-personen-luxus-familienzelt-fur-den-aussenbereich-2820859",
+      "ts": 1786745512485
     }
   ]
 }
