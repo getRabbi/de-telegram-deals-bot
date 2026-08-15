@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/salzburger-land-ultra-all-inclusive-2-nachte-im-4-hotel-adapura-wagrain-fur-199eur-pp-2822702",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/the-monster-squad-blu-ray-mediabook-kultfilm-2820553",
     "mydealz|https://www.mydealz.de/deals/spinera-classic-910-sup-2818997",
     "mydealz|https://www.mydealz.de/deals/kaufland-volklingen-2eur-bzw-3eur-coupon-zu-jedem-einkauf-uber-einen-extra-kassenzettel-2823100",
-    "mydealz|https://www.mydealz.de/deals/boutique-hotel-kreta-griechenland-doppelzimmer-mit-meerblick-halbpension-7-nachte-anfang-okt-nur-hotel-flug-optional-dazubuchbar-2823083"
+    "mydealz|https://www.mydealz.de/deals/boutique-hotel-kreta-griechenland-doppelzimmer-mit-meerblick-halbpension-7-nachte-anfang-okt-nur-hotel-flug-optional-dazubuchbar-2823083",
+    "mydealz|https://www.mydealz.de/deals/scratch-30-programmierbarer-roboter-bausatz-mit-entwicklungsboard-wlan-modul-ultraschallsensor-linienverfolgungsmodul-shell-usw-2823097",
+    "mydealz|https://www.mydealz.de/deals/sonos-era-300-refurbished-direkt-von-sonos-2823106",
+    "mydealz|https://www.mydealz.de/deals/tamiya-58649-nsu-tt-prinz-jagermeister-m-05-rc-auto-bausatz-110-2822925",
+    "mydealz|https://www.mydealz.de/deals/edifier-stax-spirit-s10-true-wireless-planar-magnetic-earbuds-2823234"
   ],
   "postedHistory": [
     {
