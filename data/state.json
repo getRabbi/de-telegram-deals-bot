@@ -2,7 +2,7 @@
   "date": "2026-08-15",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/gebrauchte-intel-cpus-ab-2790eur-intel-8th-9th-10th-11th-gen-prozessoren-35w-65w-tdp-fur-aufrustung-von-home-lab-projekten-2822699",
     "mydealz|https://www.mydealz.de/deals/aliexpress-xiaomi-redmi-pad-2-pro-wifi-6gb128gb-16199-eur-mit-shoop-2822654",
     "mydealz|https://www.mydealz.de/deals/knaus-sport-400-qd-wohnwagen-1500kg-6050mm-plus-paket-heki-schwerlaststutzen-aussensteckdose-wasserfiltersystem-neufahrzeug-2822667",
-    "mydealz|https://www.mydealz.de/deals/objektiv-viltrox-af-35mm-12-lab-z-fur-nikon-z-2822767"
+    "mydealz|https://www.mydealz.de/deals/objektiv-viltrox-af-35mm-12-lab-z-fur-nikon-z-2822767",
+    "mydealz|https://www.mydealz.de/deals/amazon-trainspotting-bd-blu-ray-prime-2809855",
+    "mydealz|https://www.mydealz.de/deals/the-monster-squad-blu-ray-mediabook-kultfilm-2820553",
+    "mydealz|https://www.mydealz.de/deals/spinera-classic-910-sup-2818997",
+    "mydealz|https://www.mydealz.de/deals/kaufland-volklingen-2eur-bzw-3eur-coupon-zu-jedem-einkauf-uber-einen-extra-kassenzettel-2823100",
+    "mydealz|https://www.mydealz.de/deals/boutique-hotel-kreta-griechenland-doppelzimmer-mit-meerblick-halbpension-7-nachte-anfang-okt-nur-hotel-flug-optional-dazubuchbar-2823083"
   ],
   "postedHistory": [
     {
