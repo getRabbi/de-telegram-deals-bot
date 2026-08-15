@@ -1,11 +1,18 @@
 {
   "date": "2026-08-15",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/salzburger-land-ultra-all-inclusive-2-nachte-im-4-hotel-adapura-wagrain-fur-199eur-pp-2822702",
+    "mydealz|https://www.mydealz.de/deals/cb-samsung-waschmaschine-9-kg-ww5000c-mit-ecobubble-eek-a-10-inkl-anschluss-service-altgeratemitnahme-bespoke-serie-7-7000d-484eur-2822661",
+    "mydealz|https://www.mydealz.de/deals/gebrauchte-intel-cpus-ab-2790eur-intel-8th-9th-10th-11th-gen-prozessoren-35w-65w-tdp-fur-aufrustung-von-home-lab-projekten-2822699",
+    "mydealz|https://www.mydealz.de/deals/aliexpress-xiaomi-redmi-pad-2-pro-wifi-6gb128gb-16199-eur-mit-shoop-2822654",
+    "mydealz|https://www.mydealz.de/deals/knaus-sport-400-qd-wohnwagen-1500kg-6050mm-plus-paket-heki-schwerlaststutzen-aussensteckdose-wasserfiltersystem-neufahrzeug-2822667",
+    "mydealz|https://www.mydealz.de/deals/objektiv-viltrox-af-35mm-12-lab-z-fur-nikon-z-2822767"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/eureka-pura-r-zweikreiser-siebtragermaschine-2816490",
