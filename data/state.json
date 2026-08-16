@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
-    "mydealz|https://www.mydealz.de/deals/simba-disney-chap-mini-pluschfigur-ca-15-cm-superweicher-begleiter-fur-7eur-amazon-prime-2823245",
-    "mydealz|https://www.mydealz.de/deals/steam-deck-life-is-strange-complete-season-episodes-1-5-299eur-pc-2823263",
-    "mydealz|https://www.mydealz.de/deals/lego-shop-gratis-ab-180eur-einkauf-40908-restaurants-der-welt-griechenland-ab-40eur-30729-pokemon-premierball-2823367",
-    "mydealz|https://www.mydealz.de/deals/kaufland-kakao-haltbar-oder-frisch-von-weihenstephan-2821901",
-    "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298",
-    "mydealz|https://www.mydealz.de/deals/carhartt-unisex-logo-sweatshirt-pullover-in-m-und-xxl-2823411",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-barhocker-designermobel-second-hand-zb-lapalma-lem-plank-miura-thonet-404h-lapalma-thin-etc-wohn-designcom-2814581",
-    "mydealz|https://www.mydealz.de/deals/edeka-sudwest-2-fur-1-bonne-maman-konfiture-mit-app-2823409",
-    "mydealz|https://www.mydealz.de/deals/stabilo-fineliner-point-88-naturecolors-10er-pack-prime-2790910",
-    "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483",
-    "mydealz|https://www.mydealz.de/deals/hitster-wacken-edition-meddl-loide-2823500",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-usa-new-york-mit-delta-klm-air-france-nonstop-von-berlin-inkl-ruckflug-aug-mar-2823354",
-    "mydealz|https://www.mydealz.de/deals/otto-challenge-250-punkte-5eur-einlosen-und-200-punkte-cashback-2823399",
-    "mydealz|https://www.mydealz.de/deals/limar-air-pro-radhelm-2823671"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/et-silent-kabelloses-tastatur-maus-set-de-qwertz-full-size-leise-tasten-mit-handballenauflage-65-g-maus-bis-1600-dpi-pc132-2817883",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-hue-white-e2795w-1100lm-ww-lampe-929002469202-fur-13eur-amazon-prime-2817831",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vans-henderson-herren-piloten-sonnenbrille-fur-2189-eur-2817687",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/warframe-unaufhaltbarer-clem-paket-gratis-fur-ps-inkl-platinum-2817986",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-20-rabatt-zusatzlich-auf-alle-marken-eisartikel-im-gesamten-august-2818109",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-xps-16-9640-laptop-163-inch-1610-fhd-display-intel-evo-edition-intel-core-ultra-7-nvidia-geforce-rtx-4050-2817985",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/besiege-steam-ps5-fur-599-eur-2818177",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/august-special-cinemaxx-kinogutschein-nur-600-eur-mit-cb-corporate-benefits-httpsihremitarbeiterangebotede-corporate-benefits-2819125",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marstek-venus-a-all-in-one-balkonkraftwerk-speicher-solarspeicher-batterie-212kwh-bis-zu-1272-kwh-2818987",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aral-supercard-cb-35-rabatt-50eur-fur-4825eur-2819185",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hoymiles-hibattery-4020-x-balkonkraftwerk-speicher-4020-wh-2818635",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/linda-apotheken-im-august-fur-kinder-ein-kostenloses-lindani-lineal-in-der-linda-apotheke-abholen-2819083",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/side-1-woche-im-5-linda-sunny-beach-hotel-spa-ab-675eur-pp-mit-all-inclusive-plus-flugen-transfers-oktober-2026-2813790",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-sommer-shorts-sweat-pants-rosa-fur-2089-eur-nur-noch-in-xxl-und-xxxl-2819330",
-      "ts": 1786227473130
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/poco-f8-ultra-zum-schnappchenpreis-2819299",
-      "ts": 1786227473130
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
       "ts": 1786313939274
@@ -398,6 +322,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/edifier-stax-spirit-s10-true-wireless-planar-magnetic-earbuds-2823234",
       "ts": 1786831798875
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/simba-disney-chap-mini-pluschfigur-ca-15-cm-superweicher-begleiter-fur-7eur-amazon-prime-2823245",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-deck-life-is-strange-complete-season-episodes-1-5-299eur-pc-2823263",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-shop-gratis-ab-180eur-einkauf-40908-restaurants-der-welt-griechenland-ab-40eur-30729-pokemon-premierball-2823367",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-kakao-haltbar-oder-frisch-von-weihenstephan-2821901",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/carhartt-unisex-logo-sweatshirt-pullover-in-m-und-xxl-2823411",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-barhocker-designermobel-second-hand-zb-lapalma-lem-plank-miura-thonet-404h-lapalma-thin-etc-wohn-designcom-2814581",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-sudwest-2-fur-1-bonne-maman-konfiture-mit-app-2823409",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stabilo-fineliner-point-88-naturecolors-10er-pack-prime-2790910",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hitster-wacken-edition-meddl-loide-2823500",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-usa-new-york-mit-delta-klm-air-france-nonstop-von-berlin-inkl-ruckflug-aug-mar-2823354",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/otto-challenge-250-punkte-5eur-einlosen-und-200-punkte-cashback-2823399",
+      "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/limar-air-pro-radhelm-2823671",
+      "ts": 1786918213330
     }
   ]
 }
