@@ -1,11 +1,18 @@
 {
   "date": "2026-08-16",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
+    "mydealz|https://www.mydealz.de/deals/simba-disney-chap-mini-pluschfigur-ca-15-cm-superweicher-begleiter-fur-7eur-amazon-prime-2823245",
+    "mydealz|https://www.mydealz.de/deals/steam-deck-life-is-strange-complete-season-episodes-1-5-299eur-pc-2823263",
+    "mydealz|https://www.mydealz.de/deals/lego-shop-gratis-ab-180eur-einkauf-40908-restaurants-der-welt-griechenland-ab-40eur-30729-pokemon-premierball-2823367",
+    "mydealz|https://www.mydealz.de/deals/kaufland-kakao-haltbar-oder-frisch-von-weihenstephan-2821901",
+    "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/et-silent-kabelloses-tastatur-maus-set-de-qwertz-full-size-leise-tasten-mit-handballenauflage-65-g-maus-bis-1600-dpi-pc132-2817883",
