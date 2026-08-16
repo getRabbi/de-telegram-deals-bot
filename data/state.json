@@ -2,7 +2,7 @@
   "date": "2026-08-16",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/steam-deck-life-is-strange-complete-season-episodes-1-5-299eur-pc-2823263",
     "mydealz|https://www.mydealz.de/deals/lego-shop-gratis-ab-180eur-einkauf-40908-restaurants-der-welt-griechenland-ab-40eur-30729-pokemon-premierball-2823367",
     "mydealz|https://www.mydealz.de/deals/kaufland-kakao-haltbar-oder-frisch-von-weihenstephan-2821901",
-    "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298"
+    "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298",
+    "mydealz|https://www.mydealz.de/deals/carhartt-unisex-logo-sweatshirt-pullover-in-m-und-xxl-2823411",
+    "mydealz|https://www.mydealz.de/deals/sammeldeal-barhocker-designermobel-second-hand-zb-lapalma-lem-plank-miura-thonet-404h-lapalma-thin-etc-wohn-designcom-2814581",
+    "mydealz|https://www.mydealz.de/deals/edeka-sudwest-2-fur-1-bonne-maman-konfiture-mit-app-2823409",
+    "mydealz|https://www.mydealz.de/deals/stabilo-fineliner-point-88-naturecolors-10er-pack-prime-2790910",
+    "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483"
   ],
   "postedHistory": [
     {
