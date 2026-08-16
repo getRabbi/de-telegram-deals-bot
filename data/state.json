@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/sammeldeal-barhocker-designermobel-second-hand-zb-lapalma-lem-plank-miura-thonet-404h-lapalma-thin-etc-wohn-designcom-2814581",
     "mydealz|https://www.mydealz.de/deals/edeka-sudwest-2-fur-1-bonne-maman-konfiture-mit-app-2823409",
     "mydealz|https://www.mydealz.de/deals/stabilo-fineliner-point-88-naturecolors-10er-pack-prime-2790910",
-    "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483"
+    "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483",
+    "mydealz|https://www.mydealz.de/deals/hitster-wacken-edition-meddl-loide-2823500",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-usa-new-york-mit-delta-klm-air-france-nonstop-von-berlin-inkl-ruckflug-aug-mar-2823354",
+    "mydealz|https://www.mydealz.de/deals/otto-challenge-250-punkte-5eur-einlosen-und-200-punkte-cashback-2823399",
+    "mydealz|https://www.mydealz.de/deals/limar-air-pro-radhelm-2823671"
   ],
   "postedHistory": [
     {
