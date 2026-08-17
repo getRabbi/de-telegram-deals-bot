@@ -2,7 +2,7 @@
   "date": "2026-08-17",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/lego-die-mondrakete-von-tim-und-struppi-21367-fur-10883-euro-lieferung-an-dhl-paketshop-alza-2823677",
     "mydealz|https://www.mydealz.de/gutscheine/kaufland-7eur-ab-75eur-einkaufswert-auf-alles-2824017",
     "mydealz|https://www.mydealz.de/deals/cashback-50-2823936",
-    "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025"
+    "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025",
+    "mydealz|https://www.mydealz.de/deals/gelb-petg-creality-filament-fur-3d-drucker-10kg-ca5-eurkilo-gutschein-2823963",
+    "mydealz|https://www.mydealz.de/deals/becks-pils-dosenbier-51-gratis-dosen-set-einweg-51-x-05-l-pils-bier-2824022",
+    "mydealz|https://www.mydealz.de/deals/tony-hawks-pro-skater-3-4-playstation-4-fur-1869eur-inkl-versand-amazonit-2821934",
+    "mydealz|https://www.mydealz.de/deals/parkside-led-arbeitsstrahler-pasl-32-a1-4000lm-32w-2822252",
+    "mydealz|https://www.mydealz.de/deals/boss-business-herren-6er-packung-socken-fusslinge-made-in-italy-schwarz-fur-2289-eur-41-42-2824177"
   ],
   "postedHistory": [
     {
