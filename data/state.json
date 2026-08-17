@@ -1,11 +1,18 @@
 {
   "date": "2026-08-17",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-foldback-klammern-gross-ca-5cm-breit-fur-rund-2-eur-2823585",
+    "mydealz|https://www.mydealz.de/deals/lego-die-mondrakete-von-tim-und-struppi-21367-fur-10883-euro-lieferung-an-dhl-paketshop-alza-2823677",
+    "mydealz|https://www.mydealz.de/gutscheine/kaufland-7eur-ab-75eur-einkaufswert-auf-alles-2824017",
+    "mydealz|https://www.mydealz.de/deals/cashback-50-2823936",
+    "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
