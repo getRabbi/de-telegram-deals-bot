@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-foldback-klammern-gross-ca-5cm-breit-fur-rund-2-eur-2823585",
-    "mydealz|https://www.mydealz.de/deals/lego-die-mondrakete-von-tim-und-struppi-21367-fur-10883-euro-lieferung-an-dhl-paketshop-alza-2823677",
-    "mydealz|https://www.mydealz.de/gutscheine/kaufland-7eur-ab-75eur-einkaufswert-auf-alles-2824017",
-    "mydealz|https://www.mydealz.de/deals/cashback-50-2823936",
-    "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025",
-    "mydealz|https://www.mydealz.de/deals/gelb-petg-creality-filament-fur-3d-drucker-10kg-ca5-eurkilo-gutschein-2823963",
-    "mydealz|https://www.mydealz.de/deals/becks-pils-dosenbier-51-gratis-dosen-set-einweg-51-x-05-l-pils-bier-2824022",
-    "mydealz|https://www.mydealz.de/deals/tony-hawks-pro-skater-3-4-playstation-4-fur-1869eur-inkl-versand-amazonit-2821934",
-    "mydealz|https://www.mydealz.de/deals/parkside-led-arbeitsstrahler-pasl-32-a1-4000lm-32w-2822252",
-    "mydealz|https://www.mydealz.de/deals/boss-business-herren-6er-packung-socken-fusslinge-made-in-italy-schwarz-fur-2289-eur-41-42-2824177",
-    "mydealz|https://www.mydealz.de/deals/new-balance-herren-life-in-balance-oversized-t-shirt-moonbeam-beige-fur-1389-eur-xs-s-2823876",
-    "mydealz|https://www.mydealz.de/deals/390-eur-thg-pramie-fur-2026-bei-geld-fur-eauto-bestpreisgarantie-begrenzbar-auf-2026-kein-kombi-25-eur-kwk-unendlich-2824444",
-    "mydealz|https://www.mydealz.de/deals/50-rabatt-auf-dji-care-2824355",
-    "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-complete-edition-upgrade-ps5-2824404"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kindle-battlecry-the-complete-series-komplette-8-teilige-sci-fi-reihe-von-daniel-young-kostenlos-englisch-42-2819289",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-performance-damen-sweatshirt-fitness-rot-fur-1989-eur-nur-noch-in-s-2819573",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gude-gartenwagen-set-ggw-250-inkl-aufsatzplane-kippfunktion-bis-250kg-75l-wanne-luftbereifte-rader-fur-4999eur-versand-2813706",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-spar-abo-4x43g-pritt-stifte-2819536",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-zb-vans-old-skool-36-dan-green-adidas-sb-glenburn-adidas-sb-busenitz-indoor-super-2809019",
-      "ts": 1786313939274
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-silvercrest-kitchen-tools-heissluftfritteuse-shlfs-2200-a1-38-l-2819487",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/puma-king-pro-fg-ag-classic-wm-fussballschuhe-fur-3389-eur-43-46-2819677",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/forvert-melange-laptop-louis-backpack-rucksack-grau-fur-2089-eur-2819680",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-3er-packung-active-flex-baumwolle-3er-pack-slips-fur-1589-eur-s-m-2819685",
-      "ts": 1786313939274
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-plus-filiale-ab-1708-uno-kartenspiel-minecraft-oder-super-mario-fur-je-nur-499eur-2819404",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rennrad-trek-madone-sl-5-gen-8-carbon-rahmenss10586kg-2026-2-farben-mmll-2820374",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gothic-remake-pc-steam-key-2820413",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dbb-basketball-europameister-2025-shirt-wagner-schroder-co-2820417",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-steam-festival-der-cyberpunk-spiele-vom-0308-1008-pc-mac-deck-geforce-now-2820423",
-      "ts": 1786313939274
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-unmetal-fur-nintendo-switch-metacritic-77-84-jap-267eur-2820326",
-      "ts": 1786313939274
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
       "ts": 1786400753628
@@ -398,6 +322,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/limar-air-pro-radhelm-2823671",
       "ts": 1786918213330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-foldback-klammern-gross-ca-5cm-breit-fur-rund-2-eur-2823585",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-die-mondrakete-von-tim-und-struppi-21367-fur-10883-euro-lieferung-an-dhl-paketshop-alza-2823677",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/kaufland-7eur-ab-75eur-einkaufswert-auf-alles-2824017",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cashback-50-2823936",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gelb-petg-creality-filament-fur-3d-drucker-10kg-ca5-eurkilo-gutschein-2823963",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/becks-pils-dosenbier-51-gratis-dosen-set-einweg-51-x-05-l-pils-bier-2824022",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tony-hawks-pro-skater-3-4-playstation-4-fur-1869eur-inkl-versand-amazonit-2821934",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/parkside-led-arbeitsstrahler-pasl-32-a1-4000lm-32w-2822252",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/boss-business-herren-6er-packung-socken-fusslinge-made-in-italy-schwarz-fur-2289-eur-41-42-2824177",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/new-balance-herren-life-in-balance-oversized-t-shirt-moonbeam-beige-fur-1389-eur-xs-s-2823876",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/390-eur-thg-pramie-fur-2026-bei-geld-fur-eauto-bestpreisgarantie-begrenzbar-auf-2026-kein-kombi-25-eur-kwk-unendlich-2824444",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/50-rabatt-auf-dji-care-2824355",
+      "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-complete-edition-upgrade-ps5-2824404",
+      "ts": 1787004815825
     }
   ]
 }
