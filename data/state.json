@@ -1,11 +1,18 @@
 {
   "date": "2026-08-18",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
+    "mydealz|https://www.mydealz.de/deals/nu3-whey-protein-verschiedene-sparessets-2025kg-2824419",
+    "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-hemd-twill-baumwolle-kentkragen-fur-1589-eur-m-xxl-2824572",
+    "mydealz|https://www.mydealz.de/deals/gears-of-war-reloaded-steam-2824573",
+    "mydealz|https://www.mydealz.de/deals/gardena-cleansystem-s-soft-grundausstattung-2824562",
+    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
