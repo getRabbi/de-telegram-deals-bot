@@ -2,7 +2,7 @@
   "date": "2026-08-18",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-hemd-twill-baumwolle-kentkragen-fur-1589-eur-m-xxl-2824572",
     "mydealz|https://www.mydealz.de/deals/gears-of-war-reloaded-steam-2824573",
     "mydealz|https://www.mydealz.de/deals/gardena-cleansystem-s-soft-grundausstattung-2824562",
-    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555"
+    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555",
+    "mydealz|https://www.mydealz.de/deals/vlinkervgate-ms-interface-bluetooth-adapter-obd-2824889",
+    "mydealz|https://www.mydealz.de/deals/adidas-herren-golfhose-essential-three-stripes-french-terry-pant-2824752",
+    "mydealz|https://www.mydealz.de/deals/inovatec-sale-zb-felgenreiniger-powergel-dw-set-2821682",
+    "mydealz|https://www.mydealz.de/deals/fischer-e-bike-trekking-viator-68i-ultimate-bestpreis-2824905",
+    "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812"
   ],
   "postedHistory": [
     {
