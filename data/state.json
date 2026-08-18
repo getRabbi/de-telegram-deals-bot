@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/adidas-herren-golfhose-essential-three-stripes-french-terry-pant-2824752",
     "mydealz|https://www.mydealz.de/deals/inovatec-sale-zb-felgenreiniger-powergel-dw-set-2821682",
     "mydealz|https://www.mydealz.de/deals/fischer-e-bike-trekking-viator-68i-ultimate-bestpreis-2824905",
-    "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812"
+    "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812",
+    "mydealz|https://www.mydealz.de/deals/penny-app-15-rabatt-auf-erdbeeren-joghurt-mango-ingwer-und-mehr-2825033",
+    "lidl|https://www.mydealz.de/deals/lidl-20v-akku-regenfasspumpe-ohne-akku-und-ladegerat-2824841",
+    "mydealz|https://www.mydealz.de/deals/santander-girokonto-250-eur-pramie-bis-zu-80-eur-cashback-von-webde-2824888",
+    "mydealz|https://www.mydealz.de/deals/amazon-kindle-flimmerlicht-frostiger-januar-flimmerlicht-saga-1-irische-elfen-saga-ebook-431090-bew-2825051"
   ],
   "postedHistory": [
     {
