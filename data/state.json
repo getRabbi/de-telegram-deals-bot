@@ -1,64 +1,12 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
-    "mydealz|https://www.mydealz.de/deals/nu3-whey-protein-verschiedene-sparessets-2025kg-2824419",
-    "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-hemd-twill-baumwolle-kentkragen-fur-1589-eur-m-xxl-2824572",
-    "mydealz|https://www.mydealz.de/deals/gears-of-war-reloaded-steam-2824573",
-    "mydealz|https://www.mydealz.de/deals/gardena-cleansystem-s-soft-grundausstattung-2824562",
-    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555",
-    "mydealz|https://www.mydealz.de/deals/vlinkervgate-ms-interface-bluetooth-adapter-obd-2824889",
-    "mydealz|https://www.mydealz.de/deals/adidas-herren-golfhose-essential-three-stripes-french-terry-pant-2824752",
-    "mydealz|https://www.mydealz.de/deals/inovatec-sale-zb-felgenreiniger-powergel-dw-set-2821682",
-    "mydealz|https://www.mydealz.de/deals/fischer-e-bike-trekking-viator-68i-ultimate-bestpreis-2824905",
-    "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812",
-    "mydealz|https://www.mydealz.de/deals/penny-app-15-rabatt-auf-erdbeeren-joghurt-mango-ingwer-und-mehr-2825033",
-    "lidl|https://www.mydealz.de/deals/lidl-20v-akku-regenfasspumpe-ohne-akku-und-ladegerat-2824841",
-    "mydealz|https://www.mydealz.de/deals/santander-girokonto-250-eur-pramie-bis-zu-80-eur-cashback-von-webde-2824888",
-    "mydealz|https://www.mydealz.de/deals/amazon-kindle-flimmerlicht-frostiger-januar-flimmerlicht-saga-1-irische-elfen-saga-ebook-431090-bew-2825051"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mustool-mt13s-2-in-1-warmebildkamera-multimeter-192x192-ir-auflosung-10000-counts-28-touchscreen-20-bis-550c-2820346",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-hauptstadtkoffer-blnbag-m3-handgepack-rucksack-35-liter-2820695",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flaconi-yves-saint-laurent-y-lelixir-parfum-60ml-2820676",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/400-ml-old-spice-rockstar-3-in-1-duschgel-fur-haar-gesicht-und-korper-langanhaltende-frische-duft-von-parfumqualitat-spar-abo-primejoyb-2818536",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/indie-tipp-big-red-machine-big-red-machine-vnyl-lp-bon-iver-the-national-leute-2820668",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pny-geforce-rtx-5080-argb-epic-x-rgb-nach-cb-115957eur-moglich-2821014",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jbl-charge-essential-2-bluetooth-lautsprecher-ipx7-tragbarer-powerbank-usb-2820482",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-8a-128gb-5g-obsidian-sehr-gut-refurbished-pvg-243eur-2819084",
-      "ts": 1786400753628
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/primor-prada-paradigme-neue-le-parfum-variante-150ml-refill-fur-8479-eur-inkl-versand-2820422",
-      "ts": 1786400753628
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
       "ts": 1786487485676
@@ -398,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-complete-edition-upgrade-ps5-2824404",
       "ts": 1787004815825
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nu3-whey-protein-verschiedene-sparessets-2025kg-2824419",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-hemd-twill-baumwolle-kentkragen-fur-1589-eur-m-xxl-2824572",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gears-of-war-reloaded-steam-2824573",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-cleansystem-s-soft-grundausstattung-2824562",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vlinkervgate-ms-interface-bluetooth-adapter-obd-2824889",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-golfhose-essential-three-stripes-french-terry-pant-2824752",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/inovatec-sale-zb-felgenreiniger-powergel-dw-set-2821682",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fischer-e-bike-trekking-viator-68i-ultimate-bestpreis-2824905",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/penny-app-15-rabatt-auf-erdbeeren-joghurt-mango-ingwer-und-mehr-2825033",
+      "ts": 1787091114772
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-20v-akku-regenfasspumpe-ohne-akku-und-ladegerat-2824841",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/santander-girokonto-250-eur-pramie-bis-zu-80-eur-cashback-von-webde-2824888",
+      "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-flimmerlicht-frostiger-januar-flimmerlicht-saga-1-irische-elfen-saga-ebook-431090-bew-2825051",
+      "ts": 1787091114772
     }
   ]
 }
