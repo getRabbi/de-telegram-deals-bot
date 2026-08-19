@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
-    "mydealz|https://www.mydealz.de/deals/bettwasche-sets-135x200-bis-200x220-mikrofaser-verschiedene-farben-ab-1062eur-statt-2299eur-2824957",
-    "mydealz|https://www.mydealz.de/deals/neuer-bestpreis-riiffs-freeze-extrait-de-parfum-100-ml-eisige-frische-trifft-moderne-eleganz-2824968",
-    "mydealz|https://www.mydealz.de/deals/lg-ms2595cis-mikrowelle-25-l-1000-w-smart-inverter-28-automatikprogramme-fur-9990-eur-2824991",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-anker-powerport-6-6-fach-usb-ladegerat-2825057",
-    "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075",
-    "mydealz|https://www.mydealz.de/deals/ps-vr2-mutant-boxing-league-mit-ps-nur-eur-839-2825281",
-    "mydealz|https://www.mydealz.de/deals/e-mtb-focus-jam2-sl-90-carbon-rahmenlrs-mavicfazua430whaxs-x01foxc-factory179kg-xl-cb-moglich-eur3599-2825280",
-    "mydealz|https://www.mydealz.de/deals/nike-trail-laufjacke-running-jacket-herren-fur-3489-eur-nur-noch-in-l-2820144",
-    "mydealz|https://www.mydealz.de/deals/iphone-16-128gb-grun-und-weiss-zu-dem-preis-andere-farben-unwesentlich-teurer-2824702",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209",
-    "mydealz|https://www.mydealz.de/deals/stylex-back-to-school-gluckscode-aktion-2026-garantierter-10eur-pixum-fotobuch-gutschein-beim-kauf-von-5eur-stylex-produkten-bei-tedi-2825401",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-stone-reef-innensechskantschlussel-set-13-tlg-127-10-mm-kugelkopf-farbig-inbus-2825382",
-    "mydealz|https://www.mydealz.de/deals/polymaker-polydryer-box-amazon-warehouse-zustand-wie-neu-2825371",
-    "mydealz|https://www.mydealz.de/deals/15-gamescom-rabatt-bei-workstatt-gesture-mit-kopfstutze-fur-84707eur-2825348"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-leicht-focus-jam2-sl-88-carbonfazua-430wh197kg-lxl-cb-moglich-2821403",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jede-autowasche-bei-allen-teilnehmenden-total-tankstellen-bis-1208-nur-799-2821446",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-flip-fly-more-combo-mit-rc-2-bildschirmfernsteuerung-3-akkus-fur-93-min-flugzeit-drohne-mit-4k-uhd-kamera-2813640",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kubler-image-dress-new-design-workwear-je-1495eurvsk-hose-jacke-o-latzhose-funktionale-kleidung-verstarkte-baumwolle-viel-stauraum-2821445",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fiskars-carbonmax-18mm-cuttermesser-2821424",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/centerparks-gutscheine-mit-15-rabatt-allianz-vorteilswelt-auch-ohne-allianzvertrag-moglich-2821783",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-metacritic-88-gog-2811845",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gog-opus-echo-of-starsong-full-bloom-edition-pcmac-fur-839eur-metacritic-90-emotionales-sci-fi-abenteuer-2814445",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/best-secret-adidas-adizero-boston-13-laufschuhe-gr-37-bis-47-fur-7999eur-oder-pureboost-23-fur-5839eur-gr-41-bis-47-2821712",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/topcashback-250eur-bonus-mit-15eur-mbw-fur-alle-handler-2821803",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-jack-move-zum-tiefstpreis-fur-switch-metacritic-87-74-nor-185eur-2789818",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-akku-bohrhammer-set-gbh-18v-26-pro-hammerbohren-kit-9-tlg-ohne-akku-und-ladegerat-2821887",
-      "ts": 1786487485676
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/elektronische-parkscheibe-kaufland-wolfsburg-lokal-2821896",
-      "ts": 1786487485676
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-nord-filiale-ambiano-standventilator-gt-sf-vt-02-50w-fernbedienung-oszillierend-timer-funktion-2821874",
-      "ts": 1786487485676
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/hmk-ad039-watchface-google-playstore-2821920",
       "ts": 1786573802888
@@ -422,6 +346,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-flimmerlicht-frostiger-januar-flimmerlicht-saga-1-irische-elfen-saga-ebook-431090-bew-2825051",
       "ts": 1787091114772
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bettwasche-sets-135x200-bis-200x220-mikrofaser-verschiedene-farben-ab-1062eur-statt-2299eur-2824957",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neuer-bestpreis-riiffs-freeze-extrait-de-parfum-100-ml-eisige-frische-trifft-moderne-eleganz-2824968",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lg-ms2595cis-mikrowelle-25-l-1000-w-smart-inverter-28-automatikprogramme-fur-9990-eur-2824991",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-anker-powerport-6-6-fach-usb-ladegerat-2825057",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ps-vr2-mutant-boxing-league-mit-ps-nur-eur-839-2825281",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-focus-jam2-sl-90-carbon-rahmenlrs-mavicfazua430whaxs-x01foxc-factory179kg-xl-cb-moglich-eur3599-2825280",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nike-trail-laufjacke-running-jacket-herren-fur-3489-eur-nur-noch-in-l-2820144",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/iphone-16-128gb-grun-und-weiss-zu-dem-preis-andere-farben-unwesentlich-teurer-2824702",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stylex-back-to-school-gluckscode-aktion-2026-garantierter-10eur-pixum-fotobuch-gutschein-beim-kauf-von-5eur-stylex-produkten-bei-tedi-2825401",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-stone-reef-innensechskantschlussel-set-13-tlg-127-10-mm-kugelkopf-farbig-inbus-2825382",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/polymaker-polydryer-box-amazon-warehouse-zustand-wie-neu-2825371",
+      "ts": 1787177638534
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/15-gamescom-rabatt-bei-workstatt-gesture-mit-kopfstutze-fur-84707eur-2825348",
+      "ts": 1787177638534
     }
   ]
 }
