@@ -1,11 +1,18 @@
 {
   "date": "2026-08-19",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
+    "mydealz|https://www.mydealz.de/deals/bettwasche-sets-135x200-bis-200x220-mikrofaser-verschiedene-farben-ab-1062eur-statt-2299eur-2824957",
+    "mydealz|https://www.mydealz.de/deals/neuer-bestpreis-riiffs-freeze-extrait-de-parfum-100-ml-eisige-frische-trifft-moderne-eleganz-2824968",
+    "mydealz|https://www.mydealz.de/deals/lg-ms2595cis-mikrowelle-25-l-1000-w-smart-inverter-28-automatikprogramme-fur-9990-eur-2824991",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-anker-powerport-6-6-fach-usb-ladegerat-2825057",
+    "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bestway-schwimmreifen-lake-runner-o-119-cm-2-stuck-2-luftkammern-getrankehalter-bis-90-kg-2820929",
