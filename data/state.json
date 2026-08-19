@@ -2,7 +2,7 @@
   "date": "2026-08-19",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/neuer-bestpreis-riiffs-freeze-extrait-de-parfum-100-ml-eisige-frische-trifft-moderne-eleganz-2824968",
     "mydealz|https://www.mydealz.de/deals/lg-ms2595cis-mikrowelle-25-l-1000-w-smart-inverter-28-automatikprogramme-fur-9990-eur-2824991",
     "mydealz|https://www.mydealz.de/deals/amazon-prime-anker-powerport-6-6-fach-usb-ladegerat-2825057",
-    "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075"
+    "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075",
+    "mydealz|https://www.mydealz.de/deals/ps-vr2-mutant-boxing-league-mit-ps-nur-eur-839-2825281",
+    "mydealz|https://www.mydealz.de/deals/e-mtb-focus-jam2-sl-90-carbon-rahmenlrs-mavicfazua430whaxs-x01foxc-factory179kg-xl-cb-moglich-eur3599-2825280",
+    "mydealz|https://www.mydealz.de/deals/nike-trail-laufjacke-running-jacket-herren-fur-3489-eur-nur-noch-in-l-2820144",
+    "mydealz|https://www.mydealz.de/deals/iphone-16-128gb-grun-und-weiss-zu-dem-preis-andere-farben-unwesentlich-teurer-2824702",
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209"
   ],
   "postedHistory": [
     {
