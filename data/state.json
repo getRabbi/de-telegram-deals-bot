@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/e-mtb-focus-jam2-sl-90-carbon-rahmenlrs-mavicfazua430whaxs-x01foxc-factory179kg-xl-cb-moglich-eur3599-2825280",
     "mydealz|https://www.mydealz.de/deals/nike-trail-laufjacke-running-jacket-herren-fur-3489-eur-nur-noch-in-l-2820144",
     "mydealz|https://www.mydealz.de/deals/iphone-16-128gb-grun-und-weiss-zu-dem-preis-andere-farben-unwesentlich-teurer-2824702",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209"
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209",
+    "mydealz|https://www.mydealz.de/deals/stylex-back-to-school-gluckscode-aktion-2026-garantierter-10eur-pixum-fotobuch-gutschein-beim-kauf-von-5eur-stylex-produkten-bei-tedi-2825401",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-stone-reef-innensechskantschlussel-set-13-tlg-127-10-mm-kugelkopf-farbig-inbus-2825382",
+    "mydealz|https://www.mydealz.de/deals/polymaker-polydryer-box-amazon-warehouse-zustand-wie-neu-2825371",
+    "mydealz|https://www.mydealz.de/deals/15-gamescom-rabatt-bei-workstatt-gesture-mit-kopfstutze-fur-84707eur-2825348"
   ],
   "postedHistory": [
     {
