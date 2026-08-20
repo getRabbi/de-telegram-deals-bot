@@ -1,11 +1,18 @@
 {
   "date": "2026-08-20",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "zalando|https://www.mydealz.de/deals/zalando-cb-rewe-kw-adidas-performance-deutschland-dfb-26-away-fussball-trikot-grossen-xs-m-2798731",
+    "mydealz|https://www.mydealz.de/deals/57eur-gewinn-lokal-nrw-gk-young-apple-iphone-17-pro-mit-allnet-flat-100gb-unlimited-on-demand-fur-3499eurm-149eur-120eur-ohne-gk-2825525",
+    "mydealz|https://www.mydealz.de/deals/norma-flying-goose-brand-sriracha-chili-sauce-2825555",
+    "mydealz|https://www.mydealz.de/deals/mova-viax-300-mahroboter-2825511",
+    "mydealz|https://www.mydealz.de/deals/die-adventszeit-in-breslau-polen-erleben-1un-im-zentralen-sehr-gut-bewerteten-hotel-ab-2850eur-pp-dez-2821997",
+    "mydealz|https://www.mydealz.de/deals/mediamarkt-lg-ultragear-32gs94ux-b-315-4k-oled-gaming-monitor-240hz-480hz-dual-mode-003ms-lautsprecher-2825419"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/hmk-ad039-watchface-google-playstore-2821920",
