@@ -1,56 +1,12 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "zalando|https://www.mydealz.de/deals/zalando-cb-rewe-kw-adidas-performance-deutschland-dfb-26-away-fussball-trikot-grossen-xs-m-2798731",
-    "mydealz|https://www.mydealz.de/deals/57eur-gewinn-lokal-nrw-gk-young-apple-iphone-17-pro-mit-allnet-flat-100gb-unlimited-on-demand-fur-3499eurm-149eur-120eur-ohne-gk-2825525",
-    "mydealz|https://www.mydealz.de/deals/norma-flying-goose-brand-sriracha-chili-sauce-2825555",
-    "mydealz|https://www.mydealz.de/deals/mova-viax-300-mahroboter-2825511",
-    "mydealz|https://www.mydealz.de/deals/die-adventszeit-in-breslau-polen-erleben-1un-im-zentralen-sehr-gut-bewerteten-hotel-ab-2850eur-pp-dez-2821997",
-    "mydealz|https://www.mydealz.de/deals/mediamarkt-lg-ultragear-32gs94ux-b-315-4k-oled-gaming-monitor-240hz-480hz-dual-mode-003ms-lautsprecher-2825419",
-    "mydealz|https://www.mydealz.de/deals/little-nightmares-complete-edition-fur-ps4ps5-2825472",
-    "mydealz|https://www.mydealz.de/deals/donkey-kong-country-returns-hd-physisch-joybuy-2825630",
-    "mydealz|https://www.mydealz.de/deals/titan-gravelbike-radon-tigard-grx-di2-825-2825607",
-    "mydealz|https://www.mydealz.de/deals/bosch-einbaubackofen-hba534bs3-71-liter-2825594",
-    "mydealz|https://www.mydealz.de/deals/deal-titel-shellyparts-shelly-loqed-touch-smart-lock-super-sparbundle-shelly-blu-button1-12m-premium-2825615",
-    "mydealz|https://www.mydealz.de/deals/wassermelone-aus-spanienitalien-fur-079eurkg-bei-kaufland-offline-2825724",
-    "mydealz|https://www.mydealz.de/deals/telekom-netz-motorola-edge-70-pro-256gb-im-congstar-allnetsms-flat-50gb-5g-fur-20eurmonat-109eur-otelo-1999eurmonat-119eur-2811287",
-    "mydealz|https://www.mydealz.de/deals/fluge-nach-thailand-bangkok-mit-qatar-inkl-gepack-inkl-ruckflug-von-munchen-frankfurt-dusseldorf-amsterdam-sep-feb-2787916",
-    "mydealz|https://www.mydealz.de/deals/die-eberhofer-neiner-gaudi-9-filme-blu-ray-jpc-2825677"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hmk-ad039-watchface-google-playstore-2821920",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-rosenblut-ein-edel-stein-thriller-ebook-abgeschlossener-fall-berlin-krimi-423660-2781482",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tankrast-und-serways-autobahn-fur-familien-gratis-kids-box-499-eur-zum-hauptgericht-ab-999-eur-kids-bis-12-j-mitnehmen-2822108",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-4-teiliges-bettwasche-set-bedsure-100-baumwolle-2x-135x200-cm-2x-80x80-cm-anthrazit-fur-2178-eur-statt-4356-eur-2822066",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-dragon-age-the-veilguard-deluxe-edition-playstation-5-2788784",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fairy-max-power-spulmittel-original-8x545-ml-2822233",
-      "ts": 1786573802888
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-avata-360-dji-rc-2-8k-360-kameradrohne-1-zoll-aquivalentes-360-imaging-8k60fps-hdr-omnidirektionale-hinderniserkennung-2822186",
-      "ts": 1786573802888
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/delonghi-magnifica-start-ecam22361gb-kaffeevollautomat-grau-schwarz-2821927",
       "ts": 1786660211752
@@ -422,6 +378,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/15-gamescom-rabatt-bei-workstatt-gesture-mit-kopfstutze-fur-84707eur-2825348",
       "ts": 1787177638534
+    },
+    {
+      "key": "zalando|https://www.mydealz.de/deals/zalando-cb-rewe-kw-adidas-performance-deutschland-dfb-26-away-fussball-trikot-grossen-xs-m-2798731",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/57eur-gewinn-lokal-nrw-gk-young-apple-iphone-17-pro-mit-allnet-flat-100gb-unlimited-on-demand-fur-3499eurm-149eur-120eur-ohne-gk-2825525",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/norma-flying-goose-brand-sriracha-chili-sauce-2825555",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mova-viax-300-mahroboter-2825511",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/die-adventszeit-in-breslau-polen-erleben-1un-im-zentralen-sehr-gut-bewerteten-hotel-ab-2850eur-pp-dez-2821997",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mediamarkt-lg-ultragear-32gs94ux-b-315-4k-oled-gaming-monitor-240hz-480hz-dual-mode-003ms-lautsprecher-2825419",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/little-nightmares-complete-edition-fur-ps4ps5-2825472",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/donkey-kong-country-returns-hd-physisch-joybuy-2825630",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/titan-gravelbike-radon-tigard-grx-di2-825-2825607",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-einbaubackofen-hba534bs3-71-liter-2825594",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deal-titel-shellyparts-shelly-loqed-touch-smart-lock-super-sparbundle-shelly-blu-button1-12m-premium-2825615",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wassermelone-aus-spanienitalien-fur-079eurkg-bei-kaufland-offline-2825724",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-netz-motorola-edge-70-pro-256gb-im-congstar-allnetsms-flat-50gb-5g-fur-20eurmonat-109eur-otelo-1999eurmonat-119eur-2811287",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-thailand-bangkok-mit-qatar-inkl-gepack-inkl-ruckflug-von-munchen-frankfurt-dusseldorf-amsterdam-sep-feb-2787916",
+      "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/die-eberhofer-neiner-gaudi-9-filme-blu-ray-jpc-2825677",
+      "ts": 1787264154219
     }
   ]
 }
