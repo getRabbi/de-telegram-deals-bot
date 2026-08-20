@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "zalando|https://www.mydealz.de/deals/zalando-cb-rewe-kw-adidas-performance-deutschland-dfb-26-away-fussball-trikot-grossen-xs-m-2798731",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/donkey-kong-country-returns-hd-physisch-joybuy-2825630",
     "mydealz|https://www.mydealz.de/deals/titan-gravelbike-radon-tigard-grx-di2-825-2825607",
     "mydealz|https://www.mydealz.de/deals/bosch-einbaubackofen-hba534bs3-71-liter-2825594",
-    "mydealz|https://www.mydealz.de/deals/deal-titel-shellyparts-shelly-loqed-touch-smart-lock-super-sparbundle-shelly-blu-button1-12m-premium-2825615"
+    "mydealz|https://www.mydealz.de/deals/deal-titel-shellyparts-shelly-loqed-touch-smart-lock-super-sparbundle-shelly-blu-button1-12m-premium-2825615",
+    "mydealz|https://www.mydealz.de/deals/wassermelone-aus-spanienitalien-fur-079eurkg-bei-kaufland-offline-2825724",
+    "mydealz|https://www.mydealz.de/deals/telekom-netz-motorola-edge-70-pro-256gb-im-congstar-allnetsms-flat-50gb-5g-fur-20eurmonat-109eur-otelo-1999eurmonat-119eur-2811287",
+    "mydealz|https://www.mydealz.de/deals/fluge-nach-thailand-bangkok-mit-qatar-inkl-gepack-inkl-ruckflug-von-munchen-frankfurt-dusseldorf-amsterdam-sep-feb-2787916",
+    "mydealz|https://www.mydealz.de/deals/die-eberhofer-neiner-gaudi-9-filme-blu-ray-jpc-2825677"
   ],
   "postedHistory": [
     {
