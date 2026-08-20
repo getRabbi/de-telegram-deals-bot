@@ -2,7 +2,7 @@
   "date": "2026-08-20",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/norma-flying-goose-brand-sriracha-chili-sauce-2825555",
     "mydealz|https://www.mydealz.de/deals/mova-viax-300-mahroboter-2825511",
     "mydealz|https://www.mydealz.de/deals/die-adventszeit-in-breslau-polen-erleben-1un-im-zentralen-sehr-gut-bewerteten-hotel-ab-2850eur-pp-dez-2821997",
-    "mydealz|https://www.mydealz.de/deals/mediamarkt-lg-ultragear-32gs94ux-b-315-4k-oled-gaming-monitor-240hz-480hz-dual-mode-003ms-lautsprecher-2825419"
+    "mydealz|https://www.mydealz.de/deals/mediamarkt-lg-ultragear-32gs94ux-b-315-4k-oled-gaming-monitor-240hz-480hz-dual-mode-003ms-lautsprecher-2825419",
+    "mydealz|https://www.mydealz.de/deals/little-nightmares-complete-edition-fur-ps4ps5-2825472",
+    "mydealz|https://www.mydealz.de/deals/donkey-kong-country-returns-hd-physisch-joybuy-2825630",
+    "mydealz|https://www.mydealz.de/deals/titan-gravelbike-radon-tigard-grx-di2-825-2825607",
+    "mydealz|https://www.mydealz.de/deals/bosch-einbaubackofen-hba534bs3-71-liter-2825594",
+    "mydealz|https://www.mydealz.de/deals/deal-titel-shellyparts-shelly-loqed-touch-smart-lock-super-sparbundle-shelly-blu-button1-12m-premium-2825615"
   ],
   "postedHistory": [
     {
