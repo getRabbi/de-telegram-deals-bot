@@ -1,11 +1,18 @@
 {
   "date": "2026-08-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/aferiy-p210-powerstation-2048wh-lifepo4-akku-2400w-2825987",
+    "mydealz|https://www.mydealz.de/deals/shokz-openrun-pro-2-aliexpress-effektiv-fur-7461-eur-2825985",
+    "mydealz|https://www.mydealz.de/deals/brennenstuhl-eco-line-6-fach-steckdosenleiste-prime-2825921",
+    "mydealz|https://www.mydealz.de/deals/lokal-bauhaus-karlsruhe-raffpavillon-kreta-333-x-318-cm-farbe-dach-hellgrau-ggf-bundesweit-2825963",
+    "mydealz|https://www.mydealz.de/deals/tragbare-50l-kompressor-kuhlbox-gefrier-kuhlbetrieb-foursun-fs-c50-max-2-separat-regelbare-zonen-touchpanel-1224v-dc-100-240v-ac-2825901",
+    "mydealz|https://www.mydealz.de/deals/einhell-akku-hartbodenreiniger-cleanexxo-pxc-290-mm-buwa-boost-modus-selbstreinigungsfunktion-steuerbare-wasserzufuhr-ohne-akku-2825640"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/delonghi-magnifica-start-ecam22361gb-kaffeevollautomat-grau-schwarz-2821927",
