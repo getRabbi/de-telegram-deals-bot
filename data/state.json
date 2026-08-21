@@ -1,100 +1,12 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/aferiy-p210-powerstation-2048wh-lifepo4-akku-2400w-2825987",
-    "mydealz|https://www.mydealz.de/deals/shokz-openrun-pro-2-aliexpress-effektiv-fur-7461-eur-2825985",
-    "mydealz|https://www.mydealz.de/deals/brennenstuhl-eco-line-6-fach-steckdosenleiste-prime-2825921",
-    "mydealz|https://www.mydealz.de/deals/lokal-bauhaus-karlsruhe-raffpavillon-kreta-333-x-318-cm-farbe-dach-hellgrau-ggf-bundesweit-2825963",
-    "mydealz|https://www.mydealz.de/deals/tragbare-50l-kompressor-kuhlbox-gefrier-kuhlbetrieb-foursun-fs-c50-max-2-separat-regelbare-zonen-touchpanel-1224v-dc-100-240v-ac-2825901",
-    "mydealz|https://www.mydealz.de/deals/einhell-akku-hartbodenreiniger-cleanexxo-pxc-290-mm-buwa-boost-modus-selbstreinigungsfunktion-steuerbare-wasserzufuhr-ohne-akku-2825640",
-    "mydealz|https://www.mydealz.de/deals/honor-400-lite-5gglobal-8gb-256gb-hellblau-und-grau-2795571",
-    "mydealz|https://www.mydealz.de/deals/anker-solix-power-dock-multisystem-paypal-zahlung-2787961",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-8-kerne-16-threads-am5-bis-50-ghz-96-mb-l3-cache-gutscheincode-paypal-zahlung-aliexpress-2826114",
-    "mydealz|https://www.mydealz.de/deals/aliexpress-honor-600-5g-eu-version-8256gb-33111-eur-29799-eur-mit-shoop-8512gb-38682-eur-34814-eur-mit-shoop-2821954",
-    "mydealz|https://www.mydealz.de/deals/4-nachte-im-bayerischen-wald-mit-all-inclusive-direkt-am-see-mit-wellnessbereich-ab-194eur-pp-2826022",
-    "mydealz|https://www.mydealz.de/deals/kaufland-app-coupon-40-auf-k-classic-jalapenos-rot-oder-grun-160g-atg-personalisiert-brennt-mehrfach-2826218",
-    "mydealz|https://www.mydealz.de/deals/amazon-kindle-die-erben-der-alten-zeit-das-amulett-13-fantasy-scifi-ebook-45550-bewertungen-2826272",
-    "mydealz|https://www.mydealz.de/deals/garmin-forerunner-165-gps-smartwatch-43-mm-schwarz-oder-weiss-amoled-touchscreen-effektiv-12328-eur-mit-gutschein-cashback-2826225",
-    "mydealz|https://www.mydealz.de/deals/netto-md-paulaner-spezi-20-x-05-l-2826239"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/delonghi-magnifica-start-ecam22361gb-kaffeevollautomat-grau-schwarz-2821927",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vaude-ontour-front-paar-fahrradtaschen-2x16-liter-inkl-regenhullen-2822236",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/3er-set-x-sense-sws0b-2-in-1-wlan-wassermelder-frostwarnung-ab-4c-110-db-alarm-app-anbindung-24-ghz-03-mm-leckerkennung-2820094",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/joseph-joseph-abfalleimer-arc-easy-push-fur-4995eur-895eur-vsk-30-liter-soft-close-deckel-integr-beutelfach-2-farbvarianten-verfugbar-2789227",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-big-lebowski-at-prime-4k-blu-ray-2822242",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/20-globus-baumarkt-schweinfurt-und-294-durch-bauhaus-tpg-2822265",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/on-kondome-strong-fur-mehr-sicherheit-extra-dick-009-mm-naturliches-gummi-latex-100-stuck-prime-2822274",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bplatz-rayhaan-wolf-eau-de-parfum-100ml-fur-2178-eur-inkl-versand-2822302",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/24x-apollo-no-show-socken-packung-sneaker-fusslinge-baumwolle-schwarz-fur-2789-eur-36-41-42-47-2822448",
-      "ts": 1786660211752
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/jil-sander-damen-brille-brillengestell-havanna-oliver-j2001-fur-2589-eur-2822442",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vans-old-skool-ua-damen-kinder-lachs-fur-2489-eur-36-38-2822446",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-neuware-nur-offline-parkside-20-v-mahroboter-pamrc-250-a1-city-mit-akku-und-ladestation-2822434",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/glasbehalter-mit-deckel-20-teilig-borosilikatglas-mikrowellengeeignet-gefriergeeignet-prime-2822568",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sensecap-card-tracker-t1000-e-gps-tracking-ganz-ohne-sim-mobilfunkvertrag-per-meshtastic-funknetz-ip65-700-mah-akku-versand-aus-de-2820347",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-360-essential-combo-2x-akku-12-m-selfie-stick-1-zoll-360-kamera-bis-zu-100-minuten-8k-360-video-120mp-360-foto-2822562",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/birkenstock-sammeldeal-birkenstock-arizona-bf-narrow-arizona-leve-oysters-arizona-leve-pink-regular-personalisiert-2822540",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/15-rabatt-auf-alle-design-klassiker-dieses-mal-auch-vitra-eames-lounge-chair-ottoman-in-santos-palisander-von-c-und-r-eames-markanto-2822579",
-      "ts": 1786745512485
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/marke-pakicetus-aufblasbares-dachfensterzelt-4-6-personen-luxus-familienzelt-fur-den-aussenbereich-2820859",
-      "ts": 1786745512485
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/salzburger-land-ultra-all-inclusive-2-nachte-im-4-hotel-adapura-wagrain-fur-199eur-pp-2822702",
       "ts": 1786831798875
@@ -454,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/die-eberhofer-neiner-gaudi-9-filme-blu-ray-jpc-2825677",
       "ts": 1787264154219
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aferiy-p210-powerstation-2048wh-lifepo4-akku-2400w-2825987",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shokz-openrun-pro-2-aliexpress-effektiv-fur-7461-eur-2825985",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brennenstuhl-eco-line-6-fach-steckdosenleiste-prime-2825921",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-bauhaus-karlsruhe-raffpavillon-kreta-333-x-318-cm-farbe-dach-hellgrau-ggf-bundesweit-2825963",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tragbare-50l-kompressor-kuhlbox-gefrier-kuhlbetrieb-foursun-fs-c50-max-2-separat-regelbare-zonen-touchpanel-1224v-dc-100-240v-ac-2825901",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/einhell-akku-hartbodenreiniger-cleanexxo-pxc-290-mm-buwa-boost-modus-selbstreinigungsfunktion-steuerbare-wasserzufuhr-ohne-akku-2825640",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/honor-400-lite-5gglobal-8gb-256gb-hellblau-und-grau-2795571",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anker-solix-power-dock-multisystem-paypal-zahlung-2787961",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-8-kerne-16-threads-am5-bis-50-ghz-96-mb-l3-cache-gutscheincode-paypal-zahlung-aliexpress-2826114",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-honor-600-5g-eu-version-8256gb-33111-eur-29799-eur-mit-shoop-8512gb-38682-eur-34814-eur-mit-shoop-2821954",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/4-nachte-im-bayerischen-wald-mit-all-inclusive-direkt-am-see-mit-wellnessbereich-ab-194eur-pp-2826022",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-app-coupon-40-auf-k-classic-jalapenos-rot-oder-grun-160g-atg-personalisiert-brennt-mehrfach-2826218",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-die-erben-der-alten-zeit-das-amulett-13-fantasy-scifi-ebook-45550-bewertungen-2826272",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-forerunner-165-gps-smartwatch-43-mm-schwarz-oder-weiss-amoled-touchscreen-effektiv-12328-eur-mit-gutschein-cashback-2826225",
+      "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/netto-md-paulaner-spezi-20-x-05-l-2826239",
+      "ts": 1787350385253
     }
   ]
 }
