@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/lichtblick-payback-11000-punkte-110eur-auf-den-nachsten-strom-oder-gasabschluss-2826441",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/laresar-v7-pro-staubsauger-600w-10-rabatt-2820216",
     "mydealz|https://www.mydealz.de/deals/xiaomi-smart-band-10-ceramic-edition-pearl-white-2826565",
     "mydealz|https://www.mydealz.de/deals/schneider-reco-kugelschreiber-20er-pack-blau-nur-048-eur-pro-stuck-amazon-prime-2826529",
-    "mydealz|https://www.mydealz.de/deals/metabo-tauchsage-kt-66-bl-inkl-fuhrungsschiene-fs-1600-mm-metabox-340-2826541"
+    "mydealz|https://www.mydealz.de/deals/metabo-tauchsage-kt-66-bl-inkl-fuhrungsschiene-fs-1600-mm-metabox-340-2826541",
+    "mydealz|https://www.mydealz.de/deals/actionnoodlicious-instant-noodles-beef-oder-chicken-10-stuck-packung-fur-199eur-2826813",
+    "mydealz|https://www.mydealz.de/deals/depot-filialen-25-liter-pustefix-seifenblasen-flussigkeit-fur-525eur-2826760",
+    "mydealz|https://www.mydealz.de/deals/powera-nintendo-switch-oled-slim-case-the-legend-of-zelda-battle-ready-link-fur-999eur-amazon-prime-mm-abholung-2826660",
+    "mydealz|https://www.mydealz.de/deals/stand-by-me-4k-ultra-hd-blu-ray-fur-1798eur-fnac-2826770"
   ],
   "postedHistory": [
     {
