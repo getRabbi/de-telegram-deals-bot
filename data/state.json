@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lichtblick-payback-11000-punkte-110eur-auf-den-nachsten-strom-oder-gasabschluss-2826441",
-    "mydealz|https://www.mydealz.de/deals/boss-3p-power-dreierpack-eng-anliegende-boxershorts-aus-stretch-baumwolle-mit-logo-bund-grosse-l-amazon-prime-2826481",
-    "mydealz|https://www.mydealz.de/deals/pokemon-bisaflor-30-cm-plusch-offizielles-plusch-aamazon-prime-2826471",
-    "mydealz|https://www.mydealz.de/deals/oukitel-p1000-plus-powerstation-1024-wh-1800-w-lifepo4-fur-26050-eur-2822044",
-    "mydealz|https://www.mydealz.de/deals/sudfrankreich-ferienhauser-am-canal-du-midi-7zb-7-nachte-ab-213eur-fur-bis-zu-4-personen-bzw-ab-259eur-fur-bis-zu-6-2826168",
-    "mydealz|https://www.mydealz.de/deals/anker-solix-3-pro-2700-2826453",
-    "mydealz|https://www.mydealz.de/deals/makita-akku-bl1830b-li-180v-3ah-2826626",
-    "mydealz|https://www.mydealz.de/deals/laresar-v7-pro-staubsauger-600w-10-rabatt-2820216",
-    "mydealz|https://www.mydealz.de/deals/xiaomi-smart-band-10-ceramic-edition-pearl-white-2826565",
-    "mydealz|https://www.mydealz.de/deals/schneider-reco-kugelschreiber-20er-pack-blau-nur-048-eur-pro-stuck-amazon-prime-2826529",
-    "mydealz|https://www.mydealz.de/deals/metabo-tauchsage-kt-66-bl-inkl-fuhrungsschiene-fs-1600-mm-metabox-340-2826541",
-    "mydealz|https://www.mydealz.de/deals/actionnoodlicious-instant-noodles-beef-oder-chicken-10-stuck-packung-fur-199eur-2826813",
-    "mydealz|https://www.mydealz.de/deals/depot-filialen-25-liter-pustefix-seifenblasen-flussigkeit-fur-525eur-2826760",
-    "mydealz|https://www.mydealz.de/deals/powera-nintendo-switch-oled-slim-case-the-legend-of-zelda-battle-ready-link-fur-999eur-amazon-prime-mm-abholung-2826660",
-    "mydealz|https://www.mydealz.de/deals/stand-by-me-4k-ultra-hd-blu-ray-fur-1798eur-fnac-2826770"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/salzburger-land-ultra-all-inclusive-2-nachte-im-4-hotel-adapura-wagrain-fur-199eur-pp-2822702",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-samsung-waschmaschine-9-kg-ww5000c-mit-ecobubble-eek-a-10-inkl-anschluss-service-altgeratemitnahme-bespoke-serie-7-7000d-484eur-2822661",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gebrauchte-intel-cpus-ab-2790eur-intel-8th-9th-10th-11th-gen-prozessoren-35w-65w-tdp-fur-aufrustung-von-home-lab-projekten-2822699",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aliexpress-xiaomi-redmi-pad-2-pro-wifi-6gb128gb-16199-eur-mit-shoop-2822654",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/knaus-sport-400-qd-wohnwagen-1500kg-6050mm-plus-paket-heki-schwerlaststutzen-aussensteckdose-wasserfiltersystem-neufahrzeug-2822667",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/objektiv-viltrox-af-35mm-12-lab-z-fur-nikon-z-2822767",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-trainspotting-bd-blu-ray-prime-2809855",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-monster-squad-blu-ray-mediabook-kultfilm-2820553",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spinera-classic-910-sup-2818997",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-volklingen-2eur-bzw-3eur-coupon-zu-jedem-einkauf-uber-einen-extra-kassenzettel-2823100",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/boutique-hotel-kreta-griechenland-doppelzimmer-mit-meerblick-halbpension-7-nachte-anfang-okt-nur-hotel-flug-optional-dazubuchbar-2823083",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/scratch-30-programmierbarer-roboter-bausatz-mit-entwicklungsboard-wlan-modul-ultraschallsensor-linienverfolgungsmodul-shell-usw-2823097",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sonos-era-300-refurbished-direkt-von-sonos-2823106",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tamiya-58649-nsu-tt-prinz-jagermeister-m-05-rc-auto-bausatz-110-2822925",
-      "ts": 1786831798875
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edifier-stax-spirit-s10-true-wireless-planar-magnetic-earbuds-2823234",
-      "ts": 1786831798875
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
       "ts": 1786918213330
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/netto-md-paulaner-spezi-20-x-05-l-2826239",
       "ts": 1787350385253
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lichtblick-payback-11000-punkte-110eur-auf-den-nachsten-strom-oder-gasabschluss-2826441",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/boss-3p-power-dreierpack-eng-anliegende-boxershorts-aus-stretch-baumwolle-mit-logo-bund-grosse-l-amazon-prime-2826481",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-bisaflor-30-cm-plusch-offizielles-plusch-aamazon-prime-2826471",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/oukitel-p1000-plus-powerstation-1024-wh-1800-w-lifepo4-fur-26050-eur-2822044",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sudfrankreich-ferienhauser-am-canal-du-midi-7zb-7-nachte-ab-213eur-fur-bis-zu-4-personen-bzw-ab-259eur-fur-bis-zu-6-2826168",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anker-solix-3-pro-2700-2826453",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/makita-akku-bl1830b-li-180v-3ah-2826626",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/laresar-v7-pro-staubsauger-600w-10-rabatt-2820216",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-smart-band-10-ceramic-edition-pearl-white-2826565",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schneider-reco-kugelschreiber-20er-pack-blau-nur-048-eur-pro-stuck-amazon-prime-2826529",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/metabo-tauchsage-kt-66-bl-inkl-fuhrungsschiene-fs-1600-mm-metabox-340-2826541",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/actionnoodlicious-instant-noodles-beef-oder-chicken-10-stuck-packung-fur-199eur-2826813",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/depot-filialen-25-liter-pustefix-seifenblasen-flussigkeit-fur-525eur-2826760",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/powera-nintendo-switch-oled-slim-case-the-legend-of-zelda-battle-ready-link-fur-999eur-amazon-prime-mm-abholung-2826660",
+      "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/stand-by-me-4k-ultra-hd-blu-ray-fur-1798eur-fnac-2826770",
+      "ts": 1787436673708
     }
   ]
 }
