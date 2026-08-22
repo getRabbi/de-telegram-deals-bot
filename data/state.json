@@ -2,7 +2,7 @@
   "date": "2026-08-22",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/pokemon-bisaflor-30-cm-plusch-offizielles-plusch-aamazon-prime-2826471",
     "mydealz|https://www.mydealz.de/deals/oukitel-p1000-plus-powerstation-1024-wh-1800-w-lifepo4-fur-26050-eur-2822044",
     "mydealz|https://www.mydealz.de/deals/sudfrankreich-ferienhauser-am-canal-du-midi-7zb-7-nachte-ab-213eur-fur-bis-zu-4-personen-bzw-ab-259eur-fur-bis-zu-6-2826168",
-    "mydealz|https://www.mydealz.de/deals/anker-solix-3-pro-2700-2826453"
+    "mydealz|https://www.mydealz.de/deals/anker-solix-3-pro-2700-2826453",
+    "mydealz|https://www.mydealz.de/deals/makita-akku-bl1830b-li-180v-3ah-2826626",
+    "mydealz|https://www.mydealz.de/deals/laresar-v7-pro-staubsauger-600w-10-rabatt-2820216",
+    "mydealz|https://www.mydealz.de/deals/xiaomi-smart-band-10-ceramic-edition-pearl-white-2826565",
+    "mydealz|https://www.mydealz.de/deals/schneider-reco-kugelschreiber-20er-pack-blau-nur-048-eur-pro-stuck-amazon-prime-2826529",
+    "mydealz|https://www.mydealz.de/deals/metabo-tauchsage-kt-66-bl-inkl-fuhrungsschiene-fs-1600-mm-metabox-340-2826541"
   ],
   "postedHistory": [
     {
