@@ -1,11 +1,18 @@
 {
   "date": "2026-08-22",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lichtblick-payback-11000-punkte-110eur-auf-den-nachsten-strom-oder-gasabschluss-2826441",
+    "mydealz|https://www.mydealz.de/deals/boss-3p-power-dreierpack-eng-anliegende-boxershorts-aus-stretch-baumwolle-mit-logo-bund-grosse-l-amazon-prime-2826481",
+    "mydealz|https://www.mydealz.de/deals/pokemon-bisaflor-30-cm-plusch-offizielles-plusch-aamazon-prime-2826471",
+    "mydealz|https://www.mydealz.de/deals/oukitel-p1000-plus-powerstation-1024-wh-1800-w-lifepo4-fur-26050-eur-2822044",
+    "mydealz|https://www.mydealz.de/deals/sudfrankreich-ferienhauser-am-canal-du-midi-7zb-7-nachte-ab-213eur-fur-bis-zu-4-personen-bzw-ab-259eur-fur-bis-zu-6-2826168",
+    "mydealz|https://www.mydealz.de/deals/anker-solix-3-pro-2700-2826453"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/salzburger-land-ultra-all-inclusive-2-nachte-im-4-hotel-adapura-wagrain-fur-199eur-pp-2822702",
