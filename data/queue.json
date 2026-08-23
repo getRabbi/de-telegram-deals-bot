@@ -2072,7 +2072,155 @@
           "#DeutschlandDeals"
         ]
       }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/rechne-mit-bis-zu-20-2829308",
+      "store": "MyDealz",
+      "title": "Rechne mit bis zu -20%*",
+      "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/4_2/re/352x352/qt/60/4_2.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Rechne mit bis zu -20%*</b>\n🏪 MyDealz\n💶 Was: 50 € → <b>Now: 10 €</b>\n🔻 Save: 80%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/gutscheine/rechne-mit-bis-zu-20-2829308"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Rechne mit bis zu -20%*",
+        "now": "10 €",
+        "was": "50 €",
+        "discountPct": 80,
+        "isTop": false,
+        "url": "https://www.mydealz.de/gutscheine/rechne-mit-bis-zu-20-2829308",
+        "imageUrl": "https://static.mydealz.de/merchants/raw/avatar/4_2/re/352x352/qt/60/4_2.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tomb-raider-hd-amazon-prime-video-2829307",
+      "store": "MyDealz",
+      "title": "Tomb Raider HD Amazon Prime Video (auch ohne Prime!)",
+      "imageUrl": "https://static.mydealz.de/threads/raw/p9ubM/2829307_1/re/150x150/qt/55/2829307_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Tomb Raider HD Amazon Prime Video (auch ohne Prime!)</b>\n🏪 MyDealz\n💶 Was: 9,99 € → <b>Now: 4,99 €</b>\n🔻 Save: 50%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/tomb-raider-hd-amazon-prime-video-2829307"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Tomb Raider HD Amazon Prime Video (auch ohne Prime!)",
+        "now": "4,99 €",
+        "was": "9,99 €",
+        "discountPct": 50,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/tomb-raider-hd-amazon-prime-video-2829307",
+        "imageUrl": "https://static.mydealz.de/threads/raw/p9ubM/2829307_1/re/150x150/qt/55/2829307_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/laufradsatz-dt-swiss-erc-1400-dicut-35-sram-xdr-2829331",
+      "store": "MyDealz",
+      "title": "Laufradsatz DT SWISS ERC 1400 DICUT 35, SRAM XDR",
+      "imageUrl": "https://static.mydealz.de/threads/raw/7VLtv/2829331_1/re/1200x1200/qt/80/2829331_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>Laufradsatz DT SWISS ERC 1400 DICUT 35, SRAM XDR</b>\n🏪 MyDealz\n💶 Was: 999 € → <b>Now: 999 €</b>\n🔻 Save: 0%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/laufradsatz-dt-swiss-erc-1400-dicut-35-sram-xdr-2829331"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "Laufradsatz DT SWISS ERC 1400 DICUT 35, SRAM XDR",
+        "now": "999 €",
+        "was": "999 €",
+        "discountPct": 0,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/laufradsatz-dt-swiss-erc-1400-dicut-35-sram-xdr-2829331",
+        "imageUrl": "https://static.mydealz.de/threads/raw/7VLtv/2829331_1/re/1200x1200/qt/80/2829331_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazonit-ninja-creami-scoop-swirl-nc701eu-eismaschine-nur-25147eur-465-bei-800-bewertungen-2829303",
+      "store": "MyDealz",
+      "title": "[Amazon.it] Ninja CREAMi Scoop & Swirl NC701EU Eismaschine – nur 251,47€ 4,6/5 bei 800+ Bewertungen",
+      "imageUrl": "https://static.mydealz.de/threads/raw/kp4d2/2829303_1/re/1200x1200/qt/80/2829303_1.jpg",
+      "caption": "🆕 <b>New Deal | Neuer Deal 🇩🇪</b>\n\n<b>[Amazon.it] Ninja CREAMi Scoop &amp; Swirl NC701EU Eismaschine – nur 251,47€ 4,6/5 bei 800+ Bewertungen</b>\n🏪 MyDealz\n💶 Was: 4,6 € → <b>Now: 4,6 €</b>\n🔻 Save: 0%\n\n#NeueDeals #MyDealz #DeutschlandDeals",
+      "buttons": [
+        [
+          {
+            "text": "🔗 Open Deal | Deal öffnen",
+            "url": "https://www.mydealz.de/deals/amazonit-ninja-creami-scoop-swirl-nc701eu-eismaschine-nur-25147eur-465-bei-800-bewertungen-2829303"
+          }
+        ],
+        [
+          {
+            "text": "📣 Channel",
+            "url": "https://t.me/ofryade"
+          }
+        ]
+      ],
+      "raw": {
+        "store": "MyDealz",
+        "storeTag": "MYDEALZ",
+        "title": "[Amazon.it] Ninja CREAMi Scoop & Swirl NC701EU Eismaschine – nur 251,47€ 4,6/5 bei 800+ Bewertungen",
+        "now": "4,6 €",
+        "was": "4,6 €",
+        "discountPct": 0,
+        "isTop": false,
+        "url": "https://www.mydealz.de/deals/amazonit-ninja-creami-scoop-swirl-nc701eu-eismaschine-nur-25147eur-465-bei-800-bewertungen-2829303",
+        "imageUrl": "https://static.mydealz.de/threads/raw/kp4d2/2829303_1/re/1200x1200/qt/80/2829303_1.jpg",
+        "hashtags": [
+          "#NeueDeals",
+          "#MyDealz",
+          "#DeutschlandDeals"
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-08-23T16:13:00.551Z"
+  "updatedAt": "2026-08-23T17:11:47.023Z"
 }
