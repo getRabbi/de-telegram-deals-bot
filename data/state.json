@@ -1,11 +1,18 @@
 {
   "date": "2026-08-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bis-3008-25-sparen-bei-google-play-guthaben-bis-maximal-125-eur-guthaben-2826959",
+    "mydealz|https://www.mydealz.de/deals/quiksilver-sport-socken-12er-packung-unisex-atmungsaktiv-fur-2189-eur-39-42-2827007",
+    "mydealz|https://www.mydealz.de/deals/vodafone-gigakombi-iphone-17-pro-256gb-mit-80gb-smart-lite-2999-449eur-100eur-rnm-2827008",
+    "mydealz|https://www.mydealz.de/deals/palmolive-seife-hygiene-kitchen-12x300ml-flussige-handseife-mit-limettenduft-zur-sanften-reinigung-der-hande-2827035",
+    "mydealz|https://www.mydealz.de/deals/adidas-football-deutschland-wm-26-auswartstrikot-in-marineblau-2826902",
+    "mydealz|https://www.mydealz.de/deals/hmkwatch-analog-107-wearos-watchfacegoogle-play-store-2827003"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
