@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bis-3008-25-sparen-bei-google-play-guthaben-bis-maximal-125-eur-guthaben-2826959",
-    "mydealz|https://www.mydealz.de/deals/quiksilver-sport-socken-12er-packung-unisex-atmungsaktiv-fur-2189-eur-39-42-2827007",
-    "mydealz|https://www.mydealz.de/deals/vodafone-gigakombi-iphone-17-pro-256gb-mit-80gb-smart-lite-2999-449eur-100eur-rnm-2827008",
-    "mydealz|https://www.mydealz.de/deals/palmolive-seife-hygiene-kitchen-12x300ml-flussige-handseife-mit-limettenduft-zur-sanften-reinigung-der-hande-2827035",
-    "mydealz|https://www.mydealz.de/deals/adidas-football-deutschland-wm-26-auswartstrikot-in-marineblau-2826902",
-    "mydealz|https://www.mydealz.de/deals/hmkwatch-analog-107-wearos-watchfacegoogle-play-store-2827003",
-    "mydealz|https://www.mydealz.de/deals/easybank-barclays-kreditkarte-75-eur-pramie-75-eur-kwk-2827175",
-    "mydealz|https://www.mydealz.de/deals/lego-75413-juggernaut-2827090",
-    "mydealz|https://www.mydealz.de/deals/weber-gasgrill-e-325-gbs-spirit-mit-3-brennern-2824179",
-    "mydealz|https://www.mydealz.de/deals/gewerbeleasing-cupra-formentor-vz-custom-by-abt-333-ps-187eurm-lf-037-24m-lfz-10tkmj-ohne-loyal-neues-modell-2827165",
-    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-air-jordan-3-og-adidas-gazelle-indoor-sneaker-nike-air-force-1-premium-liverpool-fc-1995-trikot-mexico-1986-uvm-2811199",
-    "rossmann|https://www.mydealz.de/deals/freebie-offline-rossmann-centaur-magazin-august-ausgabe-mit-gratis-shampoo-conditioner-von-neqi-haarpflege-wert-049-eur-pro-heft-2827305",
-    "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-x870e-plus-wifi-7-am5-18-phase-vrm-pcie-50-2x-m2-pcie-50-wifi-7bt-54-2827359",
-    "mydealz|https://www.mydealz.de/deals/prime-asusk-zendrive-u8m-sdrw-08u8m-u-externes-dvd-laufwerkbrenner-2827326",
-    "mydealz|https://www.mydealz.de/deals/garmin-deals-zum-allgau-triathlon-edge-1040-solar-399eur-forerunner-965-449eur-varia-120eur-uvm-2827361"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/o2-netz-google-pixel-10a-256gb-pixel-buds-a-im-allnetsms-flat-40gb-5g-fur-1499eurmonat-99eur-2823181",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/simba-disney-chap-mini-pluschfigur-ca-15-cm-superweicher-begleiter-fur-7eur-amazon-prime-2823245",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-deck-life-is-strange-complete-season-episodes-1-5-299eur-pc-2823263",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-shop-gratis-ab-180eur-einkauf-40908-restaurants-der-welt-griechenland-ab-40eur-30729-pokemon-premierball-2823367",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-kakao-haltbar-oder-frisch-von-weihenstephan-2821901",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/samsung-gq-qn85cat-55-zoll-100-hz-hdr10-tizen-os-hdmi-21-4-hdmi-eingange-2823298",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/carhartt-unisex-logo-sweatshirt-pullover-in-m-und-xxl-2823411",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-barhocker-designermobel-second-hand-zb-lapalma-lem-plank-miura-thonet-404h-lapalma-thin-etc-wohn-designcom-2814581",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-sudwest-2-fur-1-bonne-maman-konfiture-mit-app-2823409",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stabilo-fineliner-point-88-naturecolors-10er-pack-prime-2790910",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-victorinox-swiss-classic-gemusemesser-set-2-tlg-1x-rustmesser-1x-sparschaler-schwarz-spulmaschinenfest-swiss-made-2823483",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hitster-wacken-edition-meddl-loide-2823500",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-usa-new-york-mit-delta-klm-air-france-nonstop-von-berlin-inkl-ruckflug-aug-mar-2823354",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/otto-challenge-250-punkte-5eur-einlosen-und-200-punkte-cashback-2823399",
-      "ts": 1786918213330
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/limar-air-pro-radhelm-2823671",
-      "ts": 1786918213330
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
       "ts": 1787004815825
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/stand-by-me-4k-ultra-hd-blu-ray-fur-1798eur-fnac-2826770",
       "ts": 1787436673708
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bis-3008-25-sparen-bei-google-play-guthaben-bis-maximal-125-eur-guthaben-2826959",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/quiksilver-sport-socken-12er-packung-unisex-atmungsaktiv-fur-2189-eur-39-42-2827007",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-gigakombi-iphone-17-pro-256gb-mit-80gb-smart-lite-2999-449eur-100eur-rnm-2827008",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/palmolive-seife-hygiene-kitchen-12x300ml-flussige-handseife-mit-limettenduft-zur-sanften-reinigung-der-hande-2827035",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-football-deutschland-wm-26-auswartstrikot-in-marineblau-2826902",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/hmkwatch-analog-107-wearos-watchfacegoogle-play-store-2827003",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/easybank-barclays-kreditkarte-75-eur-pramie-75-eur-kwk-2827175",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-75413-juggernaut-2827090",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/weber-gasgrill-e-325-gbs-spirit-mit-3-brennern-2824179",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gewerbeleasing-cupra-formentor-vz-custom-by-abt-333-ps-187eurm-lf-037-24m-lfz-10tkmj-ohne-loyal-neues-modell-2827165",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-air-jordan-3-og-adidas-gazelle-indoor-sneaker-nike-air-force-1-premium-liverpool-fc-1995-trikot-mexico-1986-uvm-2811199",
+      "ts": 1787523073461
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/freebie-offline-rossmann-centaur-magazin-august-ausgabe-mit-gratis-shampoo-conditioner-von-neqi-haarpflege-wert-049-eur-pro-heft-2827305",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-x870e-plus-wifi-7-am5-18-phase-vrm-pcie-50-2x-m2-pcie-50-wifi-7bt-54-2827359",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-asusk-zendrive-u8m-sdrw-08u8m-u-externes-dvd-laufwerkbrenner-2827326",
+      "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-deals-zum-allgau-triathlon-edge-1040-solar-399eur-forerunner-965-449eur-varia-120eur-uvm-2827361",
+      "ts": 1787523073461
     }
   ]
 }
