@@ -2,7 +2,7 @@
   "date": "2026-08-23",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/vodafone-gigakombi-iphone-17-pro-256gb-mit-80gb-smart-lite-2999-449eur-100eur-rnm-2827008",
     "mydealz|https://www.mydealz.de/deals/palmolive-seife-hygiene-kitchen-12x300ml-flussige-handseife-mit-limettenduft-zur-sanften-reinigung-der-hande-2827035",
     "mydealz|https://www.mydealz.de/deals/adidas-football-deutschland-wm-26-auswartstrikot-in-marineblau-2826902",
-    "mydealz|https://www.mydealz.de/deals/hmkwatch-analog-107-wearos-watchfacegoogle-play-store-2827003"
+    "mydealz|https://www.mydealz.de/deals/hmkwatch-analog-107-wearos-watchfacegoogle-play-store-2827003",
+    "mydealz|https://www.mydealz.de/deals/easybank-barclays-kreditkarte-75-eur-pramie-75-eur-kwk-2827175",
+    "mydealz|https://www.mydealz.de/deals/lego-75413-juggernaut-2827090",
+    "mydealz|https://www.mydealz.de/deals/weber-gasgrill-e-325-gbs-spirit-mit-3-brennern-2824179",
+    "mydealz|https://www.mydealz.de/deals/gewerbeleasing-cupra-formentor-vz-custom-by-abt-333-ps-187eurm-lf-037-24m-lfz-10tkmj-ohne-loyal-neues-modell-2827165",
+    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-air-jordan-3-og-adidas-gazelle-indoor-sneaker-nike-air-force-1-premium-liverpool-fc-1995-trikot-mexico-1986-uvm-2811199"
   ],
   "postedHistory": [
     {
