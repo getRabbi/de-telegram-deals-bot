@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/bis-3008-25-sparen-bei-google-play-guthaben-bis-maximal-125-eur-guthaben-2826959",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/lego-75413-juggernaut-2827090",
     "mydealz|https://www.mydealz.de/deals/weber-gasgrill-e-325-gbs-spirit-mit-3-brennern-2824179",
     "mydealz|https://www.mydealz.de/deals/gewerbeleasing-cupra-formentor-vz-custom-by-abt-333-ps-187eurm-lf-037-24m-lfz-10tkmj-ohne-loyal-neues-modell-2827165",
-    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-air-jordan-3-og-adidas-gazelle-indoor-sneaker-nike-air-force-1-premium-liverpool-fc-1995-trikot-mexico-1986-uvm-2811199"
+    "mydealz|https://www.mydealz.de/deals/15-extra-rabatt-air-jordan-3-og-adidas-gazelle-indoor-sneaker-nike-air-force-1-premium-liverpool-fc-1995-trikot-mexico-1986-uvm-2811199",
+    "rossmann|https://www.mydealz.de/deals/freebie-offline-rossmann-centaur-magazin-august-ausgabe-mit-gratis-shampoo-conditioner-von-neqi-haarpflege-wert-049-eur-pro-heft-2827305",
+    "mydealz|https://www.mydealz.de/deals/asus-tuf-gaming-x870e-plus-wifi-7-am5-18-phase-vrm-pcie-50-2x-m2-pcie-50-wifi-7bt-54-2827359",
+    "mydealz|https://www.mydealz.de/deals/prime-asusk-zendrive-u8m-sdrw-08u8m-u-externes-dvd-laufwerkbrenner-2827326",
+    "mydealz|https://www.mydealz.de/deals/garmin-deals-zum-allgau-triathlon-edge-1040-solar-399eur-forerunner-965-449eur-varia-120eur-uvm-2827361"
   ],
   "postedHistory": [
     {
