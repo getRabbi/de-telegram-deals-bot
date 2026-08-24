@@ -2,7 +2,7 @@
   "date": "2026-08-24",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/dell-optiplex-5090-sff-i5-10505-16-gb-ram-256-gb-nvme-windows-11-fur-26990-eur-refurbished-office-pc-bspw-fur-homelab-proxmox-2827543",
     "mydealz|https://www.mydealz.de/deals/thomas-sabo-summer-special-mit-20-rabatt-on-top-auf-fast-alle-artikel-auch-sale-z-b-ring-mit-weissem-zirkonia-2824890",
     "mydealz|https://www.mydealz.de/deals/levis-fur-damen-herren-zandt-hemd-2494-eur-inkl-vsk-hoodie-3194-eur-jeans-ab-3099-eur-shorts-polos-mehr-2827150",
-    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623"
+    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623",
+    "mydealz|https://www.mydealz.de/deals/prime-astroai-kabellose-elektrische-luftpumpe-tragbare-akku-fahrradpumpe-mit-alle-ventile-led-licht-2815434",
+    "mydealz|https://www.mydealz.de/deals/battlefield-6-4-codes-fur-spielerkarten-2827630",
+    "mydealz|https://www.mydealz.de/deals/victorinox-taschenmesser-synergy-alox-multitool-9-funktionen-inkl-klinge-paketoffner-schraubendreher-rostfreier-stahl-2-farben-2827722",
+    "mydealz|https://www.mydealz.de/deals/brawl-stars-2-x-smoothie-drops-gratis-2827658",
+    "mydealz|https://www.mydealz.de/deals/soundcore-by-anker-liberty-4-nc-hi-res-audio-ldac-adaptive-anc-20-50h-akku-blau-cashback-2827692"
   ],
   "postedHistory": [
     {
