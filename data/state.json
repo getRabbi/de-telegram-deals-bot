@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/eryone-pla-silk-neujahrs-edition-fur-nur-505-eur-3d-druck-filament-munzdealgutscheindollarumstellung-2827494",
-    "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-fur-39510eur-2827531",
-    "mydealz|https://www.mydealz.de/deals/dell-optiplex-5090-sff-i5-10505-16-gb-ram-256-gb-nvme-windows-11-fur-26990-eur-refurbished-office-pc-bspw-fur-homelab-proxmox-2827543",
-    "mydealz|https://www.mydealz.de/deals/thomas-sabo-summer-special-mit-20-rabatt-on-top-auf-fast-alle-artikel-auch-sale-z-b-ring-mit-weissem-zirkonia-2824890",
-    "mydealz|https://www.mydealz.de/deals/levis-fur-damen-herren-zandt-hemd-2494-eur-inkl-vsk-hoodie-3194-eur-jeans-ab-3099-eur-shorts-polos-mehr-2827150",
-    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623",
-    "mydealz|https://www.mydealz.de/deals/prime-astroai-kabellose-elektrische-luftpumpe-tragbare-akku-fahrradpumpe-mit-alle-ventile-led-licht-2815434",
-    "mydealz|https://www.mydealz.de/deals/battlefield-6-4-codes-fur-spielerkarten-2827630",
-    "mydealz|https://www.mydealz.de/deals/victorinox-taschenmesser-synergy-alox-multitool-9-funktionen-inkl-klinge-paketoffner-schraubendreher-rostfreier-stahl-2-farben-2827722",
-    "mydealz|https://www.mydealz.de/deals/brawl-stars-2-x-smoothie-drops-gratis-2827658",
-    "mydealz|https://www.mydealz.de/deals/soundcore-by-anker-liberty-4-nc-hi-res-audio-ldac-adaptive-anc-20-50h-akku-blau-cashback-2827692",
-    "mydealz|https://www.mydealz.de/deals/unter-neupreis-google-pixel-watch-5-lte-41mm-mit-vodafone-tarif-500min100sms-3gb-fur-999eurmonat-17995eur-45mm-20eur-2827904",
-    "mydealz|https://www.mydealz.de/deals/583-zoll-epapere-ink-screen-3-farbig-bwy-600x448-px-spi-interface-munzdeal-gutschein-2827935",
-    "mydealz|https://www.mydealz.de/deals/pokemon-super-electric-breaker-display-japanisch-30-boosterpacks-je-5-karten-tcg-sammelkartenspiel-2827911",
-    "mydealz|https://www.mydealz.de/deals/elden-ring-playstation-5-ps5-prime-2827892"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-foldback-klammern-gross-ca-5cm-breit-fur-rund-2-eur-2823585",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-die-mondrakete-von-tim-und-struppi-21367-fur-10883-euro-lieferung-an-dhl-paketshop-alza-2823677",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/kaufland-7eur-ab-75eur-einkaufswert-auf-alles-2824017",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cashback-50-2823936",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/schwarz-petg-anycubic-filament-fur-3d-drucker-7kg-576-eurkilo-gutschein-2824025",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gelb-petg-creality-filament-fur-3d-drucker-10kg-ca5-eurkilo-gutschein-2823963",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/becks-pils-dosenbier-51-gratis-dosen-set-einweg-51-x-05-l-pils-bier-2824022",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tony-hawks-pro-skater-3-4-playstation-4-fur-1869eur-inkl-versand-amazonit-2821934",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/parkside-led-arbeitsstrahler-pasl-32-a1-4000lm-32w-2822252",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/boss-business-herren-6er-packung-socken-fusslinge-made-in-italy-schwarz-fur-2289-eur-41-42-2824177",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/new-balance-herren-life-in-balance-oversized-t-shirt-moonbeam-beige-fur-1389-eur-xs-s-2823876",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/390-eur-thg-pramie-fur-2026-bei-geld-fur-eauto-bestpreisgarantie-begrenzbar-auf-2026-kein-kombi-25-eur-kwk-unendlich-2824444",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/50-rabatt-auf-dji-care-2824355",
-      "ts": 1787004815825
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ghost-of-yotei-complete-edition-upgrade-ps5-2824404",
-      "ts": 1787004815825
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
       "ts": 1787091114772
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/garmin-deals-zum-allgau-triathlon-edge-1040-solar-399eur-forerunner-965-449eur-varia-120eur-uvm-2827361",
       "ts": 1787523073461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eryone-pla-silk-neujahrs-edition-fur-nur-505-eur-3d-druck-filament-munzdealgutscheindollarumstellung-2827494",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-fur-39510eur-2827531",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dell-optiplex-5090-sff-i5-10505-16-gb-ram-256-gb-nvme-windows-11-fur-26990-eur-refurbished-office-pc-bspw-fur-homelab-proxmox-2827543",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/thomas-sabo-summer-special-mit-20-rabatt-on-top-auf-fast-alle-artikel-auch-sale-z-b-ring-mit-weissem-zirkonia-2824890",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/levis-fur-damen-herren-zandt-hemd-2494-eur-inkl-vsk-hoodie-3194-eur-jeans-ab-3099-eur-shorts-polos-mehr-2827150",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-astroai-kabellose-elektrische-luftpumpe-tragbare-akku-fahrradpumpe-mit-alle-ventile-led-licht-2815434",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/battlefield-6-4-codes-fur-spielerkarten-2827630",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-taschenmesser-synergy-alox-multitool-9-funktionen-inkl-klinge-paketoffner-schraubendreher-rostfreier-stahl-2-farben-2827722",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brawl-stars-2-x-smoothie-drops-gratis-2827658",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/soundcore-by-anker-liberty-4-nc-hi-res-audio-ldac-adaptive-anc-20-50h-akku-blau-cashback-2827692",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/unter-neupreis-google-pixel-watch-5-lte-41mm-mit-vodafone-tarif-500min100sms-3gb-fur-999eurmonat-17995eur-45mm-20eur-2827904",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/583-zoll-epapere-ink-screen-3-farbig-bwy-600x448-px-spi-interface-munzdeal-gutschein-2827935",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-super-electric-breaker-display-japanisch-30-boosterpacks-je-5-karten-tcg-sammelkartenspiel-2827911",
+      "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/elden-ring-playstation-5-ps5-prime-2827892",
+      "ts": 1787609707133
     }
   ]
 }
