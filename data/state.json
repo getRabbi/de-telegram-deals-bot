@@ -1,11 +1,18 @@
 {
   "date": "2026-08-24",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/eryone-pla-silk-neujahrs-edition-fur-nur-505-eur-3d-druck-filament-munzdealgutscheindollarumstellung-2827494",
+    "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-fur-39510eur-2827531",
+    "mydealz|https://www.mydealz.de/deals/dell-optiplex-5090-sff-i5-10505-16-gb-ram-256-gb-nvme-windows-11-fur-26990-eur-refurbished-office-pc-bspw-fur-homelab-proxmox-2827543",
+    "mydealz|https://www.mydealz.de/deals/thomas-sabo-summer-special-mit-20-rabatt-on-top-auf-fast-alle-artikel-auch-sale-z-b-ring-mit-weissem-zirkonia-2824890",
+    "mydealz|https://www.mydealz.de/deals/levis-fur-damen-herren-zandt-hemd-2494-eur-inkl-vsk-hoodie-3194-eur-jeans-ab-3099-eur-shorts-polos-mehr-2827150",
+    "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/reebok-classic-cl-lthr-3912-damen-kinder-leder-sneakers-schwarz-fur-2389-eur-nur-noch-in-36-2823700",
