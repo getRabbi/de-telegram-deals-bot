@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
-    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-flasche-376eur-im-sparabo-prime-2828114",
-    "mydealz|https://www.mydealz.de/deals/paypal-cashback-20-cashback-auf-digitale-inhalte-zb-filme-musik-spiele-ebooks-bis-zu-10eur-cashback-moglich-personalisiert-2828074",
-    "mydealz|https://www.mydealz.de/deals/lokal-nintendo-switch-2-inkl-mario-kart-world-2828165",
-    "mydealz|https://www.mydealz.de/deals/seesii-mini-kettensage-mit-2x-akku-2x-ersatzketten-und-zubehor-2828065",
-    "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154",
-    "mydealz|https://www.mydealz.de/deals/prime-philips-hue-white-color-ambiance-gradient-lightstrip-65-zoll-dimmbarer-led-streifen-fur-den-fernseher-2828319",
-    "mydealz|https://www.mydealz.de/deals/spaten-perfect-draft-oktoberfest-preisfehler-das-fasspfand-betragt-nur-008-eur-statt-5-eur-die-lieferung-ist-fur-anfang-oktober-vorgesehen-2828348",
-    "mydealz|https://www.mydealz.de/deals/fairphone-6-256gb-otelo-allnet-und-sms-flat-vodafone-50gb-5g-fur-effektiv-2307-euro-im-monat-mit-rufnummernmitnahme-2823534",
-    "mydealz|https://www.mydealz.de/deals/uci-kino-15eur-uci-kino-gutschein-fur-625eur-2828201",
-    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320",
-    "mydealz|https://www.mydealz.de/deals/peugeot-5008-gt-automatik-7-sitzer-acc-panorama-navi-led-kamera-ahkv-uvm-versch-farben-sofort-verfugbar-eu-tz-2813724",
-    "mydealz|https://www.mydealz.de/deals/fischer-duopower-10-x-50-2828471",
-    "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-2er-pack-blister-2-boosterpacks-1-holografische-promokarte-2828532",
-    "mydealz|https://www.mydealz.de/deals/ikea-hangesonnenschirm-oxno-lindoja-300-cm-fur-49-eur-statt-14999-eur-2828480"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nu3-whey-protein-verschiedene-sparessets-2025kg-2824419",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tom-tailor-herren-hemd-twill-baumwolle-kentkragen-fur-1589-eur-m-xxl-2824572",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gears-of-war-reloaded-steam-2824573",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gardena-cleansystem-s-soft-grundausstattung-2824562",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgk50-s2-kompakte-96-mechanische-tastatur-mit-taktilen-gateron-ks-9-brown-schaltern-50m-lebensdauer-2-cb-mit-budgey-2824555",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vlinkervgate-ms-interface-bluetooth-adapter-obd-2824889",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-golfhose-essential-three-stripes-french-terry-pant-2824752",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/inovatec-sale-zb-felgenreiniger-powergel-dw-set-2821682",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fischer-e-bike-trekking-viator-68i-ultimate-bestpreis-2824905",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ab-1708-code-zahlung-paypal-elitewheels-aero-gravel-laufrader-carbon-radsatz-sram-xdr-12s-50t-tpi-lagernabe-32mm-innenbreite-2824812",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/penny-app-15-rabatt-auf-erdbeeren-joghurt-mango-ingwer-und-mehr-2825033",
-      "ts": 1787091114772
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-20v-akku-regenfasspumpe-ohne-akku-und-ladegerat-2824841",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/santander-girokonto-250-eur-pramie-bis-zu-80-eur-cashback-von-webde-2824888",
-      "ts": 1787091114772
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-kindle-flimmerlicht-frostiger-januar-flimmerlicht-saga-1-irische-elfen-saga-ebook-431090-bew-2825051",
-      "ts": 1787091114772
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
       "ts": 1787177638534
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/elden-ring-playstation-5-ps5-prime-2827892",
       "ts": 1787609707133
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-flasche-376eur-im-sparabo-prime-2828114",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/paypal-cashback-20-cashback-auf-digitale-inhalte-zb-filme-musik-spiele-ebooks-bis-zu-10eur-cashback-moglich-personalisiert-2828074",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-nintendo-switch-2-inkl-mario-kart-world-2828165",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/seesii-mini-kettensage-mit-2x-akku-2x-ersatzketten-und-zubehor-2828065",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-philips-hue-white-color-ambiance-gradient-lightstrip-65-zoll-dimmbarer-led-streifen-fur-den-fernseher-2828319",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spaten-perfect-draft-oktoberfest-preisfehler-das-fasspfand-betragt-nur-008-eur-statt-5-eur-die-lieferung-ist-fur-anfang-oktober-vorgesehen-2828348",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fairphone-6-256gb-otelo-allnet-und-sms-flat-vodafone-50gb-5g-fur-effektiv-2307-euro-im-monat-mit-rufnummernmitnahme-2823534",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/uci-kino-15eur-uci-kino-gutschein-fur-625eur-2828201",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/peugeot-5008-gt-automatik-7-sitzer-acc-panorama-navi-led-kamera-ahkv-uvm-versch-farben-sofort-verfugbar-eu-tz-2813724",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fischer-duopower-10-x-50-2828471",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-2er-pack-blister-2-boosterpacks-1-holografische-promokarte-2828532",
+      "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ikea-hangesonnenschirm-oxno-lindoja-300-cm-fur-49-eur-statt-14999-eur-2828480",
+      "ts": 1787696138323
     }
   ]
 }
