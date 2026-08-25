@@ -1,11 +1,18 @@
 {
   "date": "2026-08-25",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
+    "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-flasche-376eur-im-sparabo-prime-2828114",
+    "mydealz|https://www.mydealz.de/deals/paypal-cashback-20-cashback-auf-digitale-inhalte-zb-filme-musik-spiele-ebooks-bis-zu-10eur-cashback-moglich-personalisiert-2828074",
+    "mydealz|https://www.mydealz.de/deals/lokal-nintendo-switch-2-inkl-mario-kart-world-2828165",
+    "mydealz|https://www.mydealz.de/deals/seesii-mini-kettensage-mit-2x-akku-2x-ersatzketten-und-zubehor-2828065",
+    "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/floordirekt-wpc-sichtschutzzaun-ponza-180x180-cm-schwarz-lamellenzaun-mit-pfosten-wpcalu-pflegeleicht-obi-2824427",
