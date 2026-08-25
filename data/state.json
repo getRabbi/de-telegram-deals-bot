@@ -3,7 +3,7 @@
   "slots": {
     "morning": true,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
@@ -16,7 +16,11 @@
     "mydealz|https://www.mydealz.de/deals/spaten-perfect-draft-oktoberfest-preisfehler-das-fasspfand-betragt-nur-008-eur-statt-5-eur-die-lieferung-ist-fur-anfang-oktober-vorgesehen-2828348",
     "mydealz|https://www.mydealz.de/deals/fairphone-6-256gb-otelo-allnet-und-sms-flat-vodafone-50gb-5g-fur-effektiv-2307-euro-im-monat-mit-rufnummernmitnahme-2823534",
     "mydealz|https://www.mydealz.de/deals/uci-kino-15eur-uci-kino-gutschein-fur-625eur-2828201",
-    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320"
+    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320",
+    "mydealz|https://www.mydealz.de/deals/peugeot-5008-gt-automatik-7-sitzer-acc-panorama-navi-led-kamera-ahkv-uvm-versch-farben-sofort-verfugbar-eu-tz-2813724",
+    "mydealz|https://www.mydealz.de/deals/fischer-duopower-10-x-50-2828471",
+    "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-2er-pack-blister-2-boosterpacks-1-holografische-promokarte-2828532",
+    "mydealz|https://www.mydealz.de/deals/ikea-hangesonnenschirm-oxno-lindoja-300-cm-fur-49-eur-statt-14999-eur-2828480"
   ],
   "postedHistory": [
     {
