@@ -2,7 +2,7 @@
   "date": "2026-08-25",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/paypal-cashback-20-cashback-auf-digitale-inhalte-zb-filme-musik-spiele-ebooks-bis-zu-10eur-cashback-moglich-personalisiert-2828074",
     "mydealz|https://www.mydealz.de/deals/lokal-nintendo-switch-2-inkl-mario-kart-world-2828165",
     "mydealz|https://www.mydealz.de/deals/seesii-mini-kettensage-mit-2x-akku-2x-ersatzketten-und-zubehor-2828065",
-    "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154"
+    "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154",
+    "mydealz|https://www.mydealz.de/deals/prime-philips-hue-white-color-ambiance-gradient-lightstrip-65-zoll-dimmbarer-led-streifen-fur-den-fernseher-2828319",
+    "mydealz|https://www.mydealz.de/deals/spaten-perfect-draft-oktoberfest-preisfehler-das-fasspfand-betragt-nur-008-eur-statt-5-eur-die-lieferung-ist-fur-anfang-oktober-vorgesehen-2828348",
+    "mydealz|https://www.mydealz.de/deals/fairphone-6-256gb-otelo-allnet-und-sms-flat-vodafone-50gb-5g-fur-effektiv-2307-euro-im-monat-mit-rufnummernmitnahme-2823534",
+    "mydealz|https://www.mydealz.de/deals/uci-kino-15eur-uci-kino-gutschein-fur-625eur-2828201",
+    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320"
   ],
   "postedHistory": [
     {
