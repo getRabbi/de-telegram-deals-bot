@@ -2,7 +2,7 @@
   "date": "2026-08-26",
   "slots": {
     "morning": true,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
   "postedKeys": [
@@ -11,7 +11,12 @@
     "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-haltbare-fettarme-milch-15-35-fett-12x1liter-2828668",
     "mydealz|https://www.mydealz.de/deals/prime-teg1105pd-5-port-gigabit-poe-switch-2828680",
     "mydealz|https://www.mydealz.de/deals/frigeo-ahoj-brause-pulver-fur-ein-herrlich-prickel-frisches-getrank-zum-trinken-10-beutel-insgesamt-58g-spar-abo-prime-2828681",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686"
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686",
+    "mydealz|https://www.mydealz.de/deals/5x-wc-ente-total-aktiv-gel-citrus-5-x-750-ml-fur-809eur-764eur-moglich-amazon-prime-sparabo-2828803",
+    "mydealz|https://www.mydealz.de/deals/ostsee-seetelhotel-ostseehotel-ahlbeck-2un-fruhstuck-ein-3-gangemenu-bade-und-saunalandschaft-kurze-auszeit-fur-99eur-statt-144eur-pp-2828716",
+    "mydealz|https://www.mydealz.de/deals/claude-cowork-50-mehr-nutzungslimit-bis-31-august-anthropic-2828779",
+    "mydealz|https://www.mydealz.de/deals/amazon-sodastream-terra-wassersprudler-mit-2x-60l-co2-zylinder-3x-1l-bpa-freien-flaschen-quick-connect-spulmaschinengeeignet-schwarz-2828726",
+    "mydealz|https://www.mydealz.de/deals/aquanique-dwp-19000-schmutzwasser-tauchpumpe-by-oase-2828740"
   ],
   "postedHistory": [
     {
