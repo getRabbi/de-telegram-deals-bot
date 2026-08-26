@@ -1,11 +1,18 @@
 {
   "date": "2026-08-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-loreal-men-expert-xxl-5in1-deoroller-carbon-protect-o-heat-protect-100ml-ggf-pers-10-rabatt-309eur-2828692",
+    "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-haltbare-fettarme-milch-15-35-fett-12x1liter-2828668",
+    "mydealz|https://www.mydealz.de/deals/prime-teg1105pd-5-port-gigabit-poe-switch-2828680",
+    "mydealz|https://www.mydealz.de/deals/frigeo-ahoj-brause-pulver-fur-ein-herrlich-prickel-frisches-getrank-zum-trinken-10-beutel-insgesamt-58g-spar-abo-prime-2828681",
+    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
