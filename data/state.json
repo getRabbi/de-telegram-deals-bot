@@ -1,88 +1,12 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "slots": {
-    "morning": true,
-    "noon": true,
-    "evening": true
+    "morning": false,
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-loreal-men-expert-xxl-5in1-deoroller-carbon-protect-o-heat-protect-100ml-ggf-pers-10-rabatt-309eur-2828692",
-    "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-haltbare-fettarme-milch-15-35-fett-12x1liter-2828668",
-    "mydealz|https://www.mydealz.de/deals/prime-teg1105pd-5-port-gigabit-poe-switch-2828680",
-    "mydealz|https://www.mydealz.de/deals/frigeo-ahoj-brause-pulver-fur-ein-herrlich-prickel-frisches-getrank-zum-trinken-10-beutel-insgesamt-58g-spar-abo-prime-2828681",
-    "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686",
-    "mydealz|https://www.mydealz.de/deals/5x-wc-ente-total-aktiv-gel-citrus-5-x-750-ml-fur-809eur-764eur-moglich-amazon-prime-sparabo-2828803",
-    "mydealz|https://www.mydealz.de/deals/ostsee-seetelhotel-ostseehotel-ahlbeck-2un-fruhstuck-ein-3-gangemenu-bade-und-saunalandschaft-kurze-auszeit-fur-99eur-statt-144eur-pp-2828716",
-    "mydealz|https://www.mydealz.de/deals/claude-cowork-50-mehr-nutzungslimit-bis-31-august-anthropic-2828779",
-    "mydealz|https://www.mydealz.de/deals/amazon-sodastream-terra-wassersprudler-mit-2x-60l-co2-zylinder-3x-1l-bpa-freien-flaschen-quick-connect-spulmaschinengeeignet-schwarz-2828726",
-    "mydealz|https://www.mydealz.de/deals/aquanique-dwp-19000-schmutzwasser-tauchpumpe-by-oase-2828740",
-    "mydealz|https://www.mydealz.de/deals/lokal-tcl-50mqled75k-qled-mini-led-tv-2828917",
-    "mydealz|https://www.mydealz.de/deals/app-levis-housemark-t-shirt-dark-charcoal-heather-xs-2xl-2806174",
-    "mydealz|https://www.mydealz.de/deals/blistex-classic-lippenpflege-stick-425-g-mit-aloe-vera-vitamin-e-bis-zu-12h-feuchtigkeit-lsf-10-spar-abo-prime-10-rabatt-coupon-2828878",
-    "mydealz|https://www.mydealz.de/deals/bestsecret-nike-air-jordan-1-midhq3829-2828677"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/b-ware-amazon-siemens-backofen-iq500-hb578gbs3-2825147",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bettwasche-sets-135x200-bis-200x220-mikrofaser-verschiedene-farben-ab-1062eur-statt-2299eur-2824957",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neuer-bestpreis-riiffs-freeze-extrait-de-parfum-100-ml-eisige-frische-trifft-moderne-eleganz-2824968",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lg-ms2595cis-mikrowelle-25-l-1000-w-smart-inverter-28-automatikprogramme-fur-9990-eur-2824991",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-anker-powerport-6-6-fach-usb-ladegerat-2825057",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mova-z70-ultra-complete-2825075",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ps-vr2-mutant-boxing-league-mit-ps-nur-eur-839-2825281",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/e-mtb-focus-jam2-sl-90-carbon-rahmenlrs-mavicfazua430whaxs-x01foxc-factory179kg-xl-cb-moglich-eur3599-2825280",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nike-trail-laufjacke-running-jacket-herren-fur-3489-eur-nur-noch-in-l-2820144",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/iphone-16-128gb-grun-und-weiss-zu-dem-preis-andere-farben-unwesentlich-teurer-2824702",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-cpu-boxed-6-cashback-33150eur-effektiv-2825209",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stylex-back-to-school-gluckscode-aktion-2026-garantierter-10eur-pixum-fotobuch-gutschein-beim-kauf-von-5eur-stylex-produkten-bei-tedi-2825401",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-stone-reef-innensechskantschlussel-set-13-tlg-127-10-mm-kugelkopf-farbig-inbus-2825382",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/polymaker-polydryer-box-amazon-warehouse-zustand-wie-neu-2825371",
-      "ts": 1787177638534
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/15-gamescom-rabatt-bei-workstatt-gesture-mit-kopfstutze-fur-84707eur-2825348",
-      "ts": 1787177638534
-    },
     {
       "key": "zalando|https://www.mydealz.de/deals/zalando-cb-rewe-kw-adidas-performance-deutschland-dfb-26-away-fussball-trikot-grossen-xs-m-2798731",
       "ts": 1787264154219
@@ -442,6 +366,66 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ikea-hangesonnenschirm-oxno-lindoja-300-cm-fur-49-eur-statt-14999-eur-2828480",
       "ts": 1787696138323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-loreal-men-expert-xxl-5in1-deoroller-carbon-protect-o-heat-protect-100ml-ggf-pers-10-rabatt-309eur-2828692",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-haltbare-fettarme-milch-15-35-fett-12x1liter-2828668",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-teg1105pd-5-port-gigabit-poe-switch-2828680",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/frigeo-ahoj-brause-pulver-fur-ein-herrlich-prickel-frisches-getrank-zum-trinken-10-beutel-insgesamt-58g-spar-abo-prime-2828681",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/5x-wc-ente-total-aktiv-gel-citrus-5-x-750-ml-fur-809eur-764eur-moglich-amazon-prime-sparabo-2828803",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ostsee-seetelhotel-ostseehotel-ahlbeck-2un-fruhstuck-ein-3-gangemenu-bade-und-saunalandschaft-kurze-auszeit-fur-99eur-statt-144eur-pp-2828716",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/claude-cowork-50-mehr-nutzungslimit-bis-31-august-anthropic-2828779",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-sodastream-terra-wassersprudler-mit-2x-60l-co2-zylinder-3x-1l-bpa-freien-flaschen-quick-connect-spulmaschinengeeignet-schwarz-2828726",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aquanique-dwp-19000-schmutzwasser-tauchpumpe-by-oase-2828740",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-tcl-50mqled75k-qled-mini-led-tv-2828917",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/app-levis-housemark-t-shirt-dark-charcoal-heather-xs-2xl-2806174",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/blistex-classic-lippenpflege-stick-425-g-mit-aloe-vera-vitamin-e-bis-zu-12h-feuchtigkeit-lsf-10-spar-abo-prime-10-rabatt-coupon-2828878",
+      "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestsecret-nike-air-jordan-1-midhq3829-2828677",
+      "ts": 1787797470793
     }
   ]
 }
