@@ -1,11 +1,18 @@
 {
   "date": "2026-08-31",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
+    "mydealz|https://www.mydealz.de/deals/gerateschuppen-aus-metall-mit-fundamentrahmen-bxtxh-204-x-120-x-174-cm-in-3-versch-farben-fur-13999eur-juskys-2828727",
+    "mydealz|https://www.mydealz.de/deals/prime-maxi-cosi-pebble-360-i-size-babyschale-grau-graphite-drehbar-0-15-monate-40-83-cm-mit-wunschliste-10762eur-2829086",
+    "mydealz|https://www.mydealz.de/deals/call-of-duty-black-ops-7-xbox-series-x-xbox-one-fur-2498eur-amazon-prime-2827322",
+    "mydealz|https://www.mydealz.de/deals/shoop-douglas-bis-zu-12-cashback-5eur-shoop-gutschein-20-rabatt-auf-viele-artikel-2829055",
+    "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-nur-heute-15-cashback-15-rabatt-auf-das-kuchen-sortiment-limitiertes-angebot-2827271"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/eryone-pla-silk-neujahrs-edition-fur-nur-505-eur-3d-druck-filament-munzdealgutscheindollarumstellung-2827494",
