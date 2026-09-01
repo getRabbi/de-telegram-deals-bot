@@ -2,10 +2,16 @@
   "date": "2026-09-01",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/deutsche-bank-maxblue-spartanien-55-eur-plus-bis-zu-500-eur-depotwechselpramie-2829184",
+    "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-pps-schnellladegerat-2821637",
+    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-cancun-mexiko-von-frankfurt-berlin-und-hamburg-1-stop-inkl-ruckflug-sep-nov-condor-2821694",
+    "mydealz|https://www.mydealz.de/gutscheine/baracuta-g9-die-jacke-der-legenden-viele-farben-2829094",
+    "mydealz|https://www.mydealz.de/deals/muller-30-auf-jean-paul-gaultier-als-newsletter-bestandskunde-zb-125ml-le-male-le-parfumelixiredt-503653165246-eur-uvm-2829123"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
