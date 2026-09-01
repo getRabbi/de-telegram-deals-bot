@@ -1,78 +1,12 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/deutsche-bank-maxblue-spartanien-55-eur-plus-bis-zu-500-eur-depotwechselpramie-2829184",
-    "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-pps-schnellladegerat-2821637",
-    "mydealz|https://www.mydealz.de/deals/direktfluge-nach-cancun-mexiko-von-frankfurt-berlin-und-hamburg-1-stop-inkl-ruckflug-sep-nov-condor-2821694",
-    "mydealz|https://www.mydealz.de/gutscheine/baracuta-g9-die-jacke-der-legenden-viele-farben-2829094",
-    "mydealz|https://www.mydealz.de/deals/muller-30-auf-jean-paul-gaultier-als-newsletter-bestandskunde-zb-125ml-le-male-le-parfumelixiredt-503653165246-eur-uvm-2829123"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nigrin-bike-care-allwetter-kettenol-100-ml-flasche-376eur-im-sparabo-prime-2828114",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/paypal-cashback-20-cashback-auf-digitale-inhalte-zb-filme-musik-spiele-ebooks-bis-zu-10eur-cashback-moglich-personalisiert-2828074",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-nintendo-switch-2-inkl-mario-kart-world-2828165",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/seesii-mini-kettensage-mit-2x-akku-2x-ersatzketten-und-zubehor-2828065",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dublin-nach-ostkuste-usa-ab-99-euro-return-new-york-chicago-boston-florida-2828154",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-philips-hue-white-color-ambiance-gradient-lightstrip-65-zoll-dimmbarer-led-streifen-fur-den-fernseher-2828319",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spaten-perfect-draft-oktoberfest-preisfehler-das-fasspfand-betragt-nur-008-eur-statt-5-eur-die-lieferung-ist-fur-anfang-oktober-vorgesehen-2828348",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fairphone-6-256gb-otelo-allnet-und-sms-flat-vodafone-50gb-5g-fur-effektiv-2307-euro-im-monat-mit-rufnummernmitnahme-2823534",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/uci-kino-15eur-uci-kino-gutschein-fur-625eur-2828201",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-aqua-carpatica-mineralwasser-mit-kohlensaure-12-x-500ml-pfandfehler-dadurch-preisfehler-effektiv-386eur-fur-6-liter-2828320",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/peugeot-5008-gt-automatik-7-sitzer-acc-panorama-navi-led-kamera-ahkv-uvm-versch-farben-sofort-verfugbar-eu-tz-2813724",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fischer-duopower-10-x-50-2828471",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-sammelkartenspiel-2er-pack-blister-2-boosterpacks-1-holografische-promokarte-2828532",
-      "ts": 1787696138323
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ikea-hangesonnenschirm-oxno-lindoja-300-cm-fur-49-eur-statt-14999-eur-2828480",
-      "ts": 1787696138323
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
       "ts": 1787797470793
@@ -156,6 +90,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-nur-heute-15-cashback-15-rabatt-auf-das-kuchen-sortiment-limitiertes-angebot-2827271",
       "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/deutsche-bank-maxblue-spartanien-55-eur-plus-bis-zu-500-eur-depotwechselpramie-2829184",
+      "ts": 1788306023937
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anker-nano-65w-usb-c-ladegerat-3-port-pps-schnellladegerat-2821637",
+      "ts": 1788306023937
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/direktfluge-nach-cancun-mexiko-von-frankfurt-berlin-und-hamburg-1-stop-inkl-ruckflug-sep-nov-condor-2821694",
+      "ts": 1788306023937
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/baracuta-g9-die-jacke-der-legenden-viele-farben-2829094",
+      "ts": 1788306023937
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-30-auf-jean-paul-gaultier-als-newsletter-bestandskunde-zb-125ml-le-male-le-parfumelixiredt-503653165246-eur-uvm-2829123",
+      "ts": 1788306023937
     }
   ]
 }
