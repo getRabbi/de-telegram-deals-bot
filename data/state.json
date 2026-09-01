@@ -1,79 +1,12 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
-    "mydealz|https://www.mydealz.de/deals/gerateschuppen-aus-metall-mit-fundamentrahmen-bxtxh-204-x-120-x-174-cm-in-3-versch-farben-fur-13999eur-juskys-2828727",
-    "mydealz|https://www.mydealz.de/deals/prime-maxi-cosi-pebble-360-i-size-babyschale-grau-graphite-drehbar-0-15-monate-40-83-cm-mit-wunschliste-10762eur-2829086",
-    "mydealz|https://www.mydealz.de/deals/call-of-duty-black-ops-7-xbox-series-x-xbox-one-fur-2498eur-amazon-prime-2827322",
-    "mydealz|https://www.mydealz.de/deals/shoop-douglas-bis-zu-12-cashback-5eur-shoop-gutschein-20-rabatt-auf-viele-artikel-2829055",
-    "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-nur-heute-15-cashback-15-rabatt-auf-das-kuchen-sortiment-limitiertes-angebot-2827271"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eryone-pla-silk-neujahrs-edition-fur-nur-505-eur-3d-druck-filament-munzdealgutscheindollarumstellung-2827494",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ecoflow-stream-ultra-fur-39510eur-2827531",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-optiplex-5090-sff-i5-10505-16-gb-ram-256-gb-nvme-windows-11-fur-26990-eur-refurbished-office-pc-bspw-fur-homelab-proxmox-2827543",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/thomas-sabo-summer-special-mit-20-rabatt-on-top-auf-fast-alle-artikel-auch-sale-z-b-ring-mit-weissem-zirkonia-2824890",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/levis-fur-damen-herren-zandt-hemd-2494-eur-inkl-vsk-hoodie-3194-eur-jeans-ab-3099-eur-shorts-polos-mehr-2827150",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dji-osmo-pocket-3-kreativ-combo-2826623",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-astroai-kabellose-elektrische-luftpumpe-tragbare-akku-fahrradpumpe-mit-alle-ventile-led-licht-2815434",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/battlefield-6-4-codes-fur-spielerkarten-2827630",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/victorinox-taschenmesser-synergy-alox-multitool-9-funktionen-inkl-klinge-paketoffner-schraubendreher-rostfreier-stahl-2-farben-2827722",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brawl-stars-2-x-smoothie-drops-gratis-2827658",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/soundcore-by-anker-liberty-4-nc-hi-res-audio-ldac-adaptive-anc-20-50h-akku-blau-cashback-2827692",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/unter-neupreis-google-pixel-watch-5-lte-41mm-mit-vodafone-tarif-500min100sms-3gb-fur-999eurmonat-17995eur-45mm-20eur-2827904",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/583-zoll-epapere-ink-screen-3-farbig-bwy-600x448-px-spi-interface-munzdeal-gutschein-2827935",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pokemon-super-electric-breaker-display-japanisch-30-boosterpacks-je-5-karten-tcg-sammelkartenspiel-2827911",
-      "ts": 1787609707133
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/elden-ring-playstation-5-ps5-prime-2827892",
-      "ts": 1787609707133
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/flexispot-cm1cl-bodenschutzmatte-fur-burostuhle-aus-pvc-transparent-120x100cm-2827875",
       "ts": 1787696138323
@@ -193,6 +126,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/bestsecret-nike-air-jordan-1-midhq3829-2828677",
       "ts": 1787797470793
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
+      "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gerateschuppen-aus-metall-mit-fundamentrahmen-bxtxh-204-x-120-x-174-cm-in-3-versch-farben-fur-13999eur-juskys-2828727",
+      "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-maxi-cosi-pebble-360-i-size-babyschale-grau-graphite-drehbar-0-15-monate-40-83-cm-mit-wunschliste-10762eur-2829086",
+      "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/call-of-duty-black-ops-7-xbox-series-x-xbox-one-fur-2498eur-amazon-prime-2827322",
+      "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shoop-douglas-bis-zu-12-cashback-5eur-shoop-gutschein-20-rabatt-auf-viele-artikel-2829055",
+      "ts": 1788221501083
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-nur-heute-15-cashback-15-rabatt-auf-das-kuchen-sortiment-limitiertes-angebot-2827271",
+      "ts": 1788221501083
     }
   ]
 }
