@@ -1,18 +1,11 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/gutscheine/rechne-mit-bis-zu-20-2829308",
-    "mydealz|https://www.mydealz.de/deals/tomb-raider-hd-amazon-prime-video-2829307",
-    "mydealz|https://www.mydealz.de/deals/laufradsatz-dt-swiss-erc-1400-dicut-35-sram-xdr-2829331",
-    "mydealz|https://www.mydealz.de/deals/amazonit-ninja-creami-scoop-swirl-nc701eu-eismaschine-nur-25147eur-465-bei-800-bewertungen-2829303",
-    "mydealz|https://www.mydealz.de/deals/amazon-15-rabatt-auf-uber-geschenkkarten-2829559",
-    "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-amazon-prime-spar-aborossmann-2803943"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
@@ -117,6 +110,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/muller-30-auf-jean-paul-gaultier-als-newsletter-bestandskunde-zb-125ml-le-male-le-parfumelixiredt-503653165246-eur-uvm-2829123",
       "ts": 1788306023937
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/rechne-mit-bis-zu-20-2829308",
+      "ts": 1788386926176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tomb-raider-hd-amazon-prime-video-2829307",
+      "ts": 1788386926176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/laufradsatz-dt-swiss-erc-1400-dicut-35-sram-xdr-2829331",
+      "ts": 1788386926176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazonit-ninja-creami-scoop-swirl-nc701eu-eismaschine-nur-25147eur-465-bei-800-bewertungen-2829303",
+      "ts": 1788386926176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-15-rabatt-auf-uber-geschenkkarten-2829559",
+      "ts": 1788386926176
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-amazon-prime-spar-aborossmann-2803943",
+      "ts": 1788386926176
     }
   ]
 }
