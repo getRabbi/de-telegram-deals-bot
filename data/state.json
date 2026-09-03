@@ -2,10 +2,16 @@
   "date": "2026-09-03",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/wird-gebaut-command-conquer-cc-red-alert-soviet-base-diorama-moc-142272-1646-klemmbausteine-mit-mammut-panzer-und-tesla-spule-2829539",
+    "mydealz|https://www.mydealz.de/deals/turtle-beach-rematch-kabelloser-controller-mario-kart-nintendo-switch-2-nintendo-switch-amazon-prime-2829455",
+    "mydealz|https://www.mydealz.de/deals/amazon-fr-metal-gear-solid-master-collection-vol-2-day-one-edition-nintendo-switch-2-fur-4104-eur-inkl-versand-2829523",
+    "mydealz|https://www.mydealz.de/deals/playstation-4-spiele-je-999eur-the-last-of-us-until-dawn-horizon-zero-dawn-complete-edt-kingdom-hearts-iii-499eur-uvm-muller-abholung-2829126",
+    "mydealz|https://www.mydealz.de/deals/trippernl-eintrittskarte-wildlands-adventure-zoo-emmen-nl-fur-22-eur-statt-31-eur-2829677"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
