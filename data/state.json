@@ -1,78 +1,12 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/wird-gebaut-command-conquer-cc-red-alert-soviet-base-diorama-moc-142272-1646-klemmbausteine-mit-mammut-panzer-und-tesla-spule-2829539",
-    "mydealz|https://www.mydealz.de/deals/turtle-beach-rematch-kabelloser-controller-mario-kart-nintendo-switch-2-nintendo-switch-amazon-prime-2829455",
-    "mydealz|https://www.mydealz.de/deals/amazon-fr-metal-gear-solid-master-collection-vol-2-day-one-edition-nintendo-switch-2-fur-4104-eur-inkl-versand-2829523",
-    "mydealz|https://www.mydealz.de/deals/playstation-4-spiele-je-999eur-the-last-of-us-until-dawn-horizon-zero-dawn-complete-edt-kingdom-hearts-iii-499eur-uvm-muller-abholung-2829126",
-    "mydealz|https://www.mydealz.de/deals/trippernl-eintrittskarte-wildlands-adventure-zoo-emmen-nl-fur-22-eur-statt-31-eur-2829677"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/trust-gaming-tastatur-rgb-led-beleuchtung-usb-qwertz-de-layout-keyboard-2828504",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-sparabo-loreal-men-expert-xxl-5in1-deoroller-carbon-protect-o-heat-protect-100ml-ggf-pers-10-rabatt-309eur-2828692",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kaufland-k-classic-haltbare-fettarme-milch-15-35-fett-12x1liter-2828668",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-teg1105pd-5-port-gigabit-poe-switch-2828680",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/frigeo-ahoj-brause-pulver-fur-ein-herrlich-prickel-frisches-getrank-zum-trinken-10-beutel-insgesamt-58g-spar-abo-prime-2828681",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2828686",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/5x-wc-ente-total-aktiv-gel-citrus-5-x-750-ml-fur-809eur-764eur-moglich-amazon-prime-sparabo-2828803",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ostsee-seetelhotel-ostseehotel-ahlbeck-2un-fruhstuck-ein-3-gangemenu-bade-und-saunalandschaft-kurze-auszeit-fur-99eur-statt-144eur-pp-2828716",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/claude-cowork-50-mehr-nutzungslimit-bis-31-august-anthropic-2828779",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-sodastream-terra-wassersprudler-mit-2x-60l-co2-zylinder-3x-1l-bpa-freien-flaschen-quick-connect-spulmaschinengeeignet-schwarz-2828726",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aquanique-dwp-19000-schmutzwasser-tauchpumpe-by-oase-2828740",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-tcl-50mqled75k-qled-mini-led-tv-2828917",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/app-levis-housemark-t-shirt-dark-charcoal-heather-xs-2xl-2806174",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/blistex-classic-lippenpflege-stick-425-g-mit-aloe-vera-vitamin-e-bis-zu-12h-feuchtigkeit-lsf-10-spar-abo-prime-10-rabatt-coupon-2828878",
-      "ts": 1787797470793
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestsecret-nike-air-jordan-1-midhq3829-2828677",
-      "ts": 1787797470793
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
       "ts": 1788221501083
@@ -140,6 +74,26 @@
     {
       "key": "rossmann|https://www.mydealz.de/deals/sammeldeal-perwoll-waschmittel-27-waschladungen-zb-renew-color-ab-449eur-amazon-prime-spar-aborossmann-2803943",
       "ts": 1788386926176
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wird-gebaut-command-conquer-cc-red-alert-soviet-base-diorama-moc-142272-1646-klemmbausteine-mit-mammut-panzer-und-tesla-spule-2829539",
+      "ts": 1788478851326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/turtle-beach-rematch-kabelloser-controller-mario-kart-nintendo-switch-2-nintendo-switch-amazon-prime-2829455",
+      "ts": 1788478851326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-fr-metal-gear-solid-master-collection-vol-2-day-one-edition-nintendo-switch-2-fur-4104-eur-inkl-versand-2829523",
+      "ts": 1788478851326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-4-spiele-je-999eur-the-last-of-us-until-dawn-horizon-zero-dawn-complete-edt-kingdom-hearts-iii-499eur-uvm-muller-abholung-2829126",
+      "ts": 1788478851326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trippernl-eintrittskarte-wildlands-adventure-zoo-emmen-nl-fur-22-eur-statt-31-eur-2829677",
+      "ts": 1788478851326
     }
   ]
 }
