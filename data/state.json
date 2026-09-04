@@ -1,16 +1,11 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/trippernl-freizeitpark-de-waarbeek-tickets-inkl-unbegrenztem-essen-trinken-fur-1695-eur-statt-2250-eur-2829672",
-    "mydealz|https://www.mydealz.de/deals/wmf-kult-x-mix-go-mini-smoothie-maker-standmixer-blender-elektrisch-shake-mixer-300-watt-leistung-prime-2829578",
-    "mydealz|https://www.mydealz.de/deals/micom-xiaomi-poco-f9-series-globaler-launch-am-19-um-1400-uhr-200-eur-gutschein-sichern-2829660",
-    "mydealz|https://www.mydealz.de/deals/asics-gel-quantum-360-vii-herrenschuhe-2828345"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
@@ -99,6 +94,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/trippernl-eintrittskarte-wildlands-adventure-zoo-emmen-nl-fur-22-eur-statt-31-eur-2829677",
       "ts": 1788478851326
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/trippernl-freizeitpark-de-waarbeek-tickets-inkl-unbegrenztem-essen-trinken-fur-1695-eur-statt-2250-eur-2829672",
+      "ts": 1788565000921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wmf-kult-x-mix-go-mini-smoothie-maker-standmixer-blender-elektrisch-shake-mixer-300-watt-leistung-prime-2829578",
+      "ts": 1788565000921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/micom-xiaomi-poco-f9-series-globaler-launch-am-19-um-1400-uhr-200-eur-gutschein-sichern-2829660",
+      "ts": 1788565000921
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asics-gel-quantum-360-vii-herrenschuhe-2828345",
+      "ts": 1788565000921
     }
   ]
 }
