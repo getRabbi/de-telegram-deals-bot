@@ -1,11 +1,18 @@
 {
   "date": "2026-09-05",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gewerbeleasing-cupra-leon-sportstourer-vz-custom-by-abt-333-ps-mtl-158eur-1344eur-uf-eff-mtl-214eur-netto-lf-033-gf-044-24-monate-2829865",
+    "mydealz|https://www.mydealz.de/deals/control-ultimate-edition-alan-wake-origins-paket-3-spiele-607eur-auch-einzeln-verfugbar-action-adventure-steam-deck-2788234",
+    "mydealz|https://www.mydealz.de/deals/parkside-werkzeugkoffer-80-tlg-umfangreiches-werkzeugset-im-stabilen-koffer-fur-4094-eur-inkl-versand-statt-6897-eur-41-2827843",
+    "mydealz|https://www.mydealz.de/deals/kingdom-come-deliverance-royal-edition-playstation-ps4-disc-version-pegi-18-preis-bei-filialabholung-at-muller-2829744",
+    "mydealz|https://www.mydealz.de/deals/gardasee-secret-deal-7-nachte-inkl-hp-bootsfahrt-verkostung-eintritt-in-zitronengarten-ab-299eur-pp-2826368",
+    "lidl|https://www.mydealz.de/deals/emma-matratze-emma-express-aeroflex-taschenfedern-90-x-200-cm-109eur-emma-one-hart-oder-medium-90-x-200-139eur-lidl-plus-2830073"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
