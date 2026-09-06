@@ -1,11 +1,18 @@
 {
   "date": "2026-09-06",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bmas-bastelkalender-burgertelefon-2027-kalender-2830139",
+    "mydealz|https://www.mydealz.de/deals/stalker-2-heart-of-chornobyl-day-one-edition-playstation-5-3499eur-bei-marktabholung-2830151",
+    "mydealz|https://www.mydealz.de/deals/benefitbuddy-10-rabatt-auf-travelcircus-gutscheine-2829964",
+    "mydealz|https://www.mydealz.de/deals/keen-knx-t-toe-damen-sneaker-leder-freizeitschuhe-gr-36-42-2818842",
+    "mydealz|https://www.mydealz.de/deals/reebok-redgrave-herren-boxershorts-im-3er-pack-fur-999-eur-statt-1963-eur-grossen-s-bis-xl-2830248",
+    "mydealz|https://www.mydealz.de/deals/ebay-scheppach-benzin-mini-bagger-mb850xl-komplett-zubehor-set-85-ps-bagger-2830259"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
