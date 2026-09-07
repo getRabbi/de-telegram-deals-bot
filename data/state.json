@@ -1,11 +1,18 @@
 {
   "date": "2026-09-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/prime-spar-abo-bens-original-sauce-asia-woksauce-soja-pikant-6-x-400g-2829828",
+    "mydealz|https://www.mydealz.de/deals/ttartisan-af-50-mm-18-neo-bei-pergear-sony-e-nikon-z-l-mount-2829837",
+    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgh40w-wireless-gaming-kopfhorer-kabellos-35h-akku-geschlossene-bauweise-abnehmbares-mikro-2829839",
+    "mydealz|https://www.mydealz.de/deals/reima-schneeanzuge-und-winterjacken-bis-zu-49-gunstiger-bei-limango-z-b-schneeanzug-puhuri-2830381",
+    "mydealz|https://www.mydealz.de/deals/crimson-desert-deluxe-edition-playstation-5-amazon-otto-2830405",
+    "mydealz|https://www.mydealz.de/deals/cb-philips-cafe-aromis-series-8000-kaffeevollautomat-schwarz-oder-silber-promo-koenic-eiswurfelmaschine-gratis-2830386"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
