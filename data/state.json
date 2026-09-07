@@ -1,18 +1,11 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/prime-spar-abo-bens-original-sauce-asia-woksauce-soja-pikant-6-x-400g-2829828",
-    "mydealz|https://www.mydealz.de/deals/ttartisan-af-50-mm-18-neo-bei-pergear-sony-e-nikon-z-l-mount-2829837",
-    "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgh40w-wireless-gaming-kopfhorer-kabellos-35h-akku-geschlossene-bauweise-abnehmbares-mikro-2829839",
-    "mydealz|https://www.mydealz.de/deals/reima-schneeanzuge-und-winterjacken-bis-zu-49-gunstiger-bei-limango-z-b-schneeanzug-puhuri-2830381",
-    "mydealz|https://www.mydealz.de/deals/crimson-desert-deluxe-edition-playstation-5-amazon-otto-2830405",
-    "mydealz|https://www.mydealz.de/deals/cb-philips-cafe-aromis-series-8000-kaffeevollautomat-schwarz-oder-silber-promo-koenic-eiswurfelmaschine-gratis-2830386"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
@@ -165,6 +158,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ebay-scheppach-benzin-mini-bagger-mb850xl-komplett-zubehor-set-85-ps-bagger-2830259",
       "ts": 1788736834975
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-bens-original-sauce-asia-woksauce-soja-pikant-6-x-400g-2829828",
+      "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ttartisan-af-50-mm-18-neo-bei-pergear-sony-e-nikon-z-l-mount-2829837",
+      "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sharkoon-skiller-sgh40w-wireless-gaming-kopfhorer-kabellos-35h-akku-geschlossene-bauweise-abnehmbares-mikro-2829839",
+      "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/reima-schneeanzuge-und-winterjacken-bis-zu-49-gunstiger-bei-limango-z-b-schneeanzug-puhuri-2830381",
+      "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/crimson-desert-deluxe-edition-playstation-5-amazon-otto-2830405",
+      "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-philips-cafe-aromis-series-8000-kaffeevollautomat-schwarz-oder-silber-promo-koenic-eiswurfelmaschine-gratis-2830386",
+      "ts": 1788825070849
     }
   ]
 }
