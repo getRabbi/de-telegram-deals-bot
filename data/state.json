@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/edifier-qr30-lautsprechermonior-30w-rms-bt54rgb-effekte-munzdeal-2830305",
+    "mydealz|https://www.mydealz.de/deals/paypal-5-eur-pramie-geschenkt-gultig-fur-alle-einkaufe-personalisiert-2830651",
+    "mydealz|https://www.mydealz.de/deals/wd-40-multispray-schmierol-action-lokal-2830622",
+    "mydealz|https://www.mydealz.de/deals/der-hobbit-gift-bundle-magic-the-gathering-2830643"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
