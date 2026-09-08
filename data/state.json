@@ -1,41 +1,12 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/edifier-qr30-lautsprechermonior-30w-rms-bt54rgb-effekte-munzdeal-2830305",
-    "mydealz|https://www.mydealz.de/deals/paypal-5-eur-pramie-geschenkt-gultig-fur-alle-einkaufe-personalisiert-2830651",
-    "mydealz|https://www.mydealz.de/deals/wd-40-multispray-schmierol-action-lokal-2830622",
-    "mydealz|https://www.mydealz.de/deals/der-hobbit-gift-bundle-magic-the-gathering-2830643"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steam-castle-of-illusion-fur-279eur-at-loaded-2829089",
-      "ts": 1788221501083
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gerateschuppen-aus-metall-mit-fundamentrahmen-bxtxh-204-x-120-x-174-cm-in-3-versch-farben-fur-13999eur-juskys-2828727",
-      "ts": 1788221501083
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-maxi-cosi-pebble-360-i-size-babyschale-grau-graphite-drehbar-0-15-monate-40-83-cm-mit-wunschliste-10762eur-2829086",
-      "ts": 1788221501083
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/call-of-duty-black-ops-7-xbox-series-x-xbox-one-fur-2498eur-amazon-prime-2827322",
-      "ts": 1788221501083
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/shoop-douglas-bis-zu-12-cashback-5eur-shoop-gutschein-20-rabatt-auf-viele-artikel-2829055",
-      "ts": 1788221501083
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-nur-heute-15-cashback-15-rabatt-auf-das-kuchen-sortiment-limitiertes-angebot-2827271",
-      "ts": 1788221501083
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/deutsche-bank-maxblue-spartanien-55-eur-plus-bis-zu-500-eur-depotwechselpramie-2829184",
       "ts": 1788306023937
@@ -187,6 +158,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/cb-philips-cafe-aromis-series-8000-kaffeevollautomat-schwarz-oder-silber-promo-koenic-eiswurfelmaschine-gratis-2830386",
       "ts": 1788825070849
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edifier-qr30-lautsprechermonior-30w-rms-bt54rgb-effekte-munzdeal-2830305",
+      "ts": 1788905380612
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/paypal-5-eur-pramie-geschenkt-gultig-fur-alle-einkaufe-personalisiert-2830651",
+      "ts": 1788905380612
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wd-40-multispray-schmierol-action-lokal-2830622",
+      "ts": 1788905380612
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/der-hobbit-gift-bundle-magic-the-gathering-2830643",
+      "ts": 1788905380612
     }
   ]
 }
