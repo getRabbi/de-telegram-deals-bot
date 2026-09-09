@@ -2,10 +2,16 @@
   "date": "2026-09-09",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/24-stuck-chupa-chups-crazy-dips-cola-lutscher-amazon-prime-spar-abo-2830611",
+    "mydealz|https://www.mydealz.de/deals/hilcona-gzg-2830642",
+    "lidl|https://www.mydealz.de/deals/coshida-katzenstreu-lidl-8-liter-2829472",
+    "mydealz|https://www.mydealz.de/deals/canyon-emtb-neuronon-9-shimano-ep8-motor-130-mm-federweg-630-wh-m-l-xl-ggf-2599eur-2830725",
+    "mydealz|https://www.mydealz.de/deals/fluge-bischkek-kirgisistan-sep-marz-ab-munchen-mit-ajet-ab-156eur-fur-hin-ruckflug-2830758"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/deutsche-bank-maxblue-spartanien-55-eur-plus-bis-zu-500-eur-depotwechselpramie-2829184",
