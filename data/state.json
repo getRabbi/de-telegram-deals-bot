@@ -1,16 +1,11 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kingdom-come-deliverance-599eur-royal-edition-799eur-2830682",
-    "mydealz|https://www.mydealz.de/deals/amazon-primelisen-240w-usb-c-kabel-4-stuck2x1m2x15m-2826513",
-    "mydealz|https://www.mydealz.de/deals/pokemon-prismatische-entwicklungen-erhabene-helden-muller-gamescom-2830765",
-    "mydealz|https://www.mydealz.de/deals/erstklassiges-grossmembran-mikrofon-l1-von-weissklang-fur-gesang-instrumente-studio-oberklasse-sehr-gut-uberragend-laut-prof-audio-2830925"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/wird-gebaut-command-conquer-cc-red-alert-soviet-base-diorama-moc-142272-1646-klemmbausteine-mit-mammut-panzer-und-tesla-spule-2829539",
@@ -155,6 +150,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/fluge-bischkek-kirgisistan-sep-marz-ab-munchen-mit-ajet-ab-156eur-fur-hin-ruckflug-2830758",
       "ts": 1788997193300
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kingdom-come-deliverance-599eur-royal-edition-799eur-2830682",
+      "ts": 1789077874737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-primelisen-240w-usb-c-kabel-4-stuck2x1m2x15m-2826513",
+      "ts": 1789077874737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-prismatische-entwicklungen-erhabene-helden-muller-gamescom-2830765",
+      "ts": 1789077874737
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/erstklassiges-grossmembran-mikrofon-l1-von-weissklang-fur-gesang-instrumente-studio-oberklasse-sehr-gut-uberragend-laut-prof-audio-2830925",
+      "ts": 1789077874737
     }
   ]
 }
