@@ -2,10 +2,16 @@
   "date": "2026-09-11",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/19kg-tecbear-petg-3d-druck-filament-fur-497-eurkg-munzdealgutscheindollarumstellung-2830916",
+    "mydealz|https://www.mydealz.de/deals/playstation-5-slim-cover-midnight-black-2830911",
+    "mydealz|https://www.mydealz.de/deals/kindle-tolino-die-tochter-des-uhrmachers-glass-and-steele-glass-and-steele-serie-1-5600-bewertungen-42-sterne-usa-today-2830926",
+    "mydealz|https://www.mydealz.de/deals/forsthelm-husqvarna-technical-2832893",
+    "mydealz|https://www.mydealz.de/deals/finanzennet-zero-70-eur-neukundenbonus-spartanien-2832887"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/wird-gebaut-command-conquer-cc-red-alert-soviet-base-diorama-moc-142272-1646-klemmbausteine-mit-mammut-panzer-und-tesla-spule-2829539",
