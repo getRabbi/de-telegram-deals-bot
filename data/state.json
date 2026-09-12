@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/gzg-tena-slipeinlagen-gratis-testen-2832877",
+    "mydealz|https://www.mydealz.de/deals/vorbestellung-ecoflow-stream-balkonkraftwerk-solarbatterie-stream-5000-ikea-family-2832884",
+    "mydealz|https://www.mydealz.de/deals/philips-hue-essential-smart-led-a60-e27-8w-2200k-6500k-4er-pack-2832758",
+    "mydealz|https://www.mydealz.de/deals/milka-bis-zu-6-gratis-kaffees-bei-mcdonalds-nach-kauf-einer-packung-kekse-oder-kuchlein-chance-auf-10000-eur-in-gold-ab-3108-2831766"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/trippernl-freizeitpark-de-waarbeek-tickets-inkl-unbegrenztem-essen-trinken-fur-1695-eur-statt-2250-eur-2829672",
