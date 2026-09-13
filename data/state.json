@@ -1,41 +1,12 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/luna-abyss-xbox-anywhere-pc-xbox-series-handheld-island-store-ohne-vpn-2833487",
-    "mydealz|https://www.mydealz.de/deals/eweka-usenet-2tb-easynews-gratis-vpn-2833407",
-    "mydealz|https://www.mydealz.de/deals/3x-siemens-original-brita-intenza-wasserfilter-mit-aromaring-tz70033a-speziell-entwickelt-fur-kaffeevollautomaten-prime-2833460",
-    "mydealz|https://www.mydealz.de/deals/kino-lumen-solingen-bis-6666-rabatt-3vor1-1-zahlt-3-gehen-rein-2833221"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bmas-bastelkalender-burgertelefon-2027-kalender-2830139",
-      "ts": 1788736834975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/stalker-2-heart-of-chornobyl-day-one-edition-playstation-5-3499eur-bei-marktabholung-2830151",
-      "ts": 1788736834975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/benefitbuddy-10-rabatt-auf-travelcircus-gutscheine-2829964",
-      "ts": 1788736834975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/keen-knx-t-toe-damen-sneaker-leder-freizeitschuhe-gr-36-42-2818842",
-      "ts": 1788736834975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/reebok-redgrave-herren-boxershorts-im-3er-pack-fur-999-eur-statt-1963-eur-grossen-s-bis-xl-2830248",
-      "ts": 1788736834975
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ebay-scheppach-benzin-mini-bagger-mb850xl-komplett-zubehor-set-85-ps-bagger-2830259",
-      "ts": 1788736834975
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-spar-abo-bens-original-sauce-asia-woksauce-soja-pikant-6-x-400g-2829828",
       "ts": 1788825070849
@@ -147,6 +118,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/milka-bis-zu-6-gratis-kaffees-bei-mcdonalds-nach-kauf-einer-packung-kekse-oder-kuchlein-chance-auf-10000-eur-in-gold-ab-3108-2831766",
       "ts": 1789256024842
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/luna-abyss-xbox-anywhere-pc-xbox-series-handheld-island-store-ohne-vpn-2833487",
+      "ts": 1789343319599
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eweka-usenet-2tb-easynews-gratis-vpn-2833407",
+      "ts": 1789343319599
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/3x-siemens-original-brita-intenza-wasserfilter-mit-aromaring-tz70033a-speziell-entwickelt-fur-kaffeevollautomaten-prime-2833460",
+      "ts": 1789343319599
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kino-lumen-solingen-bis-6666-rabatt-3vor1-1-zahlt-3-gehen-rein-2833221",
+      "ts": 1789343319599
     }
   ]
 }
