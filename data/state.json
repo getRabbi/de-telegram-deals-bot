@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
+    "mydealz|https://www.mydealz.de/deals/rayneo-air-4-pro-ar-glasses-proshop-2833881",
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-30teiliges-fraserset-8mm-2833304",
+    "mydealz|https://www.mydealz.de/deals/1fc-koln-hummel-restposten-hummel-sale-bis-zu-70-rabatt-auf-den-uvp-vsk-frei-ab-100-eur-bestandsabfrage-der-shops-moglich-2793512"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/19kg-tecbear-petg-3d-druck-filament-fur-497-eurkg-munzdealgutscheindollarumstellung-2830916",
