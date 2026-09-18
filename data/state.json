@@ -1,16 +1,11 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
-    "mydealz|https://www.mydealz.de/deals/rayneo-air-4-pro-ar-glasses-proshop-2833881",
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-30teiliges-fraserset-8mm-2833304",
-    "mydealz|https://www.mydealz.de/deals/1fc-koln-hummel-restposten-hummel-sale-bis-zu-70-rabatt-auf-den-uvp-vsk-frei-ab-100-eur-bestandsabfrage-der-shops-moglich-2793512"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/19kg-tecbear-petg-3d-druck-filament-fur-497-eurkg-munzdealgutscheindollarumstellung-2830916",
@@ -63,6 +58,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/kino-lumen-solingen-bis-6666-rabatt-3vor1-1-zahlt-3-gehen-rein-2833221",
       "ts": 1789343319599
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
+      "ts": 1789769011619
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rayneo-air-4-pro-ar-glasses-proshop-2833881",
+      "ts": 1789769011619
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-30teiliges-fraserset-8mm-2833304",
+      "ts": 1789769011619
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/1fc-koln-hummel-restposten-hummel-sale-bis-zu-70-rabatt-auf-den-uvp-vsk-frei-ab-100-eur-bestandsabfrage-der-shops-moglich-2793512",
+      "ts": 1789769011619
     }
   ]
 }
