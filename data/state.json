@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/powerbar-powergel-hydro-multiflavourbox-12x67ml-high-carb-energie-gel-natrium-1899eur-mit-sparabo-moglich-2832996",
+    "mydealz|https://www.mydealz.de/deals/eureka-new400-kabelloser-nass-trockensauger-2-in-1-saugen-wischen-selbstreinigung-30-min-laufzeit-2828453",
+    "mydealz|https://www.mydealz.de/deals/russell-hobbs-wasserkocher-inspire-schwarz-17-l-2400-watt-schnellkochfunktion-prime-2833630",
+    "mydealz|https://www.mydealz.de/deals/25-bei-dilling-damen-und-herren-2834511"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/19kg-tecbear-petg-3d-druck-filament-fur-497-eurkg-munzdealgutscheindollarumstellung-2830916",
