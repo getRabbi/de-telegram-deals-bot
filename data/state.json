@@ -1,53 +1,12 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/powerbar-powergel-hydro-multiflavourbox-12x67ml-high-carb-energie-gel-natrium-1899eur-mit-sparabo-moglich-2832996",
-    "mydealz|https://www.mydealz.de/deals/eureka-new400-kabelloser-nass-trockensauger-2-in-1-saugen-wischen-selbstreinigung-30-min-laufzeit-2828453",
-    "mydealz|https://www.mydealz.de/deals/russell-hobbs-wasserkocher-inspire-schwarz-17-l-2400-watt-schnellkochfunktion-prime-2833630",
-    "mydealz|https://www.mydealz.de/deals/25-bei-dilling-damen-und-herren-2834511"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/19kg-tecbear-petg-3d-druck-filament-fur-497-eurkg-munzdealgutscheindollarumstellung-2830916",
-      "ts": 1789167186224
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-slim-cover-midnight-black-2830911",
-      "ts": 1789167186224
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kindle-tolino-die-tochter-des-uhrmachers-glass-and-steele-glass-and-steele-serie-1-5600-bewertungen-42-sterne-usa-today-2830926",
-      "ts": 1789167186224
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/forsthelm-husqvarna-technical-2832893",
-      "ts": 1789167186224
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/finanzennet-zero-70-eur-neukundenbonus-spartanien-2832887",
-      "ts": 1789167186224
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gzg-tena-slipeinlagen-gratis-testen-2832877",
-      "ts": 1789256024842
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vorbestellung-ecoflow-stream-balkonkraftwerk-solarbatterie-stream-5000-ikea-family-2832884",
-      "ts": 1789256024842
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/philips-hue-essential-smart-led-a60-e27-8w-2200k-6500k-4er-pack-2832758",
-      "ts": 1789256024842
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/milka-bis-zu-6-gratis-kaffees-bei-mcdonalds-nach-kauf-einer-packung-kekse-oder-kuchlein-chance-auf-10000-eur-in-gold-ab-3108-2831766",
-      "ts": 1789256024842
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/luna-abyss-xbox-anywhere-pc-xbox-series-handheld-island-store-ohne-vpn-2833487",
       "ts": 1789343319599
@@ -79,6 +38,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/1fc-koln-hummel-restposten-hummel-sale-bis-zu-70-rabatt-auf-den-uvp-vsk-frei-ab-100-eur-bestandsabfrage-der-shops-moglich-2793512",
       "ts": 1789769011619
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/powerbar-powergel-hydro-multiflavourbox-12x67ml-high-carb-energie-gel-natrium-1899eur-mit-sparabo-moglich-2832996",
+      "ts": 1789861678414
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eureka-new400-kabelloser-nass-trockensauger-2-in-1-saugen-wischen-selbstreinigung-30-min-laufzeit-2828453",
+      "ts": 1789861678414
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/russell-hobbs-wasserkocher-inspire-schwarz-17-l-2400-watt-schnellkochfunktion-prime-2833630",
+      "ts": 1789861678414
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/25-bei-dilling-damen-und-herren-2834511",
+      "ts": 1789861678414
     }
   ]
 }
