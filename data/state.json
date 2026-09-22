@@ -1,17 +1,11 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-return-to-monkey-island-749eur-nintendo-switch-bra-378eur-2834494",
-    "mydealz|https://www.mydealz.de/deals/tallinn-estland-park-inn-by-radisson-hotel-doppelzimmer-49eur-zu-zweit-sep-dez-2834458",
-    "mydealz|https://www.mydealz.de/deals/lokal-67454-hassloch-kaufland-lets-bbq-kugelgrill-fur-unschlagbare-749-2834447",
-    "mydealz|https://www.mydealz.de/deals/bestway-lay-z-spa-energiespar-whirlpool-miami-airjet-fur-4-personen-o-180-x-66-cm-dunkelblau-2824606"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
@@ -44,6 +38,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/25-bei-dilling-damen-und-herren-2834511",
       "ts": 1789861678414
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
+      "ts": 1790116278302
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-return-to-monkey-island-749eur-nintendo-switch-bra-378eur-2834494",
+      "ts": 1790116278302
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tallinn-estland-park-inn-by-radisson-hotel-doppelzimmer-49eur-zu-zweit-sep-dez-2834458",
+      "ts": 1790116278302
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-67454-hassloch-kaufland-lets-bbq-kugelgrill-fur-unschlagbare-749-2834447",
+      "ts": 1790116278302
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bestway-lay-z-spa-energiespar-whirlpool-miami-airjet-fur-4-personen-o-180-x-66-cm-dunkelblau-2824606",
+      "ts": 1790116278302
     }
   ]
 }
