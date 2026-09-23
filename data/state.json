@@ -1,11 +1,18 @@
 {
   "date": "2026-09-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/poco-kitzingen-600-watt-stichsage-von-poco-eigenmarke-3-stuck-verfugbar-nischendeal-2830767",
+    "mydealz|https://www.mydealz.de/deals/prime-bosch-professional-19tlg-hss-spiralbohrer-pointteq-set-2835031",
+    "mydealz|https://www.mydealz.de/deals/bosch-professional-akku-bohrschrauber-gsr-18v-50-2-akkus-20ah-ladegerat-gal-18v-20-zubehor-tasche-fur-12298eur-cdiscount-neukunden-2835132",
+    "mydealz|https://www.mydealz.de/deals/philips-mled-92012-2835272",
+    "mydealz|https://www.mydealz.de/deals/norma-plus-ggf-lokal-450-ml-flasche-werder-tomatenketchup-ketchup-fur-287-eur-pro-liter-2835277",
+    "mydealz|https://www.mydealz.de/deals/wellensteyn-kitzbuhel-damen-wintermantel-s-m-l-2835288"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
