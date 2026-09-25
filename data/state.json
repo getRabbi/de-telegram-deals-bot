@@ -2,10 +2,16 @@
   "date": "2026-09-25",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/joybuy-plus-lattafa-art-of-nature-ii-geschenkset-100ml-edp-20ml-miniflakon-200ml-deo-fur-2151-eur-in-der-app-2835290",
+    "mydealz|https://www.mydealz.de/deals/10eur-gutschein-ab-20eur-personalisiert-per-mail-2835355",
+    "mydealz|https://www.mydealz.de/deals/noita-gog-2824360",
+    "mydealz|https://www.mydealz.de/deals/krakau-polen-3-nachte-im-stylischen-4-plaza-hotel-in-bester-lage-inkl-direktflugen-ab-199eur-pp-sep-okt-2835697",
+    "mydealz|https://www.mydealz.de/deals/veepee-grosser-artemide-designleuchten-sale-zb-tolomeo-reading-floor-29999-eur-statt-355-eur-melampo-39999-eur-statt-539-eur-etc-2835701"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/rose-adventure-cycling-glasses-sportbrille-gro-one-size-2832967",
