@@ -1,11 +1,18 @@
 {
   "date": "2026-09-26",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-allure-homme-edition-blanche-eau-de-parfum-150ml-o-10050ml-fur-88456295eur-parfumo-herrendufte-topliste-platz-20-2835688",
+    "mydealz|https://www.mydealz.de/deals/braeval-21-j-2000-signatory-cask-6393-wb86-glenturret-2006-refill-sherry-butt-cask-543-gordon-macphail-single-malt-scotch-whisky-2835673",
+    "mydealz|https://www.mydealz.de/deals/kaufland-melitta-kaffee-gemahlen-verschiedene-sorten-je-500-g-pg-1-kg-998-eur-499-eur-41-2835686",
+    "mydealz|https://www.mydealz.de/deals/sparabo-ariel-pods-universal-waschmittel-100-waschen-2835659",
+    "mydealz|https://www.mydealz.de/deals/okx-kryptoborse-zahle-usdt-ein-konvertiere-diese-in-usdc-verdiene-einen-bonus-von-8-2836171",
+    "mydealz|https://www.mydealz.de/deals/lego-city-traktor-60498-mit-bauern-minifigur-prime-2836137"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/powerbar-powergel-hydro-multiflavourbox-12x67ml-high-carb-energie-gel-natrium-1899eur-mit-sparabo-moglich-2832996",
