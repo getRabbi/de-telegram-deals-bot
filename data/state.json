@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/soundcore-liberty-4-pro-headset-true-wireless-stereo-tws-in-ear-for-calls-music-sport-everyday-use-usb-type-c-bluetooth-black-2836134",
+    "mydealz|https://www.mydealz.de/deals/ledvance-sammeldeal-5-zb-4er-pack-smarte-e27-led-lampe-edisonform-mit-wifi-1249eur-8er-pack-classic-tunable-white-e27-1499eur-mehr-2836104",
+    "mydealz|https://www.mydealz.de/deals/hailo-d60-standardline-alu-doppelstufenleiter-2x7-stufen-150-kg-arbeitshohe-bis-309-m-9-kg-amazon-prime-2836093",
+    "mydealz|https://www.mydealz.de/deals/nikka-days-blended-japanese-whisky-07l-40-prime-2835992"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
