@@ -1,35 +1,12 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/flaconi-chanel-allure-homme-edition-blanche-eau-de-parfum-150ml-o-10050ml-fur-88456295eur-parfumo-herrendufte-topliste-platz-20-2835688",
-    "mydealz|https://www.mydealz.de/deals/braeval-21-j-2000-signatory-cask-6393-wb86-glenturret-2006-refill-sherry-butt-cask-543-gordon-macphail-single-malt-scotch-whisky-2835673",
-    "mydealz|https://www.mydealz.de/deals/kaufland-melitta-kaffee-gemahlen-verschiedene-sorten-je-500-g-pg-1-kg-998-eur-499-eur-41-2835686",
-    "mydealz|https://www.mydealz.de/deals/sparabo-ariel-pods-universal-waschmittel-100-waschen-2835659",
-    "mydealz|https://www.mydealz.de/deals/okx-kryptoborse-zahle-usdt-ein-konvertiere-diese-in-usdc-verdiene-einen-bonus-von-8-2836171",
-    "mydealz|https://www.mydealz.de/deals/lego-city-traktor-60498-mit-bauern-minifigur-prime-2836137"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/powerbar-powergel-hydro-multiflavourbox-12x67ml-high-carb-energie-gel-natrium-1899eur-mit-sparabo-moglich-2832996",
-      "ts": 1789861678414
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eureka-new400-kabelloser-nass-trockensauger-2-in-1-saugen-wischen-selbstreinigung-30-min-laufzeit-2828453",
-      "ts": 1789861678414
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/russell-hobbs-wasserkocher-inspire-schwarz-17-l-2400-watt-schnellkochfunktion-prime-2833630",
-      "ts": 1789861678414
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/25-bei-dilling-damen-und-herren-2834511",
-      "ts": 1789861678414
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
       "ts": 1790116278302
@@ -93,6 +70,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/veepee-grosser-artemide-designleuchten-sale-zb-tolomeo-reading-floor-29999-eur-statt-355-eur-melampo-39999-eur-statt-539-eur-etc-2835701",
       "ts": 1790377029067
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-allure-homme-edition-blanche-eau-de-parfum-150ml-o-10050ml-fur-88456295eur-parfumo-herrendufte-topliste-platz-20-2835688",
+      "ts": 1790467337702
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/braeval-21-j-2000-signatory-cask-6393-wb86-glenturret-2006-refill-sherry-butt-cask-543-gordon-macphail-single-malt-scotch-whisky-2835673",
+      "ts": 1790467337702
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-melitta-kaffee-gemahlen-verschiedene-sorten-je-500-g-pg-1-kg-998-eur-499-eur-41-2835686",
+      "ts": 1790467337702
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sparabo-ariel-pods-universal-waschmittel-100-waschen-2835659",
+      "ts": 1790467337702
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/okx-kryptoborse-zahle-usdt-ein-konvertiere-diese-in-usdc-verdiene-einen-bonus-von-8-2836171",
+      "ts": 1790467337702
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-city-traktor-60498-mit-bauern-minifigur-prime-2836137",
+      "ts": 1790467337702
     }
   ]
 }
