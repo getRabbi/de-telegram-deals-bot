@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
+    "mydealz|https://www.mydealz.de/deals/flizpay-10-cashback-auf-ikea-guthaben-2836206",
+    "mydealz|https://www.mydealz.de/deals/steelseries-arctis-nova-elite-hi-res-wireless-gaming-headset-amazon-retourenkauf-second-hand-zulassig-neupreis-64999-eur-2837157",
+    "mydealz|https://www.mydealz.de/deals/nike-alpha-force-88-sneaker-in-gr-425-46-2837025"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
