@@ -1,37 +1,12 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
-    "mydealz|https://www.mydealz.de/deals/flizpay-10-cashback-auf-ikea-guthaben-2836206",
-    "mydealz|https://www.mydealz.de/deals/steelseries-arctis-nova-elite-hi-res-wireless-gaming-headset-amazon-retourenkauf-second-hand-zulassig-neupreis-64999-eur-2837157",
-    "mydealz|https://www.mydealz.de/deals/nike-alpha-force-88-sneaker-in-gr-425-46-2837025"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/epic-games-store-pc-kostenlos-astral-ascent-10092026-17092026-2834509",
-      "ts": 1790116278302
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-return-to-monkey-island-749eur-nintendo-switch-bra-378eur-2834494",
-      "ts": 1790116278302
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tallinn-estland-park-inn-by-radisson-hotel-doppelzimmer-49eur-zu-zweit-sep-dez-2834458",
-      "ts": 1790116278302
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-67454-hassloch-kaufland-lets-bbq-kugelgrill-fur-unschlagbare-749-2834447",
-      "ts": 1790116278302
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bestway-lay-z-spa-energiespar-whirlpool-miami-airjet-fur-4-personen-o-180-x-66-cm-dunkelblau-2824606",
-      "ts": 1790116278302
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/poco-kitzingen-600-watt-stichsage-von-poco-eigenmarke-3-stuck-verfugbar-nischendeal-2830767",
       "ts": 1790205587797
@@ -131,6 +106,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/malika-renforce-bettwasche-aus-baumwolle-135200-8080-cm-verschiedene-farben-oekotex-mit-reissverschluss-2836767",
       "ts": 1790634039821
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
+      "ts": 1790729597600
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flizpay-10-cashback-auf-ikea-guthaben-2836206",
+      "ts": 1790729597600
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/steelseries-arctis-nova-elite-hi-res-wireless-gaming-headset-amazon-retourenkauf-second-hand-zulassig-neupreis-64999-eur-2837157",
+      "ts": 1790729597600
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nike-alpha-force-88-sneaker-in-gr-425-46-2837025",
+      "ts": 1790729597600
     }
   ]
 }
