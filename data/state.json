@@ -1,18 +1,11 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/8-eur-lieferando-gutschein-mit-mbw-15-eur-in-der-app-personalisiert-2838043",
-    "mydealz|https://www.mydealz.de/deals/euroshop-bundesweit-soliver-feels-like-summer-edt-30ml-2838036",
-    "mydealz|https://www.mydealz.de/deals/unitree-gd01-bemannter-wandlungsfahiger-mecha-roboter-2837946",
-    "mydealz|https://www.mydealz.de/deals/lego-star-wars-75461-grosse-darth-vader-minifigur-6765eur-mit-topcashbach-gutscheine-250-otto-punkte-5eur-2831515",
-    "mydealz|https://www.mydealz.de/deals/cb-adidas-deutschland-trikot-cropped-2838419",
-    "mydealz|https://www.mydealz.de/deals/ftl-faster-than-light-199eur-strategiespiel-metacritic-84-steam-2838433"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/joybuy-plus-lattafa-art-of-nature-ii-geschenkset-100ml-edp-20ml-miniflakon-200ml-deo-fur-2151-eur-in-der-app-2835290",
@@ -129,6 +122,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/belgien-train-1-monat-fur-3-eur-anstelle-6-eur-2838039",
       "ts": 1790808204351
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/8-eur-lieferando-gutschein-mit-mbw-15-eur-in-der-app-personalisiert-2838043",
+      "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/euroshop-bundesweit-soliver-feels-like-summer-edt-30ml-2838036",
+      "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/unitree-gd01-bemannter-wandlungsfahiger-mecha-roboter-2837946",
+      "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-75461-grosse-darth-vader-minifigur-6765eur-mit-topcashbach-gutscheine-250-otto-punkte-5eur-2831515",
+      "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-adidas-deutschland-trikot-cropped-2838419",
+      "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ftl-faster-than-light-199eur-strategiespiel-metacritic-84-steam-2838433",
+      "ts": 1790980865543
     }
   ]
 }
