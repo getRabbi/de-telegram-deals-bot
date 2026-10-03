@@ -1,37 +1,12 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
-    "mydealz|https://www.mydealz.de/deals/airbaltic-sale-direktfluge-ins-baltikum-riga-vilnius-tallinn-ab-79eur-inkl-ruckflug-von-berlin-hamburg-munchen-uvmaug-mai-2818650",
-    "mydealz|https://www.mydealz.de/deals/corsair-3200d-rs-mid-tower-pc-gehause-smoke-atx-inkl-3x-120mm-pwm-lufter-gpu-stutze-360mm-radiator-support-2838749",
-    "mydealz|https://www.mydealz.de/deals/spielepaket-xxl-2838800"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/joybuy-plus-lattafa-art-of-nature-ii-geschenkset-100ml-edp-20ml-miniflakon-200ml-deo-fur-2151-eur-in-der-app-2835290",
-      "ts": 1790377029067
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10eur-gutschein-ab-20eur-personalisiert-per-mail-2835355",
-      "ts": 1790377029067
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/noita-gog-2824360",
-      "ts": 1790377029067
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/krakau-polen-3-nachte-im-stylischen-4-plaza-hotel-in-bester-lage-inkl-direktflugen-ab-199eur-pp-sep-okt-2835697",
-      "ts": 1790377029067
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/veepee-grosser-artemide-designleuchten-sale-zb-tolomeo-reading-floor-29999-eur-statt-355-eur-melampo-39999-eur-statt-539-eur-etc-2835701",
-      "ts": 1790377029067
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/flaconi-chanel-allure-homme-edition-blanche-eau-de-parfum-150ml-o-10050ml-fur-88456295eur-parfumo-herrendufte-topliste-platz-20-2835688",
       "ts": 1790467337702
@@ -151,6 +126,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ftl-faster-than-light-199eur-strategiespiel-metacritic-84-steam-2838433",
       "ts": 1790980865543
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
+      "ts": 1791066738155
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/airbaltic-sale-direktfluge-ins-baltikum-riga-vilnius-tallinn-ab-79eur-inkl-ruckflug-von-berlin-hamburg-munchen-uvmaug-mai-2818650",
+      "ts": 1791066738155
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/corsair-3200d-rs-mid-tower-pc-gehause-smoke-atx-inkl-3x-120mm-pwm-lufter-gpu-stutze-360mm-radiator-support-2838749",
+      "ts": 1791066738155
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spielepaket-xxl-2838800",
+      "ts": 1791066738155
     }
   ]
 }
