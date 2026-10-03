@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
+    "mydealz|https://www.mydealz.de/deals/airbaltic-sale-direktfluge-ins-baltikum-riga-vilnius-tallinn-ab-79eur-inkl-ruckflug-von-berlin-hamburg-munchen-uvmaug-mai-2818650",
+    "mydealz|https://www.mydealz.de/deals/corsair-3200d-rs-mid-tower-pc-gehause-smoke-atx-inkl-3x-120mm-pwm-lufter-gpu-stutze-360mm-radiator-support-2838749",
+    "mydealz|https://www.mydealz.de/deals/spielepaket-xxl-2838800"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/joybuy-plus-lattafa-art-of-nature-ii-geschenkset-100ml-edp-20ml-miniflakon-200ml-deo-fur-2151-eur-in-der-app-2835290",
