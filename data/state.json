@@ -1,49 +1,12 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/tesa-handabroller-fur-klebebander-inkl-klebeband-fur-499-euro-kaufland-2838799",
-    "mydealz|https://www.mydealz.de/deals/star-trek-deep-space-nine-die-komplette-serie-48-dvds-2838771",
-    "mydealz|https://www.mydealz.de/deals/kindle-liebe-mit-zimt-und-schweden-schwedenromane-mit-herz-1-40-sterne-bei-knapp-800-bewertungen-2841099",
-    "mydealz|https://www.mydealz.de/deals/bauhaus-reduziert-gardol-rasendunger-um-50-auch-gardol-flussigdunger-damit-top-kilopreise-bei-derzeitigen-hohen-dungerkosten-moglich-2841106"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/soundcore-liberty-4-pro-headset-true-wireless-stereo-tws-in-ear-for-calls-music-sport-everyday-use-usb-type-c-bluetooth-black-2836134",
-      "ts": 1790548898700
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ledvance-sammeldeal-5-zb-4er-pack-smarte-e27-led-lampe-edisonform-mit-wifi-1249eur-8er-pack-classic-tunable-white-e27-1499eur-mehr-2836104",
-      "ts": 1790548898700
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/hailo-d60-standardline-alu-doppelstufenleiter-2x7-stufen-150-kg-arbeitshohe-bis-309-m-9-kg-amazon-prime-2836093",
-      "ts": 1790548898700
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nikka-days-blended-japanese-whisky-07l-40-prime-2835992",
-      "ts": 1790548898700
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-drova-forsaken-kin-1624eur-nintendo-switch-chl-1199eur-playstation-store-mit-ps-ps4-ps5-2836779",
-      "ts": 1790634039821
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/roland-cloud-tr-909-beste-drummachine-ever-vst-plugin-2836479",
-      "ts": 1790634039821
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/uno-r3-starter-kit-mit-rfid-schrittmotor-servo-1602-lcd-8x8-led-matrix-ir-fernbedienung-breadboard-ohne-box-alibaba-neukunden-2836694",
-      "ts": 1790634039821
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/malika-renforce-bettwasche-aus-baumwolle-135200-8080-cm-verschiedene-farben-oekotex-mit-reissverschluss-2836767",
-      "ts": 1790634039821
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
       "ts": 1790729597600
@@ -123,6 +86,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/spielepaket-xxl-2838800",
       "ts": 1791066738155
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tesa-handabroller-fur-klebebander-inkl-klebeband-fur-499-euro-kaufland-2838799",
+      "ts": 1791241201879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/star-trek-deep-space-nine-die-komplette-serie-48-dvds-2838771",
+      "ts": 1791241201879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kindle-liebe-mit-zimt-und-schweden-schwedenromane-mit-herz-1-40-sterne-bei-knapp-800-bewertungen-2841099",
+      "ts": 1791241201879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bauhaus-reduziert-gardol-rasendunger-um-50-auch-gardol-flussigdunger-damit-top-kilopreise-bei-derzeitigen-hohen-dungerkosten-moglich-2841106",
+      "ts": 1791241201879
     }
   ]
 }
