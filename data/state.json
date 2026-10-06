@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-monster-hunter-rise-sunbreak-fur-switch-metacritic-8883-sunbreak-599eur-deluxe-1749eur-dlc-2841161",
+    "mydealz|https://www.mydealz.de/deals/proton-vpn-plus-65-oder-unlimited-38-bei-24-monate-danach-dauerhaft-gunstiger-2841119",
+    "mydealz|https://www.mydealz.de/deals/cock-susse-chilisauce-fur-huhn-at-amazon-prime-2841555",
+    "mydealz|https://www.mydealz.de/deals/victorinox-schweizer-taschenmesser-huntsman-multitool-mit-15-funktionen-prime-2841572"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
