@@ -1,33 +1,12 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-monster-hunter-rise-sunbreak-fur-switch-metacritic-8883-sunbreak-599eur-deluxe-1749eur-dlc-2841161",
-    "mydealz|https://www.mydealz.de/deals/proton-vpn-plus-65-oder-unlimited-38-bei-24-monate-danach-dauerhaft-gunstiger-2841119",
-    "mydealz|https://www.mydealz.de/deals/cock-susse-chilisauce-fur-huhn-at-amazon-prime-2841555",
-    "mydealz|https://www.mydealz.de/deals/victorinox-schweizer-taschenmesser-huntsman-multitool-mit-15-funktionen-prime-2841572"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/vodafone-young-gigakombi-xiaomi-17t-pro-1tb-50eur-amazon-im-allnetsms-flat-90gb-5g-fur-2499eurmonat-2995eur-120eur-ohne-younggigakombi-2837159",
-      "ts": 1790729597600
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/flizpay-10-cashback-auf-ikea-guthaben-2836206",
-      "ts": 1790729597600
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/steelseries-arctis-nova-elite-hi-res-wireless-gaming-headset-amazon-retourenkauf-second-hand-zulassig-neupreis-64999-eur-2837157",
-      "ts": 1790729597600
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nike-alpha-force-88-sneaker-in-gr-425-46-2837025",
-      "ts": 1790729597600
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/joybuy-29-eur-rabatt-min-bestellwert-30-eur-fur-ausgewahlte-snacks-2837162",
       "ts": 1790808204351
@@ -107,6 +86,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/bauhaus-reduziert-gardol-rasendunger-um-50-auch-gardol-flussigdunger-damit-top-kilopreise-bei-derzeitigen-hohen-dungerkosten-moglich-2841106",
       "ts": 1791241201879
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-monster-hunter-rise-sunbreak-fur-switch-metacritic-8883-sunbreak-599eur-deluxe-1749eur-dlc-2841161",
+      "ts": 1791335264323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/proton-vpn-plus-65-oder-unlimited-38-bei-24-monate-danach-dauerhaft-gunstiger-2841119",
+      "ts": 1791335264323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cock-susse-chilisauce-fur-huhn-at-amazon-prime-2841555",
+      "ts": 1791335264323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-schweizer-taschenmesser-huntsman-multitool-mit-15-funktionen-prime-2841572",
+      "ts": 1791335264323
     }
   ]
 }
