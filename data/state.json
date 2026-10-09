@@ -1,18 +1,11 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/apple-airpods-max-2-2841574",
-    "mydealz|https://www.mydealz.de/deals/kostenlos-sputnika-game-wird-kostenpflichtig-am-230926-steam-2841575",
-    "mydealz|https://www.mydealz.de/deals/viewsonic-m1xe-tragbarer-dlp-led-beamer-wvga-854480-360-led-lumen-wi-fi-hdmi-usb-c-harman-kardon-akku-24-100-bild-2842311",
-    "mydealz|https://www.mydealz.de/deals/2-fur-990-eur-auf-paulmann-einbaupanele-zb-2x-paulmann-veluna-varifit-led-einbaupanel-215x215-mm-17w-whiteswitch-3-farbtemperaturen-2842680",
-    "mydealz|https://www.mydealz.de/deals/gratis-familien-kochbuch-mit-rezepten-geschichten-und-mitmachseiten-2842691",
-    "mydealz|https://www.mydealz.de/deals/fluge-nach-chiang-mai-thailand-inkl-gepack-inkl-ruckflug-von-frankfurt-mit-air-china-okt-dez-ab-510eur-2842714"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/8-eur-lieferando-gutschein-mit-mbw-15-eur-in-der-app-personalisiert-2838043",
@@ -85,6 +78,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/victorinox-schweizer-taschenmesser-huntsman-multitool-mit-15-funktionen-prime-2841572",
       "ts": 1791335264323
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-airpods-max-2-2841574",
+      "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenlos-sputnika-game-wird-kostenpflichtig-am-230926-steam-2841575",
+      "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/viewsonic-m1xe-tragbarer-dlp-led-beamer-wvga-854480-360-led-lumen-wi-fi-hdmi-usb-c-harman-kardon-akku-24-100-bild-2842311",
+      "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/2-fur-990-eur-auf-paulmann-einbaupanele-zb-2x-paulmann-veluna-varifit-led-einbaupanel-215x215-mm-17w-whiteswitch-3-farbtemperaturen-2842680",
+      "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-familien-kochbuch-mit-rezepten-geschichten-und-mitmachseiten-2842691",
+      "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-chiang-mai-thailand-inkl-gepack-inkl-ruckflug-von-frankfurt-mit-air-china-okt-dez-ab-510eur-2842714",
+      "ts": 1791506949794
     }
   ]
 }
