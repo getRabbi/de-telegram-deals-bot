@@ -1,43 +1,12 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/wizz-air-fluge-ab-40-eur-fur-hin-ruckflug-z-b-nach-skopje-tuzla-bukarest-tirana-2842679",
-    "mydealz|https://www.mydealz.de/deals/282eur-pramie-fur-postbank-giro-pur-60-eur-pramie-von-spartanien-fur-die-reine-kontoeroffnung-222-eur-pramie-von-der-postbank-2843115",
-    "mydealz|https://www.mydealz.de/gutscheine/vfb-stuttgart-onlineshop-10-eur-rabatt-2843083",
-    "mydealz|https://www.mydealz.de/deals/pantasy-sherlock-holmes-baker-street-221b-apartment-aus-3087-gobricks-klemmbausteinen-2843048",
-    "mydealz|https://www.mydealz.de/deals/old-spice-captain-geschenkset-mit-kulturbeutel-deostick-deospray-duschgel-fur-1187-eur-im-spar-abo-statt-1752-eur-amazon-prime-2842429",
-    "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-playstation-5-playstation-store-2842982"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/8-eur-lieferando-gutschein-mit-mbw-15-eur-in-der-app-personalisiert-2838043",
-      "ts": 1790980865543
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/euroshop-bundesweit-soliver-feels-like-summer-edt-30ml-2838036",
-      "ts": 1790980865543
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/unitree-gd01-bemannter-wandlungsfahiger-mecha-roboter-2837946",
-      "ts": 1790980865543
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-75461-grosse-darth-vader-minifigur-6765eur-mit-topcashbach-gutscheine-250-otto-punkte-5eur-2831515",
-      "ts": 1790980865543
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-adidas-deutschland-trikot-cropped-2838419",
-      "ts": 1790980865543
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ftl-faster-than-light-199eur-strategiespiel-metacritic-84-steam-2838433",
-      "ts": 1790980865543
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
       "ts": 1791066738155
@@ -109,6 +78,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-chiang-mai-thailand-inkl-gepack-inkl-ruckflug-von-frankfurt-mit-air-china-okt-dez-ab-510eur-2842714",
       "ts": 1791506949794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wizz-air-fluge-ab-40-eur-fur-hin-ruckflug-z-b-nach-skopje-tuzla-bukarest-tirana-2842679",
+      "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/282eur-pramie-fur-postbank-giro-pur-60-eur-pramie-von-spartanien-fur-die-reine-kontoeroffnung-222-eur-pramie-von-der-postbank-2843115",
+      "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/vfb-stuttgart-onlineshop-10-eur-rabatt-2843083",
+      "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pantasy-sherlock-holmes-baker-street-221b-apartment-aus-3087-gobricks-klemmbausteinen-2843048",
+      "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/old-spice-captain-geschenkset-mit-kulturbeutel-deostick-deospray-duschgel-fur-1187-eur-im-spar-abo-statt-1752-eur-amazon-prime-2842429",
+      "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-playstation-5-playstation-store-2842982",
+      "ts": 1791589304088
     }
   ]
 }
