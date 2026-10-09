@@ -1,11 +1,18 @@
 {
   "date": "2026-10-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/wizz-air-fluge-ab-40-eur-fur-hin-ruckflug-z-b-nach-skopje-tuzla-bukarest-tirana-2842679",
+    "mydealz|https://www.mydealz.de/deals/282eur-pramie-fur-postbank-giro-pur-60-eur-pramie-von-spartanien-fur-die-reine-kontoeroffnung-222-eur-pramie-von-der-postbank-2843115",
+    "mydealz|https://www.mydealz.de/gutscheine/vfb-stuttgart-onlineshop-10-eur-rabatt-2843083",
+    "mydealz|https://www.mydealz.de/deals/pantasy-sherlock-holmes-baker-street-221b-apartment-aus-3087-gobricks-klemmbausteinen-2843048",
+    "mydealz|https://www.mydealz.de/deals/old-spice-captain-geschenkset-mit-kulturbeutel-deostick-deospray-duschgel-fur-1187-eur-im-spar-abo-statt-1752-eur-amazon-prime-2842429",
+    "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-playstation-5-playstation-store-2842982"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/8-eur-lieferando-gutschein-mit-mbw-15-eur-in-der-app-personalisiert-2838043",
