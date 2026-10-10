@@ -3,14 +3,18 @@
   "slots": {
     "morning": false,
     "noon": true,
-    "evening": false
+    "evening": true
   },
   "postedKeys": [
     "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
     "mydealz|https://www.mydealz.de/deals/amazon-sparabo-rauch-eistee-pfirsich-erfrischendes-getrank-12x-330ml-dosen-pfandfehler-dadurch-preisfehler-effektiv-578eur-2837852",
     "mydealz|https://www.mydealz.de/deals/frosta-fertiggerichte-bei-netto-marken-discount-2843820",
     "mydealz|https://www.mydealz.de/deals/brutal-legend-gog-double-fine-2843917",
-    "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090"
+    "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090",
+    "mydealz|https://www.mydealz.de/deals/castlevania-anniversary-collection-399eur-advance-collection-599eur-dominus-collection-1249eur-nintendo-switch-eshop-ps4-2844074",
+    "mydealz|https://www.mydealz.de/deals/cloudfest-2027-europapark-kostenlose-tickets-2844353",
+    "mydealz|https://www.mydealz.de/deals/anker-solix-s2000-tragbare-powerstation-vorverkauf-zum-early-bird-preis-2844364",
+    "mydealz|https://www.mydealz.de/deals/sb-luning-app-neukunden-ab-0510-pokemon-erste-partner-kollektion-verschausfuhrungen-fur-13eur-erhabene-helden-megaentwicklung-fur-2499eur-2844340"
   ],
   "postedHistory": [
     {
