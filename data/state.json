@@ -2,10 +2,16 @@
   "date": "2026-10-10",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
+    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-rauch-eistee-pfirsich-erfrischendes-getrank-12x-330ml-dosen-pfandfehler-dadurch-preisfehler-effektiv-578eur-2837852",
+    "mydealz|https://www.mydealz.de/deals/frosta-fertiggerichte-bei-netto-marken-discount-2843820",
+    "mydealz|https://www.mydealz.de/deals/brutal-legend-gog-double-fine-2843917",
+    "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
