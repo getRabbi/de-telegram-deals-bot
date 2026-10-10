@@ -1,38 +1,12 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
-    "mydealz|https://www.mydealz.de/deals/amazon-sparabo-rauch-eistee-pfirsich-erfrischendes-getrank-12x-330ml-dosen-pfandfehler-dadurch-preisfehler-effektiv-578eur-2837852",
-    "mydealz|https://www.mydealz.de/deals/frosta-fertiggerichte-bei-netto-marken-discount-2843820",
-    "mydealz|https://www.mydealz.de/deals/brutal-legend-gog-double-fine-2843917",
-    "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090",
-    "mydealz|https://www.mydealz.de/deals/castlevania-anniversary-collection-399eur-advance-collection-599eur-dominus-collection-1249eur-nintendo-switch-eshop-ps4-2844074",
-    "mydealz|https://www.mydealz.de/deals/cloudfest-2027-europapark-kostenlose-tickets-2844353",
-    "mydealz|https://www.mydealz.de/deals/anker-solix-s2000-tragbare-powerstation-vorverkauf-zum-early-bird-preis-2844364",
-    "mydealz|https://www.mydealz.de/deals/sb-luning-app-neukunden-ab-0510-pokemon-erste-partner-kollektion-verschausfuhrungen-fur-13eur-erhabene-helden-megaentwicklung-fur-2499eur-2844340"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/norma-hela-gewurzketchup-800-ml-2838398",
-      "ts": 1791066738155
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/airbaltic-sale-direktfluge-ins-baltikum-riga-vilnius-tallinn-ab-79eur-inkl-ruckflug-von-berlin-hamburg-munchen-uvmaug-mai-2818650",
-      "ts": 1791066738155
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/corsair-3200d-rs-mid-tower-pc-gehause-smoke-atx-inkl-3x-120mm-pwm-lufter-gpu-stutze-360mm-radiator-support-2838749",
-      "ts": 1791066738155
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/spielepaket-xxl-2838800",
-      "ts": 1791066738155
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/tesa-handabroller-fur-klebebander-inkl-klebeband-fur-499-euro-kaufland-2838799",
       "ts": 1791241201879
@@ -112,6 +86,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-playstation-5-playstation-store-2842982",
       "ts": 1791589304088
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-rauch-eistee-pfirsich-erfrischendes-getrank-12x-330ml-dosen-pfandfehler-dadurch-preisfehler-effektiv-578eur-2837852",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/frosta-fertiggerichte-bei-netto-marken-discount-2843820",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brutal-legend-gog-double-fine-2843917",
+      "ts": 1791676678331
+    },
+    {
+      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/castlevania-anniversary-collection-399eur-advance-collection-599eur-dominus-collection-1249eur-nintendo-switch-eshop-ps4-2844074",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cloudfest-2027-europapark-kostenlose-tickets-2844353",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/anker-solix-s2000-tragbare-powerstation-vorverkauf-zum-early-bird-preis-2844364",
+      "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sb-luning-app-neukunden-ab-0510-pokemon-erste-partner-kollektion-verschausfuhrungen-fur-13eur-erhabene-helden-megaentwicklung-fur-2499eur-2844340",
+      "ts": 1791676678331
     }
   ]
 }
