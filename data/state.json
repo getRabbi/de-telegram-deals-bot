@@ -1,39 +1,12 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-controller-weiss-2844305",
-    "rossmann|https://www.mydealz.de/deals/rossmann-lokal-lego-editions-43013-kylian-mbappe-mit-10-app-coupon-2844336",
-    "mydealz|https://www.mydealz.de/deals/adidas-campus-00s-jh8790-preloved-ruby-fur-4399-eur-inkl-versand-4199-eur-als-snipes-club-member-2844253",
-    "mydealz|https://www.mydealz.de/deals/google-pixel-11-pro-smartphone-ohne-sim-lock-obsidian-256gb-2844801",
-    "mydealz|https://www.mydealz.de/deals/tefal-jamie-oliver-cooks-direct-on-wokpfanne-28-cm-e3041934-2844790",
-    "mydealz|https://www.mydealz.de/deals/the-north-face-quest-jacket-black-regenjacke-xs-bis-2xl-neukunden-20-2844798",
-    "mydealz|https://www.mydealz.de/deals/96er-pack-philips-ultra-alkali-batterien-kombipack-aa-aaa-fur-1973eur-prime-ca-021eur-pro-batterie-2844683",
-    "mydealz|https://www.mydealz.de/deals/shoop-freunde-werben-freunde-aktion-kwk-30eur-pramie-fur-werber-20eur-bonus-fur-geworbenen-2820261",
-    "mydealz|https://www.mydealz.de/deals/check24shoop-30eur-cashback-auf-valide-strom-und-gasvertragsabschlusse-2819759",
-    "mydealz|https://www.mydealz.de/deals/prime-iniu-ultra-mini-powerbank-10000mah-45w-schnellladen-mit-usb-c-kabel-flugtauglich-reise-essential-angebrachtem-usb-c-kabel-2845010"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tesa-handabroller-fur-klebebander-inkl-klebeband-fur-499-euro-kaufland-2838799",
-      "ts": 1791241201879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/star-trek-deep-space-nine-die-komplette-serie-48-dvds-2838771",
-      "ts": 1791241201879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kindle-liebe-mit-zimt-und-schweden-schwedenromane-mit-herz-1-40-sterne-bei-knapp-800-bewertungen-2841099",
-      "ts": 1791241201879
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bauhaus-reduziert-gardol-rasendunger-um-50-auch-gardol-flussigdunger-damit-top-kilopreise-bei-derzeitigen-hohen-dungerkosten-moglich-2841106",
-      "ts": 1791241201879
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-monster-hunter-rise-sunbreak-fur-switch-metacritic-8883-sunbreak-599eur-deluxe-1749eur-dlc-2841161",
       "ts": 1791335264323
@@ -133,6 +106,46 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/sb-luning-app-neukunden-ab-0510-pokemon-erste-partner-kollektion-verschausfuhrungen-fur-13eur-erhabene-helden-megaentwicklung-fur-2499eur-2844340",
       "ts": 1791676678331
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-controller-weiss-2844305",
+      "ts": 1791847279719
+    },
+    {
+      "key": "rossmann|https://www.mydealz.de/deals/rossmann-lokal-lego-editions-43013-kylian-mbappe-mit-10-app-coupon-2844336",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-campus-00s-jh8790-preloved-ruby-fur-4399-eur-inkl-versand-4199-eur-als-snipes-club-member-2844253",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-11-pro-smartphone-ohne-sim-lock-obsidian-256gb-2844801",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tefal-jamie-oliver-cooks-direct-on-wokpfanne-28-cm-e3041934-2844790",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-quest-jacket-black-regenjacke-xs-bis-2xl-neukunden-20-2844798",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/96er-pack-philips-ultra-alkali-batterien-kombipack-aa-aaa-fur-1973eur-prime-ca-021eur-pro-batterie-2844683",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shoop-freunde-werben-freunde-aktion-kwk-30eur-pramie-fur-werber-20eur-bonus-fur-geworbenen-2820261",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/check24shoop-30eur-cashback-auf-valide-strom-und-gasvertragsabschlusse-2819759",
+      "ts": 1791847279719
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-iniu-ultra-mini-powerbank-10000mah-45w-schnellladen-mit-usb-c-kabel-flugtauglich-reise-essential-angebrachtem-usb-c-kabel-2845010",
+      "ts": 1791847279719
     }
   ]
 }
