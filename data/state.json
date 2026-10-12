@@ -1,11 +1,18 @@
 {
   "date": "2026-10-12",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-controller-weiss-2844305",
+    "rossmann|https://www.mydealz.de/deals/rossmann-lokal-lego-editions-43013-kylian-mbappe-mit-10-app-coupon-2844336",
+    "mydealz|https://www.mydealz.de/deals/adidas-campus-00s-jh8790-preloved-ruby-fur-4399-eur-inkl-versand-4199-eur-als-snipes-club-member-2844253",
+    "mydealz|https://www.mydealz.de/deals/google-pixel-11-pro-smartphone-ohne-sim-lock-obsidian-256gb-2844801",
+    "mydealz|https://www.mydealz.de/deals/tefal-jamie-oliver-cooks-direct-on-wokpfanne-28-cm-e3041934-2844790",
+    "mydealz|https://www.mydealz.de/deals/the-north-face-quest-jacket-black-regenjacke-xs-bis-2xl-neukunden-20-2844798"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/tesa-handabroller-fur-klebebander-inkl-klebeband-fur-499-euro-kaufland-2838799",
