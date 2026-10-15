@@ -1,11 +1,18 @@
 {
   "date": "2026-10-15",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
+    "mydealz|https://www.mydealz.de/deals/casaria-bierzeltgarnitur-170cm-3teilig-2x-bierbank-1x-tisch-fur-7690eur-deubaxxl-2845707",
+    "mydealz|https://www.mydealz.de/deals/amazon-15-rabatt-auf-hm-geschenkgutscheine-z-b-50-eur-fur-4250-eur-2845768",
+    "mydealz|https://www.mydealz.de/deals/nikon-z6iii-kit-z-24-200mm-14-63vr-2845434",
+    "mydealz|https://www.mydealz.de/deals/terminator-1984-terminator-2-tag-der-abrechnung-4k-blu-ray-dt-ton-je-1867eur-at-fnac-eventuell-zusammen-bestellen-2845686",
+    "mydealz|https://www.mydealz.de/deals/10-sofort-cashback-uber-eats-via-shoop-essen-lieferservice-2845334"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/apple-airpods-max-2-2841574",
