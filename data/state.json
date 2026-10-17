@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,30 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wizz-air-fluge-ab-40-eur-fur-hin-ruckflug-z-b-nach-skopje-tuzla-bukarest-tirana-2842679",
-      "ts": 1791589304088
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/282eur-pramie-fur-postbank-giro-pur-60-eur-pramie-von-spartanien-fur-die-reine-kontoeroffnung-222-eur-pramie-von-der-postbank-2843115",
-      "ts": 1791589304088
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/vfb-stuttgart-onlineshop-10-eur-rabatt-2843083",
-      "ts": 1791589304088
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pantasy-sherlock-holmes-baker-street-221b-apartment-aus-3087-gobricks-klemmbausteinen-2843048",
-      "ts": 1791589304088
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/old-spice-captain-geschenkset-mit-kulturbeutel-deostick-deospray-duschgel-fur-1187-eur-im-spar-abo-statt-1752-eur-amazon-prime-2842429",
-      "ts": 1791589304088
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/halo-campaign-evolved-playstation-5-playstation-store-2842982",
-      "ts": 1791589304088
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
       "ts": 1791676678331
