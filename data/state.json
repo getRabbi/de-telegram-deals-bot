@@ -1,53 +1,12 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
-    "mydealz|https://www.mydealz.de/deals/eff-277eur-lg-ultragear-27gx704a-b-gx7-qhd-oled-gaming-monitor-240-hz-true-black-400-50eur-visa-guthaben-fur-bewertung-5-payback-2845968",
-    "mydealz|https://www.mydealz.de/deals/sharkoon-v1000-rgb-micro-tower-pc-gehause-micro-atx-3x-120mm-rgbled-lufter-vorinstalliert-mesh-front-glas-seitenteil-2820995",
-    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-faltbares-picknick-messer-11-cm-schwarz-prime-2846018"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-sparabo-rauch-eistee-pfirsich-erfrischendes-getrank-12x-330ml-dosen-pfandfehler-dadurch-preisfehler-effektiv-578eur-2837852",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/frosta-fertiggerichte-bei-netto-marken-discount-2843820",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brutal-legend-gog-double-fine-2843917",
-      "ts": 1791676678331
-    },
-    {
-      "key": "aldi|https://www.mydealz.de/deals/aldi-sud-chipsfrisch-funny-frisch-verschiedene-sorten-150-g-fur-089-eur-2844090",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/castlevania-anniversary-collection-399eur-advance-collection-599eur-dominus-collection-1249eur-nintendo-switch-eshop-ps4-2844074",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cloudfest-2027-europapark-kostenlose-tickets-2844353",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/anker-solix-s2000-tragbare-powerstation-vorverkauf-zum-early-bird-preis-2844364",
-      "ts": 1791676678331
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sb-luning-app-neukunden-ab-0510-pokemon-erste-partner-kollektion-verschausfuhrungen-fur-13eur-erhabene-helden-megaentwicklung-fur-2499eur-2844340",
-      "ts": 1791676678331
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-controller-weiss-2844305",
       "ts": 1791847279719
@@ -111,6 +70,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/10-sofort-cashback-uber-eats-via-shoop-essen-lieferservice-2845334",
       "ts": 1792106718099
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
+      "ts": 1792360959020
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/eff-277eur-lg-ultragear-27gx704a-b-gx7-qhd-oled-gaming-monitor-240-hz-true-black-400-50eur-visa-guthaben-fur-bewertung-5-payback-2845968",
+      "ts": 1792360959020
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sharkoon-v1000-rgb-micro-tower-pc-gehause-micro-atx-3x-120mm-rgbled-lufter-vorinstalliert-mesh-front-glas-seitenteil-2820995",
+      "ts": 1792360959020
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-faltbares-picknick-messer-11-cm-schwarz-prime-2846018",
+      "ts": 1792360959020
     }
   ]
 }
