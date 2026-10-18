@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
+    "mydealz|https://www.mydealz.de/deals/eff-277eur-lg-ultragear-27gx704a-b-gx7-qhd-oled-gaming-monitor-240-hz-true-black-400-50eur-visa-guthaben-fur-bewertung-5-payback-2845968",
+    "mydealz|https://www.mydealz.de/deals/sharkoon-v1000-rgb-micro-tower-pc-gehause-micro-atx-3x-120mm-rgbled-lufter-vorinstalliert-mesh-front-glas-seitenteil-2820995",
+    "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-faltbares-picknick-messer-11-cm-schwarz-prime-2846018"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/aktueller-bestpreis-clear-whey-fur-2124-eurkg-2843033",
