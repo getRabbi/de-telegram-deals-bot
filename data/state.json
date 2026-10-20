@@ -1,17 +1,11 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
-    "mydealz|https://www.mydealz.de/deals/yapi-kredi-bank-375-pa-festgeld-2-jahre-ab-1000eur-380-3-jahredeutsche-einlagensicherung-2847367",
-    "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-bis-zu-15-cashback-kaffee-festival-25-rabatt-auf-die-kategorie-kaffee-2843214",
-    "mydealz|https://www.mydealz.de/deals/insta360-x6-360-standard-bundle-black-neu-aliexpress-2846593",
-    "mydealz|https://www.mydealz.de/deals/willbe-festgeld-367-pa-zinsen-laufzeit-2-jahre-aaa-einlagensicherung-liechtenstein-anlagebetrag-bis-zu-ca-265000eur-2846710"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
@@ -52,6 +46,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-faltbares-picknick-messer-11-cm-schwarz-prime-2846018",
       "ts": 1792360959020
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
+      "ts": 1792536528679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/yapi-kredi-bank-375-pa-festgeld-2-jahre-ab-1000eur-380-3-jahredeutsche-einlagensicherung-2847367",
+      "ts": 1792536528679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-bis-zu-15-cashback-kaffee-festival-25-rabatt-auf-die-kategorie-kaffee-2843214",
+      "ts": 1792536528679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/insta360-x6-360-standard-bundle-black-neu-aliexpress-2846593",
+      "ts": 1792536528679
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/willbe-festgeld-367-pa-zinsen-laufzeit-2-jahre-aaa-einlagensicherung-liechtenstein-anlagebetrag-bis-zu-ca-265000eur-2846710",
+      "ts": 1792536528679
     }
   ]
 }
