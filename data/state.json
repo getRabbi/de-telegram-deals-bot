@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,46 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playstation-5-dualsense-controller-weiss-2844305",
-      "ts": 1791847279719
-    },
-    {
-      "key": "rossmann|https://www.mydealz.de/deals/rossmann-lokal-lego-editions-43013-kylian-mbappe-mit-10-app-coupon-2844336",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/adidas-campus-00s-jh8790-preloved-ruby-fur-4399-eur-inkl-versand-4199-eur-als-snipes-club-member-2844253",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/google-pixel-11-pro-smartphone-ohne-sim-lock-obsidian-256gb-2844801",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tefal-jamie-oliver-cooks-direct-on-wokpfanne-28-cm-e3041934-2844790",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/the-north-face-quest-jacket-black-regenjacke-xs-bis-2xl-neukunden-20-2844798",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/96er-pack-philips-ultra-alkali-batterien-kombipack-aa-aaa-fur-1973eur-prime-ca-021eur-pro-batterie-2844683",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/shoop-freunde-werben-freunde-aktion-kwk-30eur-pramie-fur-werber-20eur-bonus-fur-geworbenen-2820261",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/check24shoop-30eur-cashback-auf-valide-strom-und-gasvertragsabschlusse-2819759",
-      "ts": 1791847279719
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-iniu-ultra-mini-powerbank-10000mah-45w-schnellladen-mit-usb-c-kabel-flugtauglich-reise-essential-angebrachtem-usb-c-kabel-2845010",
-      "ts": 1791847279719
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
       "ts": 1792106718099
