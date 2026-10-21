@@ -1,11 +1,18 @@
 {
   "date": "2026-10-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/ford-kuga-st-line186psautomatik5-jahre-garantiepanoramaschiebedach19kameranaviin-schwarz-oder-graueu-neufahreug-mit-tz-2847350",
+    "mydealz|https://www.mydealz.de/deals/funnel-runners-bestpreis-auf-steam-2847028",
+    "mydealz|https://www.mydealz.de/deals/wellness-auszeit-in-zell-am-see-2-nachte-im-4-hotel-mit-fruhstuck-wellnessbereich-tolle-extras-sep-nov-2816808",
+    "mydealz|https://www.mydealz.de/deals/prime-dr-oetker-original-backin-10-x-3er-pack-backpulver-je-tute-16-g-2847876",
+    "mydealz|https://www.mydealz.de/deals/klipsch-r-100sw-aktiver-subwoofer-mit-150-w-rms-300-w-spitze-2847952",
+    "mydealz|https://www.mydealz.de/deals/fresubin-jetzt-probierpaket-trinknahrung-kostenlos-und-unverbindlich-anfordern-2847938"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
