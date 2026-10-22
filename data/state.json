@@ -1,17 +1,11 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/wera-ratschenschraubendreher-816-ra-14-zoll-x-1420-mm-05051461001-2848951",
-    "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7430-vdsladsl2-wlan-n-450-mbits-24-ghz-tk-anlage-voice-over-ip-mit-dect-basis-mediaserver-generaluberholt-2833989",
-    "mydealz|https://www.mydealz.de/deals/wera-838-ra-r-m-bits-handhalter-mit-ratschenfunktion-14-prime-2848961",
-    "mydealz|https://www.mydealz.de/deals/amazon-joybuy-plus-osmos-die-drei-detektivkoffer-630553-detektiv-spielzeug-set-fur-kinder-ab-8-jahre-2848946",
-    "mydealz|https://www.mydealz.de/gutscheine/die-besten-saug-und-wischroboter-deals-im-prime-day-dreame-roborock-ecovacs-xiaomi-uvm-2850227"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
@@ -96,6 +90,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/fresubin-jetzt-probierpaket-trinknahrung-kostenlos-und-unverbindlich-anfordern-2847938",
       "ts": 1792628316794
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wera-ratschenschraubendreher-816-ra-14-zoll-x-1420-mm-05051461001-2848951",
+      "ts": 1792709505899
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7430-vdsladsl2-wlan-n-450-mbits-24-ghz-tk-anlage-voice-over-ip-mit-dect-basis-mediaserver-generaluberholt-2833989",
+      "ts": 1792709505899
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wera-838-ra-r-m-bits-handhalter-mit-ratschenfunktion-14-prime-2848961",
+      "ts": 1792709505899
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-joybuy-plus-osmos-die-drei-detektivkoffer-630553-detektiv-spielzeug-set-fur-kinder-ab-8-jahre-2848946",
+      "ts": 1792709505899
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/gutscheine/die-besten-saug-und-wischroboter-deals-im-prime-day-dreame-roborock-ecovacs-xiaomi-uvm-2850227",
+      "ts": 1792709505899
     }
   ]
 }
