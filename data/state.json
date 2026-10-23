@@ -1,11 +1,18 @@
 {
   "date": "2026-10-23",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/amazon-prime-intel-core-ultra-5-250kf-plus-cpu-boxed-6p12e18t-420-530ghz-2850207",
+    "mydealz|https://www.mydealz.de/deals/edeka-nord-evtl-weitere-regionen-gratis-coca-cola-cola-zero-05l-ohne-mbw-coupon-kostenlos-2850248",
+    "mydealz|https://www.mydealz.de/deals/prime-sony-gp-vpt3-bluetooth-aufnahmegriff-stativ-ideal-fur-vlogging-content-creation-selfies-stabile-videoaufnahmen-2850216",
+    "mydealz|https://www.mydealz.de/deals/agypten-kairo-hurghada-7-13-nachte-agypten-inkl-flugen-4-hotels-besuch-der-pyramiden-der-sphinx-des-grand-egyptian-museum-dez-2819645",
+    "mydealz|https://www.mydealz.de/deals/telekom-magentazuhause-l-100-mbits-dsl-magentatv-megastream-fur-eff-4120eur-mtl-i-630eur-boni-i-ua-mit-disney-netflix-rtl-premium-2851165",
+    "mydealz|https://www.mydealz.de/deals/sparabo-messmer-glut-der-drachen-zauber-der-zwerge-je-18-teebeutel-2851149"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
