@@ -1,43 +1,12 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/amazon-prime-intel-core-ultra-5-250kf-plus-cpu-boxed-6p12e18t-420-530ghz-2850207",
-    "mydealz|https://www.mydealz.de/deals/edeka-nord-evtl-weitere-regionen-gratis-coca-cola-cola-zero-05l-ohne-mbw-coupon-kostenlos-2850248",
-    "mydealz|https://www.mydealz.de/deals/prime-sony-gp-vpt3-bluetooth-aufnahmegriff-stativ-ideal-fur-vlogging-content-creation-selfies-stabile-videoaufnahmen-2850216",
-    "mydealz|https://www.mydealz.de/deals/agypten-kairo-hurghada-7-13-nachte-agypten-inkl-flugen-4-hotels-besuch-der-pyramiden-der-sphinx-des-grand-egyptian-museum-dez-2819645",
-    "mydealz|https://www.mydealz.de/deals/telekom-magentazuhause-l-100-mbits-dsl-magentatv-megastream-fur-eff-4120eur-mtl-i-630eur-boni-i-ua-mit-disney-netflix-rtl-premium-2851165",
-    "mydealz|https://www.mydealz.de/deals/sparabo-messmer-glut-der-drachen-zauber-der-zwerge-je-18-teebeutel-2851149"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/verivox-shoop-100eur-shoop-cashback-fur-den-validen-abschluss-einer-wohngebaudeversicherung-2840089",
-      "ts": 1792106718099
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/casaria-bierzeltgarnitur-170cm-3teilig-2x-bierbank-1x-tisch-fur-7690eur-deubaxxl-2845707",
-      "ts": 1792106718099
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-15-rabatt-auf-hm-geschenkgutscheine-z-b-50-eur-fur-4250-eur-2845768",
-      "ts": 1792106718099
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nikon-z6iii-kit-z-24-200mm-14-63vr-2845434",
-      "ts": 1792106718099
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/terminator-1984-terminator-2-tag-der-abrechnung-4k-blu-ray-dt-ton-je-1867eur-at-fnac-eventuell-zusammen-bestellen-2845686",
-      "ts": 1792106718099
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/10-sofort-cashback-uber-eats-via-shoop-essen-lieferservice-2845334",
-      "ts": 1792106718099
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
       "ts": 1792360959020
@@ -117,6 +86,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/gutscheine/die-besten-saug-und-wischroboter-deals-im-prime-day-dreame-roborock-ecovacs-xiaomi-uvm-2850227",
       "ts": 1792709505899
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-intel-core-ultra-5-250kf-plus-cpu-boxed-6p12e18t-420-530ghz-2850207",
+      "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/edeka-nord-evtl-weitere-regionen-gratis-coca-cola-cola-zero-05l-ohne-mbw-coupon-kostenlos-2850248",
+      "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-sony-gp-vpt3-bluetooth-aufnahmegriff-stativ-ideal-fur-vlogging-content-creation-selfies-stabile-videoaufnahmen-2850216",
+      "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/agypten-kairo-hurghada-7-13-nachte-agypten-inkl-flugen-4-hotels-besuch-der-pyramiden-der-sphinx-des-grand-egyptian-museum-dez-2819645",
+      "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/telekom-magentazuhause-l-100-mbits-dsl-magentatv-megastream-fur-eff-4120eur-mtl-i-630eur-boni-i-ua-mit-disney-netflix-rtl-premium-2851165",
+      "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sparabo-messmer-glut-der-drachen-zauber-der-zwerge-je-18-teebeutel-2851149",
+      "ts": 1792798780746
     }
   ]
 }
