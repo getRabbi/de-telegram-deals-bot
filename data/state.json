@@ -1,16 +1,11 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
-    "mydealz|https://www.mydealz.de/deals/nanoleaf-shop-angebote-15x-rgbw-hexagon-shapes-starter-kit-mit-wlan-16-mio-farben-12150eur-permanent-outdoor-lights-15m-9999eur-2851217",
-    "mydealz|https://www.mydealz.de/deals/kurzurlaub-fur-2-1-2-nachte-je-nach-hotel-inkl-fruhstuck-fur-99eur-hotelgutschein-fur-deutschland-europa-gedenkmunze-gedenkpragung-2843932",
-    "mydealz|https://www.mydealz.de/deals/emke-badheizkorper-gerade-1000-x-500-mm-handtuchheizkorper-mit-mittelanschluss-weiss-427-w-2842340"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
@@ -115,6 +110,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/sparabo-messmer-glut-der-drachen-zauber-der-zwerge-je-18-teebeutel-2851149",
       "ts": 1792798780746
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
+      "ts": 1792879590658
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nanoleaf-shop-angebote-15x-rgbw-hexagon-shapes-starter-kit-mit-wlan-16-mio-farben-12150eur-permanent-outdoor-lights-15m-9999eur-2851217",
+      "ts": 1792879590658
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kurzurlaub-fur-2-1-2-nachte-je-nach-hotel-inkl-fruhstuck-fur-99eur-hotelgutschein-fur-deutschland-europa-gedenkmunze-gedenkpragung-2843932",
+      "ts": 1792879590658
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/emke-badheizkorper-gerade-1000-x-500-mm-handtuchheizkorper-mit-mittelanschluss-weiss-427-w-2842340",
+      "ts": 1792879590658
     }
   ]
 }
