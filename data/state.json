@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
+    "mydealz|https://www.mydealz.de/deals/nanoleaf-shop-angebote-15x-rgbw-hexagon-shapes-starter-kit-mit-wlan-16-mio-farben-12150eur-permanent-outdoor-lights-15m-9999eur-2851217",
+    "mydealz|https://www.mydealz.de/deals/kurzurlaub-fur-2-1-2-nachte-je-nach-hotel-inkl-fruhstuck-fur-99eur-hotelgutschein-fur-deutschland-europa-gedenkmunze-gedenkpragung-2843932",
+    "mydealz|https://www.mydealz.de/deals/emke-badheizkorper-gerade-1000-x-500-mm-handtuchheizkorper-mit-mittelanschluss-weiss-427-w-2842340"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
