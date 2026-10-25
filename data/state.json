@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
+    "mydealz|https://www.mydealz.de/deals/wd-elements-desktop-10-tb-sata-35-externe-festplatte-hdd-micro-usb-auf-usb-a-kabel-2851776",
+    "mydealz|https://www.mydealz.de/deals/cb-deal-adidas-deutschland-2026-heimtrikot-gratis-spielerflock-xs-4xl-effektiv-3280eur-adiclub-mitglied-2851768",
+    "mydealz|https://www.mydealz.de/deals/gratis-schnittmuster-im-oktober-cardigan-violet-gr-36-48-direktlink-im-dealtext-2851700"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
