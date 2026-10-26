@@ -1,33 +1,12 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
-    "mydealz|https://www.mydealz.de/deals/wd-elements-desktop-10-tb-sata-35-externe-festplatte-hdd-micro-usb-auf-usb-a-kabel-2851776",
-    "mydealz|https://www.mydealz.de/deals/cb-deal-adidas-deutschland-2026-heimtrikot-gratis-spielerflock-xs-4xl-effektiv-3280eur-adiclub-mitglied-2851768",
-    "mydealz|https://www.mydealz.de/deals/gratis-schnittmuster-im-oktober-cardigan-violet-gr-36-48-direktlink-im-dealtext-2851700"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/corporate-benefits-fur-uns-onlineshop-kaffeevollautomat-eq700-integral-edelstahl-2845999",
-      "ts": 1792360959020
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/eff-277eur-lg-ultragear-27gx704a-b-gx7-qhd-oled-gaming-monitor-240-hz-true-black-400-50eur-visa-guthaben-fur-bewertung-5-payback-2845968",
-      "ts": 1792360959020
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sharkoon-v1000-rgb-micro-tower-pc-gehause-micro-atx-3x-120mm-rgbled-lufter-vorinstalliert-mesh-front-glas-seitenteil-2820995",
-      "ts": 1792360959020
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/victorinox-swiss-classic-faltbares-picknick-messer-11-cm-schwarz-prime-2846018",
-      "ts": 1792360959020
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
       "ts": 1792536528679
@@ -131,6 +110,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/emke-badheizkorper-gerade-1000-x-500-mm-handtuchheizkorper-mit-mittelanschluss-weiss-427-w-2842340",
       "ts": 1792879590658
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
+      "ts": 1792975895647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wd-elements-desktop-10-tb-sata-35-externe-festplatte-hdd-micro-usb-auf-usb-a-kabel-2851776",
+      "ts": 1792975895647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-adidas-deutschland-2026-heimtrikot-gratis-spielerflock-xs-4xl-effektiv-3280eur-adiclub-mitglied-2851768",
+      "ts": 1792975895647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gratis-schnittmuster-im-oktober-cardigan-violet-gr-36-48-direktlink-im-dealtext-2851700",
+      "ts": 1792975895647
     }
   ]
 }
