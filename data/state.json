@@ -2,10 +2,16 @@
   "date": "2026-10-26",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/landal-7-nachte-ferienpark-niederlande-fur-4-p-ab-228-eur-2-erw-2-kinder-inkl-hallenbad-kids-club-freizeitprogramm-cashback-moglich-2851710",
+    "mydealz|https://www.mydealz.de/deals/it-takes-two-ps4-ps5-2852175",
+    "mydealz|https://www.mydealz.de/deals/lokal-telekom-netz-apple-iphone-17-pro-im-magentamobil-l-young-allnetsms-flat-unlimited-5g-fur-4495eurmonat-149eur-2852194",
+    "mydealz|https://www.mydealz.de/deals/neu-zd-racing-mt09-2026-rocket-dbx-09-absima-kinetic-9-rc-auto-19-56x35x22cm-34kg-4s-3674-2600kv-brushless-4wd-rtr-2852193",
+    "mydealz|https://www.mydealz.de/deals/fluge-nach-indonesien-jakarta-inkl-gepack-von-frankfurt-inkl-ruckflug-air-china-okt-dez-2852192"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
