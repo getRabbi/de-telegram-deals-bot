@@ -1,11 +1,18 @@
 {
   "date": "2026-10-27",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
+    "mydealz|https://www.mydealz.de/deals/weissklang-v13-grossmembran-kondensatormikrofon-made-in-germany-in-der-special-edition-fur-349-eur-statt-499-eur-2853029",
+    "mydealz|https://www.mydealz.de/deals/midea-olradiator-mit-9-rippen-2000-w-2850696",
+    "mydealz|https://www.mydealz.de/deals/makita-e-10883-werkzeugkoffer-221-teilig-fur-8271-eur-durch-bauhaus-tpg-2852881",
+    "mydealz|https://www.mydealz.de/deals/barbarian-uhd-blu-ray-disc-lim-steelbook-amazon-prime-2852931",
+    "mydealz|https://www.mydealz.de/deals/boyz-n-the-hood-4k-blu-ray-blu-ray-fur-1894eur-amazonfr-fnac-2853005"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
