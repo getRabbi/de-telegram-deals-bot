@@ -1,21 +1,11 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "slots": {
     "morning": false,
-    "noon": true,
-    "evening": true
+    "noon": false,
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/landal-7-nachte-ferienpark-niederlande-fur-4-p-ab-228-eur-2-erw-2-kinder-inkl-hallenbad-kids-club-freizeitprogramm-cashback-moglich-2851710",
-    "mydealz|https://www.mydealz.de/deals/it-takes-two-ps4-ps5-2852175",
-    "mydealz|https://www.mydealz.de/deals/lokal-telekom-netz-apple-iphone-17-pro-im-magentamobil-l-young-allnetsms-flat-unlimited-5g-fur-4495eurmonat-149eur-2852194",
-    "mydealz|https://www.mydealz.de/deals/neu-zd-racing-mt09-2026-rocket-dbx-09-absima-kinetic-9-rc-auto-19-56x35x22cm-34kg-4s-3674-2600kv-brushless-4wd-rtr-2852193",
-    "mydealz|https://www.mydealz.de/deals/fluge-nach-indonesien-jakarta-inkl-gepack-von-frankfurt-inkl-ruckflug-air-china-okt-dez-2852192",
-    "mydealz|https://www.mydealz.de/deals/sammeldeal-logitech-g-pro-x-superlight-2-2-se-kabellose-gaming-maus-versch-modelle-farben-ab-7141-eur-2852157",
-    "mydealz|https://www.mydealz.de/deals/kostenloser-zwischenaufenthalt-inlandsflug-in-japan-mit-all-nippon-airways-ana-2839760",
-    "mydealz|https://www.mydealz.de/deals/apple-iphone-18-pro-max-256gb-mit-140gb-telekom-freenet-fur-insgesamt-155670-eur-2852250",
-    "mydealz|https://www.mydealz.de/deals/brandnooz-xxl-adventskalender-2026-classic-26-turchen-fur-3455eur-3eur-versand-mit-code-auftanken-2852215"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
@@ -136,6 +126,42 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gratis-schnittmuster-im-oktober-cardigan-violet-gr-36-48-direktlink-im-dealtext-2851700",
       "ts": 1792975895647
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/landal-7-nachte-ferienpark-niederlande-fur-4-p-ab-228-eur-2-erw-2-kinder-inkl-hallenbad-kids-club-freizeitprogramm-cashback-moglich-2851710",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/it-takes-two-ps4-ps5-2852175",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-telekom-netz-apple-iphone-17-pro-im-magentamobil-l-young-allnetsms-flat-unlimited-5g-fur-4495eurmonat-149eur-2852194",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neu-zd-racing-mt09-2026-rocket-dbx-09-absima-kinetic-9-rc-auto-19-56x35x22cm-34kg-4s-3674-2600kv-brushless-4wd-rtr-2852193",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-indonesien-jakarta-inkl-gepack-von-frankfurt-inkl-ruckflug-air-china-okt-dez-2852192",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-logitech-g-pro-x-superlight-2-2-se-kabellose-gaming-maus-versch-modelle-farben-ab-7141-eur-2852157",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenloser-zwischenaufenthalt-inlandsflug-in-japan-mit-all-nippon-airways-ana-2839760",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-18-pro-max-256gb-mit-140gb-telekom-freenet-fur-insgesamt-155670-eur-2852250",
+      "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/brandnooz-xxl-adventskalender-2026-classic-26-turchen-fur-3455eur-3eur-versand-mit-code-auftanken-2852215",
+      "ts": 1793065368168
     }
   ]
 }
