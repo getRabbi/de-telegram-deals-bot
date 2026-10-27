@@ -1,39 +1,12 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
-    "mydealz|https://www.mydealz.de/deals/weissklang-v13-grossmembran-kondensatormikrofon-made-in-germany-in-der-special-edition-fur-349-eur-statt-499-eur-2853029",
-    "mydealz|https://www.mydealz.de/deals/midea-olradiator-mit-9-rippen-2000-w-2850696",
-    "mydealz|https://www.mydealz.de/deals/makita-e-10883-werkzeugkoffer-221-teilig-fur-8271-eur-durch-bauhaus-tpg-2852881",
-    "mydealz|https://www.mydealz.de/deals/barbarian-uhd-blu-ray-disc-lim-steelbook-amazon-prime-2852931",
-    "mydealz|https://www.mydealz.de/deals/boyz-n-the-hood-4k-blu-ray-blu-ray-fur-1894eur-amazonfr-fnac-2853005"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nintendo-disney-epic-mickey-rebrushed-switch-1-2843652",
-      "ts": 1792536528679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/yapi-kredi-bank-375-pa-festgeld-2-jahre-ab-1000eur-380-3-jahredeutsche-einlagensicherung-2847367",
-      "ts": 1792536528679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tchibo-x-shoop-bis-zu-15-cashback-kaffee-festival-25-rabatt-auf-die-kategorie-kaffee-2843214",
-      "ts": 1792536528679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/insta360-x6-360-standard-bundle-black-neu-aliexpress-2846593",
-      "ts": 1792536528679
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/willbe-festgeld-367-pa-zinsen-laufzeit-2-jahre-aaa-einlagensicherung-liechtenstein-anlagebetrag-bis-zu-ca-265000eur-2846710",
-      "ts": 1792536528679
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/ford-kuga-st-line186psautomatik5-jahre-garantiepanoramaschiebedach19kameranaviin-schwarz-oder-graueu-neufahreug-mit-tz-2847350",
       "ts": 1792628316794
@@ -169,6 +142,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/brandnooz-xxl-adventskalender-2026-classic-26-turchen-fur-3455eur-3eur-versand-mit-code-auftanken-2852215",
       "ts": 1793065368168
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
+      "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/weissklang-v13-grossmembran-kondensatormikrofon-made-in-germany-in-der-special-edition-fur-349-eur-statt-499-eur-2853029",
+      "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/midea-olradiator-mit-9-rippen-2000-w-2850696",
+      "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/makita-e-10883-werkzeugkoffer-221-teilig-fur-8271-eur-durch-bauhaus-tpg-2852881",
+      "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/barbarian-uhd-blu-ray-disc-lim-steelbook-amazon-prime-2852931",
+      "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/boyz-n-the-hood-4k-blu-ray-blu-ray-fur-1894eur-amazonfr-fnac-2853005",
+      "ts": 1793143213598
     }
   ]
 }
