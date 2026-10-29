@@ -1,39 +1,12 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
-    "mydealz|https://www.mydealz.de/deals/rennrad-aero-scott-foil-rc-20-carbon-rahmenlrsss105-di281kg-2026-gelato-bluem-2853115",
-    "mydealz|https://www.mydealz.de/deals/lokal-brilon-gasgrill-char-broil-professional-pro-s-2-2853084",
-    "mydealz|https://www.mydealz.de/deals/ps4ps5-indiana-jones-and-the-staff-of-kings-fur-239eur-at-psn-2853143",
-    "mydealz|https://www.mydealz.de/deals/star-wars-jedi-survivor-playstation-5-fur-1199eur-playstation-store-2853138",
-    "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-2854305"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wera-ratschenschraubendreher-816-ra-14-zoll-x-1420-mm-05051461001-2848951",
-      "ts": 1792709505899
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/avm-fritzbox-7430-vdsladsl2-wlan-n-450-mbits-24-ghz-tk-anlage-voice-over-ip-mit-dect-basis-mediaserver-generaluberholt-2833989",
-      "ts": 1792709505899
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wera-838-ra-r-m-bits-handhalter-mit-ratschenfunktion-14-prime-2848961",
-      "ts": 1792709505899
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-joybuy-plus-osmos-die-drei-detektivkoffer-630553-detektiv-spielzeug-set-fur-kinder-ab-8-jahre-2848946",
-      "ts": 1792709505899
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/gutscheine/die-besten-saug-und-wischroboter-deals-im-prime-day-dreame-roborock-ecovacs-xiaomi-uvm-2850227",
-      "ts": 1792709505899
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-intel-core-ultra-5-250kf-plus-cpu-boxed-6p12e18t-420-530ghz-2850207",
       "ts": 1792798780746
@@ -149,6 +122,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/boyz-n-the-hood-4k-blu-ray-blu-ray-fur-1894eur-amazonfr-fnac-2853005",
       "ts": 1793143213598
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
+      "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/rennrad-aero-scott-foil-rc-20-carbon-rahmenlrsss105-di281kg-2026-gelato-bluem-2853115",
+      "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-brilon-gasgrill-char-broil-professional-pro-s-2-2853084",
+      "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ps4ps5-indiana-jones-and-the-staff-of-kings-fur-239eur-at-psn-2853143",
+      "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/star-wars-jedi-survivor-playstation-5-fur-1199eur-playstation-store-2853138",
+      "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-2854305",
+      "ts": 1793317524461
     }
   ]
 }
