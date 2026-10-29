@@ -1,11 +1,18 @@
 {
   "date": "2026-10-29",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
+    "mydealz|https://www.mydealz.de/deals/rennrad-aero-scott-foil-rc-20-carbon-rahmenlrsss105-di281kg-2026-gelato-bluem-2853115",
+    "mydealz|https://www.mydealz.de/deals/lokal-brilon-gasgrill-char-broil-professional-pro-s-2-2853084",
+    "mydealz|https://www.mydealz.de/deals/ps4ps5-indiana-jones-and-the-staff-of-kings-fur-239eur-at-psn-2853143",
+    "mydealz|https://www.mydealz.de/deals/star-wars-jedi-survivor-playstation-5-fur-1199eur-playstation-store-2853138",
+    "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-2854305"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/wera-ratschenschraubendreher-816-ra-14-zoll-x-1420-mm-05051461001-2848951",
