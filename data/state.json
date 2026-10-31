@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "slots": {
     "morning": false,
     "noon": false,
@@ -7,30 +7,6 @@
   },
   "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/amazon-prime-intel-core-ultra-5-250kf-plus-cpu-boxed-6p12e18t-420-530ghz-2850207",
-      "ts": 1792798780746
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/edeka-nord-evtl-weitere-regionen-gratis-coca-cola-cola-zero-05l-ohne-mbw-coupon-kostenlos-2850248",
-      "ts": 1792798780746
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-sony-gp-vpt3-bluetooth-aufnahmegriff-stativ-ideal-fur-vlogging-content-creation-selfies-stabile-videoaufnahmen-2850216",
-      "ts": 1792798780746
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/agypten-kairo-hurghada-7-13-nachte-agypten-inkl-flugen-4-hotels-besuch-der-pyramiden-der-sphinx-des-grand-egyptian-museum-dez-2819645",
-      "ts": 1792798780746
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/telekom-magentazuhause-l-100-mbits-dsl-magentatv-megastream-fur-eff-4120eur-mtl-i-630eur-boni-i-ua-mit-disney-netflix-rtl-premium-2851165",
-      "ts": 1792798780746
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sparabo-messmer-glut-der-drachen-zauber-der-zwerge-je-18-teebeutel-2851149",
-      "ts": 1792798780746
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
       "ts": 1792879590658
