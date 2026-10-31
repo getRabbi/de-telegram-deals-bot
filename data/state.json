@@ -1,11 +1,18 @@
 {
   "date": "2026-10-31",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
+    "mydealz|https://www.mydealz.de/deals/ace-auto-club-europa-pannenschutz-alternative-zu-z-b-adac-mit-35-rabatt-10-eur-shoop-effektiv-4330-eur-statt-8200-eur-moglich-2854232",
+    "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-barreda-jr1323-wildleder-t-toe-overlay-gummi-cupsohle-weissgrunschwarz-2499eurvsk-2854271",
+    "mydealz|https://www.mydealz.de/deals/tirol-osterreich-ab-2-un-4-alpenhotel-tyrol-nutzung-wellnessbereich-fruhstuck-achenseecard-opnv-ab-258eur-fur-2-personen-2830884",
+    "mydealz|https://www.mydealz.de/deals/finanzennet-zero-5eur-pramir-pro-trade-bis-240eur-2854112",
+    "mydealz|https://www.mydealz.de/deals/asics-sportstyle-gel-kayano-20-2854491"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
