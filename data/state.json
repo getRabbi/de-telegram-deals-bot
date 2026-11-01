@@ -1,35 +1,12 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
-    "mydealz|https://www.mydealz.de/deals/ace-auto-club-europa-pannenschutz-alternative-zu-z-b-adac-mit-35-rabatt-10-eur-shoop-effektiv-4330-eur-statt-8200-eur-moglich-2854232",
-    "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-barreda-jr1323-wildleder-t-toe-overlay-gummi-cupsohle-weissgrunschwarz-2499eurvsk-2854271",
-    "mydealz|https://www.mydealz.de/deals/tirol-osterreich-ab-2-un-4-alpenhotel-tyrol-nutzung-wellnessbereich-fruhstuck-achenseecard-opnv-ab-258eur-fur-2-personen-2830884",
-    "mydealz|https://www.mydealz.de/deals/finanzennet-zero-5eur-pramir-pro-trade-bis-240eur-2854112",
-    "mydealz|https://www.mydealz.de/deals/asics-sportstyle-gel-kayano-20-2854491"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bahco-knarren-ring-maulschlussel-satz-12-tlg-8-19-mm-152-kg-inkl-kunststoffhalter-ibood-2851195",
-      "ts": 1792879590658
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/nanoleaf-shop-angebote-15x-rgbw-hexagon-shapes-starter-kit-mit-wlan-16-mio-farben-12150eur-permanent-outdoor-lights-15m-9999eur-2851217",
-      "ts": 1792879590658
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kurzurlaub-fur-2-1-2-nachte-je-nach-hotel-inkl-fruhstuck-fur-99eur-hotelgutschein-fur-deutschland-europa-gedenkmunze-gedenkpragung-2843932",
-      "ts": 1792879590658
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/emke-badheizkorper-gerade-1000-x-500-mm-handtuchheizkorper-mit-mittelanschluss-weiss-427-w-2842340",
-      "ts": 1792879590658
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
       "ts": 1792975895647
@@ -129,6 +106,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-2854305",
       "ts": 1793317524461
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
+      "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ace-auto-club-europa-pannenschutz-alternative-zu-z-b-adac-mit-35-rabatt-10-eur-shoop-effektiv-4330-eur-statt-8200-eur-moglich-2854232",
+      "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/adidas-herren-sneaker-barreda-jr1323-wildleder-t-toe-overlay-gummi-cupsohle-weissgrunschwarz-2499eurvsk-2854271",
+      "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tirol-osterreich-ab-2-un-4-alpenhotel-tyrol-nutzung-wellnessbereich-fruhstuck-achenseecard-opnv-ab-258eur-fur-2-personen-2830884",
+      "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/finanzennet-zero-5eur-pramir-pro-trade-bis-240eur-2854112",
+      "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/asics-sportstyle-gel-kayano-20-2854491",
+      "ts": 1793497150275
     }
   ]
 }
