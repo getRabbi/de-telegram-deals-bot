@@ -2,10 +2,16 @@
   "date": "2026-11-02",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/bonsai-urweltmammutbaum-ca-8-jahre-alt-2855787",
+    "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-spiel-des-jahres-2025-2-5-spieler-spieldauer-30-min-bgg-80-primemedia-markt-filialabholungreg-kunde-2855764",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-xiaomi-17t-pro-512gb-mit-70gb-730eur-50gb-720eur-gigakombiyoung-610eur-gigakombiyoung-490eur-2855716",
+    "mydealz|https://www.mydealz.de/deals/loreal-paris-men-expert-fresh-extreme-72h-anti-transpirant-deospray-6-x-150ml-2856674",
+    "mydealz|https://www.mydealz.de/deals/kaufland-twixbalisto-fur-123eur-pro-packung-beim-kauf-von-7-stuck-2856669"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
