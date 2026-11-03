@@ -1,42 +1,12 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/pokemon-glurak-action-figur-12-cm-amazon-prime-2856675",
-    "mydealz|https://www.mydealz.de/deals/schleswig-holstein-timmendorfer-strand-2-nachte-fur-2-pers-im-4-hotel-royal-inkl-fruhstuck-hydrocoast-massage-wellness-nov-mar-2856667",
-    "mydealz|https://www.mydealz.de/deals/gardena-combisystem-fugenkratzer-2856668",
-    "mydealz|https://www.mydealz.de/deals/bgs-1984-2-werkstattwageneinlage-16-spannwerkzeug-satz-fur-gewindeschneider-6-tlg-2856992",
-    "mydealz|https://www.mydealz.de/deals/tcl-65q6c-qled-mini-led-tv-65-zoll-4k-hdr-premium-dolby-vision-iq-atmos-onkyo-21-sound-mit-google-tv-144-hz-motion-2857066"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
-      "ts": 1793143213598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/weissklang-v13-grossmembran-kondensatormikrofon-made-in-germany-in-der-special-edition-fur-349-eur-statt-499-eur-2853029",
-      "ts": 1793143213598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/midea-olradiator-mit-9-rippen-2000-w-2850696",
-      "ts": 1793143213598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/makita-e-10883-werkzeugkoffer-221-teilig-fur-8271-eur-durch-bauhaus-tpg-2852881",
-      "ts": 1793143213598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/barbarian-uhd-blu-ray-disc-lim-steelbook-amazon-prime-2852931",
-      "ts": 1793143213598
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/boyz-n-the-hood-4k-blu-ray-blu-ray-fur-1894eur-amazonfr-fnac-2853005",
-      "ts": 1793143213598
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
       "ts": 1793317524461
@@ -104,6 +74,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/kaufland-twixbalisto-fur-123eur-pro-packung-beim-kauf-von-7-stuck-2856669",
       "ts": 1793675356671
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pokemon-glurak-action-figur-12-cm-amazon-prime-2856675",
+      "ts": 1793749595446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schleswig-holstein-timmendorfer-strand-2-nachte-fur-2-pers-im-4-hotel-royal-inkl-fruhstuck-hydrocoast-massage-wellness-nov-mar-2856667",
+      "ts": 1793749595446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gardena-combisystem-fugenkratzer-2856668",
+      "ts": 1793749595446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bgs-1984-2-werkstattwageneinlage-16-spannwerkzeug-satz-fur-gewindeschneider-6-tlg-2856992",
+      "ts": 1793749595446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tcl-65q6c-qled-mini-led-tv-65-zoll-4k-hdr-premium-dolby-vision-iq-atmos-onkyo-21-sound-mit-google-tv-144-hz-motion-2857066",
+      "ts": 1793749595446
     }
   ]
 }
