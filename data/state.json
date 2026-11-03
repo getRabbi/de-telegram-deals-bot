@@ -1,70 +1,12 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/bonsai-urweltmammutbaum-ca-8-jahre-alt-2855787",
-    "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-spiel-des-jahres-2025-2-5-spieler-spieldauer-30-min-bgg-80-primemedia-markt-filialabholungreg-kunde-2855764",
-    "mydealz|https://www.mydealz.de/deals/vodafone-netz-xiaomi-17t-pro-512gb-mit-70gb-730eur-50gb-720eur-gigakombiyoung-610eur-gigakombiyoung-490eur-2855716",
-    "mydealz|https://www.mydealz.de/deals/loreal-paris-men-expert-fresh-extreme-72h-anti-transpirant-deospray-6-x-150ml-2856674",
-    "mydealz|https://www.mydealz.de/deals/kaufland-twixbalisto-fur-123eur-pro-packung-beim-kauf-von-7-stuck-2856669"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenloses-upgrade-fur-it-takes-two-game-of-the-year-2021-nintendo-switch-zu-nintendo-switch-2-digital-und-physisch-2851750",
-      "ts": 1792975895647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wd-elements-desktop-10-tb-sata-35-externe-festplatte-hdd-micro-usb-auf-usb-a-kabel-2851776",
-      "ts": 1792975895647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/cb-deal-adidas-deutschland-2026-heimtrikot-gratis-spielerflock-xs-4xl-effektiv-3280eur-adiclub-mitglied-2851768",
-      "ts": 1792975895647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/gratis-schnittmuster-im-oktober-cardigan-violet-gr-36-48-direktlink-im-dealtext-2851700",
-      "ts": 1792975895647
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/landal-7-nachte-ferienpark-niederlande-fur-4-p-ab-228-eur-2-erw-2-kinder-inkl-hallenbad-kids-club-freizeitprogramm-cashback-moglich-2851710",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/it-takes-two-ps4-ps5-2852175",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-telekom-netz-apple-iphone-17-pro-im-magentamobil-l-young-allnetsms-flat-unlimited-5g-fur-4495eurmonat-149eur-2852194",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/neu-zd-racing-mt09-2026-rocket-dbx-09-absima-kinetic-9-rc-auto-19-56x35x22cm-34kg-4s-3674-2600kv-brushless-4wd-rtr-2852193",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fluge-nach-indonesien-jakarta-inkl-gepack-von-frankfurt-inkl-ruckflug-air-china-okt-dez-2852192",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/sammeldeal-logitech-g-pro-x-superlight-2-2-se-kabellose-gaming-maus-versch-modelle-farben-ab-7141-eur-2852157",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/kostenloser-zwischenaufenthalt-inlandsflug-in-japan-mit-all-nippon-airways-ana-2839760",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/apple-iphone-18-pro-max-256gb-mit-140gb-telekom-freenet-fur-insgesamt-155670-eur-2852250",
-      "ts": 1793065368168
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/brandnooz-xxl-adventskalender-2026-classic-26-turchen-fur-3455eur-3eur-versand-mit-code-auftanken-2852215",
-      "ts": 1793065368168
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
       "ts": 1793143213598
@@ -136,6 +78,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/asics-sportstyle-gel-kayano-20-2854491",
       "ts": 1793497150275
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bonsai-urweltmammutbaum-ca-8-jahre-alt-2855787",
+      "ts": 1793675356671
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bomb-busters-brettspiel-spiel-des-jahres-2025-2-5-spieler-spieldauer-30-min-bgg-80-primemedia-markt-filialabholungreg-kunde-2855764",
+      "ts": 1793675356671
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/vodafone-netz-xiaomi-17t-pro-512gb-mit-70gb-730eur-50gb-720eur-gigakombiyoung-610eur-gigakombiyoung-490eur-2855716",
+      "ts": 1793675356671
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/loreal-paris-men-expert-fresh-extreme-72h-anti-transpirant-deospray-6-x-150ml-2856674",
+      "ts": 1793675356671
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kaufland-twixbalisto-fur-123eur-pro-packung-beim-kauf-von-7-stuck-2856669",
+      "ts": 1793675356671
     }
   ]
 }
