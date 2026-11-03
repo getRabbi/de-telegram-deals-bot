@@ -2,10 +2,16 @@
   "date": "2026-11-03",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/pokemon-glurak-action-figur-12-cm-amazon-prime-2856675",
+    "mydealz|https://www.mydealz.de/deals/schleswig-holstein-timmendorfer-strand-2-nachte-fur-2-pers-im-4-hotel-royal-inkl-fruhstuck-hydrocoast-massage-wellness-nov-mar-2856667",
+    "mydealz|https://www.mydealz.de/deals/gardena-combisystem-fugenkratzer-2856668",
+    "mydealz|https://www.mydealz.de/deals/bgs-1984-2-werkstattwageneinlage-16-spannwerkzeug-satz-fur-gewindeschneider-6-tlg-2856992",
+    "mydealz|https://www.mydealz.de/deals/tcl-65q6c-qled-mini-led-tv-65-zoll-4k-hdr-premium-dolby-vision-iq-atmos-onkyo-21-sound-mit-google-tv-144-hz-motion-2857066"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/rudergerat-rower-20-black-2852218",
