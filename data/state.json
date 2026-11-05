@@ -1,11 +1,18 @@
 {
   "date": "2026-11-05",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/baseus-picogo-pro-ah22-100w-usb-c-ladegerat-smart-schutz-3-port-netzteil-2852273",
+    "mydealz|https://www.mydealz.de/deals/tcl-55p61k-fernseher-smart-tv-55-zoll-4k-uhd-hdr-google-tv-3x-hdmi-21-fur-256eur-ebay-kaufland-2857626",
+    "mydealz|https://www.mydealz.de/deals/fuerteventura-1-woche-in-top-bewerteter-unterkunft-inkl-flug-unter-300eur-pp-alleinreisende-ohne-aufpreis-jul-sep-2816687",
+    "mydealz|https://www.mydealz.de/deals/lego-star-wars-showdown-mit-dem-wachterdroiden-am-huttenpalast-75451-fur-2999eur-amazon-prime-media-markt-2857599",
+    "mydealz|https://www.mydealz.de/deals/mein-schiff-balkonkabine-inkl-volllpension-trinkgeld-im-pur-tarif-ostsee-899eur-7-nachte-mittelamerika-2079eur-pp-14-nachte-nov-jan-2857960",
+    "mydealz|https://www.mydealz.de/deals/playboy-3-ausgaben-kostenlos-5-euro-bonus-spartanien-2858063"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
