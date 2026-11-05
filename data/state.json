@@ -1,17 +1,11 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/wustenrot-festgeld-35-fur-3-jahre-effektiv-362-wegen-zinseszins-2851246",
-    "mydealz|https://www.mydealz.de/deals/google-store-amex-kwk-google-pixel-10-pro-128-gb-2857058",
-    "mydealz|https://www.mydealz.de/deals/ryanair-blitzverkauf-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2856530",
-    "mydealz|https://www.mydealz.de/deals/kostenloses-girokontofreiberuflerselbststandige-kleine-unternehmenkeine-schufa-prufung60eur-cashback-von-spartanien-250eur-moglich-su-2856569",
-    "mydealz|https://www.mydealz.de/deals/garmin-edge-840-radcomputer-rad-navigation-2857615"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
@@ -100,6 +94,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/tcl-65q6c-qled-mini-led-tv-65-zoll-4k-hdr-premium-dolby-vision-iq-atmos-onkyo-21-sound-mit-google-tv-144-hz-motion-2857066",
       "ts": 1793749595446
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wustenrot-festgeld-35-fur-3-jahre-effektiv-362-wegen-zinseszins-2851246",
+      "ts": 1793839054237
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/google-store-amex-kwk-google-pixel-10-pro-128-gb-2857058",
+      "ts": 1793839054237
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/ryanair-blitzverkauf-fluge-ab-allen-abflughafen-mallorca-london-dublin-rom-venedig-mailand-ibiza-zadar-uvm-oneway-ab-1499eur-2856530",
+      "ts": 1793839054237
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kostenloses-girokontofreiberuflerselbststandige-kleine-unternehmenkeine-schufa-prufung60eur-cashback-von-spartanien-250eur-moglich-su-2856569",
+      "ts": 1793839054237
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/garmin-edge-840-radcomputer-rad-navigation-2857615",
+      "ts": 1793839054237
     }
   ]
 }
