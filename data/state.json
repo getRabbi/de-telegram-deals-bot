@@ -1,43 +1,12 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/baseus-picogo-pro-ah22-100w-usb-c-ladegerat-smart-schutz-3-port-netzteil-2852273",
-    "mydealz|https://www.mydealz.de/deals/tcl-55p61k-fernseher-smart-tv-55-zoll-4k-uhd-hdr-google-tv-3x-hdmi-21-fur-256eur-ebay-kaufland-2857626",
-    "mydealz|https://www.mydealz.de/deals/fuerteventura-1-woche-in-top-bewerteter-unterkunft-inkl-flug-unter-300eur-pp-alleinreisende-ohne-aufpreis-jul-sep-2816687",
-    "mydealz|https://www.mydealz.de/deals/lego-star-wars-showdown-mit-dem-wachterdroiden-am-huttenpalast-75451-fur-2999eur-amazon-prime-media-markt-2857599",
-    "mydealz|https://www.mydealz.de/deals/mein-schiff-balkonkabine-inkl-volllpension-trinkgeld-im-pur-tarif-ostsee-899eur-7-nachte-mittelamerika-2079eur-pp-14-nachte-nov-jan-2857960",
-    "mydealz|https://www.mydealz.de/deals/playboy-3-ausgaben-kostenlos-5-euro-bonus-spartanien-2858063"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/zoo-osnabruck-niedersachsen-for-free-aktion-2853012",
-      "ts": 1793317524461
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/rennrad-aero-scott-foil-rc-20-carbon-rahmenlrsss105-di281kg-2026-gelato-bluem-2853115",
-      "ts": 1793317524461
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lokal-brilon-gasgrill-char-broil-professional-pro-s-2-2853084",
-      "ts": 1793317524461
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ps4ps5-indiana-jones-and-the-staff-of-kings-fur-239eur-at-psn-2853143",
-      "ts": 1793317524461
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/star-wars-jedi-survivor-playstation-5-fur-1199eur-playstation-store-2853138",
-      "ts": 1793317524461
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/ebay-dyson-v15-detect-absolute-refurbished-direkt-von-dyson-1-jahr-herstellergarantie-12-monate-ebay-zusatzschutz-2854305",
-      "ts": 1793317524461
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
       "ts": 1793497150275
@@ -121,6 +90,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/garmin-edge-840-radcomputer-rad-navigation-2857615",
       "ts": 1793839054237
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/baseus-picogo-pro-ah22-100w-usb-c-ladegerat-smart-schutz-3-port-netzteil-2852273",
+      "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tcl-55p61k-fernseher-smart-tv-55-zoll-4k-uhd-hdr-google-tv-3x-hdmi-21-fur-256eur-ebay-kaufland-2857626",
+      "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fuerteventura-1-woche-in-top-bewerteter-unterkunft-inkl-flug-unter-300eur-pp-alleinreisende-ohne-aufpreis-jul-sep-2816687",
+      "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-showdown-mit-dem-wachterdroiden-am-huttenpalast-75451-fur-2999eur-amazon-prime-media-markt-2857599",
+      "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mein-schiff-balkonkabine-inkl-volllpension-trinkgeld-im-pur-tarif-ostsee-899eur-7-nachte-mittelamerika-2079eur-pp-14-nachte-nov-jan-2857960",
+      "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playboy-3-ausgaben-kostenlos-5-euro-bonus-spartanien-2858063",
+      "ts": 1793930076498
     }
   ]
 }
