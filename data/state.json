@@ -1,11 +1,18 @@
 {
   "date": "2026-11-07",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
+    "mydealz|https://www.mydealz.de/deals/tripp-trapp-stokke-2857918",
+    "mydealz|https://www.mydealz.de/deals/switchbot-rgbicww-led-stehlampe-matter-1200lm-2700-6500k-musik-sync-appsprachsteuerung-applealexa-energieklasse-f-2855945",
+    "mydealz|https://www.mydealz.de/deals/video-stabilizer-verwackelte-videos-stabilisieren-und-flussiger-machen-google-play-store-2857857",
+    "mydealz|https://www.mydealz.de/deals/migros-kaffee-schumli-espresso-bohnen-2858612",
+    "lidl|https://www.mydealz.de/deals/lidl-abgebildete-tonies-1299eur-bei-lidl-2858600"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
