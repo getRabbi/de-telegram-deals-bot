@@ -1,18 +1,11 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
-    "mydealz|https://www.mydealz.de/deals/tripp-trapp-stokke-2857918",
-    "mydealz|https://www.mydealz.de/deals/switchbot-rgbicww-led-stehlampe-matter-1200lm-2700-6500k-musik-sync-appsprachsteuerung-applealexa-energieklasse-f-2855945",
-    "mydealz|https://www.mydealz.de/deals/video-stabilizer-verwackelte-videos-stabilisieren-und-flussiger-machen-google-play-store-2857857",
-    "mydealz|https://www.mydealz.de/deals/migros-kaffee-schumli-espresso-bohnen-2858612",
-    "lidl|https://www.mydealz.de/deals/lidl-abgebildete-tonies-1299eur-bei-lidl-2858600"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/pegasus-internationale-fluge-ab-11-eur-steuern-fur-2027-auch-ab-deutschland-2853985",
@@ -121,6 +114,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/playboy-3-ausgaben-kostenlos-5-euro-bonus-spartanien-2858063",
       "ts": 1793930076498
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
+      "ts": 1794093276419
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tripp-trapp-stokke-2857918",
+      "ts": 1794093276419
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/switchbot-rgbicww-led-stehlampe-matter-1200lm-2700-6500k-musik-sync-appsprachsteuerung-applealexa-energieklasse-f-2855945",
+      "ts": 1794093276419
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/video-stabilizer-verwackelte-videos-stabilisieren-und-flussiger-machen-google-play-store-2857857",
+      "ts": 1794093276419
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/migros-kaffee-schumli-espresso-bohnen-2858612",
+      "ts": 1794093276419
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-abgebildete-tonies-1299eur-bei-lidl-2858600",
+      "ts": 1794093276419
     }
   ]
 }
