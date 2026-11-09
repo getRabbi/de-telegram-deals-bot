@@ -1,11 +1,18 @@
 {
   "date": "2026-11-09",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-a7-pro-smartphone-4128gb-6000mah-akku-13mp-kamera-schwarz-2858641",
+    "mydealz|https://www.mydealz.de/deals/lego-viele-verschiedene-kleinere-sets-2858616",
+    "mydealz|https://www.mydealz.de/deals/cb-newsletter-2859072",
+    "mydealz|https://www.mydealz.de/deals/antalya-turkei-5-nachte-im-5-sherwood-exclusive-lara-inkl-flug-transfer-all-inclusive-ab-475eur-pp-beheizte-pools-2858681",
+    "mydealz|https://www.mydealz.de/deals/neukunden-higgsfield-3-tage-mcp-testphase-100-credits-fur-ki-bildervideos-via-chatgptclaude-karte-notig-abo-2853845",
+    "mydealz|https://www.mydealz.de/deals/suzuki-gsx1-300-r-hayabusa-190ps-1340cm3-295kmh-264kg-bidirektionaler-quickshifter-45-m-garantie-tageszulassung-f-16299-eur-2859116"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bonsai-urweltmammutbaum-ca-8-jahre-alt-2855787",
