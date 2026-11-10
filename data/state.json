@@ -1,22 +1,11 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-a7-pro-smartphone-4128gb-6000mah-akku-13mp-kamera-schwarz-2858641",
-    "mydealz|https://www.mydealz.de/deals/lego-viele-verschiedene-kleinere-sets-2858616",
-    "mydealz|https://www.mydealz.de/deals/cb-newsletter-2859072",
-    "mydealz|https://www.mydealz.de/deals/antalya-turkei-5-nachte-im-5-sherwood-exclusive-lara-inkl-flug-transfer-all-inclusive-ab-475eur-pp-beheizte-pools-2858681",
-    "mydealz|https://www.mydealz.de/deals/neukunden-higgsfield-3-tage-mcp-testphase-100-credits-fur-ki-bildervideos-via-chatgptclaude-karte-notig-abo-2853845",
-    "mydealz|https://www.mydealz.de/deals/suzuki-gsx1-300-r-hayabusa-190ps-1340cm3-295kmh-264kg-bidirektionaler-quickshifter-45-m-garantie-tageszulassung-f-16299-eur-2859116",
-    "mydealz|https://www.mydealz.de/deals/spax-universalschraube-35-x-16-mm-200-stuck-kreuzschlitz-z2-senkkopf-vollgewinde-4cut-yellox-a2l-1000-stk-1769eur-at-prime-2842199",
-    "mydealz|https://www.mydealz.de/deals/comfee-cf08ewp05w-waschmaschine-8-kg-dampffunktion-tierhaarprogramm-fur-227-eur-bei-joybuy-2859610",
-    "mydealz|https://www.mydealz.de/deals/mafia-the-omerta-collection-ps4ps5-playstation-digital-ps-erforderlichohne-ps-9999eur-ps5-pro-optimiert-at-ps-store-2826954",
-    "lidl|https://www.mydealz.de/deals/lidl-silvercrest-smart-home-zwischenstecker-3er-set-matter-standard-ab-1211-online-ggf-an-filialkasse-nach-versandcoupon-fragen-2859586"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/bonsai-urweltmammutbaum-ca-8-jahre-alt-2855787",
@@ -125,6 +114,46 @@
     {
       "key": "lidl|https://www.mydealz.de/deals/lidl-abgebildete-tonies-1299eur-bei-lidl-2858600",
       "ts": 1794093276419
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-a7-pro-smartphone-4128gb-6000mah-akku-13mp-kamera-schwarz-2858641",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-viele-verschiedene-kleinere-sets-2858616",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/cb-newsletter-2859072",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/antalya-turkei-5-nachte-im-5-sherwood-exclusive-lara-inkl-flug-transfer-all-inclusive-ab-475eur-pp-beheizte-pools-2858681",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/neukunden-higgsfield-3-tage-mcp-testphase-100-credits-fur-ki-bildervideos-via-chatgptclaude-karte-notig-abo-2853845",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/suzuki-gsx1-300-r-hayabusa-190ps-1340cm3-295kmh-264kg-bidirektionaler-quickshifter-45-m-garantie-tageszulassung-f-16299-eur-2859116",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/spax-universalschraube-35-x-16-mm-200-stuck-kreuzschlitz-z2-senkkopf-vollgewinde-4cut-yellox-a2l-1000-stk-1769eur-at-prime-2842199",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/comfee-cf08ewp05w-waschmaschine-8-kg-dampffunktion-tierhaarprogramm-fur-227-eur-bei-joybuy-2859610",
+      "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mafia-the-omerta-collection-ps4ps5-playstation-digital-ps-erforderlichohne-ps-9999eur-ps5-pro-optimiert-at-ps-store-2826954",
+      "ts": 1794273090892
+    },
+    {
+      "key": "lidl|https://www.mydealz.de/deals/lidl-silvercrest-smart-home-zwischenstecker-3er-set-matter-standard-ab-1211-online-ggf-an-filialkasse-nach-versandcoupon-fragen-2859586",
+      "ts": 1794273090892
     }
   ]
 }
