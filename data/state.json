@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/lego-botanical-collection-blumenstrauss-10280-fur-3255-euro-eol-072026-buecherde-2859611",
+    "mydealz|https://www.mydealz.de/deals/schulte-ufer-smilla-i-bratpfanne-20-cm-aluguss-antihaft-und-induktion-fur-3090-eur-inkl-versand-2859585",
+    "mydealz|https://www.mydealz.de/deals/shoop-tarifcheck-60-eur-cashback-statt-35-eur-fur-den-abschluss-einer-kfz-versicherung-pkw-bis-3010-2859264",
+    "mydealz|https://www.mydealz.de/deals/porto-portugal-2-nachte-im-apartment-inkl-direktflug-ab-weeze-separat-gebucht-84eur-pp-dez-2859708"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/baseus-picogo-pro-ah22-100w-usb-c-ladegerat-smart-schutz-3-port-netzteil-2852273",
