@@ -1,41 +1,12 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/lego-botanical-collection-blumenstrauss-10280-fur-3255-euro-eol-072026-buecherde-2859611",
-    "mydealz|https://www.mydealz.de/deals/schulte-ufer-smilla-i-bratpfanne-20-cm-aluguss-antihaft-und-induktion-fur-3090-eur-inkl-versand-2859585",
-    "mydealz|https://www.mydealz.de/deals/shoop-tarifcheck-60-eur-cashback-statt-35-eur-fur-den-abschluss-einer-kfz-versicherung-pkw-bis-3010-2859264",
-    "mydealz|https://www.mydealz.de/deals/porto-portugal-2-nachte-im-apartment-inkl-direktflug-ab-weeze-separat-gebucht-84eur-pp-dez-2859708"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/baseus-picogo-pro-ah22-100w-usb-c-ladegerat-smart-schutz-3-port-netzteil-2852273",
-      "ts": 1793930076498
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tcl-55p61k-fernseher-smart-tv-55-zoll-4k-uhd-hdr-google-tv-3x-hdmi-21-fur-256eur-ebay-kaufland-2857626",
-      "ts": 1793930076498
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/fuerteventura-1-woche-in-top-bewerteter-unterkunft-inkl-flug-unter-300eur-pp-alleinreisende-ohne-aufpreis-jul-sep-2816687",
-      "ts": 1793930076498
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/lego-star-wars-showdown-mit-dem-wachterdroiden-am-huttenpalast-75451-fur-2999eur-amazon-prime-media-markt-2857599",
-      "ts": 1793930076498
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/mein-schiff-balkonkabine-inkl-volllpension-trinkgeld-im-pur-tarif-ostsee-899eur-7-nachte-mittelamerika-2079eur-pp-14-nachte-nov-jan-2857960",
-      "ts": 1793930076498
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playboy-3-ausgaben-kostenlos-5-euro-bonus-spartanien-2858063",
-      "ts": 1793930076498
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
       "ts": 1794093276419
@@ -99,6 +70,22 @@
     {
       "key": "lidl|https://www.mydealz.de/deals/lidl-silvercrest-smart-home-zwischenstecker-3er-set-matter-standard-ab-1211-online-ggf-an-filialkasse-nach-versandcoupon-fragen-2859586",
       "ts": 1794273090892
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lego-botanical-collection-blumenstrauss-10280-fur-3255-euro-eol-072026-buecherde-2859611",
+      "ts": 1794539244348
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schulte-ufer-smilla-i-bratpfanne-20-cm-aluguss-antihaft-und-induktion-fur-3090-eur-inkl-versand-2859585",
+      "ts": 1794539244348
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/shoop-tarifcheck-60-eur-cashback-statt-35-eur-fur-den-abschluss-einer-kfz-versicherung-pkw-bis-3010-2859264",
+      "ts": 1794539244348
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/porto-portugal-2-nachte-im-apartment-inkl-direktflug-ab-weeze-separat-gebucht-84eur-pp-dez-2859708",
+      "ts": 1794539244348
     }
   ]
 }
