@@ -2,10 +2,15 @@
   "date": "2026-11-13",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/usenet-black-friday-2026-aktuelle-angebote-im-uberblick-2860032",
+    "mydealz|https://www.mydealz.de/deals/tcl-65p8l-qd-mini-led-tv-flat-65-zoll-1651-cm-uhd-4k-smart-tv-mediamarkt-oder-saturn-2860005",
+    "mydealz|https://www.mydealz.de/deals/schraubstock-100mm-fur-werkbank-aus-bruchfestem-gusseisen-mit-360-drehbarem-fuss-unicraft-2859373",
+    "mydealz|https://www.mydealz.de/deals/lokal-berlin-gratis-berlinerkrapfen-in-den-gropius-passagen-am-3110-2860001"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
