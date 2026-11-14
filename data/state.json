@@ -1,16 +1,11 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/usenet-black-friday-2026-aktuelle-angebote-im-uberblick-2860032",
-    "mydealz|https://www.mydealz.de/deals/tcl-65p8l-qd-mini-led-tv-flat-65-zoll-1651-cm-uhd-4k-smart-tv-mediamarkt-oder-saturn-2860005",
-    "mydealz|https://www.mydealz.de/deals/schraubstock-100mm-fur-werkbank-aus-bruchfestem-gusseisen-mit-360-drehbarem-fuss-unicraft-2859373",
-    "mydealz|https://www.mydealz.de/deals/lokal-berlin-gratis-berlinerkrapfen-in-den-gropius-passagen-am-3110-2860001"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
@@ -91,6 +86,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/porto-portugal-2-nachte-im-apartment-inkl-direktflug-ab-weeze-separat-gebucht-84eur-pp-dez-2859708",
       "ts": 1794539244348
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/usenet-black-friday-2026-aktuelle-angebote-im-uberblick-2860032",
+      "ts": 1794614592540
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tcl-65p8l-qd-mini-led-tv-flat-65-zoll-1651-cm-uhd-4k-smart-tv-mediamarkt-oder-saturn-2860005",
+      "ts": 1794614592540
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/schraubstock-100mm-fur-werkbank-aus-bruchfestem-gusseisen-mit-360-drehbarem-fuss-unicraft-2859373",
+      "ts": 1794614592540
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/lokal-berlin-gratis-berlinerkrapfen-in-den-gropius-passagen-am-3110-2860001",
+      "ts": 1794614592540
     }
   ]
 }
