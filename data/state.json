@@ -1,43 +1,12 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/songmics-abfalleimer-12l-treteimer-mit-softclose-fusspedal-384-x-286-x-252-cm-inneneimer-stahl-in-schwarz-2859939",
-    "mydealz|https://www.mydealz.de/deals/pragmata-xbox-xbox-series-x-amazon-prime-2832641",
-    "mydealz|https://www.mydealz.de/deals/100-eur-netflix-guthaben-fur-8092-eur-mit-klarna-oder-8218eur-mit-paypal-deutschland-2861239",
-    "mydealz|https://www.mydealz.de/deals/tcl-75p71k-189-cm-75-qled-tv-brushed-metal-4k-ultra-hd-smart-tv-dvb-t2dvb-cdvb-s2-sprachsteuerung-2861165",
-    "mydealz|https://www.mydealz.de/deals/super-sparpreis-europa-bahn-von-deutschland-nach-norditalien-zb-bozen-verona-venedig-uvm-ab-1999eur-mit-bc-ab-18eur-1-klasse-ab-30eur-2861217",
-    "mydealz|https://www.mydealz.de/deals/dell-latitude-3510-156-i5-10310u-16-gb-ram-256-gb-ssd-zustand-b-2861198"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
-      "ts": 1794093276419
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tripp-trapp-stokke-2857918",
-      "ts": 1794093276419
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/switchbot-rgbicww-led-stehlampe-matter-1200lm-2700-6500k-musik-sync-appsprachsteuerung-applealexa-energieklasse-f-2855945",
-      "ts": 1794093276419
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/video-stabilizer-verwackelte-videos-stabilisieren-und-flussiger-machen-google-play-store-2857857",
-      "ts": 1794093276419
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/migros-kaffee-schumli-espresso-bohnen-2858612",
-      "ts": 1794093276419
-    },
-    {
-      "key": "lidl|https://www.mydealz.de/deals/lidl-abgebildete-tonies-1299eur-bei-lidl-2858600",
-      "ts": 1794093276419
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-a7-pro-smartphone-4128gb-6000mah-akku-13mp-kamera-schwarz-2858641",
       "ts": 1794273090892
@@ -109,6 +78,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/lokal-berlin-gratis-berlinerkrapfen-in-den-gropius-passagen-am-3110-2860001",
       "ts": 1794614592540
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/songmics-abfalleimer-12l-treteimer-mit-softclose-fusspedal-384-x-286-x-252-cm-inneneimer-stahl-in-schwarz-2859939",
+      "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/pragmata-xbox-xbox-series-x-amazon-prime-2832641",
+      "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/100-eur-netflix-guthaben-fur-8092-eur-mit-klarna-oder-8218eur-mit-paypal-deutschland-2861239",
+      "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tcl-75p71k-189-cm-75-qled-tv-brushed-metal-4k-ultra-hd-smart-tv-dvb-t2dvb-cdvb-s2-sprachsteuerung-2861165",
+      "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/super-sparpreis-europa-bahn-von-deutschland-nach-norditalien-zb-bozen-verona-venedig-uvm-ab-1999eur-mit-bc-ab-18eur-1-klasse-ab-30eur-2861217",
+      "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/dell-latitude-3510-156-i5-10310u-16-gb-ram-256-gb-ssd-zustand-b-2861198",
+      "ts": 1794698997320
     }
   ]
 }
