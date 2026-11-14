@@ -1,11 +1,18 @@
 {
   "date": "2026-11-14",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/songmics-abfalleimer-12l-treteimer-mit-softclose-fusspedal-384-x-286-x-252-cm-inneneimer-stahl-in-schwarz-2859939",
+    "mydealz|https://www.mydealz.de/deals/pragmata-xbox-xbox-series-x-amazon-prime-2832641",
+    "mydealz|https://www.mydealz.de/deals/100-eur-netflix-guthaben-fur-8092-eur-mit-klarna-oder-8218eur-mit-paypal-deutschland-2861239",
+    "mydealz|https://www.mydealz.de/deals/tcl-75p71k-189-cm-75-qled-tv-brushed-metal-4k-ultra-hd-smart-tv-dvb-t2dvb-cdvb-s2-sprachsteuerung-2861165",
+    "mydealz|https://www.mydealz.de/deals/super-sparpreis-europa-bahn-von-deutschland-nach-norditalien-zb-bozen-verona-venedig-uvm-ab-1999eur-mit-bc-ab-18eur-1-klasse-ab-30eur-2861217",
+    "mydealz|https://www.mydealz.de/deals/dell-latitude-3510-156-i5-10310u-16-gb-ram-256-gb-ssd-zustand-b-2861198"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/playmobil-grosser-bauernhof-2856470",
