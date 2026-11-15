@@ -1,17 +1,11 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/prime-fischer-sx-plus-profibox-90-dubel-90-schrauben-568-mm-modell-568679-2861189",
-    "mydealz|https://www.mydealz.de/deals/bosch-professional-expert-18v-55ah-akku-exba-18v-55-ampshare-high-power-fur-8603eur-amazon-voelkner-2861185",
-    "mydealz|https://www.mydealz.de/deals/leichter-wagenheber-85-385mm-hubhohe-inkl-koffer-2862182",
-    "mydealz|https://www.mydealz.de/deals/wagenheber-ntg-hydraulischer-rangierwagenheber-3-t-85-485-mm-2862174",
-    "mydealz|https://www.mydealz.de/deals/continental-reifen-grand-prix-5000-rennrad-30-622-schwarz-eur-3799-pro-mantel-2862166"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/xiaomi-redmi-a7-pro-smartphone-4128gb-6000mah-akku-13mp-kamera-schwarz-2858641",
@@ -108,6 +102,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/dell-latitude-3510-156-i5-10310u-16-gb-ram-256-gb-ssd-zustand-b-2861198",
       "ts": 1794698997320
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/prime-fischer-sx-plus-profibox-90-dubel-90-schrauben-568-mm-modell-568679-2861189",
+      "ts": 1794784483493
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-expert-18v-55ah-akku-exba-18v-55-ampshare-high-power-fur-8603eur-amazon-voelkner-2861185",
+      "ts": 1794784483493
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/leichter-wagenheber-85-385mm-hubhohe-inkl-koffer-2862182",
+      "ts": 1794784483493
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wagenheber-ntg-hydraulischer-rangierwagenheber-3-t-85-485-mm-2862174",
+      "ts": 1794784483493
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/continental-reifen-grand-prix-5000-rennrad-30-622-schwarz-eur-3799-pro-mantel-2862166",
+      "ts": 1794784483493
     }
   ]
 }
