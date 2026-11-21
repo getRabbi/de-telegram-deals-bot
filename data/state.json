@@ -1,11 +1,18 @@
 {
   "date": "2026-11-21",
   "slots": {
-    "morning": false,
+    "morning": true,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
+    "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-x-lewis-hamilton-driver-trucker-cap-lila-einheitsgrosse-at-sportspar-2862146",
+    "mydealz|https://www.mydealz.de/deals/flaconiparfumdreams-prada-lhomme-eau-de-toilette-100ml-o-50ml-5219eur-bzw-5499eur-150ml-9450eur-parfumo-herrendufte-topliste-platz-5-2862142",
+    "mydealz|https://www.mydealz.de/deals/uvex-unisex-pace-stage-s-sportbrille-fahrradbrille-prime-2863757",
+    "mydealz|https://www.mydealz.de/deals/gamegenic-magic-the-gathering-secrets-of-strixhaven-slipcase-album-18-prime-2863773",
+    "mydealz|https://www.mydealz.de/deals/gopro-2er-pack-wiederaufladbarer-enduro-akku-hero13-black-aeur-offizielles-zubehor-prime-joybuy-2863779"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/songmics-abfalleimer-12l-treteimer-mit-softclose-fusspedal-384-x-286-x-252-cm-inneneimer-stahl-in-schwarz-2859939",
