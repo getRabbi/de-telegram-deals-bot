@@ -1,43 +1,12 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "slots": {
-    "morning": true,
+    "morning": false,
     "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
-    "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-x-lewis-hamilton-driver-trucker-cap-lila-einheitsgrosse-at-sportspar-2862146",
-    "mydealz|https://www.mydealz.de/deals/flaconiparfumdreams-prada-lhomme-eau-de-toilette-100ml-o-50ml-5219eur-bzw-5499eur-150ml-9450eur-parfumo-herrendufte-topliste-platz-5-2862142",
-    "mydealz|https://www.mydealz.de/deals/uvex-unisex-pace-stage-s-sportbrille-fahrradbrille-prime-2863757",
-    "mydealz|https://www.mydealz.de/deals/gamegenic-magic-the-gathering-secrets-of-strixhaven-slipcase-album-18-prime-2863773",
-    "mydealz|https://www.mydealz.de/deals/gopro-2er-pack-wiederaufladbarer-enduro-akku-hero13-black-aeur-offizielles-zubehor-prime-joybuy-2863779"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/songmics-abfalleimer-12l-treteimer-mit-softclose-fusspedal-384-x-286-x-252-cm-inneneimer-stahl-in-schwarz-2859939",
-      "ts": 1794698997320
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/pragmata-xbox-xbox-series-x-amazon-prime-2832641",
-      "ts": 1794698997320
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/100-eur-netflix-guthaben-fur-8092-eur-mit-klarna-oder-8218eur-mit-paypal-deutschland-2861239",
-      "ts": 1794698997320
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/tcl-75p71k-189-cm-75-qled-tv-brushed-metal-4k-ultra-hd-smart-tv-dvb-t2dvb-cdvb-s2-sprachsteuerung-2861165",
-      "ts": 1794698997320
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/super-sparpreis-europa-bahn-von-deutschland-nach-norditalien-zb-bozen-verona-venedig-uvm-ab-1999eur-mit-bc-ab-18eur-1-klasse-ab-30eur-2861217",
-      "ts": 1794698997320
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/dell-latitude-3510-156-i5-10310u-16-gb-ram-256-gb-ssd-zustand-b-2861198",
-      "ts": 1794698997320
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-fischer-sx-plus-profibox-90-dubel-90-schrauben-568-mm-modell-568679-2861189",
       "ts": 1794784483493
@@ -57,6 +26,30 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/continental-reifen-grand-prix-5000-rennrad-30-622-schwarz-eur-3799-pro-mantel-2862166",
       "ts": 1794784483493
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
+      "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/mercedes-amg-petronas-f1-x-lewis-hamilton-driver-trucker-cap-lila-einheitsgrosse-at-sportspar-2862146",
+      "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/flaconiparfumdreams-prada-lhomme-eau-de-toilette-100ml-o-50ml-5219eur-bzw-5499eur-150ml-9450eur-parfumo-herrendufte-topliste-platz-5-2862142",
+      "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/uvex-unisex-pace-stage-s-sportbrille-fahrradbrille-prime-2863757",
+      "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gamegenic-magic-the-gathering-secrets-of-strixhaven-slipcase-album-18-prime-2863773",
+      "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/gopro-2er-pack-wiederaufladbarer-enduro-akku-hero13-black-aeur-offizielles-zubehor-prime-joybuy-2863779",
+      "ts": 1795312032715
     }
   ]
 }
