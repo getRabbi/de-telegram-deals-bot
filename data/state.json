@@ -3,9 +3,14 @@
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": false
+    "evening": true
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/kensington-tablethulle-blackbelt-prime-2863777",
+    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-herren-hose-chino-printed-structure-stretch-grosse-40w36l-prime-2863713",
+    "mydealz|https://www.mydealz.de/deals/muller-cb-geschenkgutscheine-mit-11-rabatt-2864323",
+    "mydealz|https://www.mydealz.de/deals/imusic-feist-the-reminder-vinyl-2864133"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/prime-fischer-sx-plus-profibox-90-dubel-90-schrauben-568-mm-modell-568679-2861189",
