@@ -1,37 +1,12 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "slots": {
     "morning": false,
     "noon": false,
-    "evening": true
+    "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/kensington-tablethulle-blackbelt-prime-2863777",
-    "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-herren-hose-chino-printed-structure-stretch-grosse-40w36l-prime-2863713",
-    "mydealz|https://www.mydealz.de/deals/muller-cb-geschenkgutscheine-mit-11-rabatt-2864323",
-    "mydealz|https://www.mydealz.de/deals/imusic-feist-the-reminder-vinyl-2864133"
-  ],
+  "postedKeys": [],
   "postedHistory": [
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/prime-fischer-sx-plus-profibox-90-dubel-90-schrauben-568-mm-modell-568679-2861189",
-      "ts": 1794784483493
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/bosch-professional-expert-18v-55ah-akku-exba-18v-55-ampshare-high-power-fur-8603eur-amazon-voelkner-2861185",
-      "ts": 1794784483493
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/leichter-wagenheber-85-385mm-hubhohe-inkl-koffer-2862182",
-      "ts": 1794784483493
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/wagenheber-ntg-hydraulischer-rangierwagenheber-3-t-85-485-mm-2862174",
-      "ts": 1794784483493
-    },
-    {
-      "key": "mydealz|https://www.mydealz.de/deals/continental-reifen-grand-prix-5000-rennrad-30-622-schwarz-eur-3799-pro-mantel-2862166",
-      "ts": 1794784483493
-    },
     {
       "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
       "ts": 1795312032715
@@ -55,6 +30,22 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/gopro-2er-pack-wiederaufladbarer-enduro-akku-hero13-black-aeur-offizielles-zubehor-prime-joybuy-2863779",
       "ts": 1795312032715
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kensington-tablethulle-blackbelt-prime-2863777",
+      "ts": 1795404521830
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/tommy-hilfiger-herren-hose-chino-printed-structure-stretch-grosse-40w36l-prime-2863713",
+      "ts": 1795404521830
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/muller-cb-geschenkgutscheine-mit-11-rabatt-2864323",
+      "ts": 1795404521830
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/imusic-feist-the-reminder-vinyl-2864133",
+      "ts": 1795404521830
     }
   ]
 }
