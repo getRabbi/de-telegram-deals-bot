@@ -1,17 +1,11 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slots": {
     "morning": false,
-    "noon": true,
+    "noon": false,
     "evening": false
   },
-  "postedKeys": [
-    "mydealz|https://www.mydealz.de/deals/imusic-death-cab-for-cutie-vinyl-lp-2864196",
-    "mydealz|https://www.mydealz.de/deals/seauto-sat40-akku-poolroboter-ki-sonar-navigation-waterline-reinigung-bis-300-m2-240-min-laufzeit-4-motoren-2864240",
-    "mydealz|https://www.mydealz.de/deals/nintendo-eshop-final-fantasy-xii-the-zodiac-age-fur-1499eur-umfangreiches-jrpg-abenteuer-2863981",
-    "mydealz|https://www.mydealz.de/deals/kingroon-petg-3d-printer-filament-5kg-5-colours-eur3145-2864904",
-    "mydealz|https://www.mydealz.de/deals/wenn-aus-freundschaft-liebe-wachst-gratis-ebook-amazon-kindle-44-10000-bewertungen-2864835"
-  ],
+  "postedKeys": [],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
@@ -52,6 +46,26 @@
     {
       "key": "mydealz|https://www.mydealz.de/deals/imusic-feist-the-reminder-vinyl-2864133",
       "ts": 1795404521830
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/imusic-death-cab-for-cutie-vinyl-lp-2864196",
+      "ts": 1795581671330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/seauto-sat40-akku-poolroboter-ki-sonar-navigation-waterline-reinigung-bis-300-m2-240-min-laufzeit-4-motoren-2864240",
+      "ts": 1795581671330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/nintendo-eshop-final-fantasy-xii-the-zodiac-age-fur-1499eur-umfangreiches-jrpg-abenteuer-2863981",
+      "ts": 1795581671330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/kingroon-petg-3d-printer-filament-5kg-5-colours-eur3145-2864904",
+      "ts": 1795581671330
+    },
+    {
+      "key": "mydealz|https://www.mydealz.de/deals/wenn-aus-freundschaft-liebe-wachst-gratis-ebook-amazon-kindle-44-10000-bewertungen-2864835",
+      "ts": 1795581671330
     }
   ]
 }
