@@ -2,10 +2,16 @@
   "date": "2026-11-28",
   "slots": {
     "morning": false,
-    "noon": false,
+    "noon": true,
     "evening": false
   },
-  "postedKeys": [],
+  "postedKeys": [
+    "mydealz|https://www.mydealz.de/deals/planet-of-lana-ps4-ps5-at-ps-store-2864830",
+    "mydealz|https://www.mydealz.de/deals/radolfzell-am-bodensee-kostenlose-nutzung-des-stadtbusses-2-stunden-parken-jeden-freitag-sonntag-im-zeitraum-2711-31-lokal-2864815",
+    "mydealz|https://www.mydealz.de/deals/gog-crysis-remastered-trilogy-inkl-teil-1-2-und-3-pc-warhead-fur-499eur-2864818",
+    "mydealz|https://www.mydealz.de/deals/vodafone-netz-young-samsung-galasy-s26-im-allnetsms-flat-55gb-5g-fur-726eur-mit-gigakombi-606eur-2857789",
+    "mydealz|https://www.mydealz.de/deals/lipton-ice-tea-sparkling-peach-eistee-mit-kohlensaure-24-x-033l-spar-abo-2865017"
+  ],
   "postedHistory": [
     {
       "key": "mydealz|https://www.mydealz.de/deals/fiskars-teleskop-schneidgiraffe-upx86-240-410-cm-inkl-adapter-baumsage-fur-11879-eur-bei-bauhaus-tpg-gratis-pramie-2862145",
